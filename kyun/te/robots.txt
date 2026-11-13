@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://impulkit.github.io/Playground/kyun/te/sitemap.xml
