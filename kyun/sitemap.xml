@@ -73,6 +73,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/who-survived/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/air-pollution/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/ancient-env/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/aqi/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/beaches/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/biomes/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/carbon-cycle/</loc></url>
@@ -123,6 +124,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/grand-canyon/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/grasslands/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/great-rift-valley/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/great-unconformity/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/groundwater/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/hailstorms-india/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/half-life/</loc></url>
@@ -221,11 +223,13 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/launch-sites/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/light-years/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/mars-colonies/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/mars-moons/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/mars-rovers/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/mars-sky/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/mercury-planet/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/meteorites/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/milky-way/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/mini-moons/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/moon-far-side/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/moon-formed/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/moon-landing-sites/</loc></url>
@@ -244,6 +248,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/planets-order/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/planets-size/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/pluto/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/rocket-engine-tests/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/rocket-fuel/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/rockets-how/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/satellites-help/</loc></url>
@@ -279,6 +284,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/space-weird-tallest-mountain/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/space-weird-volcano-moon/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/spacecraft-move/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/spacecraft-separation/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/spacesuits/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/sputnik/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/star-life-cycle/</loc></url>
@@ -291,6 +297,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/telescopes-how/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/time-in-space/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/titan/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/transfer-orbit/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/uranus-sideways/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/venus-hot/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/voyager/</loc></url>
@@ -459,6 +466,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/earthworms/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/elephants-india/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/elephants-talk/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/endangered-ecosystems/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/extinction-today/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/extreme-longest-living/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/extreme-loudest-animals/</loc></url>
@@ -484,6 +492,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/mosquitoes-bite/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/mushrooms/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/neem/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/new-species/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/nocturnal-animals/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/pets-care/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/photosynthesis/</loc></url>
@@ -571,8 +580,10 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/electricity-home/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/electricity-made/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/elevators/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/energy-storage/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/erasers/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/escalators/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/ethanol-fuel/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/evaporation-cooling/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/extreme-biggest-machines/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/extreme-longest-bridges/</loc></url>
@@ -669,6 +680,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/seatbelts/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/sewing-machines/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/skyscrapers/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/sleeper-trains/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/smoke-alarms/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/soap-bubbles-colours/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/soap-germs/</loc></url>
@@ -898,6 +910,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/disabilities-inclusion/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/disaster-response/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/diwali-lights/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/diwali-world/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/economics-kids/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/election-commission/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/elections-india/</loc></url>
@@ -910,6 +923,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/festivals-unity/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/flags/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/free-speech/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/free-trade-agreements/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/friendship/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/g20/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/global-companies/</loc></url>
@@ -917,6 +931,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/governors-states/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/great-wall/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/greta-and-youth/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/gst/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/guru-nanak/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/happiness/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/homes-world/</loc></url>
@@ -936,6 +951,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/inflation/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/insurance/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/internet-citizens/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/ipo/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/jobs-architect/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/jobs-careers/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/jobs-chef/</loc></url>
@@ -974,6 +990,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/malala/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/manners-world/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/maps-flat/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/measuring-poverty/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/migration-india/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/military/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/minimum-wage/</loc></url>
@@ -1024,6 +1041,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/rights-duties/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/rights-kids/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/road-safety/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/runoff-elections/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/school-history/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/schools-world/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/sharing-science/</loc></url>
@@ -1041,6 +1059,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/swami-vivekananda/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/taxes/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/thiruvalluvar/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/toll-roads/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/trade-routes/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/trade-world/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/truth-lies/</loc></url>
@@ -1203,6 +1222,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/animation-how/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/animation-studios/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/archery/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/asian-champions-trophy/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/asian-games/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/badminton-india/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/badminton/</loc></url>
@@ -1222,6 +1242,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/cartoon-network-india/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/cartoons-history/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/chess-champions/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/chess-grandmaster/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/chess-online/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/chhota-bheem/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/childrens-films-india/</loc></url>
@@ -1272,6 +1293,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/kho-kho/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/kites-festival/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/kpop/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/kullu-dussehra/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/lego/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/ludo/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/magic-tricks/</loc></url>
@@ -1298,6 +1320,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/olympics/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/onam-pongal/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/oscars/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/para-sport-classes/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/parades/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/paralympics/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/pele-maradona/</loc></url>
@@ -1363,6 +1386,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/super-bowl/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/superheroes-history/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/swimming/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/t20-cricket/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/table-tennis/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/taylor-swift/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/tennis-grand-slams/</loc></url>
@@ -1384,6 +1408,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/world-records/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/wrestling-india/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/yo-yo-tops/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/youth-olympics/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/youtube/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/zoos-history/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/ageing/</loc></url>
@@ -1542,6 +1567,7 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/tooth-decay/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/transplants/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/twins/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/vaccine-drops-injections/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/vaccines/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/vitamins/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/voice/</loc></url>
@@ -1565,7 +1591,9 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/accident-teflon/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/accident-vulcanised-rubber/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/ada-lovelace/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/age-verification/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/ai-art/</loc></url>
+<url><loc>https://impulkit.github.io/Playground/kyun/q/ai-many-languages/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/ai-safety/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/ai-what/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/alan-turing/</loc></url>
@@ -2517,13 +2545,6 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/q/watermelon/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/wheat-bread/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/q/wool/</loc></url>
-<url><loc>https://impulkit.github.io/Playground/kyun/q/x-2026-11-08-diwali-date/</loc></url>
-<url><loc>https://impulkit.github.io/Playground/kyun/q/x-2026-11-09-india-100-grandmasters/</loc></url>
-<url><loc>https://impulkit.github.io/Playground/kyun/q/x-2026-11-10-delhi-smog/</loc></url>
-<url><loc>https://impulkit.github.io/Playground/kyun/q/x-2026-11-11-cryogenic-engine/</loc></url>
-<url><loc>https://impulkit.github.io/Playground/kyun/q/x-2026-11-12-grand-canyon-gap/</loc></url>
-<url><loc>https://impulkit.github.io/Playground/kyun/q/x-2026-11-13-new-howler-monkeys/</loc></url>
-<url><loc>https://impulkit.github.io/Playground/kyun/q/x-2026-11-14-mini-moon/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/topics/lost/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/topics/earth/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/topics/space/</loc></url>
@@ -2541,5 +2562,4 @@
 <url><loc>https://impulkit.github.io/Playground/kyun/topics/places/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/topics/words/</loc></url>
 <url><loc>https://impulkit.github.io/Playground/kyun/topics/food/</loc></url>
-<url><loc>https://impulkit.github.io/Playground/kyun/topics/explained/</loc></url>
 </urlset>
