@@ -2,19 +2,29 @@
 """Bake Kyun's photos on GitHub (which can reach Wikipedia): kyun/photo-input.json -> kyun/photos.json.
 The app loads photos.json once, so readers' phones make no Wikipedia API calls."""
 import json, os, re, sys, time, urllib.parse, urllib.request, html
-UA = "KyunEncyclopedia/0.1 (photo resolver; contact via project maintainers)"
+UA = "KyunPhotoBaker/1.0 (https://impulkit.github.io/Playground/kyun/; https://github.com/impulkit/Playground) python-urllib"
 API = "https://en.wikipedia.org/w/api.php?format=json&formatversion=2&"
 CAPI = "https://commons.wikimedia.org/w/api.php?format=json&formatversion=2&"
 FREE = re.compile(r"^(public domain|pd|cc0|cc[ -]by|cc[ -]by-sa|gfdl|attribution|no restrictions|copyrighted free use)", re.I)
 
 
 def get(url, fetch=None):
+    """Polite Wikimedia client: identifying User-Agent, about 1 request a second, backs off on 429/5xx."""
     if fetch:
         return fetch(url)
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        time.sleep(0.2)
-        return json.load(r)
+    import urllib.error
+    for attempt in range(8):
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Encoding": "identity"})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                time.sleep(1.0)
+                return json.load(r)
+        except urllib.error.HTTPError as ex:
+            if ex.code in (429, 500, 502, 503, 504):
+                wait = int(ex.headers.get("Retry-After") or 0) or min(120, 5 * 2 ** attempt)
+                print(f"  {ex.code}, waiting {wait}s"); time.sleep(wait); continue
+            raise
+    raise RuntimeError("gave up after retries")
 
 
 def strip(h):
