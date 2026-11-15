@@ -6,7 +6,6 @@ UA = "KyunEncyclopedia/0.1 (photo resolver; contact via project maintainers)"
 API = "https://en.wikipedia.org/w/api.php?format=json&formatversion=2&"
 CAPI = "https://commons.wikimedia.org/w/api.php?format=json&formatversion=2&"
 FREE = re.compile(r"^(public domain|pd|cc0|cc[ -]by|cc[ -]by-sa|gfdl|attribution|no restrictions|copyrighted free use)", re.I)
-OUT = os.path.join(C, "photo_credits.yml")
 
 
 def get(url, fetch=None):
