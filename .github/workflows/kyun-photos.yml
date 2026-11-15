@@ -1,0 +1,22 @@
+name: Bake Kyun photos
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["kyun/photo-input.json"]
+permissions:
+  contents: write
+concurrency: { group: kyun-photos, cancel-in-progress: true }
+jobs:
+  bake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 .github/scripts/bake_photos.py
+      - run: |
+          git config user.name "kyun-bot"
+          git config user.email "kyun-bot@users.noreply.github.com"
+          git add kyun/photos.json
+          git diff --cached --quiet || (git commit -m "Kyun: bake photos" && git pull --rebase -q && git push)
