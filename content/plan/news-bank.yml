@@ -9,3 +9,10 @@
   - Outlook India, India news live updates, 17 November 2026 (IMD bulletin details)
   use_by: 2026-11-20
   publish_on: 2026-11-20
+- date: 2026-11-19
+  headline: Putin, Xi and Trump meet in Shenzhen beside the APEC summit
+  angle: "Why does it matter when the leaders of the USA, China and Russia meet? Draft already written and fact-checked in content/plan/drafts/superpower-summits.md (Hindi in content/plan/drafts/hi/). Before publishing, rewrite the news block in past tense with what was actually agreed, move both files into content/articles/people/ and content/i18n/hi/people/, restore links from people/g20 and history/cold-war, and add the photos.yml line \"superpower-summits: Livadia Palace | Great Hall of the People\"."
+  bucket: world and geopolitics
+  score: 31
+  note: World bucket has strait-of-hormuz (15 Nov) and us-iran-conflict (19 Nov); eligible from 22 Nov, or earlier only if the meeting produced something historic.
+  use_by: 2026-11-28
