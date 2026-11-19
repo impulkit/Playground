@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "cyclone-track",
+   "date": "2026-11-20",
+   "title": "How do scientists know where a cyclone will hit?",
+   "headline": "Cyclone Akvan was forecast to cross the Odisha–Andhra coast; tens of thousands moved to safety",
+   "news": "On 19 November 2026, the India Meteorological Department said Severe Cyclonic Storm Akvan, over the west-central Bay of Bengal, was expected to bring winds of 90–100 km/h gusting to 110 km/h. It forecast that Akvan would cross the north Andhra Pradesh and south Odisha coast between Narsapur and Puri, close to Gopalpur, on Friday 20 November. Odisha moved tens of thousands of people from risky areas, including landslide-prone hills, to shelters; reports of the total ranged from about 72,000 to more than 1 lakh. Schools and anganwadi centres in six Odisha districts were shut from 19 to 21 November. The storm had not yet reached land when this entry was written. This entry explains how forecasters work out where and when a cyclone will reach the coast, days before it gets there.",
+   "hook": "A cyclone far out at sea cannot be seen from any beach. Yet forecasters can often name the stretch of coast it will cross, days before it arrives.",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=cyclone-track"
+  },
+  {
    "id": "us-iran-conflict",
    "date": "2026-11-19",
    "title": "Why are the USA and Iran fighting?",
@@ -118,15 +127,6 @@
    "news": "On 6 November 2026, the National Highways Authority of India issued a standard design for toll plazas on four-lane and wider national highways. It sets common rules for plaza layout, lanes, lighting and signs, so every new highway can use barrier-free tolling, called Multi-Lane Free Flow. A FASTag reader and number-plate cameras on an overhead frame collect the toll while cars keep moving. The first such plaza opened at Choryasi in Gujarat on 1 May 2026, and the first six handled about 1.1 crore vehicles in three months. This entry explains why highways charge tolls at all.",
    "hook": "Most streets are free to drive on. Then, on a big highway, a sign appears asking for money. Why do some roads charge and others don't?",
    "url": "https://impulkit.github.io/Playground/kyun/#s=toll-roads"
-  },
-  {
-   "id": "midterm-elections",
-   "date": "2026-11-06",
-   "title": "What are America's midterm elections, and why do they matter?",
-   "headline": "Americans vote in the 2026 midterm elections for the US Congress",
-   "news": "Americans voted on 3 November 2026, choosing all 435 members of the House of Representatives and 35 of the 100 senators. News reports, including Reuters, said the Democratic Party had won enough seats to lead both the House and the Senate, which President Donald Trump's Republican Party had led before. In a large survey of voters by the AP news agency, about 7 in 10 said Congress was not doing enough to check the president's power. For the next two years, the president will need the other party's votes to pass laws, which could shape US decisions on tariffs and trade, including with India. This entry explains how midterms work and why they matter so much.",
-   "hook": "Every four years, Americans choose a president. But two years into each term, they vote again, and that vote can decide whether the president gets anything done at all.",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=midterm-elections"
   }
  ]
 }
