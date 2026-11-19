@@ -1,0 +1,34 @@
+- {year: 1928, title: Fleming spots penicillin, text: A mould on a lab dish in London kills the bacteria around it., article: antibiotics}
+- {year: 1945, title: Nobel Prize for penicillin, text: "Fleming, Florey and Chain share the prize for the first antibiotic.", article: antibiotics}
+- {year: 1794, title: The Indian nose operation reaches London, text: A London magazine reports Indian surgeons rebuilding a nose near Pune., article: sushruta}
+- {year: 2015, title: First International Day of Yoga, text: People around the world mark 21 June with yoga., article: ayurveda-yoga}
+- {year: 1751, title: Pennsylvania Hospital opens, text: The first hospital in the American colonies opens in Philadelphia., article: hospitals}
+- {year: 1956, title: AIIMS founded, text: The All India Institute of Medical Sciences opens in New Delhi., article: hospitals}
+- {year: 1796, title: Jenner's cowpox vaccine, text: Edward Jenner protects a boy from smallpox using cowpox., article: smallpox}
+- {year: 1980, title: Smallpox eradicated, text: The WHO declares smallpox the first human disease wiped out., article: smallpox}
+- {year: 1995, title: Pulse Polio begins, text: India starts nationwide polio vaccination days., article: polio-india}
+- {year: 2011, title: India's last polio case, text: A toddler in Howrah becomes India's last case of wild polio., article: polio-india}
+- {year: 1962, title: Covered wounds heal faster, text: George Winter shows moist wounds heal faster than dry ones., article: scabs}
+- {year: 1984, title: Rakesh Sharma in space, text: The first Indian in space tests yoga in orbit., article: space-body}
+- {year: 1997, title: Jeanne Calment dies at 122, text: The oldest person with a verified age dies in France., article: ageing}
+- {year: 1861, title: Broca finds a language area, text: A French doctor links speech to the left side of the brain., article: handedness-brain}
+- {year: 1981, title: Nobel for split-brain research, text: Roger Sperry is honoured for studying the brain's two halves., article: handedness-brain}
+- {year: 1991, title: PARAM 8000, text: India builds its first supercomputer in Pune., article: computers-how}
+- {year: 1945, title: ENIAC completed, text: A 30-tonne electronic computer is finished in Philadelphia., article: first-computers}
+- {year: 1960, title: TIFRAC, text: India's first home-built computer is completed in Mumbai., article: first-computers}
+- {year: 1834, title: Analytical Engine designed, text: Charles Babbage begins designing a programmable mechanical computer., article: charles-babbage}
+- {year: 1991, title: Difference Engine No. 2 built, text: The Science Museum in London builds Babbage's design and it works., article: charles-babbage}
+- {year: 1843, title: Ada Lovelace's notes, text: Lovelace publishes what is often called the first computer program., article: ada-lovelace}
+- {year: 1991, title: Python released, text: The Python programming language is first released., article: programming}
+- {year: 2008, title: App stores open, text: Apple and Google open stores for phone apps., article: apps-made}
+- {year: 2007, title: The iPhone launches, text: Apple's iPhone helps make smartphones popular worldwide., article: smartphones}
+- {year: 1965, title: Touchscreen described, text: E.A. Johnson describes a capacitive touchscreen for air traffic control., article: touchscreens}
+- {year: 1997, title: Wi-Fi standard agreed, text: Engineers agree the IEEE 802.11 rules for wireless networks., article: wifi}
+- {year: 1973, title: First handheld mobile call, text: Martin Cooper of Motorola makes a call on a New York street., article: mobile-networks}
+- {year: 1995, title: India's first mobile call, text: A call from Kolkata to Delhi opens India's mobile age., article: mobile-networks}
+- {year: 1971, title: First network email, text: Ray Tomlinson sends email between computers using the @ sign., article: email}
+- {year: 1989, title: The web is proposed, text: Tim Berners-Lee proposes the World Wide Web at CERN., article: web-invented}
+- {year: 1993, title: The web is made free, text: CERN puts the web's software in the public domain., article: web-invented}
+- {year: 1998, title: Google founded, text: A search engine that ranks pages by links launches., article: search-engines}
+- {year: 1956, title: The name AI is born, text: A workshop at Dartmouth College launches the field of artificial intelligence., article: ai-what}
+- {year: 1997, title: Deep Blue beats Kasparov, text: A computer defeats the world chess champion in a match., article: ai-what}

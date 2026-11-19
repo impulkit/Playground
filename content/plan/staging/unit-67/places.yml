@@ -1,0 +1,24 @@
+- {name: Cheriyal, lat: 17.93, lon: 78.97, note: Home of the Nakashi scroll painters, article: art-cheriyal, india: true}
+- {name: Dead Sea, lat: 31.50, lon: 35.50, note: The lowest dry land on Earth, article: extreme-lowest-point}
+- {name: Badwater Basin, lat: 36.23, lon: -116.77, note: Lowest point in North America, article: extreme-lowest-point}
+- {name: Kuttanad, lat: 9.40, lon: 76.40, note: Rice fields below sea level, article: extreme-lowest-point, india: true}
+- {name: "Jericho, Vermont", lat: 44.50, lon: -72.99, note: Home of Snowflake Bentley, article: maths-snowflakes}
+- {name: Lhasa, lat: 29.65, lon: 91.12, note: Reached by the Pundit Nain Singh in 1866, article: spies-india}
+- {name: Pangong Tso, lat: 33.72, lon: 78.75, note: Salty lake that changes colour, article: india-wonder-pangong, india: true}
+- {name: Surat, lat: 21.17, lon: 72.83, note: City where most of the world's diamonds are cut, article: made-diamonds, india: true}
+- {name: Golconda Fort, lat: 17.38, lon: 78.40, note: Old diamond trading centre, article: made-diamonds, india: true}
+- {name: Govardhan, lat: 27.50, lon: 77.46, note: The hill Krishna is said to have lifted, article: myths-krishna-childhood, india: true}
+- {name: Patan, lat: 23.85, lon: 72.13, note: Home of double ikat patola silk, article: art-ikat, india: true}
+- {name: Pochampally, lat: 17.35, lon: 78.82, note: Village famous for ikat weaving, article: art-ikat, india: true}
+- {name: Gol Gumbaz, lat: 16.83, lon: 75.74, note: Giant dome with a whispering gallery, article: india-wonder-gol-gumbaz, india: true}
+- {name: Bletchley Park, lat: 51.998, lon: -0.741, note: Wartime home of the Enigma codebreakers, article: codes-enigma}
+- {name: Zhangye Danxia, lat: 38.96, lon: 100.08, note: Rainbow-striped hills in China, article: earth-weird-rainbow-mountains}
+- {name: Vinicunca, lat: -13.87, lon: -71.30, note: Peru's Rainbow Mountain, article: earth-weird-rainbow-mountains}
+- {name: Painted Hills, lat: 44.66, lon: -120.27, note: Striped clay hills in Oregon, article: earth-weird-rainbow-mountains}
+- {name: Blood Falls, lat: -77.72, lon: 162.27, note: Red brine flowing from Taylor Glacier, article: earth-weird-blood-falls}
+- {name: Nazaré, lat: 39.60, lon: -9.07, note: Home of the world's biggest surfed waves, article: sport-surfing}
+- {name: Teahupo'o, lat: -17.85, lon: -149.27, note: Paris 2024 Olympic surfing venue, article: sport-surfing}
+- {name: Palace of Fine Arts, lat: 37.80, lon: -122.45, note: The Exploratorium's home in 1988, when it held the first Pi Day, article: maths-pi-day}
+- {name: Jakarta, lat: -6.20, lon: 106.85, note: World's most populous city (UN 2025), article: future-cities}
+- {name: Indore Sarafa Bazaar, lat: 22.72, lon: 75.85, note: Jewellery market that turns into a night food street, article: food-street-food-world, india: true}
+- {name: Weeki Wachee Springs, lat: 28.52, lon: -82.57, note: Underwater mermaid shows since 1947, article: myths-mermaids}

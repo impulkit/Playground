@@ -1,0 +1,47 @@
+- {name: Dholavira, lat: 23.89, lon: 70.21, note: Site of the large Indus signboard, article: indus-script, india: true}
+- {name: Harappa, lat: 30.63, lon: 72.86, note: Indus city where early seals were found, article: indus-script}
+- {name: Lothal, lat: 22.52, lon: 72.25, note: Indus town with a large brick basin, article: harappan-trade, india: true}
+- {name: Ur, lat: 30.96, lon: 46.10, note: Royal graves held Indus-style carnelian beads, article: harappan-trade}
+- {name: Olympia, lat: 37.64, lon: 21.63, note: Site of the ancient Olympic Games, article: ancient-olympia}
+- {name: Taxila, lat: 33.74, lon: 72.79, note: City whose king joined Alexander, article: alexander-india}
+- {name: Mathura, lat: 27.49, lon: 77.67, note: Great Kushan centre of sculpture, article: kushans, india: true}
+- {name: Peshawar, lat: 34.01, lon: 71.58, note: "Purushapura, Kanishka's capital", article: kushans}
+- {name: Paithan, lat: 19.48, lon: 75.38, note: "Pratishthana, the Satavahana capital", article: satavahanas, india: true}
+- {name: Karla Caves, lat: 18.78, lon: 73.47, note: Great Buddhist prayer hall of Satavahana times, article: satavahanas, india: true}
+- {name: Mahabalipuram, lat: 12.62, lon: 80.19, note: Pallava rock-cut temples and the Shore Temple, article: pallavas, india: true}
+- {name: Kanchipuram, lat: 12.83, lon: 79.70, note: Pallava capital, article: pallavas, india: true}
+- {name: Ellora Caves, lat: 20.03, lon: 75.18, note: Site of the rock-cut Kailasa temple, article: rashtrakutas, india: true}
+- {name: Badami, lat: 15.92, lon: 75.68, note: "Vatapi, the Chalukya capital", article: chalukyas, india: true}
+- {name: Pattadakal, lat: 15.95, lon: 75.82, note: Chalukya temples in two styles, article: chalukyas, india: true}
+- {name: Warangal Fort, lat: 17.95, lon: 79.61, note: Kakatiya capital with stone gateways, article: kakatiyas, india: true}
+- {name: Ramappa Temple, lat: 18.26, lon: 79.94, note: Kakatiya temple named after its sculptor, article: kakatiyas, india: true}
+- {name: Belur, lat: 13.16, lon: 75.86, note: Chennakeshava temple begun in 1117, article: hoysalas, india: true}
+- {name: Halebidu, lat: 13.21, lon: 75.99, note: Hoysaleswara temple, article: hoysalas, india: true}
+- {name: Chittorgarh, lat: 24.89, lon: 74.65, note: Hilltop fort of Mewar, article: rajputs, india: true}
+- {name: Kumbhalgarh, lat: 25.15, lon: 73.59, note: Fort walls about 36 km long, article: rajputs, india: true}
+- {name: Charaideo, lat: 26.94, lon: 94.83, note: Royal Ahom burial mounds, article: ahom-kingdom, india: true}
+- {name: Sivasagar, lat: 26.98, lon: 94.63, note: Ahom capital area with the Rang Ghar, article: ahom-kingdom, india: true}
+- {name: Golden Temple, lat: 31.62, lon: 74.88, note: "Harmandir Sahib, built by Guru Arjan", article: sikh-gurus, india: true}
+- {name: Anandpur Sahib, lat: 31.24, lon: 76.50, note: Where the Khalsa was founded in 1699, article: sikh-gurus, india: true}
+- {name: Lahore Fort, lat: 31.59, lon: 74.31, note: Ranjit Singh's capital, article: ranjit-singh}
+- {name: Srirangapatna, lat: 12.42, lon: 76.69, note: Tipu Sultan's island capital, article: tipu-sultan, india: true}
+- {name: Raigad Fort, lat: 18.23, lon: 73.44, note: Where Shivaji was crowned in 1674, article: marathas, india: true}
+- {name: Shaniwar Wada, lat: 18.52, lon: 73.86, note: Palace of the Peshwas in Pune, article: marathas, india: true}
+- {name: Midnapore, lat: 22.42, lon: 87.32, note: District hit by the 1942 cyclone, article: bengal-famine, india: true}
+- {name: Jallianwala Bagh, lat: 31.62, lon: 74.88, note: Site of the 1919 massacre, article: jallianwala, india: true}
+- {name: August Kranti Maidan, lat: 18.96, lon: 72.81, note: Where Quit India was launched in 1942, article: quit-india, india: true}
+- {name: Aga Khan Palace, lat: 18.55, lon: 73.90, note: Where Gandhi was held from 1942 to 1944, article: quit-india, india: true}
+- {name: Samvidhan Sadan, lat: 28.62, lon: 77.21, note: Where the Constituent Assembly met, article: constituent-assembly, india: true}
+- {name: Mysore Palace, lat: 12.31, lon: 76.66, note: Palace of the rulers of Mysore, article: princely-states, india: true}
+- {name: Old Goa, lat: 15.50, lon: 73.91, note: Capital of Portuguese Asia, article: goa-liberation, india: true}
+- {name: Persepolis, lat: 29.94, lon: 52.89, note: Palace city of Darius I, article: ancient-persia}
+- {name: Hagia Sophia, lat: 41.01, lon: 28.98, note: Justinian's great domed building, article: byzantium}
+- {name: Topkapı Palace, lat: 41.01, lon: 28.98, note: Home of Ottoman sultans, article: ottomans}
+- {name: Karakorum, lat: 47.20, lon: 102.82, note: Early Mongol imperial capital, article: mongols}
+- {name: Messina, lat: 38.19, lon: 15.55, note: Black Death arrives in Sicily in 1347, article: black-death}
+- {name: Dubrovnik, lat: 42.64, lon: 18.11, note: Ragusa's 1377 quarantine rule, article: black-death}
+- {name: Runnymede, lat: 51.44, lon: -0.56, note: Where Magna Carta was agreed in 1215, article: magna-carta}
+- {name: Mainz, lat: 50.00, lon: 8.27, note: Gutenberg's printing workshop, article: printing-revolution}
+- {name: Place de la Bastille, lat: 48.85, lon: 2.37, note: Site of the Bastille prison, article: french-revolution}
+- {name: Ajaccio, lat: 41.92, lon: 8.74, note: Napoleon's birthplace, article: napoleon}
+- {name: Waterloo, lat: 50.68, lon: 4.41, note: Napoleon's final defeat in 1815, article: napoleon}

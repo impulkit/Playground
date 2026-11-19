@@ -1,0 +1,43 @@
+- {name: Cuttack, lat: 20.46, lon: 85.88, note: Birthplace of Subhas Chandra Bose, article: subhas-bose, india: true}
+- {name: Netaji Bhawan, lat: 22.538, lon: 88.351, note: Bose family home in Kolkata he escaped from in 1941, article: subhas-bose, india: true}
+- {name: Anand Bhavan, lat: 25.459, lon: 81.858, note: Nehru family home in Prayagraj, article: nehru, india: true}
+- {name: Teen Murti Bhavan, lat: 28.603, lon: 77.199, note: Nehru's home as Prime Minister, now a museum, article: nehru, india: true}
+- {name: Mhow, lat: 22.55, lon: 75.76, note: Birthplace of B.R. Ambedkar, article: ambedkar, india: true}
+- {name: Deekshabhoomi, lat: 21.128, lon: 79.067, note: Where Ambedkar became a Buddhist in 1956, article: ambedkar, india: true}
+- {name: Bardoli, lat: 21.12, lon: 73.11, note: Where Vallabhbhai Patel earned the title Sardar, article: sardar-patel, india: true}
+- {name: Nadiad, lat: 22.69, lon: 72.86, note: Birthplace of Sardar Patel, article: sardar-patel, india: true}
+- {name: The Golden Threshold, lat: 17.391, lon: 78.474, note: Sarojini Naidu's family home in Hyderabad, article: sarojini-naidu, india: true}
+- {name: Partition Museum, lat: 31.624, lon: 74.876, note: Museum of Partition memories in Amritsar's Town Hall, article: partition, india: true}
+- {name: Attari–Wagah border, lat: 31.605, lon: 74.573, note: Border crossing between India and Pakistan, article: partition, india: true}
+- {name: Boston Harbor, lat: 42.35, lon: -71.05, note: Site of the Boston Tea Party in 1773, article: american-revolution}
+- {name: Independence Hall, lat: 39.949, lon: -75.15, note: Where the Declaration of Independence was approved, article: american-revolution}
+- {name: Mount Vernon, lat: 38.708, lon: -77.086, note: George Washington's home on the Potomac River, article: george-washington}
+- {name: Gettysburg, lat: 39.83, lon: -77.23, note: Where Lincoln gave the Gettysburg Address, article: abraham-lincoln}
+- {name: Ford's Theatre, lat: 38.897, lon: -77.026, note: Where Lincoln was shot in 1865, article: abraham-lincoln}
+- {name: Galveston, lat: 29.30, lon: -94.80, note: Where Juneteenth began in 1865, article: slavery-freedom}
+- {name: Edmund Pettus Bridge, lat: 32.405, lon: -87.019, note: Selma marchers were attacked here in 1965, article: civil-rights}
+- {name: Lincoln Memorial, lat: 38.889, lon: -77.050, note: Where King gave the I Have a Dream speech, article: martin-luther-king}
+- {name: Montgomery, lat: 32.38, lon: -86.30, note: City of Rosa Parks and the 1955–56 bus boycott, article: rosa-parks}
+- {name: The Henry Ford museum, lat: 42.303, lon: -83.234, note: Home of the Rosa Parks bus, article: rosa-parks}
+- {name: Auburn, New York, lat: 42.93, lon: -76.57, note: Harriet Tubman's later home, article: harriet-tubman}
+- {name: Statue of Unity, lat: 21.838, lon: 73.719, note: The world's tallest statue, article: statue-of-unity, india: true}
+- {name: Cromford Mill, lat: 53.11, lon: -1.56, note: One of the first modern factories, opened 1771, article: industrial-revolution}
+- {name: India Gate, lat: 28.613, lon: 77.229, note: Memorial to Indian soldiers of the First World War, article: world-war-one, india: true}
+- {name: Kohima War Cemetery, lat: 25.666, lon: 94.106, note: Site of the 1944 battle around a tennis court, article: world-war-two, india: true}
+- {name: Bletchley Park, lat: 51.997, lon: -0.741, note: Wartime code-breaking centre, article: world-war-two}
+- {name: United Nations Headquarters, lat: 40.749, lon: -73.968, note: UN headquarters beside the East River, article: united-nations}
+- {name: Thumba, lat: 8.53, lon: 76.87, note: India's first rocket launch site, 1963, article: space-race, india: true}
+- {name: Baikonur Cosmodrome, lat: 45.92, lon: 63.34, note: Launch site of Sputnik and Gagarin, article: space-race}
+- {name: East Side Gallery, lat: 52.505, lon: 13.440, note: Longest surviving stretch of the Berlin Wall, article: berlin-wall}
+- {name: Robben Island, lat: -33.807, lon: 18.366, note: Prison island where Mandela spent 18 years, article: nelson-mandela}
+- {name: Seneca Falls, lat: 42.91, lon: -76.80, note: First women's rights convention, 1848, article: womens-vote}
+- {name: Anand, lat: 22.56, lon: 72.95, note: Home of the Amul dairy cooperative, article: white-revolution, india: true}
+- {name: Mohenjo-daro, lat: 27.329, lon: 68.139, note: Indus city dug up in the 1920s, article: archaeology}
+- {name: Machu Picchu, lat: -13.163, lon: -72.545, note: Inca estate high in the Andes, article: lost-cities}
+- {name: Hampi, lat: 15.335, lon: 76.46, note: Ruined capital of the Vijayanagara empire, article: lost-cities, india: true}
+- {name: Pompeii, lat: 40.749, lon: 14.485, note: Roman town buried by Vesuvius in 79 CE, article: pompeii}
+- {name: Bibliotheca Alexandrina, lat: 31.209, lon: 29.909, note: Modern library near the site of the ancient one, article: great-libraries}
+- {name: Nalanda, lat: 25.137, lon: 85.443, note: Ruins of the ancient Buddhist university, article: great-libraries, india: true}
+- {name: South Pole, lat: -90.0, lon: 0.0, note: Reached by Amundsen's team in 1911, article: explorers-poles}
+- {name: Mount Everest, lat: 27.988, lon: 86.925, note: First climbed in 1953, article: everest-first}
+- {name: Himalayan Mountaineering Institute, lat: 27.058, lon: 88.254, note: Darjeeling institute where Tenzing trained climbers, article: everest-first, india: true}

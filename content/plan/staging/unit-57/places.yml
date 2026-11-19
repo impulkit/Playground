@@ -1,0 +1,28 @@
+- {name: Disneyland, lat: 33.812, lon: -117.919, note: The first Disney theme park opened here in 1955, article: disney-parks}
+- {name: Mohenjo-daro, lat: 27.329, lon: 68.139, note: Indus city with hundreds of brick-lined wells, article: wells-borewells}
+- {name: Finsbury, lat: 51.525, lon: -0.105, note: Naoroji's London constituency, article: dadabhai-naoroji}
+- {name: Elphinstone College, lat: 18.927, lon: 72.832, note: Where Naoroji studied and taught, article: dadabhai-naoroji, india: true}
+- {name: Rijksmuseum, lat: 52.360, lon: 4.885, note: Home of The Night Watch, article: rembrandt}
+- {name: Rembrandt House Museum, lat: 52.369, lon: 4.901, note: Rembrandt's home and studio, article: rembrandt}
+- {name: Tsuruoka, lat: 38.727, lon: 139.827, note: Japan's first known school lunch was served here in 1889, article: lunch-world}
+- {name: Santa Monica Pier, lat: 34.009, lon: -118.497, note: Western end of Route 66, article: route-66}
+- {name: Williams, lat: 35.250, lon: -112.191, note: Last Route 66 town to be bypassed (1984), article: route-66}
+- {name: Alwar, lat: 27.553, lon: 76.635, note: District where villagers revived johads, article: rainwater-harvesting, india: true}
+- {name: Ratnagiri, lat: 16.990, lon: 73.312, note: Tilak's birthplace, article: tilak, india: true}
+- {name: Mandalay, lat: 21.958, lon: 96.089, note: Where Tilak was imprisoned from 1908 to 1914, article: tilak}
+- {name: Fatehpur Sikri, lat: 27.094, lon: 77.661, note: Giant pachisi board set into a courtyard, article: board-game-design, india: true}
+- {name: Ghost Ranch, lat: 36.330, lon: -106.475, note: O'Keeffe's summer home in New Mexico, article: georgia-okeeffe}
+- {name: Georgia O'Keeffe Museum, lat: 35.689, lon: -105.941, note: Museum of her work in Santa Fe, article: georgia-okeeffe}
+- {name: Las Vegas Strip, lat: 36.114, lon: -115.173, note: Most of the Strip lies outside city limits, article: las-vegas}
+- {name: Chand Baori, lat: 27.007, lon: 76.607, note: Stepwell with about 3500 steps, article: stepwells, india: true}
+- {name: Rani ki Vav, lat: 23.859, lon: 72.102, note: The queen's stepwell at Patan, article: stepwells, india: true}
+- {name: Adalaj stepwell, lat: 23.167, lon: 72.580, note: Five-storey stepwell finished in 1499, article: stepwells, india: true}
+- {name: Ahmednagar Fort, lat: 19.096, lon: 74.756, note: Where Azad was imprisoned from 1942 to 1945, article: maulana-azad, india: true}
+- {name: Andy Warhol Museum, lat: 40.448, lon: -80.002, note: Museum in Warhol's home city of Pittsburgh, article: andy-warhol}
+- {name: Everglades National Park, lat: 25.286, lon: -80.899, note: Protected part of the river of grass, article: florida-everglades}
+- {name: Lloyd's building, lat: 51.513, lon: -0.082, note: Home of Lloyd's of London, article: insurance}
+- {name: Indore, lat: 22.720, lon: 75.858, note: Where Albert Howard developed the Indore composting method, article: compost, india: true}
+- {name: Vijay Ghat, lat: 28.646, lon: 77.249, note: Lal Bahadur Shastri's memorial, article: lal-bahadur-shastri, india: true}
+- {name: Tashkent, lat: 41.300, lon: 69.240, note: Where the 1966 peace agreement was signed, article: lal-bahadur-shastri}
+- {name: Kartavya Path, lat: 28.613, lon: 77.217, note: Route of the Republic Day parade, article: parades, india: true}
+- {name: "Jagannath Temple, Puri", lat: 19.805, lon: 85.818, note: Starting point of the Rath Yatra, article: parades, india: true}

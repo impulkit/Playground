@@ -1,0 +1,15 @@
+# Fact-check log: fc2-03
+
+- navic | OUTDATED | "More satellites, starting with NVS-03, are being prepared." → NVS-03 launched on a GSLV on 30 October 2026, should restore the count to four once in place (body + facts line) | https://www.isro.gov.in/Mission_GSLVF18.html
+- bharatiya-antariksh | WRONG | 52 tonnes "roughly as much as eight Indian elephants" → "a dozen Indian elephants" (Asian elephants average about 4 tonnes) | https://www.worldwildlife.org/species/asian-elephant
+- bharatiya-antariksh | DOUBTFUL | all five modules launched "on ISRO's most powerful rocket, the LVM3" → "starting with ISRO's most powerful rocket today, the LVM3" (later modules may fly on the new NGLV) | https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station
+- emoji-design | WRONG | "The Sikh khanda symbol was added in 2023" → "approved in 2022 and reached most phones in 2023" (Emoji 15.0, September 2022) | https://emojipedia.org/emoji-15.0
+- radio-india | CONSISTENCY | "A few months later, on 12 November 1947" (placed right after a 2014 sentence, so the time reference was wrong) → "Three months after independence, on 12 November 1947" | https://prasarbharati.gov.in/
+- internet-india | WRONG | dial-up "a few thousand times slower than good 4G" → "hundreds of times slower" (56 kbps vs typical 4G of tens of Mbps) | https://www.trai.gov.in/
+- women-tech-india | CONSISTENCY | "She later became the first woman to head a missile project" (she earned that title through Agni-IV, already described) → "She is often called the first woman to head a missile project in India" | https://www.drdo.gov.in/
+- electricity-home | DOUBTFUL | "India's biggest lines run at 765,000 volts" → "India's biggest AC lines run at 765,000 volts, and a few special direct-current links go even higher" (±800 kV HVDC links exist) | https://www.powergrid.in/
+- projectors | DOUBTFUL | magic lanterns "in use by the 1650s" (facts + body) → "by the 1660s" (Huygens's design dates from 1659) | https://www.britannica.com/technology/magic-lantern
+- scanners | WRONG | hook: Kirsch's 1957 image "was smaller than a postage stamp" → "was just 5 cm across" | https://www.nist.gov/news-events/news/2007/05/fiftieth-anniversary-first-digital-image-marked
+- transplants | DOUBTFUL | "The oldest kind of transplant is the cornea" → "One of the oldest kinds of transplant is the cornea" (skin grafts are older) | https://www.britannica.com/science/transplant-surgery
+- eyes-tears | DOUBTFUL | onion gas "turns into a mild acid when it meets the water in your eye" → "drifts up and irritates the nerves on the surface of your eye" (the acid story is a popular simplification) | https://www.scientificamerican.com/article/why-do-onions-make-us-cry/
+- hackathons | DOUBTFUL | Space Apps "events in cities on every continent except Antarctica" → "every inhabited continent. In its first year, 2012, it even had a location in Antarctica." (2012 event covered all seven continents) | https://en.wikipedia.org/wiki/NASA_International_Space_Apps_Challenge

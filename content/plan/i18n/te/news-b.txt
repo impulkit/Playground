@@ -1,0 +1,14 @@
+people|ipo
+people|lac
+people|measuring-poverty
+people|medicine-prices
+people|midterm-elections
+people|science-together
+people|tariffs
+people|toll-roads
+people|trade-deficit
+people|voter-list
+places|strait-of-hormuz
+tech|ai-agents
+tech|ai-many-languages
+tech|farmer-id

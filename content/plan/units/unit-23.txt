@@ -1,0 +1,34 @@
+NEW|history|vedic-age|What was life like in the Vedic age?
+NEW|history|mauryan-empire|How did the Mauryan Empire unite India?
+NEW|history|ashoka|Why did Emperor Ashoka give up war?
+NEW|history|chanakya|Who was Chanakya?
+NEW|history|gupta-golden-age|Why is the Gupta age called a golden age?
+NEW|history|nalanda|What was Nalanda University?
+NEW|history|buddha|Who was the Buddha?
+NEW|history|mahavira|Who was Mahavira?
+NEW|history|silk-road|What was the Silk Road?
+NEW|history|cholas|How did the Cholas build a sea empire?
+NEW|history|vijayanagara|What was the Vijayanagara Empire?
+NEW|history|hampi|Why are the ruins of Hampi so famous?
+NEW|history|delhi-sultanate|What was the Delhi Sultanate?
+NEW|history|mughals|Who were the Mughals?
+NEW|history|akbar|Why is Akbar called 'the Great'?
+NEW|history|shivaji|Who was Chhatrapati Shivaji?
+NEW|history|rani-lakshmibai|Who was the Rani of Jhansi?
+NEW|history|vikings|Who were the Vikings?
+NEW|history|knights-castles|What was life like in a castle?
+NEW|history|samurai|Who were the samurai?
+NEW|history|aztecs-maya|Who were the Aztecs and the Maya?
+NEW|history|inca-machu-picchu|How did the Incas build Machu Picchu?
+NEW|history|columbus|What did Columbus really find?
+NEW|history|magellan|Who first sailed around the world?
+NEW|history|renaissance|What was the Renaissance?
+NEW|history|ibn-battuta|How far did Ibn Battuta travel?
+NEW|history|marco-polo|What did Marco Polo see?
+NEW|history|zheng-he|How big were Zheng He's treasure ships?
+NEW|history|east-india-company|How did a trading company end up ruling India?
+NEW|history|revolt-1857|What happened in 1857?
+NEW|history|freedom-struggle|How did India win independence?
+NEW|history|gandhi|How did Gandhi fight without weapons?
+NEW|history|salt-march|What was the Salt March?
+NEW|history|bhagat-singh|Who was Bhagat Singh?

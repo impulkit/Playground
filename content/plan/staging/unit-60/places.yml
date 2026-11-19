@@ -1,0 +1,22 @@
+- {name: Borobudur, lat: -7.608, lon: 110.204, note: A Buddhist monument built over a hill, article: borobudur}
+- {name: Uluru, lat: -25.345, lon: 131.036, note: The great red rock of the Anangu, article: uluru}
+- {name: Kitty Hawk, lat: 36.014, lon: -75.668, note: Where the Wright brothers first flew, article: wright-to-moon}
+- {name: Banej, lat: 21.03, lon: 70.92, note: A polling booth in Gir forest for one voter, article: elections-india, india: true}
+- {name: Tashigang, lat: 32.24, lon: 78.04, note: One of the world's highest polling stations, article: elections-india, india: true}
+- {name: Sydney Opera House, lat: -33.857, lon: 151.215, note: Shells cut from one sphere, article: sydney-opera}
+- {name: Dal Lake post office, lat: 34.09, lon: 74.84, note: A post office on a houseboat, article: post-office, india: true}
+- {name: Hikkim, lat: 32.25, lon: 78.08, note: One of the world's highest post offices, article: post-office, india: true}
+- {name: Nagapattinam, lat: 10.77, lon: 79.84, note: A great Chola port, article: chola-navy, india: true}
+- {name: Kedah, lat: 6.12, lon: 100.37, note: Ancient Kadaram, raided by the Chola fleet, article: chola-navy}
+- {name: Christ the Redeemer, lat: -22.952, lon: -43.211, note: The statue on Corcovado, article: christ-redeemer}
+- {name: Victoria Falls, lat: -17.924, lon: 25.857, note: The smoke that thunders, article: victoria-falls}
+- {name: Uhuru Peak, lat: -3.076, lon: 37.353, note: The top of Kilimanjaro, article: kilimanjaro}
+- {name: Mara River crossing, lat: -1.55, lon: 35.05, note: Where wildebeest brave the crocodiles, article: serengeti}
+- {name: Dead Sea, lat: 31.5, lon: 35.5, note: The lowest dry land on Earth, article: dead-sea}
+- {name: Qumran, lat: 31.741, lon: 35.459, note: Caves where the Dead Sea Scrolls were found, article: dead-sea}
+- {name: Miraflores Locks, lat: 8.997, lon: -79.591, note: Locks on the Pacific side of the Panama Canal, article: panama-canal}
+- {name: Gatun Locks, lat: 9.272, lon: -79.922, note: Three steps up from the Atlantic, article: panama-canal}
+- {name: Port Said, lat: 31.26, lon: 32.30, note: The Suez Canal's Mediterranean end, article: suez-canal}
+- {name: Sanganer, lat: 26.82, lon: 75.79, note: Handmade paper from cotton rags, article: paper-making, india: true}
+- {name: Tiruppur, lat: 11.11, lon: 77.34, note: A hub for knitting and sewing T-shirts, article: knitting-weaving, india: true}
+- {name: Kingsmead Durban, lat: -29.851, lon: 31.03, note: Where the third umpire made a first TV decision, article: umpires-referees}

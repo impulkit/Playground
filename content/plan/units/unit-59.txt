@@ -1,0 +1,34 @@
+NEW|tech|doordarshan-tech|How did TV signals reach Indian villages?
+NEW|pop|crosswords|Who invented the crossword?
+NEW|places|acropolis|What is the Acropolis?
+NEW|people|climate-action|What can kids do about climate change?
+NEW|how|aluminium|Why is aluminium everywhere?
+NEW|history|1971-war|How was Bangladesh born?
+NEW|tech|satellite-tv|How does satellite TV work?
+NEW|pop|juggling|How do jugglers keep so many balls in the air?
+NEW|places|alhambra|What is the Alhambra?
+NEW|people|greta-and-youth|How have young people changed the world?
+NEW|how|zips|How does a zip work?
+NEW|history|pokhran|What happened at Pokhran?
+NEW|tech|internet-india|When did the internet come to India?
+NEW|places|neuschwanstein|Which castle inspired fairy-tale castles?
+NEW|people|disaster-response|What happens after a disaster?
+NEW|how|glue|Why does glue stick?
+NEW|history|economic-reforms-1991|What changed in India in 1991?
+NEW|tech|women-tech-india|Who are some Indian women in science and tech?
+NEW|places|vatican|What is the Vatican?
+NEW|people|red-cross|What does the Red Cross do?
+NEW|how|pencils|How does the lead get inside a pencil?
+NEW|history|benjamin-franklin|Who was Benjamin Franklin?
+NEW|places|kremlin|What is the Kremlin?
+NEW|people|blindness-tech|How do blind people use phones?
+NEW|how|erasers|How does an eraser rub out pencil?
+NEW|history|thomas-jefferson|Who was Thomas Jefferson?
+NEW|places|forbidden-city|What was the Forbidden City?
+NEW|people|old-age-india|How do Indian families care for grandparents?
+NEW|how|crayons-paints|How are crayons and paints made?
+NEW|history|frederick-douglass|Who was Frederick Douglass?
+NEW|places|mount-fuji|Why is Mount Fuji special in Japan?
+NEW|people|festivals-unity|Why does India celebrate so many festivals?
+NEW|how|glass-making|How is glass made?
+NEW|history|susan-b-anthony|Who was Susan B. Anthony?

@@ -1,0 +1,34 @@
+NEW|body|antibiotics|How did a mouldy dish lead to antibiotics?
+NEW|body|sushruta|Who was Sushruta, the ancient Indian surgeon?
+NEW|body|ayurveda-yoga|What are yoga and Ayurveda?
+NEW|body|hospitals|What happens in a hospital?
+NEW|body|microbes-friendly|Are all germs bad?
+NEW|body|smallpox|How did the world get rid of smallpox?
+NEW|body|polio-india|How did India beat polio?
+NEW|body|heartbeat-exercise|Why does your heart beat faster when you run?
+NEW|body|bruises|Why do bruises change colour?
+NEW|body|scabs|How does a cut heal?
+NEW|body|blinking|Why do we blink?
+NEW|body|voice|How does your voice work?
+NEW|body|space-body|What happens to the body in space?
+NEW|body|ageing|Why do people get old?
+NEW|body|senses-more|Do we really have only five senses?
+NEW|body|brain-food|Is breakfast really the most important meal?
+NEW|body|handedness-brain|Does the left brain do maths and the right brain art?
+NEW|tech|computers-how|How does a computer think?
+NEW|tech|first-computers|What were the first computers like?
+NEW|tech|charles-babbage|Who designed a computer 200 years ago?
+NEW|tech|ada-lovelace|Who wrote the first computer program?
+NEW|tech|programming|What is coding?
+NEW|tech|algorithms|What is an algorithm?
+NEW|tech|apps-made|How are apps made?
+NEW|tech|smartphones|What's inside a smartphone?
+NEW|tech|touchscreens|How does a touchscreen feel your finger?
+NEW|tech|wifi|How does Wi-Fi work?
+NEW|tech|mobile-networks|How does a mobile network connect your call?
+NEW|tech|email|How does an email travel?
+NEW|tech|web-invented|Who invented the World Wide Web?
+NEW|tech|search-engines|How does a search engine find things?
+NEW|tech|passwords|What makes a good password?
+NEW|tech|online-safety|How can you stay safe online?
+NEW|tech|ai-what|What is artificial intelligence?

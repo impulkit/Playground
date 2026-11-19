@@ -1,0 +1,23 @@
+- {name: Pnyx, lat: 37.9715, lon: 23.7193, note: Hill where Athenian citizens met to vote, article: democracy-what, india: false}
+- {name: Parliament House, lat: 28.6172, lon: 77.2082, note: Home of India's Lok Sabha and Rajya Sabha, article: parliament-india, india: true}
+- {name: United States Capitol, lat: 38.8899, lon: -77.0091, note: Where the US Congress meets, article: congress-usa, india: false}
+- {name: Rashtrapati Bhavan, lat: 28.6143, lon: 77.1994, note: Official home of the President of India, article: president-pm, india: true}
+- {name: Nagaur, lat: 27.2020, lon: 73.7339, note: Where Nehru launched panchayati raj in 1959, article: panchayat, india: true}
+- {name: Supreme Court of India, lat: 28.6223, lon: 77.2397, note: India's highest court, article: courts-judges, india: true}
+- {name: Haleyville, lat: 34.2265, lon: -87.6214, note: Site of the first US 911 call in 1968, article: police, india: false}
+- {name: Dandi, lat: 20.8880, lon: 72.8000, note: Where Gandhi's Salt March ended in 1930, article: taxes, india: true}
+- {name: Chavdar Tale, lat: 18.0830, lon: 73.4210, note: Water tank at the centre of the Mahad Satyagraha, article: equality, india: true}
+- {name: Sarnath Museum, lat: 25.3776, lon: 83.0236, note: Home of the original Lion Capital of Ashoka, article: national-symbols, india: true}
+- {name: Fort McHenry, lat: 39.2632, lon: -76.5797, note: Fort whose flag inspired the US anthem, article: anthems, india: false}
+- {name: Ellis Island, lat: 40.6995, lon: -74.0396, note: Entry point for over 12 million immigrants, article: immigration-stories, india: false}
+- {name: Aapravasi Ghat, lat: -20.1586, lon: 57.5033, note: Landing place of indentured Indian workers in Mauritius, article: immigration-stories, india: false}
+- {name: Leisang, lat: 24.4300, lon: 93.6700, note: Last listed village in India to get electricity, article: villages-india, india: true}
+- {name: Mawlynnong, lat: 25.2018, lon: 91.9160, note: Meghalaya village known for cleanliness, article: villages-india, india: true}
+- {name: Azadpur Mandi, lat: 28.7076, lon: 77.1757, note: One of Asia's largest fruit and vegetable markets, article: shops-markets, india: true}
+- {name: Golden Temple, lat: 31.6200, lon: 74.8765, note: Its langar feeds tens of thousands each day, article: charity, india: true}
+- {name: Paradesi Synagogue, lat: 9.9575, lon: 76.2593, note: Synagogue in Kochi built in 1568, article: religions-world, india: true}
+- {name: Bhide Wada, lat: 18.5145, lon: 73.8545, note: Site of the Phules' girls' school in Pune, article: school-history, india: true}
+- {name: Nalanda, lat: 25.1357, lon: 85.4436, note: Ruins of the ancient centre of learning, article: school-history, india: true}
+- {name: Alice Springs School of the Air, lat: -23.6980, lon: 133.8807, note: Where radio lessons for outback children began, article: schools-world, india: false}
+- {name: Mesa Verde, lat: 37.1838, lon: -108.4887, note: Ancestral Puebloan cliff dwellings, article: homes-world, india: false}
+- {name: Coober Pedy, lat: -29.0135, lon: 134.7544, note: Opal town with underground homes, article: homes-world, india: false}

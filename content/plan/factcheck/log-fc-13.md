@@ -1,0 +1,11 @@
+- egypt-nile | OUTDATED | GERD "began building in 2011" only → adds "and officially opened it in 2025" | https://allafrica.com/stories/202509090450.html
+- hawaii-culture | WRONG | Hōkūleʻa world voyage "From 2013 to 2017" → "From 2014 to 2017" | https://www.sailingscuttlebutt.com/2017/06/15/hokulea-complete-three-year-voyage
+- los-angeles | OUTDATED | "More than 10 million people live in Los Angeles County" → "Nearly 10 million ... (2024 estimate)" (9,757,179) | https://www.census.gov/quickfacts/table/PST045224/06037
+- mississippi | WRONG | myth truth: Missouri "slightly longer ... about 1.6 km longer" → "longer ... about 320 km longer" (USGS 2,540 mi vs 2,340 mi) | https://webarchive.library.unt.edu/eot2008/20081104222302/http:/ga.water.usgs.gov/edu/riversofworld.html
+- maps-history | WRONG | GTS theodolite "as heavy as a small motorbike" → "weighing about half a tonne" | https://en.wikipedia.org/wiki/William_Lambton
+- new-zealand | OUTDATED | "around five times as many sheep" → "more than four times as many sheep (2024 figures)" (ratio 4.5:1) | https://www.agriland.co.uk/farming-news/new-zealand-ratio-of-sheep-per-person-drops-to-4-51-govt/
+- puerto-rico | WRONG | facts + body "about 32 lakh (2020 census)" → "about 33 lakh" (3,285,874) | https://www.census.gov/quickfacts/PR
+- russia | DOUBTFUL | all rivers "would take about a year to fill" Baikal → "more than half a year" (23,600 km³ vs ~40,000 km³/yr global river flow) | https://whc.unesco.org/en/list/754/
+- seven-wonders | DOUBTFUL | hook: Great Pyramid "about 2,000 years old" when list made → "more than 2,000 years old" (c. 2560 BCE vs list c. 2nd century BCE, ~2,400 yrs) | https://www.britannica.com/topic/Seven-Wonders-of-the-World
+- gujarat-rann | DOUBTFUL | Great Rann "about 7,500 square km" (facts + body) → "(estimates vary)" / "by a common estimate" (other sources give much larger figures) | https://en.wikipedia.org/wiki/Great_Rann_of_Kutch
+- kolkata | DOUBTFUL | trams: "one of the very few cities in Asia that still runs them" → "the only city in India that still runs them" | https://www.urban-transport-magazine.com/en/kolkata-tramway-what-does-the-future-hold/

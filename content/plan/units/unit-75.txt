@@ -1,0 +1,24 @@
+NEW|places|world-philippines|What is special about the Philippines?
+NEW|history|oddity-ancient-fast-food|Did ancient Romans eat fast food?
+NEW|places|world-cairo|What is Cairo like today?
+NEW|history|oddity-old-medicine|What strange medicines did people once use?
+NEW|places|world-nairobi|What is Nairobi like?
+NEW|history|oddity-history-hair|Why did people once wear huge wigs?
+NEW|places|world-cape-town|Why is Cape Town so beautiful?
+NEW|history|oddity-ancient-graffiti|What did ancient people scribble on walls?
+NEW|places|world-greenland|Is Greenland really green?
+NEW|history|oddity-hindustani-mail|How did kings send messages across India?
+NEW|places|world-svalbard|What is the seed vault in Svalbard?
+NEW|history|oddity-elephants-war|How were elephants used in war?
+NEW|history|oddity-camel-library|What is a camel library?
+NEW|history|oddity-floating-post-office|Where is the floating post office?
+NEW|history|oddity-ancient-olympics-weird|What strange events were in the ancient Olympics?
+NEW|history|hist-first-film|What was the first film ever shown?
+NEW|history|hist-first-car-india|When did the first car arrive in India?
+NEW|history|hist-first-flight-india|When did the first plane fly in India?
+NEW|history|hist-first-train-india|What was India's first train journey like?
+NEW|history|hist-first-website|What was the first website?
+NEW|history|hist-first-university|What was the world's first university?
+NEW|history|hist-first-newspaper-india|What was India's first newspaper?
+NEW|history|hist-first-stamp-india|What was India's first postage stamp?
+NEW|history|hist-first-woman-pilot-india|Who was India's first woman pilot?

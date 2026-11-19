@@ -1,0 +1,18 @@
+# Fact-check log fc-18
+
+- homi-bhabha | WRONG | TIFR opened "at first in a few rooms of his aunt's bungalow" → first in borrowed rooms at IISc Bangalore, then from late 1945 in his aunt's bungalow in Bombay | https://en.wikipedia.org/wiki/Tata_Institute_of_Fundamental_Research
+- maglev | OUTDATED | hook "at over 400 km/h"; body "has run at 431 km/h in daily service, ... seven or eight minutes" → "up to 300 km/h"; "ran at up to 431 km/h ... Since 2021 held to 300 km/h ... about eight minutes" | https://en.wikipedia.org/wiki/Shanghai_maglev_train
+- maglev | DOUBTFUL | Tokyo–Nagoya in 40 min "roughly half today's time" → "less than half today's time" (Nozomi takes about 1 h 35 min) | https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D_Shinkansen
+- newton-life | WRONG | quiz prompt Mint job "nearly 30 years" → "about 30 years" (Warden 1696, Master 1699 until death 1727, about 31 years) | https://www.britannica.com/biography/Isaac-Newton
+- nuclear-fusion | OUTDATED | ITER "a joint project of 35 countries" → "more than 30 countries" (27 EU states + 6 other Members, plus Switzerland; UK has left) | https://iter.org/node/2270
+- nuclear-fusion | WRONG | "On 5 December 2022, scientists there announced" → "In an experiment on 5 December 2022" (the shot was 5 Dec; the announcement was 13 Dec) | https://www.llnl.gov/article/49301/lawrence-livermore-national-laboratory-achieves-fusion-ignition
+- prosthetics | CONSISTENCY | facts "Oldest known working prosthetic" → "One of the oldest known working prosthetics" (matches surprising_fact; the Cairo toe is often but not universally called the oldest) | https://www.britishmuseum.org/collection/object/Y_EA29996
+- radio-invented | WRONG | "Newfoundland, Canada" (quiz reveal + body, 1901) → "Newfoundland, now part of Canada" (Newfoundland joined Canada only in 1949) | https://www.britannica.com/place/Newfoundland-and-Labrador
+- social-media | OUTDATED | Australia "has passed a law to keep children under 16 off" → "has a law, in force since December 2025," | https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions
+- space-elevator | WRONG | carbon nanotubes made "centimetres long at best" → "well under a metre long" (about 55 cm grown in 2013) | https://pubs.acs.org/doi/10.1021/nn401995z
+- space-tech-earth | WRONG | Cyclone Phailin: officials moved "hundreds of thousands of people" → "close to a million people" | https://en.wikipedia.org/wiki/Cyclone_Phailin
+- starlink | OUTDATED | facts + body "more than 7,000 (2025)" in orbit → "more than 10,000 (2026)" / "By early 2026 ... more than 10,000" | https://keeptrack.space/articles/26
+- starlink | OUTDATED | "Amazon's Project Kuiper" (facts + body) → "Amazon Leo (formerly Project Kuiper)" (renamed November 2025) | https://www.satellitetoday.com/connectivity/2025/11/13/amazon-rebrands-project-kuiper-to-amazon-leo-shares-terminal-lineup/
+- sundar-ganges-tech | OUTDATED | "Shantanu Narayen leads Adobe" → "has led Adobe since 2007 and is handing over in December 2026 to Anil Chakravarthy, another IIT graduate" | https://www.outlookbusiness.com/corporate/adobe-names-anil-chakravarthy-as-president-and-ceo
+- telegraph | WRONG | 1858 cable linked Ireland to "Newfoundland, in Canada" → "Newfoundland, now part of Canada" (Newfoundland joined Canada in 1949) | https://www.britannica.com/place/Newfoundland-and-Labrador
+- vande-bharat | OUTDATED | sleeper version "has been tested" → "began carrying passengers between Howrah and Guwahati in January 2026" | https://www.theweek.in/news/biz-tech/2026/01/17/first-ever-vande-bharat-sleeper-flagged-off-from-kamakhya-to-howrah.html

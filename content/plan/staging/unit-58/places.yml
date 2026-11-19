@@ -1,0 +1,21 @@
+- {name: Bristol, lat: 51.454, lon: -2.588, note: City where Banksy is thought to have started, article: banksy}
+- {name: El Capitan, lat: 37.734, lon: -119.638, note: Granite cliff rising about 900 m above Yosemite Valley, article: yosemite}
+- {name: Anand Bhavan, lat: 25.459, lon: 81.856, note: Nehru family home in Prayagraj where Indira grew up, article: indira-gandhi, india: true}
+- {name: Kartavya Path, lat: 28.613, lon: 77.223, note: Route of the Republic Day parade, article: republic-day-parade, india: true}
+- {name: Taj Mahal, lat: 27.175, lon: 78.042, note: Calligraphy by Amanat Khan frames its arches, article: calligraphy-world, india: true}
+- {name: Smithsonian Institution Building, lat: 38.889, lon: -77.026, note: The Smithsonian's red sandstone castle, article: smithsonian}
+- {name: Imphal, lat: 24.817, lon: 93.937, note: Site of the failed 1944 campaign by Japan and the INA, article: indian-national-army, india: true}
+- {name: Kennedy Space Center, lat: 28.573, lon: -80.649, note: NASA's launch site in Florida, article: nasa-centres}
+- {name: Johnson Space Center, lat: 29.559, lon: -95.090, note: Home of Mission Control in Houston, article: nasa-centres}
+- {name: Jet Propulsion Laboratory, lat: 34.201, lon: -118.171, note: Where NASA's Mars rovers are driven from, article: nasa-centres}
+- {name: Pantheon, lat: 41.899, lon: 12.477, note: Roman concrete dome finished around 125 CE, article: cement-concrete}
+- {name: Chauri Chaura, lat: 26.646, lon: 83.581, note: Town where violence in 1922 ended non-cooperation, article: non-cooperation, india: true}
+- {name: Diamond Harbour, lat: 22.191, lon: 88.190, note: End of India's first telegraph line in 1851, article: morse-to-whatsapp, india: true}
+- {name: Fatehpur Sikri, lat: 27.094, lon: 77.661, note: Akbar's city with a courtyard laid out like a pachisi board, article: ludo, india: true}
+- {name: Eiffel Tower, lat: 48.858, lon: 2.294, note: Top viewing deck about 276 m up, article: eiffel-visit}
+- {name: Mohenjo-daro, lat: 27.329, lon: 68.139, note: Indus city built with standard fired bricks, article: bricks}
+- {name: Thoothukudi (Tuticorin), lat: 8.764, lon: 78.135, note: Port where V.O. Chidambaram Pillai started a Swadeshi shipping company, article: swadeshi, india: true}
+- {name: Tower of London, lat: 51.508, lon: -0.076, note: Castle begun by William the Conqueror, article: london-tower}
+- {name: Jamshedpur, lat: 22.805, lon: 86.203, note: Home of Tata Steel since 1907, article: steel, india: true}
+- {name: Dhaka, lat: 23.811, lon: 90.413, note: Capital of the new province created in 1905, article: bengal-partition-1905}
+- {name: Wall Street, lat: 40.706, lon: -74.009, note: Heart of the US stock market, article: usa-economy}

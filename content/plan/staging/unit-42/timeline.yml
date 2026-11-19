@@ -1,0 +1,35 @@
+- {year: -450, title: Zeno's paradoxes, text: Zeno of Elea asks how a runner can ever catch a tortoise., article: paradoxes}
+- {year: 1150, title: Siddhanta Shiromani, text: Bhaskara II completes his great work on mathematics and astronomy., article: bhaskara}
+- {year: 1202, title: Fibonacci's book, text: Leonardo of Pisa makes the Fibonacci numbers famous in Europe., article: number-patterns}
+- {year: 1286, title: First spectacles, text: Reading glasses appear in northern Italy., article: eyesight-glasses}
+- {year: 1347, title: The Black Death, text: Plague reaches Europe and kills perhaps a third of its people., article: disease-history}
+- {year: 1400, title: Madhava's series, text: "Around this time, Madhava in Kerala finds an endless sum for pi.", article: madhava}
+- {year: 1735, title: Early appendix operation, text: Surgeon Claudius Amyand removes an inflamed appendix in London., article: appendix}
+- {year: 1742, title: Goldbach's guess, text: Christian Goldbach proposes a puzzle about primes that is still unsolved., article: unsolved-problems}
+- {year: 1747, title: Lind's scurvy trial, text: A ship's doctor shows citrus fruit cures scurvy., article: medicine-how}
+- {year: 1794, title: Dalton describes colour blindness, text: John Dalton explains how his own eyes see colours differently., article: colour-blindness}
+- {year: 1796, title: Gauss's Eureka, text: A teenage Gauss proves every number is a sum of three triangular numbers., article: triangular-numbers}
+- {year: 1823, title: Growing pains named, text: A French doctor first describes children's leg aches as growing pains., article: growing-pains}
+- {year: 1850, title: Nerve speed measured, text: Hermann von Helmholtz times a nerve signal in a frog's leg., article: nervous-system}
+- {year: 1854, title: Snow's cholera map, text: John Snow traces a London cholera outbreak to one water pump., article: data-science}
+- {year: 1868, title: Normal body temperature, text: Carl Wunderlich settles on 37°C as normal body temperature., article: body-temperature}
+- {year: 1882, title: TB germ discovered, text: Robert Koch announces the bacterium that causes tuberculosis., article: tb-india}
+- {year: 1897, title: Mosquitoes and malaria, text: Ronald Ross finds the malaria parasite in a mosquito in Secunderabad., article: mosquito-diseases}
+- {year: 1899, title: Aspirin goes on sale, text: A painkiller modelled on willow bark is sold as aspirin., article: medicine-how}
+- {year: 1901, title: Russell's paradox, text: Bertrand Russell finds a paradox at the heart of set theory., article: paradoxes}
+- {year: 1914, title: Panama Canal opens, text: The canal is finished after a war on mosquitoes., article: disease-history}
+- {year: 1917, title: Ishihara colour test, text: Shinobu Ishihara publishes his famous coloured dot plates., article: colour-blindness}
+- {year: 1922, title: First insulin injection, text: A 14-year-old boy in Toronto is treated with insulin for diabetes., article: hormones}
+- {year: 1931, title: Indian Statistical Institute, text: P. C. Mahalanobis founds the institute in Kolkata., article: data-science}
+- {year: 1936, title: A poll goes wrong, text: The Literary Digest wrongly predicts the US presidential election., article: surveys}
+- {year: 1956, title: Madras TB study, text: Doctors in Madras show TB patients can be treated at home., article: tb-india}
+- {year: 1959, title: First Maths Olympiad, text: Seven countries compete in the first International Mathematical Olympiad in Romania., article: maths-olympiad}
+- {year: 1971, title: ORS saves refugees, text: Dilip Mahalanabis treats cholera patients with a simple salt and sugar drink., article: thirst}
+- {year: 1977, title: RSA published, text: A code based on huge prime numbers changes secret messaging., article: cryptography-maths}
+- {year: 1980, title: Smallpox eradicated, text: The WHO declares smallpox wiped out worldwide., article: disease-history}
+- {year: 1980, title: Human computer record, text: Shakuntala Devi multiplies two 13-digit numbers in 28 seconds., article: shakuntala-devi}
+- {year: 1994, title: Fermat's Last Theorem proved, text: Andrew Wiles completes a proof about 350 years in the making., article: unsolved-problems}
+- {year: 1999, title: Hunger hormone found, text: Japanese scientists discover ghrelin., article: hunger}
+- {year: 2020, title: School Bag Policy, text: India recommends school bags weigh no more than a tenth of a child's weight., article: posture}
+- {ago: 3600000, title: Laetoli footprints, text: Upright walkers leave footprints in volcanic ash in Tanzania., article: human-evolution}
+- {ago: 300000, title: Earliest Homo sapiens, text: Our species is living in Africa., article: human-evolution}

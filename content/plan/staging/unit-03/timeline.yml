@@ -1,0 +1,35 @@
+# unit-03 timeline events
+- {ago: 13800000000, title: The Big Bang, text: The universe begins expanding from a hot and dense state., article: big-bang}
+- {ago: 330000000, title: Coal swamps, text: Giant ferns and horsetails grow in swamps that will become coal., article: oil-coal}
+- {ago: 66000000, title: Deccan lava floods, text: Lava pours out over western India as it passes a hot spot., article: india-drift}
+- {year: 79, title: Vesuvius buries Pompeii, text: Ash from Mount Vesuvius preserves a whole Roman town., article: volcano}
+- {year: 1610, title: Galileo looks up, text: "Galileo sees that the Milky Way is made of countless stars, and spots four moons of Jupiter.", article: milky-way}
+- {year: 1666, title: Newton splits sunlight, text: A glass prism shows that white light is a mix of colours., article: sky-blue}
+- {year: 1815, title: Tambora erupts, text: The biggest eruption in recorded history cools the whole world., article: volcano}
+- {year: 1848, title: California Gold Rush, text: Gold flakes found at Sutter's Mill set off a rush to the west., article: gold-where}
+- {year: 1852, title: Highest peak found, text: Radhanath Sikdar's calculations show Peak XV is the world's highest mountain., article: himalaya-form}
+- {year: 1859, title: First US oil well, text: Edwin Drake strikes oil at Titusville in Pennsylvania., article: oil-coal}
+- {year: 1869, title: Powell runs the canyon, text: John Wesley Powell leads the first known boat trip through the Grand Canyon., article: grand-canyon}
+- {year: 1872, title: First national park, text: Yellowstone becomes the world's first national park., article: old-faithful}
+- {year: 1889, title: Oil in Assam, text: Oil is found at Digboi in Assam., article: oil-coal}
+- {year: 1896, title: Radioactivity discovered, text: Henri Becquerel notices uranium fogging photographic plates., article: half-life}
+- {year: 1912, title: Continental drift, text: Alfred Wegener suggests the continents were once joined., article: india-drift}
+- {year: 1924, title: Other galaxies proved, text: Edwin Hubble shows that Andromeda lies far outside the Milky Way., article: galaxies}
+- {year: 1927, title: Great Mississippi Flood, text: The Mississippi River floods land in several US states for months., article: floods-why}
+- {year: 1928, title: The Raman effect, text: C.V. Raman and K.S. Krishnan announce a new effect in scattered light., article: sky-blue}
+- {year: 1935, title: Black Sunday, text: A giant dust storm sweeps the Great Plains during the Dust Bowl., article: droughts}
+- {year: 1936, title: Inner core discovered, text: Inge Lehmann finds a solid inner core inside Earth's liquid core., article: inside-earth}
+- {year: 1952, title: London's Great Smog, text: Coal smoke and fog choke London for five days., article: air-pollution}
+- {year: 1956, title: Earth's age measured, text: Clair Patterson dates a meteorite and finds Earth is about 4.55 billion years old., article: earth-age}
+- {year: 1965, title: Echo of the Big Bang, text: Penzias and Wilson report a faint hiss from every part of the sky., article: big-bang}
+- {year: 1970, title: Landing on Venus, text: Venera 7 becomes the first spacecraft to send data from another planet's surface., article: venus-hot}
+- {year: 1980, title: Mount St. Helens, text: A sideways blast tears open a volcano in Washington state., article: volcano}
+- {year: 1994, title: Comet hits Jupiter, text: Pieces of comet Shoemaker-Levy 9 slam into Jupiter's clouds., article: jupiter-giant}
+- {year: 1995, title: Hubble Deep Field, text: "Ten days of staring at an empty patch of sky reveal about 3,000 galaxies.", article: galaxies}
+- {year: 2001, title: Bhuj earthquake, text: A magnitude 7.7 earthquake strikes Gujarat on Republic Day., article: earthquakes}
+- {year: 2004, title: Indian Ocean tsunami, text: An earthquake near Sumatra sends tsunami waves across the Indian Ocean., article: tsunami}
+- {year: 2005, title: Mumbai's record rain, text: About 944 mm of rain falls at Santacruz in a single day., article: floods-why}
+- {year: 2011, title: MESSENGER reaches Mercury, text: The first spacecraft to orbit Mercury arrives., article: mercury-planet}
+- {year: 2013, title: Cyclone Phailin, text: About a million people are moved to safety before a huge cyclone hits Odisha., article: hurricanes}
+- {year: 2016, title: Latur water train, text: A train carries drinking water to a drought-hit town in Maharashtra., article: droughts}
+- {year: 2017, title: Gold from a star crash, text: Telescopes see heavy elements made when two neutron stars collide., article: gold-where}

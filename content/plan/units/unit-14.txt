@@ -1,0 +1,34 @@
+NEW|tech|green-tech|How can technology help the planet?
+NEW|tech|space-tech-earth|What inventions came from space programmes?
+NEW|tech|inventors-india|Which inventions came from India?
+NEW|tech|jagadish-bose|How did Jagadish Chandra Bose study plants and radio?
+NEW|tech|apj-kalam|Who was A.P.J. Abdul Kalam?
+NEW|tech|homi-bhabha|Who was Homi Bhabha?
+NEW|tech|vikram-sarabhai|Who was Vikram Sarabhai?
+NEW|tech|marie-curie|Who was Marie Curie?
+NEW|tech|einstein|What did Albert Einstein discover?
+NEW|tech|newton-life|Who was Isaac Newton?
+NEW|tech|galileo|Who was Galileo?
+NEW|tech|nikola-tesla|Who was Nikola Tesla?
+NEW|tech|grace-hopper|Who was Grace Hopper?
+NEW|tech|alan-turing|Who was Alan Turing?
+NEW|tech|internet-history|How was the internet born?
+NEW|tech|social-media|How does social media work?
+NEW|tech|fake-news|How can you tell if something online is true?
+NEW|numbers|counting-history|How did people start counting?
+NEW|numbers|number-systems|Why do we count in tens?
+NEW|numbers|roman-numerals|How do Roman numerals work?
+NEW|numbers|pi|What is pi?
+NEW|numbers|infinity|What is infinity?
+NEW|numbers|negative-numbers|Who invented negative numbers?
+NEW|numbers|fractions|Why do we need fractions?
+NEW|numbers|decimals|How do decimals work?
+NEW|numbers|percentages|What does percent mean?
+NEW|numbers|prime-numbers|What are prime numbers?
+NEW|numbers|even-odd|Why are some numbers even and some odd?
+NEW|numbers|multiplication-tables|Why do we learn times tables?
+NEW|numbers|vedic-maths|What is Vedic maths?
+NEW|numbers|ramanujan|Who was Srinivasa Ramanujan?
+NEW|numbers|aryabhata|Who was Aryabhata?
+NEW|numbers|brahmagupta|Who was Brahmagupta?
+NEW|numbers|euclid|Who was Euclid?

@@ -1,0 +1,34 @@
+NEW|places|kenya-safari|What lives on the Kenyan savanna?
+NEW|places|south-africa|Why is South Africa called the Rainbow Nation?
+NEW|places|brazil-amazon|What is the Amazon rainforest?
+NEW|places|mexico|What is Mexico known for?
+NEW|places|canada|What is Canada like?
+NEW|places|australia|Why does Australia have such unusual animals?
+NEW|places|antarctica|Who lives in Antarctica?
+NEW|places|arctic|What is the Arctic?
+NEW|places|sahara|How big is the Sahara?
+NEW|places|himalaya-peoples|Who lives in the Himalayas?
+NEW|places|nepal|What is Nepal like?
+NEW|places|sri-lanka|What is Sri Lanka known for?
+NEW|places|bangladesh|What is Bangladesh like?
+NEW|places|pakistan-history|What do India and Pakistan share?
+NEW|places|russia|How big is Russia?
+NEW|places|germany|What is Germany known for?
+NEW|places|uk-countries|What are England, Scotland, Wales and Northern Ireland?
+NEW|places|greece-islands|Why does Greece have so many islands?
+NEW|places|iceland|Why is Iceland called the land of fire and ice?
+NEW|places|seven-wonders|What are the Seven Wonders of the World?
+NEW|places|petra|How was Petra carved into rock?
+NEW|places|angkor-wat|What is Angkor Wat?
+NEW|places|stonehenge|What is Stonehenge?
+NEW|places|easter-island|Who made the Easter Island statues?
+NEW|places|time-zones|Why do different places have different times?
+NEW|places|flags-world|What do flag colours mean?
+NEW|places|capitals|What is a capital city?
+NEW|places|islands-world|What is the biggest island in the world?
+NEW|places|deserts-world|Which deserts are the biggest?
+NEW|places|cold-places|What is the coldest inhabited place?
+NEW|places|hot-places|What is the hottest place on Earth?
+NEW|places|wettest-place|Why is Mawsynram the wettest place on Earth?
+NEW|places|volcano-cities|Why do people live near volcanoes?
+NEW|places|border-crossings|What happens at a border crossing?

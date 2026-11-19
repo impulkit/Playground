@@ -1,0 +1,11 @@
+- ravi-shankar | CONSISTENCY | hook: "helped organise the first giant charity rock concert" → "helped organise one of the first giant charity rock concerts" (matches body) | https://www.britannica.com/biography/Ravi-Shankar
+- shehnai-bismillah | DOUBTFUL | hook: "the first music heard from the Red Fort came from a shehnai" → "a shehnai played by a man from Varanasi rang out at the Red Fort in Delhi" | https://wikiwand.com/en/articles/Bismillah_Khan
+- singing | WRONG | hook: vocal folds "shorter than your fingernail" → "only one or two centimetres long" (adult male folds reach about 2.5 cm) | https://www.britannica.com/science/vocal-cord
+- ageing | DOUBTFUL | body: Greenland shark "probably about 400 years old" → "may have been around 400 years old. That estimate could be off by more than a century either way." (Nielsen 2016: 392 ± 120 years) | https://www.science.org/doi/10.1126/science.aaf1703
+- ageing | DOUBTFUL | facts: "possibly about 400 years" → "possibly about 400 years (estimate range roughly 270 to 510)" | https://www.science.org/doi/10.1126/science.aaf1703
+- disease-history | WRONG | "COVID-19, which arrived in 2020" → "COVID-19, which spread around the world in 2020" (first cases late 2019) | https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+- eyesight-glasses | WRONG | "A friar in Pisa mentioned in a sermon in 1306" → "A friar from Pisa, preaching in Florence in 1306, said" (Giordano da Pisa, Santa Maria Novella) | https://thefrailestthing.com/2011/11/22/the-invention-of-invention/
+- brain-food | OUTDATED | mid-day meal "feeds about 12 crore children" → "about 11 crore children (2025 figure)" | https://nagalandtribune.in/?p=77800
+- blood-groups | DOUBTFUL | "Dogs have more than a dozen blood groups" → "at least a dozen" | https://www.akc.org/expert-advice/health/dog-blood-types/
+- hormones | WRONG | hook: Leonard Thompson "Within weeks he was well enough to go home" → "Within weeks, a boy who had been close to death was recovering" (he went home in May 1922) | https://www.rciscience.ca/100-lives/leonard-thompson
+- immune-system | WRONG | facts: "White blood cells in one drop of blood: several thousand" → "in a speck of blood one cubic millimetre in size: about 4,000 to 11,000" (a whole drop holds hundreds of thousands) | https://medlineplus.gov/ency/article/003643.htm

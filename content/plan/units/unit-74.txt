@@ -1,0 +1,34 @@
+NEW|history|usa-route-transcontinental-flight|Who first flew across America?
+NEW|places|india-wonder-hill-stations|Why did the British build hill stations?
+NEW|people|people-mahouts|Who are mahouts?
+NEW|how|how-kites-fly-physics|What keeps a kite in the air?
+NEW|tech|tech-video-calls|How do video calls work?
+NEW|body|body-music-chills|Why can music make you cry?
+NEW|wild|wild-kangaroo|How do kangaroos hop so far?
+NEW|history|oddity-shortest-war|What was the shortest war in history?
+NEW|places|india-wonder-toy-train|What are India's mountain toy trains?
+NEW|people|people-kids-changemakers|Which kids have changed the world?
+NEW|how|how-boomerang|Why does a boomerang come back?
+NEW|tech|tech-game-consoles|How do game consoles work?
+NEW|body|body-handwashing-history|Who discovered that washing hands saves lives?
+NEW|wild|wild-penguin-dads|Why do emperor penguin dads hold the eggs?
+NEW|history|oddity-emu-war|Did Australia lose a war to emus?
+NEW|places|usa-wonder-yellowstone|What is under Yellowstone?
+NEW|people|people-mountain-rescuers|How do mountain rescue teams work?
+NEW|how|how-paper-airplane-best|How do you make the best paper plane?
+NEW|tech|tech-first-computer-india|What was India's first computer?
+NEW|history|oddity-great-molasses-flood|What was the Great Molasses Flood?
+NEW|places|usa-wonder-cape-canaveral|What happens at Cape Canaveral?
+NEW|people|people-firefighters-forest|How do people fight forest fires?
+NEW|history|oddity-dancing-plague|What was the dancing plague?
+NEW|places|usa-wonder-monument-valley|What is Monument Valley?
+NEW|people|people-shepherds-himalaya|How do shepherds move their flocks across the Himalaya?
+NEW|history|oddity-tulip-mania|Why did people pay fortunes for tulips?
+NEW|places|usa-wonder-carlsbad|What is inside Carlsbad Caverns?
+NEW|history|oddity-pigeon-heroes|Which pigeons won medals?
+NEW|places|usa-wonder-philadelphia|What happened in Philadelphia in 1776?
+NEW|history|oddity-dogs-history|Which dogs changed history?
+NEW|places|world-netherlands-water|How do the Dutch live below sea level?
+NEW|history|oddity-calendar-missing-days|Why did Britain skip 11 days in 1752?
+NEW|places|world-indonesia|How many islands does Indonesia have?
+NEW|history|oddity-ancient-toilets|What toilets did ancient people use?

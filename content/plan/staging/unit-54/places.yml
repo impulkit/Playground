@@ -1,0 +1,29 @@
+- {name: Templo Mayor, lat: 19.4351, lon: -99.1314, note: Ruins of the Aztec Great Temple in Mexico City, article: aztec-tenochtitlan}
+- {name: Xochimilco, lat: 19.2572, lon: -99.1036, note: Canals and chinampa gardens still farmed today, article: aztec-tenochtitlan}
+- {name: Cajamarca, lat: -7.1617, lon: -78.5128, note: Where Pizarro captured Atahualpa in 1532, article: spanish-conquest}
+- {name: Kappad Beach, lat: 11.3820, lon: 75.7230, note: Near where Vasco da Gama landed in 1498, article: portuguese-india, india: true}
+- {name: Basilica of Bom Jesus, lat: 15.5009, lon: 73.9116, note: Church in Old Goa holding the remains of Francis Xavier, article: portuguese-india, india: true}
+- {name: Trimbak, lat: 19.9322, lon: 73.5306, note: Birthplace of Dadasaheb Phalke, article: dadasaheb-phalke, india: true}
+- {name: Satish Dhawan Space Centre, lat: 13.7199, lon: 80.2304, note: Launch site for NavIC satellites, article: navic, india: true}
+- {name: Vivekananda Rock Memorial, lat: 8.0780, lon: 77.5553, note: Memorial on the rock where Vivekananda meditated, article: kanyakumari, india: true}
+- {name: Gandhi Mandapam, lat: 8.0805, lon: 77.5508, note: Where sunlight falls on the urn spot every 2 October, article: kanyakumari, india: true}
+- {name: Tabo Monastery, lat: 32.0936, lon: 78.3829, note: Founded in 996 CE in Spiti, article: spiti, india: true}
+- {name: Key Monastery, lat: 32.2977, lon: 78.0119, note: White monastery on a hill above the Spiti River, article: spiti, india: true}
+- {name: Chenab Rail Bridge, lat: 33.1508, lon: 74.8836, note: World's highest railway arch bridge, article: jobs-engineer, india: true}
+- {name: Krishna Raja Sagara dam, lat: 12.4228, lon: 76.5729, note: Dam built under M. Visvesvaraya near Mysuru, article: jobs-engineer, india: true}
+- {name: Brooklyn Bridge, lat: 40.7061, lon: -73.9969, note: Completed with Emily Roebling's help in 1883, article: jobs-engineer}
+- {name: Santiniketan, lat: 23.6801, lon: 87.6855, note: Tagore's school and university, article: rabindra-sangeet, india: true}
+- {name: Sobrino de Botín, lat: 40.4140, lon: -3.7081, note: World's oldest restaurant still running, article: restaurants-history}
+- {name: Mavalli Tiffin Room, lat: 12.9553, lon: 77.5850, note: Bengaluru restaurant open since 1924, article: restaurants-history, india: true}
+- {name: Pompeii, lat: 40.7489, lon: 14.4848, note: Roman street-food counters found buried by Vesuvius, article: fast-food-history}
+- {name: Ghalib ki Haveli, lat: 28.6560, lon: 77.2263, note: Mirza Ghalib's home in Old Delhi, now a museum, article: ghazals, india: true}
+- {name: Harmandir Sahib, lat: 31.6200, lon: 74.8765, note: Kirtan is sung here almost all day, article: devotional-music, india: true}
+- {name: Pandharpur, lat: 17.6792, lon: 75.3310, note: Destination of the yearly wari pilgrimage, article: devotional-music, india: true}
+- {name: Tompkins Square Park, lat: 40.7265, lon: -73.9817, note: Where Hare Krishna chanting began in 1966, article: devotional-music}
+- {name: Phalodi, lat: 27.1310, lon: 72.3640, note: India's hottest recorded temperature, 51.0°C, article: heat-body, india: true}
+- {name: Death Valley, lat: 36.4622, lon: -116.8669, note: Holds the official world heat record, article: heat-body}
+- {name: Ancient Bristlecone Pine Forest, lat: 37.3850, lon: -118.1720, note: Home of Methuselah in the White Mountains, article: trees-oldest}
+- {name: Sri Maha Bodhi, lat: 8.3446, lon: 80.3964, note: Sacred fig planted in 288 BCE, article: trees-oldest}
+- {name: Munnar, lat: 10.0889, lon: 77.0595, note: Hills that turn blue when neelakurinji blooms, article: flowers-colours, india: true}
+- {name: Leh, lat: 34.1526, lon: 77.5771, note: A town about 3,500 m up, article: altitude, india: true}
+- {name: Yellowstone National Park, lat: 44.4280, lon: -110.5885, note: Pines sprang back after the 1988 fires, article: forest-fires}

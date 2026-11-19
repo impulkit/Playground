@@ -1,0 +1,18 @@
+- {name: Dharavi, lat: 19.04, lon: 72.85, note: One of Asia's best-known slums and a hub of small workshops, article: slums-housing, india: true}
+- {name: Chandigarh Capitol Complex, lat: 30.76, lon: 76.81, note: Heart of Le Corbusier's planned city, article: urban-planning, india: true}
+- {name: Songdo, lat: 37.39, lon: 126.64, note: A smart city built on reclaimed land, article: smart-cities}
+- {name: Aapravasi Ghat, lat: -20.16, lon: 57.50, note: Where indentured Indian labourers landed in Mauritius, article: indian-diaspora}
+- {name: Halmidi, lat: 13.06, lon: 75.95, note: Village where the oldest known Kannada inscription was found, article: kannada-telugu, india: true}
+- {name: Shaheed Minar, lat: 23.727, lon: 90.399, note: Monument to the students of the 1952 Language Movement, article: bengali-language}
+- {name: Kongthong, lat: 25.39, lon: 91.73, note: Meghalaya's whistling village, article: whistled-languages, india: true}
+- {name: La Gomera, lat: 28.10, lon: -17.22, note: Island of the whistled language Silbo Gomero, article: whistled-languages}
+- {name: Kuşköy, lat: 40.85, lon: 38.64, note: Turkey's bird village where people whistle Turkish, article: whistled-languages}
+- {name: Pench Tiger Reserve, lat: 21.70, lon: 79.30, note: Forests near Seoni linked to Mowgli's jungle, article: jungle-book, india: true}
+- {name: Naulakha, lat: 42.83, lon: -72.58, note: Kipling's Vermont home where he wrote The Jungle Book, article: jungle-book}
+- {name: Zamzama gun, lat: 31.568, lon: 74.308, note: The cannon outside the Lahore Museum where Kim opens, article: kipling-india}
+- {name: Agumbe, lat: 13.50, lon: 75.09, note: Rainforest village where Malgudi Days was filmed, article: malgudi, india: true}
+- {name: Jaisalmer Fort, lat: 26.91, lon: 70.91, note: The golden fort of Sonar Kella, article: satyajit-ray-stories, india: true}
+- {name: Orchard House, lat: 42.459, lon: -71.336, note: Where Louisa May Alcott wrote Little Women, article: little-women}
+- {name: The Kilns, lat: 51.754, lon: -1.198, note: C. S. Lewis's home where wartime evacuees stayed, article: cs-lewis}
+- {name: Hobbiton Movie Set, lat: -37.87, lon: 175.68, note: The Shire village from the Lord of the Rings films, article: tolkien}
+- {name: Anyang, lat: 36.10, lon: 114.39, note: Where thousands of oracle bones have been found, article: chinese-characters}

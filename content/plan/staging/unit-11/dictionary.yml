@@ -1,0 +1,17 @@
+- {id: diaphragm, word: diaphragm, meaning: "A dome-shaped sheet of muscle under your lungs. When it tightens and flattens, air is pulled into your lungs.", see: lungs-breathe}
+- {id: alveoli, word: alveoli, meaning: "Hundreds of millions of tiny air bubbles at the ends of the tubes in your lungs, where oxygen passes into the blood.", see: lungs-breathe}
+- {id: enzyme, word: enzyme, meaning: "A protein that speeds up a chemical change in a living thing, such as breaking food into smaller pieces.", see: stomach-digest}
+- {id: hormone, word: hormone, meaning: "A chemical messenger made in one part of the body and carried in the blood to tell another part what to do.", see: puberty-basics}
+- {id: antibody, word: antibody, meaning: "A Y-shaped protein made by the immune system that sticks to one particular germ and marks it for destruction.", see: immune-system}
+- {id: histamine, word: histamine, meaning: "A chemical released by some immune cells that makes skin itch, noses run and blood vessels leak. It causes many allergy symptoms.", see: allergies}
+- {id: pollen, word: pollen, meaning: "A fine powder made by flowers and many trees and grasses. It carries what a plant needs to make seeds with another plant.", see: allergies}
+- {id: virus, word: virus, meaning: "A germ far smaller than a bacterium that can only make copies of itself inside the cells of a living thing.", see: cold-flu}
+- {id: bacteria, word: bacteria, meaning: "Tiny living things made of a single cell. Some cause illness, but most are harmless and many are helpful.", see: microbes-friendly}
+- {id: gene, word: gene, meaning: "A short stretch of DNA that carries the instructions for making one thing the body needs. Children get their genes from their parents.", see: genes-family}
+- {id: chromosome, word: chromosome, meaning: "A tightly coiled thread of DNA inside a cell. Most human cells have 46 of them, in 23 pairs.", see: genes-family}
+- {id: nerve, word: nerve, meaning: "A bundle of long, thin cells that carry electrical messages between your brain or spinal cord and the rest of your body.", see: reflexes}
+- {id: neuron, word: neuron, meaning: "A nerve cell. Neurons pass tiny electrical and chemical signals to each other, and the brain is made of billions of them.", see: brain-works}
+- {id: nutrient, word: nutrient, meaning: "Something in food that the body needs to grow, get energy or stay healthy, such as protein, vitamins or minerals.", see: food-nutrients}
+- {id: plaque, word: plaque, meaning: "A sticky film of bacteria that builds up on teeth. It can lead to tooth decay if it isn't brushed away.", see: sugar-teeth}
+- {id: adrenaline, word: adrenaline, meaning: "A hormone that gets the body ready for action. It makes the heart beat faster and breathing quicken when you are scared or excited.", see: stress}
+- {id: amygdala, word: amygdala, meaning: "A pair of almond-sized parts deep in the brain that help notice danger and create feelings like fear.", see: emotions}

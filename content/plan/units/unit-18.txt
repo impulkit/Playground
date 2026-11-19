@@ -1,0 +1,34 @@
+NEW|art|colour-meaning|Do colours mean the same everywhere?
+NEW|art|museums|Why do we have museums?
+NEW|art|art-forgery|How do experts spot fake paintings?
+EXPAND|art|ajanta-colours
+EXPAND|art|art-detective
+EXPAND|art|cave-art
+EXPAND|art|colour-mix
+EXPAND|art|music-goosebumps
+EXPAND|art|perspective
+EXPAND|art|raga-time
+EXPAND|art|rangoli-symmetry
+EXPAND|art|sitar-strings
+EXPAND|art|statue-liberty
+EXPAND|art|taj-mahal
+NEW|words|alphabet-history|Where did the alphabet come from?
+NEW|words|hindi-language|How did Hindi grow?
+NEW|words|tamil-ancient|Why is Tamil called one of the world's oldest living languages?
+NEW|words|sanskrit|What is Sanskrit?
+NEW|words|english-spread|How did English spread around the world?
+NEW|words|languages-india|How many languages does India speak?
+NEW|words|scripts-india|Why does India have so many scripts?
+NEW|words|words-borrowed|Which English words came from India?
+NEW|words|dictionaries|Who decides what goes in a dictionary?
+NEW|words|sign-language|How does sign language work?
+NEW|words|braille|How does Braille let people read with fingers?
+NEW|words|learning-languages|Why is it easier to learn languages when you're young?
+NEW|words|grammar-why|Why do languages have grammar?
+NEW|words|slang|Where does slang come from?
+NEW|words|names-meaning|Why do names have meanings?
+NEW|words|emojis|Are emojis a language?
+NEW|words|ramayana|What is the Ramayana?
+NEW|words|mahabharata|What is the Mahabharata?
+NEW|words|panchatantra-tales|Why do Panchatantra stories use animals?
+NEW|words|jataka-tales|What are the Jataka tales?

@@ -1,0 +1,18 @@
+- {name: Ajanta Caves, lat: 20.552, lon: 75.703, note: Painted Buddhist caves above the Waghora river, article: ajanta-colours, india: true}
+- {name: Bhimbetka rock shelters, lat: 22.938, lon: 77.613, note: Thousands of rock paintings near Bhopal, article: cave-art, india: true}
+- {name: Lascaux, lat: 45.054, lon: 1.168, note: Painted cave found by teenagers in 1940, article: cave-art}
+- {name: Statue of Liberty, lat: 40.689, lon: -74.045, note: Copper statue turned green by air and rain, article: statue-liberty}
+- {name: Taj Mahal, lat: 27.175, lon: 78.042, note: Marble tomb built by Shah Jahan, article: taj-mahal, india: true}
+- {name: Makrana, lat: 27.044, lon: 74.724, note: Marble quarries that supplied the Taj Mahal, article: taj-mahal, india: true}
+- {name: Florence Baptistery, lat: 43.773, lon: 11.255, note: Building in Brunelleschi's first perspective painting, article: perspective}
+- {name: Indian Museum, lat: 22.558, lon: 88.351, note: India's oldest museum, founded 1814, article: museums, india: true}
+- {name: Smithsonian Castle, lat: 38.889, lon: -77.026, note: Heart of the Smithsonian Institution, article: museums}
+- {name: Louvre, lat: 48.861, lon: 2.338, note: Royal palace that became a public museum in 1793, article: museums}
+- {name: Serabit el-Khadim, lat: 29.037, lon: 33.459, note: Ancient mine with some of the earliest alphabetic writing, article: alphabet-history}
+- {name: Keezhadi, lat: 9.863, lon: 78.182, note: Excavation with Tamil-Brahmi pottery near Madurai, article: tamil-ancient, india: true}
+- {name: Sanchi, lat: 23.479, lon: 77.740, note: Stupa carved with Jataka scenes, article: jataka-tales, india: true}
+- {name: Gallaudet University, lat: 38.907, lon: -76.994, note: University for deaf students taught in ASL, article: sign-language}
+- {name: Coupvray, lat: 48.893, lon: 2.797, note: Village where Louis Braille was born, article: braille}
+- {name: Jagannath Temple, Puri, lat: 19.805, lon: 85.818, note: Temple whose chariots gave English the word juggernaut, article: words-borrowed, india: true}
+- {name: Kurukshetra, lat: 29.970, lon: 76.878, note: Battlefield of the Mahabharata war, article: mahabharata, india: true}
+- {name: Prambanan, lat: -7.752, lon: 110.492, note: Temple where a Ramayana ballet is staged, article: ramayana}

@@ -1,0 +1,34 @@
+NEW|how|cameras-how|How does a camera capture a picture?
+NEW|how|telephone|How does a phone carry your voice?
+NEW|how|radio-waves|How does radio travel through the air?
+NEW|how|x-rays|How do X-rays see inside you?
+NEW|how|thermometer|How does a thermometer measure heat?
+NEW|how|boiling-water|What happens when water boils?
+NEW|how|pressure-cooker|How does a pressure cooker cook faster?
+NEW|how|clocks|How does a clock keep time?
+NEW|how|locks-keys|How does a lock know the right key?
+NEW|how|zippers|How does a zip work?
+NEW|how|velcro|Who invented Velcro, and how does it stick?
+NEW|how|glue-sticky|Why is glue sticky?
+NEW|how|bubbles-round|Why are bubbles round?
+NEW|how|static-electricity|Why does a balloon stick to your hair?
+NEW|how|elevators|How does a lift go up and down?
+NEW|how|escalators|How does an escalator work?
+NEW|how|bridges|How do bridges hold up so much weight?
+NEW|how|skyscrapers|How do skyscrapers stay standing?
+NEW|how|tunnels|How do people dig tunnels under rivers and mountains?
+NEW|how|roads-built|How are roads built?
+NEW|how|trains-how|How do trains stay on the tracks?
+NEW|how|bullet-trains|How do bullet trains go so fast?
+NEW|how|cars-engine|How does a car engine work?
+NEW|how|electric-cars|How do electric cars work?
+NEW|how|traffic-lights|How do traffic lights know when to change?
+NEW|how|water-purify|How is dirty water made safe to drink?
+NEW|how|toilets-sewers|Where does the water go when you flush?
+NEW|how|recycling|What happens to things we recycle?
+NEW|how|plastic-made|What is plastic made of?
+NEW|how|glass-made|How is glass made from sand?
+NEW|how|paper-made|How is paper made?
+NEW|how|fireworks|How do fireworks get their colours?
+NEW|how|fire-burns|What is fire?
+NEW|how|rust|Why does iron rust?

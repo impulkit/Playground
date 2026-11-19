@@ -1,0 +1,31 @@
+- {name: Jack Hills, lat: -26.1, lon: 117.2, note: Zircon crystals about 4.4 billion years old, article: rocks-oldest}
+- {name: Acasta River, lat: 65.2, lon: -115.5, note: "Home of the Acasta Gneiss, about 4 billion years old", article: rocks-oldest}
+- {name: Anamudi, lat: 10.17, lon: 77.06, note: Highest peak of the Western Ghats, article: western-ghats, india: true}
+- {name: Agumbe, lat: 13.50, lon: 75.09, note: One of the rainiest towns in the Western Ghats, article: western-ghats, india: true}
+- {name: Talakaveri, lat: 12.38, lon: 75.49, note: Source of the Kaveri river, article: western-ghats, india: true}
+- {name: Jaisalmer, lat: 26.92, lon: 70.91, note: Golden sandstone city in the Thar Desert, article: thar-formed, india: true}
+- {name: Kalibangan, lat: 29.47, lon: 74.13, note: Indus city near the dry Ghaggar-Hakra river, article: thar-formed, india: true}
+- {name: Hadar, lat: 11.1, lon: 40.6, note: Where the fossil Lucy was found in 1974, article: great-rift-valley}
+- {name: Olduvai Gorge, lat: -2.99, lon: 35.35, note: Fossils and stone tools almost 2 million years old, article: great-rift-valley}
+- {name: Ol Doinyo Lengai, lat: -2.76, lon: 35.91, note: Volcano with black lava that turns white, article: great-rift-valley}
+- {name: Grand Prismatic Spring, lat: 44.525, lon: -110.838, note: Hot spring ringed by colourful microbes, article: geysers-hot-springs}
+- {name: Manikaran, lat: 32.03, lon: 77.35, note: Hot springs used to cook food at a gurdwara, article: geysers-hot-springs, india: true}
+- {name: Rajgir, lat: 25.03, lon: 85.42, note: Hot springs in old Buddhist and Jain stories, article: geysers-hot-springs, india: true}
+- {name: Borrowdale, lat: 54.53, lon: -3.15, note: Graphite found here in the 1500s, article: minerals-everyday}
+- {name: Gopalpur, lat: 19.26, lon: 84.91, note: Where Cyclone Phailin made landfall in 2013, article: cyclones-india, india: true}
+- {name: Phalodi, lat: 27.13, lon: 72.36, note: "India's highest recorded temperature, 51.0 °C", article: heatwaves, india: true}
+- {name: Lytton, lat: 50.23, lon: -121.58, note: "Canada's record heat, 49.6 °C, in 2021", article: heatwaves}
+- {name: Furnace Creek, lat: 36.46, lon: -116.87, note: "World's official hottest temperature, 56.7 °C", article: weather-records}
+- {name: Vostok Station, lat: -78.46, lon: 106.84, note: "Coldest air temperature measured, −89.2 °C", article: weather-records}
+- {name: Mawsynram, lat: 25.30, lon: 91.58, note: Wettest place on Earth on average, article: weather-records, india: true}
+- {name: Bhadla Solar Park, lat: 27.54, lon: 71.91, note: One of the largest solar parks in the world, article: renewable-energy, india: true}
+- {name: Cochin International Airport, lat: 10.15, lon: 76.40, note: Airport running entirely on solar power since 2015, article: renewable-energy, india: true}
+- {name: Sriharikota, lat: 13.72, lon: 80.23, note: Launch site of AstroSat in 2015, article: space-telescopes-india, india: true}
+- {name: Kodaikanal Solar Observatory, lat: 10.23, lon: 77.46, note: Has photographed sunspots for over a century, article: sunspots, india: true}
+- {name: Hanle, lat: 32.78, lon: 78.96, note: "India's first dark sky reserve, declared 2022", article: stargazing, india: true}
+- {name: Jantar Mantar Jaipur, lat: 26.925, lon: 75.824, note: Stone observatory with a 27 m sundial, article: jantar-mantar, india: true}
+- {name: Jantar Mantar Delhi, lat: 28.627, lon: 77.217, note: Jai Singh's observatory from about 1724, article: jantar-mantar, india: true}
+- {name: Patna, lat: 25.61, lon: 85.14, note: "Near ancient Pataliputra, where Aryabhata worked", article: astronomy-ancient-india, india: true}
+- {name: Adler Planetarium, lat: 41.866, lon: -87.607, note: "First planetarium in the Americas, opened 1930", article: planetariums}
+- {name: Birla Planetarium, lat: 22.545, lon: 88.347, note: Kolkata planetarium opened in 1963, article: planetariums, india: true}
+- {name: Jena, lat: 50.93, lon: 11.59, note: Where the Zeiss star projector was first tested in 1923, article: planetariums}

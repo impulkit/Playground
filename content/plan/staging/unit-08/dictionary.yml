@@ -1,0 +1,16 @@
+- {id: fungus, word: fungus, meaning: "A living thing such as a mushroom, mould or yeast. Fungi are not plants: they cannot make food from sunlight and feed on other things instead.", see: mushrooms}
+- {id: mycelium, word: mycelium, meaning: "The hidden body of a fungus: a mass of fine threads that spreads through soil, wood or food.", see: mushrooms}
+- {id: wetland, word: wetland, meaning: "Land that is soaked with water for at least part of the year, such as a marsh, swamp, bog or mangrove forest.", see: wetlands}
+- {id: endangered, word: endangered, meaning: "So few left in the wild that the species could die out completely.", see: extinction-today}
+- {id: predator, word: predator, meaning: "An animal that hunts and eats other animals.", see: yellowstone-wolves}
+- {id: habitat, word: habitat, meaning: "The natural home of a plant or animal, with the food, water and shelter it needs.", see: extinction-today}
+- {id: density, word: density, meaning: "How much stuff is packed into a space. A brick and a sponge of the same size have very different densities.", see: floating-ships}
+- {id: buoyancy, word: buoyancy, meaning: "The upward push that water or air gives to anything sitting in it.", see: floating-ships}
+- {id: electron, word: electron, meaning: "A tiny particle with a negative electric charge, found in every atom. Moving electrons make an electric current.", see: batteries}
+- {id: generator, word: generator, meaning: "A machine that turns movement into electricity, usually by spinning magnets past coils of wire.", see: dams-power}
+- {id: turbine, word: turbine, meaning: "A wheel with blades that is spun round by moving wind, water or steam.", see: wind-turbines}
+- {id: refraction, word: refraction, meaning: "The bending of light as it passes from one material into another, such as from air into water or glass.", see: lenses-glasses}
+- {id: evaporation, word: evaporation, meaning: "When a liquid slowly turns into a gas, like a puddle drying in the sun.", see: refrigerator}
+- {id: pollen, word: pollen, meaning: "A fine powder made by flowers. Carried to another flower, it helps make seeds.", see: fig-wasps}
+- {id: chlorophyll, word: chlorophyll, meaning: "The green colouring in leaves that soaks up sunlight so the plant can make food.", see: photosynthesis}
+- {id: molecule, word: molecule, meaning: "A tiny group of atoms joined together. A water molecule is two hydrogen atoms and one oxygen atom.", see: microwave}

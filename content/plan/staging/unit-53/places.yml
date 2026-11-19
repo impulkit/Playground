@@ -1,0 +1,25 @@
+- {name: Moradabad, lat: 28.84, lon: 78.77, note: Site of the deadliest hailstorm on record in 1888, article: hailstorms-india, india: true}
+- {name: Bhitarkanika National Park, lat: 20.70, lon: 86.90, note: Odisha's saltwater crocodile stronghold, article: crocodiles-alligators, india: true}
+- {name: Everglades National Park, lat: 25.29, lon: -80.90, note: Where alligators and crocodiles share the same wetlands, article: crocodiles-alligators}
+- {name: Wedge Island, lat: -30.83, lon: 115.19, note: Where the 1886 message in a bottle was found, article: ocean-currents-travel}
+- {name: Charminar, lat: 17.3616, lon: 78.4747, note: The four-towered monument at the heart of old Hyderabad, article: charminar, india: true}
+- {name: Djinguereber Mosque, lat: 16.7713, lon: -3.0076, note: Mud-brick mosque begun under Mansa Musa in Timbuktu, article: mali-empire}
+- {name: Cerro Armazones, lat: -24.59, lon: -70.19, note: Site of the Extremely Large Telescope, article: telescopes-giant}
+- {name: Las Campanas Observatory, lat: -29.01, lon: -70.69, note: Planned site of the Giant Magellan Telescope, article: telescopes-giant}
+- {name: Uto, lat: 32.69, lon: 130.66, note: Town with a monument to Kathleen Drew-Baker, the Mother of the Sea, article: seaweed-food}
+- {name: Mausam Bhawan, lat: 28.5887, lon: 77.2219, note: Headquarters of the India Meteorological Department, article: imd, india: true}
+- {name: Satish Dhawan Space Centre, lat: 13.72, lon: 80.23, note: India's main spaceport on Sriharikota island, article: launch-sites, india: true}
+- {name: Thumba, lat: 8.53, lon: 76.87, note: Where India's first rocket launched in 1963, article: launch-sites, india: true}
+- {name: Kulasekarapattinam, lat: 8.40, lon: 78.05, note: India's second spaceport, for small rockets, article: launch-sites, india: true}
+- {name: Kennedy Space Center, lat: 28.57, lon: -80.65, note: Launch site of Apollo 11, article: launch-sites}
+- {name: Guiana Space Centre, lat: 5.24, lon: -52.77, note: Europe's spaceport near the equator, article: launch-sites}
+- {name: Golden Temple, lat: 31.62, lon: 74.8765, note: Harmandir Sahib in Amritsar, article: golden-temple, india: true}
+- {name: Great Zimbabwe, lat: -20.27, lon: 30.93, note: Stone city built by ancestors of the Shona people, article: great-zimbabwe}
+- {name: CERN, lat: 46.2338, lon: 6.0470, note: Home of the Large Hadron Collider, article: particle-accelerators}
+- {name: Raja Ramanna Centre for Advanced Technology, lat: 22.65, lon: 75.82, note: Runs the Indus-1 and Indus-2 accelerators in Indore, article: particle-accelerators, india: true}
+- {name: Maratha Mandir, lat: 18.9706, lon: 72.8200, note: Mumbai cinema where DDLJ has run since 1995, article: bollywood-classics, india: true}
+- {name: Ramanagara, lat: 12.72, lon: 77.28, note: Rocky hills where Sholay's village was built, article: bollywood-classics, india: true}
+- {name: Similipal National Park, lat: 21.85, lon: 86.33, note: Forests where red ant chutney is made, article: insects-food, india: true}
+- {name: Mauna Loa Observatory, lat: 19.536, lon: -155.576, note: Where the Keeling Curve is measured, article: carbon-cycle}
+- {name: Indian Astronomical Observatory, lat: 32.78, lon: 78.96, note: Hanle observatory that recorded the May 2024 aurora, article: space-weather, india: true}
+- {name: Meenakshi Temple, lat: 9.9195, lon: 78.1193, note: Temple of 14 gopurams in Madurai, article: meenakshi-temple, india: true}

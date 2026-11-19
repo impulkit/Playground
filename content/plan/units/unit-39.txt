@@ -1,0 +1,34 @@
+NEW|pop|video-game-history|What were the first video games?
+NEW|pop|pokemon|Why did Pokémon become so popular?
+NEW|pop|rubiks-cube|How do people solve a Rubik's Cube so fast?
+NEW|pop|yo-yo-tops|How do spinning tops and yo-yos work?
+NEW|pop|bollywood-dance|How did Bollywood dance become famous worldwide?
+NEW|pop|kpop|What is K-pop?
+NEW|pop|beatles-music|Why were the Beatles so popular?
+NEW|pop|michael-jackson|Why was Michael Jackson called the King of Pop?
+NEW|pop|taylor-swift|Why is Taylor Swift so popular?
+NEW|pop|indie-music-india|What is India's indie music scene?
+NEW|pop|music-reality-shows|How do singing talent shows work?
+NEW|pop|cartoon-network-india|What cartoons did Indian kids grow up with?
+NEW|pop|chhota-bheem|How did Chhota Bheem become popular?
+NEW|pop|pixar|How does Pixar make films?
+NEW|pop|studio-ghibli|What is Studio Ghibli?
+NEW|pop|star-wars-effect|Why did Star Wars change movies?
+NEW|pop|sesame-street|What is Sesame Street?
+NEW|pop|stand-up-comedy|How does stand-up comedy work?
+NEW|food|indian-breakfasts|What do people eat for breakfast across India?
+NEW|food|regional-cuisines|How does food change across India?
+NEW|food|bengali-food|Why do Bengalis love fish and sweets?
+NEW|food|punjabi-food|What is Punjabi food like?
+NEW|food|south-indian-meals|What is a South Indian meal on a banana leaf?
+NEW|food|gujarati-food|Why is Gujarati food sweet and savoury?
+NEW|food|kashmiri-wazwan|What is a Kashmiri wazwan?
+NEW|food|northeast-food|What do people eat in Northeast India?
+NEW|food|goan-food|What makes Goan food special?
+NEW|food|chaat|What is chaat?
+NEW|food|pani-puri|Why does pani puri have so many names?
+NEW|food|pickles-achar|How are Indian pickles made?
+NEW|food|papad|How is papad made?
+NEW|food|jaggery|What is jaggery?
+NEW|food|coconut|Why is the coconut called the tree of life?
+NEW|food|cashew|How did cashews come to India?

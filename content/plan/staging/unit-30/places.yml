@@ -1,0 +1,12 @@
+- {name: Leh, lat: 34.15, lon: 77.58, note: Water boils below 90 °C at this height, article: cooking-science, india: true}
+- {name: Azadpur Mandi, lat: 28.71, lon: 77.17, note: One of Asia's largest fruit and vegetable markets, article: farm-to-plate, india: true}
+- {name: Kolkata, lat: 22.57, lon: 88.36, note: Where ice from Boston arrived in 1833, article: food-preserve, india: true}
+- {name: Mehrgarh, lat: 29.38, lon: 67.62, note: Earliest known cotton threads, about 7000 years old, article: clothes-cotton}
+- {name: Fort Rock Cave, lat: 43.37, lon: -121.06, note: Oldest known shoes, about 10000 years old, article: shoes-history}
+- {name: Areni-1 cave, lat: 39.73, lon: 45.20, note: A 5500-year-old leather shoe, article: shoes-history}
+- {name: Sivasagar, lat: 26.98, lon: 94.64, note: Assam's muga silk country, article: silk, india: true}
+- {name: Kanchipuram, lat: 12.83, lon: 79.70, note: Famous for heavy silk sarees, article: silk, india: true}
+- {name: Changthang, lat: 33.2, lon: 78.8, note: High plateau where pashmina goats are herded, article: wool, india: true}
+- {name: Flint, lat: 43.01, lon: -83.69, note: City whose tap water was poisoned by lead pipes, article: water-bottle}
+- {name: Frankfurt, lat: 50.11, lon: 8.68, note: Home of the first fitted kitchen, article: kitchens-history}
+- {name: Bengaluru soap factory, lat: 13.01, lon: 77.55, note: Mysore Sandal Soap is made here, article: soap-history, india: true}

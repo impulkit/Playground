@@ -1,0 +1,22 @@
+- {name: Salar de Uyuni, lat: -20.13, lon: -67.49, note: The world's largest salt flat, article: earth-salt-flats}
+- {name: Bonneville Salt Flats, lat: 40.76, lon: -113.89, note: Salt flats used for land speed racing, article: earth-salt-flats}
+- {name: Great Rann of Kutch, lat: 23.83, lon: 69.80, note: India's great salt marsh, article: earth-salt-flats, india: true}
+- {name: Ancient Olympia, lat: 37.64, lon: 21.63, note: Where the Olympic flame is lit, article: pop-olympic-torch}
+- {name: Bhuj, lat: 23.25, lon: 69.67, note: Heart of Kutch and its mirror crafts, article: art-lippan, india: true}
+- {name: Ugarit, lat: 35.60, lon: 35.78, note: Where early ABC-order tablets were found, article: words-alphabet-order}
+- {name: Basel Minster, lat: 47.556, lon: 7.592, note: Bernoulli's gravestone with the wrong spiral, article: maths-golden-spiral}
+- {name: Independence Rock, lat: 42.49, lon: -107.13, note: Landmark carved with pioneers' names, article: usa-oregon-trail}
+- {name: Chimney Rock, lat: 41.70, lon: -103.35, note: Famous Oregon Trail landmark, article: usa-oregon-trail}
+- {name: Triveni Sangam, lat: 25.42, lon: 81.89, note: Where the Ganga and Yamuna meet, article: india-wonder-kumbh, india: true}
+- {name: Strait Island, lat: 12.13, lon: 92.79, note: Home of the last Great Andamanese communities, article: people-languages-dying, india: true}
+- {name: Olympiastadion Berlin, lat: 52.515, lon: 13.239, note: Where Bolt ran 9.58 seconds, article: body-speed-limit}
+- {name: Yinxu, lat: 36.13, lon: 114.31, note: Shang capital where the oldest chopsticks were found, article: food-chopsticks}
+- {name: Jaipur, lat: 26.91, lon: 75.79, note: Home of blue pottery, article: art-blue-pottery-jaipur, india: true}
+- {name: Baratang Island, lat: 12.10, lon: 92.75, note: India's mud volcanoes, article: earth-mud-volcanoes, india: true}
+- {name: Lusi mud volcano, lat: -7.53, lon: 112.71, note: Mud eruption since 2006, article: earth-mud-volcanoes}
+- {name: "St Joseph, Missouri", lat: 39.77, lon: -94.85, note: Eastern end of the Pony Express, article: usa-pony-express}
+- {name: Sacramento, lat: 38.58, lon: -121.49, note: Western end of the Pony Express, article: usa-pony-express}
+- {name: Kisama Heritage Village, lat: 25.61, lon: 94.13, note: Venue of the Hornbill Festival, article: india-wonder-hornbill-festival, india: true}
+- {name: Silent Valley National Park, lat: 11.08, lon: 76.45, note: Rainforest saved partly for the lion-tailed macaque, article: wild-lion-tailed-macaque, india: true}
+- {name: Valparai, lat: 10.33, lon: 76.95, note: Canopy bridges for lion-tailed macaques, article: wild-lion-tailed-macaque, india: true}
+- {name: Chelyabinsk, lat: 55.16, lon: 61.40, note: City hit by a meteor blast in 2013, article: space-asteroid-defence}

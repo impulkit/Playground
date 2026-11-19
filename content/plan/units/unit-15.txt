@@ -1,0 +1,34 @@
+NEW|numbers|shapes-angles|Why does a triangle's angles add up to 180 degrees?
+NEW|numbers|circles|Why are wheels round?
+NEW|numbers|symmetry|What is symmetry?
+NEW|numbers|tessellations|Which shapes fit together without gaps?
+NEW|numbers|origami-maths|How is origami used in space?
+NEW|numbers|graphs-charts|How do charts tell stories?
+NEW|numbers|averages|What does average mean?
+NEW|numbers|probability|What are the chances?
+NEW|numbers|statistics-lies|Can numbers lie?
+NEW|numbers|measuring-units|Why are there metres and feet?
+NEW|numbers|metric-system|How was the metre decided?
+NEW|numbers|time-measure|Why are there 60 minutes in an hour?
+NEW|numbers|calendars|Why do calendars have 12 months?
+NEW|numbers|leap-years|Why is there a leap year?
+NEW|numbers|indian-calendars|How do Indian calendars work?
+NEW|numbers|money-maths|How does interest make money grow?
+NEW|numbers|budgets|How do you make a budget?
+NEW|numbers|big-small-scale|How small is an atom?
+NEW|numbers|estimation|How do you guess a number well?
+NEW|numbers|puzzles-logic|How do logic puzzles work?
+NEW|numbers|sudoku|What is the maths behind Sudoku?
+NEW|numbers|magic-squares|What are magic squares?
+NEW|numbers|codes-morse|How does Morse code work?
+NEW|numbers|patterns-nature|Where do patterns appear in nature?
+NEW|numbers|golden-ratio|Is the golden ratio really everywhere?
+NEW|numbers|fractals|What are fractals?
+NEW|numbers|maps-scale|How do maps shrink the world?
+NEW|numbers|coordinates|What are latitude and longitude?
+NEW|numbers|speed-distance|How do you work out speed?
+NEW|numbers|weights-mass|Is weight the same as mass?
+NEW|numbers|temperature-scales|Why are there Celsius and Fahrenheit?
+NEW|numbers|numbers-names|Why is it called a googol?
+NEW|numbers|abacus|How does an abacus work?
+NEW|numbers|women-maths|Who are some great women mathematicians?

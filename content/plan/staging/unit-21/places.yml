@@ -1,0 +1,23 @@
+# Unit 21 places
+- {name: Ahmedabad, lat: 23.03, lon: 72.58, note: Rooftop kite battles at Uttarayan, article: kites-festival, india: true}
+- {name: Film City Mumbai, lat: 19.16, lon: 72.88, note: Bollywood studios in Goregaon, article: bollywood, india: true}
+- {name: Santiniketan, lat: 23.68, lon: 87.68, note: Where Satyajit Ray studied art, article: satyajit-ray, india: true}
+- {name: Hollywood Sign, lat: 34.134, lon: -118.322, note: Giant letters first put up in 1923, article: hollywood}
+- {name: Ramoji Film City, lat: 17.25, lon: 78.68, note: The largest film studio complex, article: cinema-south, india: true}
+- {name: Kodambakkam, lat: 13.05, lon: 80.22, note: Chennai neighbourhood that gave Kollywood its name, article: cinema-south, india: true}
+- {name: San Diego Zoo, lat: 32.735, lon: -117.149, note: Where the first YouTube video was filmed, article: youtube}
+- {name: Akihabara, lat: 35.70, lon: 139.77, note: Tokyo district famous for manga and anime shops, article: manga-anime}
+- {name: Thalassery, lat: 11.75, lon: 75.49, note: Cradle of the Indian circus, article: circus, india: true}
+- {name: Thiruvaiyaru, lat: 10.88, lon: 79.10, note: Thyagaraja Aradhana on the Kaveri, article: festivals-music, india: true}
+- {name: Bethel Woods, lat: 41.70, lon: -74.88, note: Site of the 1969 Woodstock festival, article: festivals-music}
+- {name: Champaran, lat: 26.80, lon: 84.50, note: Indigo farmers and Gandhi's 1917 campaign, article: jeans, india: true}
+- {name: Herzogenaurach, lat: 49.57, lon: 10.88, note: Home town of both Adidas and Puma, article: sneakers}
+- {name: Barsana, lat: 27.65, lon: 77.38, note: Lathmar Holi with sticks and colour, article: holi, india: true}
+- {name: Jama Masjid Delhi, lat: 28.651, lon: 77.234, note: Huge crowds gather for Eid prayers, article: eid, india: true}
+- {name: Plymouth Massachusetts, lat: 41.96, lon: -70.67, note: Site of the 1621 harvest feast, article: thanksgiving}
+- {name: Punnamada Lake, lat: 9.51, lon: 76.36, note: Nehru Trophy snake boat race, article: onam-pongal, india: true}
+- {name: Kumartuli, lat: 22.60, lon: 88.36, note: Kolkata's neighbourhood of idol makers, article: durga-puja, india: true}
+- {name: Lalbaug, lat: 18.99, lon: 72.84, note: Home of the Lalbaugcha Raja, article: ganesh-chaturthi, india: true}
+- {name: Red Fort, lat: 28.656, lon: 77.241, note: Flag hoisting every 15 August, article: independence-days, india: true}
+- {name: Kiritimati, lat: 1.87, lon: -157.40, note: First inhabited place to reach 1 January, article: new-year}
+- {name: Times Square, lat: 40.758, lon: -73.985, note: New Year ball drop since 1907, article: new-year}

@@ -1,0 +1,21 @@
+# Unit 09 places
+- {name: Giant Metrewave Radio Telescope, lat: 19.10, lon: 74.05, note: Thirty radio dishes near Pune, article: radio-waves, india: true}
+- {name: Würzburg, lat: 49.79, lon: 9.95, note: Where Röntgen discovered X-rays, article: x-rays}
+- {name: "Jantar Mantar, Jaipur", lat: 26.92, lon: 75.82, note: Home of a giant 27-metre sundial, article: clocks, india: true}
+- {name: Aligarh, lat: 27.88, lon: 78.08, note: India's city of locks, article: locks-keys, india: true}
+- {name: Howrah Bridge, lat: 22.585, lon: 88.347, note: Riveted cantilever bridge over the Hooghly, article: bridges, india: true}
+- {name: Golden Gate Bridge, lat: 37.82, lon: -122.48, note: Suspension bridge opened in 1937, article: bridges}
+- {name: Chenab Rail Bridge, lat: 33.15, lon: 74.88, note: Rail arch about 359 metres above the river, article: bridges, india: true}
+- {name: Burj Khalifa, lat: 25.197, lon: 55.274, note: The world's tallest building, article: skyscrapers}
+- {name: Taipei 101, lat: 25.034, lon: 121.565, note: Tower with a giant swinging damper ball, article: skyscrapers}
+- {name: Thames Tunnel, lat: 51.502, lon: -0.052, note: First tunnel under a busy river, article: tunnels}
+- {name: Atal Tunnel, lat: 32.40, lon: 77.15, note: Highway tunnel under the Rohtang Pass, article: tunnels, india: true}
+- {name: Bori Bunder (CSMT), lat: 18.94, lon: 72.835, note: Start of India's first passenger train, article: trains-how, india: true}
+- {name: Broad Street pump, lat: 51.513, lon: -0.137, note: John Snow's cholera pump in Soho, article: water-purify}
+- {name: Mohenjo-daro, lat: 27.33, lon: 68.14, note: Indus city with covered brick drains, article: toilets-sewers}
+- {name: Dholavira, lat: 23.89, lon: 70.21, note: Harappan city with drains and reservoirs, article: toilets-sewers, india: true}
+- {name: Firozabad, lat: 27.15, lon: 78.40, note: India's city of glass bangles, article: glass-made, india: true}
+- {name: Sanganer, lat: 26.82, lon: 75.79, note: Centre of handmade paper near Jaipur, article: paper-made, india: true}
+- {name: Sivakasi, lat: 9.45, lon: 77.80, note: India's main fireworks centre, article: fireworks, india: true}
+- {name: Wonderwerk Cave, lat: -27.85, lon: 23.55, note: Possible early evidence of fire use, article: fire-burns}
+- {name: Iron Pillar of Delhi, lat: 28.5245, lon: 77.185, note: Ancient iron pillar that barely rusts, article: rust, india: true}

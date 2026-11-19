@@ -1,0 +1,15 @@
+- {name: Marsh Supermarket in Troy, lat: 40.04, lon: -84.20, note: First product sold with a barcode scan (1974), article: barcodes}
+- {name: Staffordshire Hoard find site, lat: 52.66, lon: -1.88, note: Field where a metal detectorist found Anglo-Saxon gold (2009), article: metal-detectors}
+- {name: Krakatoa, lat: -6.10, lon: 105.42, note: Volcano whose 1883 eruption reddened skies worldwide, article: colour-of-sky-sunset}
+- {name: Kanyakumari, lat: 8.08, lon: 77.54, note: Famous sunsets over the sea at India's southern tip, article: colour-of-sky-sunset, india: true}
+- {name: Kannauj, lat: 27.05, lon: 79.92, note: Perfume makers bottle the smell of first rain as mitti attar, article: nose-smell, india: true}
+- {name: Gol Gumbaz, lat: 16.83, lon: 75.74, note: Giant dome with a whispering gallery, article: sound-travel, india: true}
+- {name: US Capitol, lat: 38.89, lon: -77.01, note: Statuary Hall carries whispers across the room, article: sound-travel}
+- {name: Mumbai, lat: 19.08, lon: 72.88, note: Where the rare Bombay blood group was discovered (1952), article: blood-groups, india: true}
+- {name: Pune, lat: 18.52, lon: 73.86, note: Home of Shridhar Chillal and his record fingernails, article: nails, india: true}
+- {name: Tirumala, lat: 13.68, lon: 79.35, note: Temple where many pilgrims offer their hair, article: hair-grow, india: true}
+- {name: Sidrapong, lat: 27.02, lon: 88.24, note: Early hydroelectric station near Darjeeling (1897), article: electricity-made, india: true}
+- {name: Livermore fire station, lat: 37.68, lon: -121.74, note: A light bulb glowing almost nonstop since 1901, article: light-bulb}
+- {name: Pangong Tso, lat: 33.75, lon: 78.65, note: Salty high-altitude lake that freezes in winter, article: why-ice-floats, india: true}
+- {name: CCMB Hyderabad, lat: 17.42, lon: 78.54, note: Where Lalji Singh developed DNA fingerprinting in India, article: dna, india: true}
+- {name: Bhadla Solar Park, lat: 27.54, lon: 71.92, note: One of the world's largest solar parks, article: electricity-made, india: true}

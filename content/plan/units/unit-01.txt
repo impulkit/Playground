@@ -1,0 +1,34 @@
+NEW|lost|velociraptor-real|What was the real Velociraptor like?
+NEW|lost|triceratops-horns|What were Triceratops's horns and frill for?
+NEW|lost|ankylosaurus-club|How did Ankylosaurus use its tail club?
+NEW|lost|argentinosaurus|What was the biggest dinosaur ever?
+NEW|lost|dino-babies|How did baby dinosaurs grow up?
+NEW|lost|dino-brains|How smart were dinosaurs?
+NEW|lost|dino-speed|How fast could dinosaurs run?
+NEW|lost|dino-warm|Were dinosaurs warm-blooded?
+NEW|lost|dino-names|Who gets to name a dinosaur?
+NEW|lost|mary-anning|Who was Mary Anning, the fossil hunter of the cliffs?
+NEW|lost|bone-wars|What were the Bone Wars?
+NEW|lost|great-dying|What was the Great Dying, worse than the dinosaur extinction?
+NEW|lost|trilobites|What were trilobites?
+NEW|lost|ammonites|What were ammonites, the spiral shells of the ancient seas?
+NEW|lost|sabre-tooth|How did sabre-toothed cats use their teeth?
+NEW|lost|giant-sloths|Were there sloths as big as elephants?
+NEW|lost|dodo|What happened to the dodo?
+NEW|lost|dino-feet-tracks|What can dinosaur footprints tell us?
+EXPAND|lost|amber-fossils
+EXPAND|lost|barapasaurus
+EXPAND|lost|birds-dinosaurs
+EXPAND|lost|deccan
+EXPAND|lost|dino-age-span
+EXPAND|lost|dino-colors
+EXPAND|lost|dino-eggs
+EXPAND|lost|dino-poop
+EXPAND|lost|dino-sounds
+EXPAND|lost|dino-swim
+EXPAND|lost|dinos-in-india
+EXPAND|lost|extinction
+EXPAND|lost|feathers
+EXPAND|lost|fossils-form
+EXPAND|lost|fossils-know
+EXPAND|lost|how-reconstruct

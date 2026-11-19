@@ -1,0 +1,50 @@
+- {year: 1054, title: A guest star in China, text: Chinese astronomers record a supernova bright enough to see in daylight., article: supernova}
+- {year: 1604, title: Kepler's supernova, text: The last exploding star seen with bare eyes in our galaxy., article: supernova}
+- {year: 1610, title: Jupiter's four moons, text: "Galileo spots Io, Europa, Ganymede and Callisto circling Jupiter.", article: moons-of-jupiter}
+- {year: 1610, title: Saturn's strange ears, text: Galileo sees lumps on either side of Saturn that are really its rings., article: saturn-rings}
+- {year: 1668, title: Newton's mirror telescope, text: Isaac Newton builds a telescope that uses a curved mirror instead of a lens., article: telescopes-how}
+- {year: 1781, title: Uranus discovered, text: William Herschel finds a new planet from his garden in Bath., article: uranus-sideways}
+- {year: 1801, title: The first asteroid, text: Giuseppe Piazzi spots Ceres from Palermo., article: asteroid-origin}
+- {year: 1846, title: Neptune found by maths, text: Astronomers in Berlin find Neptune where calculations said it would be., article: neptune-winds}
+- {year: 1859, title: The Carrington Event, text: "A huge solar storm makes telegraph wires spark and auroras glow near the tropics.", article: aditya-l1}
+- {year: 1868, title: Helium found at Guntur, text: An eclipse seen from India reveals a new element in the Sun., article: eclipses}
+- {year: 1908, title: Tunguska blast, text: A space rock explodes over Siberia and flattens millions of trees., article: asteroid-today}
+- {year: 1926, title: First liquid-fuel rocket, text: Robert Goddard's rocket flies for 2.5 seconds in Massachusetts., article: rockets-how}
+- {year: 1954, title: Hit by a meteorite, text: A meteorite crashes through a roof in Alabama and bruises Ann Hodges., article: meteorites}
+- {year: 1957, title: Sputnik launched, text: The first artificial satellite begins beeping from orbit., article: sputnik}
+- {year: 1961, title: First person in space, text: Yuri Gagarin circles Earth once in Vostok 1., article: first-in-space}
+- {year: 1963, title: Rockets at Thumba, text: India's first rocket launch lifts off from a fishing village in Kerala., article: rockets-how}
+- {year: 1963, title: First woman in space, text: Valentina Tereshkova orbits Earth 48 times., article: first-in-space}
+- {year: 1965, title: First spacewalk, text: Alexei Leonov floats outside his spacecraft for about 12 minutes., article: spacesuits}
+- {year: 1965, title: The Big Bang's afterglow, text: Radio astronomers in New Jersey detect a faint hiss from every direction., article: night-sky-dark}
+- {year: 1969, title: Footsteps on the Moon, text: Neil Armstrong and Buzz Aldrin walk on the Moon., article: apollo-moon}
+- {year: 1971, title: Clocks around the world, text: Atomic clocks flown on airliners confirm Einstein's ideas about time., article: time-in-space}
+- {year: 1972, title: Last Moon walk, text: Apollo 17's crew are the last people to walk on the Moon., article: apollo-moon}
+- {year: 1975, title: TV from space, text: "India uses a satellite to beam lessons to about 2,400 villages.", article: satellites-help}
+- {year: 1977, title: Voyagers launched, text: Two probes set off on a grand tour of the giant planets., article: voyager}
+- {year: 1978, title: First GPS satellite, text: The United States launches the first satellite of what becomes GPS., article: gps-how}
+- {year: 1979, title: Skylab falls, text: The US space station breaks up and scatters pieces over Western Australia., article: space-junk}
+- {year: 1980, title: The iridium clue, text: Luis and Walter Alvarez link a thin clay layer to a giant asteroid impact., article: asteroid-size}
+- {year: 1984, title: First Indian in space, text: Rakesh Sharma flies to the Salyut 7 space station., article: gaganyaan}
+- {year: 1986, title: Voyager 2 at Uranus, text: The only spacecraft to visit Uranus flies past., article: uranus-sideways}
+- {year: 1987, title: Supernova 1987A, text: A star explodes in a nearby galaxy and neutrinos reach Earth first., article: supernova}
+- {year: 1989, title: Voyager 2 at Neptune, text: The probe photographs the Great Dark Spot., article: neptune-winds}
+- {year: 1990, title: Hubble launched, text: The Hubble Space Telescope is carried into orbit by Space Shuttle Discovery., article: hubble}
+- {year: 1993, title: Hubble gets glasses, text: Astronauts fix Hubble's blurry vision., article: hubble}
+- {year: 1995, title: A planet around a Sun-like star, text: Michel Mayor and Didier Queloz discover 51 Pegasi b., article: exoplanets}
+- {year: 1997, title: Kalpana Chawla in space, text: She becomes the first woman born in India to fly into space., article: kalpana-chawla}
+- {year: 1998, title: Space station begins, text: The first module of the International Space Station is launched., article: space-station}
+- {year: 2003, title: Columbia lost, text: The space shuttle breaks apart on its way home and seven astronauts die., article: kalpana-chawla}
+- {year: 2009, title: Satellites collide, text: Two satellites crash into each other above Siberia for the first time., article: space-junk}
+- {year: 2012, title: Into interstellar space, text: Voyager 1 leaves the Sun's bubble of solar wind., article: voyager}
+- {year: 2013, title: Chelyabinsk fireball, text: A space rock bursts over a Russian city and shatters windows., article: asteroid-today}
+- {year: 2015, title: Lettuce in orbit, text: Astronauts eat lettuce grown on the space station., article: space-food}
+- {year: 2017, title: Cassini's last dive, text: The spacecraft plunges into Saturn after 13 years studying it., article: saturn-rings}
+- {year: 2022, title: Hanle dark sky reserve, text: India protects the night sky around the observatory in Ladakh., article: night-sky-dark}
+- {year: 2023, title: Gaganyaan escape test, text: ISRO tests the system that would pull a crew to safety., article: gaganyaan}
+- {year: 2023, title: Aditya-L1 launched, text: India sends its first observatory to study the Sun., article: aditya-l1}
+- {year: 2023, title: Bennu sample lands, text: NASA's OSIRIS-REx drops off a capsule of asteroid dust., article: asteroid-origin}
+- {year: 2024, title: Eclipse across North America, text: "A total solar eclipse crosses Mexico, the USA and Canada.", article: eclipses}
+- {year: 2024, title: Aurora over Ladakh, text: A rare reddish aurora is recorded from Hanle., article: aurora}
+- {year: 2024, title: Europa Clipper launched, text: NASA sends a spacecraft to study Jupiter's ice-covered moon., article: moons-of-jupiter}
+- {year: 2025, title: Indian on the space station, text: Shubhanshu Shukla becomes the first Indian aboard the ISS., article: astronaut-life}

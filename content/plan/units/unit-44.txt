@@ -1,0 +1,34 @@
+NEW|how|candles|How does a candle burn?
+NEW|how|soap-bubbles-colours|Why do soap bubbles have rainbow colours?
+NEW|earth|continental-drift|How did we discover that continents move?
+NEW|earth|pangaea|What was Pangaea?
+NEW|earth|rocks-oldest|Where are the oldest rocks on Earth?
+NEW|earth|western-ghats|Why are the Western Ghats so important?
+NEW|earth|thar-formed|How did the Thar Desert form?
+NEW|earth|great-rift-valley|What is the Great Rift Valley?
+NEW|earth|geysers-hot-springs|What are hot springs?
+NEW|earth|minerals-everyday|Which minerals are in everyday things?
+NEW|earth|sand-where|Where does sand come from?
+NEW|earth|cyclones-india|Why does India's east coast get more cyclones?
+NEW|earth|heatwaves|Why are heatwaves getting worse?
+NEW|earth|fog-smog|What is the difference between fog and smog?
+NEW|earth|weather-records|What are Earth's weather records?
+NEW|earth|el-nino|What are El Niño and La Niña?
+NEW|earth|renewable-energy|Which energy sources never run out?
+NEW|space|moon-water|Is there water on the Moon?
+NEW|space|moon-landing-sites|Where have spacecraft landed on the Moon?
+NEW|space|mars-colonies|Could people live on Mars?
+NEW|space|asteroid-mining|Could we mine asteroids?
+NEW|space|solar-wind|What is the solar wind?
+NEW|space|sunspots|What are sunspots?
+NEW|space|dwarf-planets|What are dwarf planets?
+NEW|space|kuiper-belt|What is the Kuiper Belt?
+NEW|space|titan|What is Saturn's moon Titan like?
+NEW|space|europa|Could Europa have an ocean?
+NEW|space|space-telescopes-india|What is India's AstroSat?
+NEW|space|astronomy-ancient-india|What did ancient Indian astronomers discover?
+NEW|space|jantar-mantar|What is Jantar Mantar?
+NEW|space|planetariums|What happens inside a planetarium?
+NEW|space|stargazing|How can you start stargazing?
+NEW|sky|monsoon-birds|Which birds arrive with the monsoon?
+NEW|sky|pigeons-homing|How do homing pigeons find their way home?

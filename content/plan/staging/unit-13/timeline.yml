@@ -1,0 +1,48 @@
+- {year: 868, title: The Diamond Sutra is printed, text: The oldest dated printed book is made from carved wooden blocks in China., article: printing-press}
+- {year: 1450, title: Gutenberg's press, text: Johannes Gutenberg begins printing with movable metal type in Mainz., article: printing-press}
+- {year: 1556, title: India's first printing press, text: Jesuit missionaries set up a press in Goa., article: printing-press}
+- {year: 1665, title: Hooke names the cell, text: "Robert Hooke publishes Micrographia, with drawings of a flea and cork cells.", article: microscopes}
+- {year: 1683, title: Bacteria first described, text: Antonie van Leeuwenhoek sees tiny creatures in scrapings from his teeth., article: microscopes}
+- {year: 1712, title: Newcomen's steam engine, text: The first practical steam engine pumps water from an English mine., article: steam-engine}
+- {year: 1769, title: Watt's condenser patent, text: James Watt patents a far more efficient steam engine., article: steam-engine}
+- {year: 1800, title: The first battery, text: Alessandro Volta describes his pile of metal discs., article: batteries-history}
+- {year: 1817, title: The running machine, text: Karl Drais rides a pedal-less two-wheeler in Mannheim., article: bicycles-history}
+- {year: 1827, title: Oldest surviving photograph, text: Nicéphore Niépce captures a view from his window in France., article: photography-history}
+- {year: 1839, title: Photography announced, text: The daguerreotype process is made public in Paris., article: photography-history}
+- {year: 1844, title: "What hath God wrought", text: Samuel Morse sends a telegraph message from Washington to Baltimore., article: telegraph}
+- {year: 1853, title: India's first passenger train, text: A steam train runs from Bori Bunder in Bombay to Thane., article: indian-railways}
+- {year: 1866, title: Atlantic telegraph cable, text: A lasting cable links Europe and North America., article: telegraph}
+- {year: 1874, title: QWERTY goes on sale, text: Remington begins selling the Sholes and Glidden typewriter., article: typewriters-keyboards}
+- {year: 1876, title: Telephone patent, text: Alexander Graham Bell receives a US patent for the telephone., article: telephone-history}
+- {year: 1882, title: Pearl Street Station, text: Edison's power station begins lighting part of New York., article: electricity-history}
+- {year: 1886, title: Benz Motorwagen patented, text: Karl Benz patents a three-wheeled petrol car., article: cars-history}
+- {year: 1888, title: Bertha Benz's road trip, text: Bertha Benz drives about 106 km to show the car works., article: cars-history}
+- {year: 1893, title: Chicago lit by AC, text: The World's Columbian Exposition glows with alternating current., article: tesla-edison}
+- {year: 1895, title: Bose's microwave demonstration, text: Jagadish Chandra Bose sends radio waves across a hall in Calcutta., article: radio-invented}
+- {year: 1897, title: India's first hydroelectric station, text: Sidrapong near Darjeeling begins making electricity from falling water., article: electricity-history}
+- {year: 1901, title: Radio crosses the Atlantic, text: Marconi hears the letter S sent from Cornwall to Newfoundland., article: radio-invented}
+- {year: 1903, title: First powered flight, text: The Wright brothers fly at Kitty Hawk for 12 seconds., article: wright-brothers}
+- {year: 1908, title: The Model T, text: Henry Ford launches the car that put America on wheels., article: cars-history}
+- {year: 1926, title: First television demonstration, text: John Logie Baird shows moving pictures in London., article: television-invented}
+- {year: 1939, title: First jet flight, text: A German aircraft flies on jet power for the first time., article: plane-jet}
+- {year: 1947, title: The transistor, text: Bell Labs scientists invent the tiny switch behind every computer chip., article: chips-silicon}
+- {year: 1956, title: First hard disk, text: IBM's disk drive stores about 3.75 megabytes and weighs about a tonne., article: data-storage}
+- {year: 1957, title: First scanned digital photo, text: Russell Kirsch scans a photo of his baby son into a computer., article: pixels}
+- {year: 1958, title: Tennis for Two, text: A physicist builds an early video game for a lab open day., article: video-games}
+- {year: 1959, title: Television begins in India, text: The service that became Doordarshan starts in Delhi., article: television-invented}
+- {year: 1960, title: The first laser, text: Theodore Maiman makes red laser light with a ruby rod., article: lasers}
+- {year: 1961, title: First factory robot, text: Unimate starts work at a car plant in New Jersey., article: robots}
+- {year: 1963, title: Rocket launch at Thumba, text: India's first sounding rocket lifts off in Kerala., article: satellites-india}
+- {year: 1971, title: First microprocessor, text: Intel releases the 4004 chip, designed for a calculator., article: calculators}
+- {year: 1975, title: Aryabhata launched, text: India's first satellite reaches orbit on a Soviet rocket., article: satellites-india}
+- {year: 1980, title: SLV-3 reaches orbit, text: India launches a satellite on its own rocket for the first time., article: satellites-india}
+- {year: 1986, title: 3D printing patented, text: Chuck Hull receives a patent for stereolithography., article: 3d-printing}
+- {year: 1991, title: Lithium-ion batteries on sale, text: Sony begins selling rechargeable lithium-ion batteries., article: batteries-history}
+- {year: 1994, title: The QR code, text: Denso Wave in Japan releases the QR code to track car parts., article: qr-codes}
+- {year: 1995, title: India's first mobile call, text: A call is made from Kolkata to Delhi on a mobile phone., article: telephone-history}
+- {year: 2005, title: DARPA robot car race won, text: A Stanford car finishes a desert course without a driver., article: self-driving}
+- {year: 2010, title: First Aadhaar number, text: Ranjana Sonawane of Tembhli village receives the first Aadhaar number., article: aadhaar}
+- {year: 2013, title: Cyclone Phailin, text: Accurate forecasts help move around a million people in Odisha to safety., article: weather-forecasts}
+- {year: 2016, title: UPI launches, text: India's instant bank-to-bank payment system goes live., article: upi-payments}
+- {year: 2018, title: Last village connected, text: Leisang in Manipur becomes the last Indian village to get electricity., article: electricity-history}
+- {year: 2022, title: Fusion ignition, text: A laser fusion experiment in California releases more energy than the lasers delivered., article: nuclear-fusion}

@@ -1,0 +1,20 @@
+- {name: St Mary's Hospital London, lat: 51.517, lon: -0.174, note: Where Fleming discovered penicillin in 1928, article: antibiotics}
+- {name: Hindustan Antibiotics Pimpri, lat: 18.63, lon: 73.80, note: India's first penicillin factory (1954), article: antibiotics, india: true}
+- {name: Varanasi, lat: 25.32, lon: 83.01, note: Ancient Kashi, linked by tradition to Sushruta, article: sushruta, india: true}
+- {name: Mysore, lat: 12.30, lon: 76.64, note: Where Krishnamacharya shaped modern posture yoga, article: ayurveda-yoga, india: true}
+- {name: Pennsylvania Hospital, lat: 39.945, lon: -75.156, note: First hospital in the American colonies (1751), article: hospitals}
+- {name: AIIMS New Delhi, lat: 28.567, lon: 77.210, note: All India Institute of Medical Sciences (1956), article: hospitals, india: true}
+- {name: Merca, lat: 1.71, lon: 44.77, note: Site of the last natural smallpox case (1977), article: smallpox}
+- {name: Bhola Island, lat: 22.3, lon: 90.7, note: Home of Rahima Banu, last case of the deadliest smallpox, article: smallpox}
+- {name: Howrah, lat: 22.59, lon: 88.31, note: Where India's last wild polio case was found (2011), article: polio-india, india: true}
+- {name: Science Museum London, lat: 51.498, lon: -0.175, note: Home of Babbage's Difference Engine No. 2, article: charles-babbage}
+- {name: University of Pennsylvania, lat: 39.952, lon: -75.193, note: Where ENIAC was built, article: first-computers}
+- {name: TIFR Mumbai, lat: 18.907, lon: 72.806, note: Where TIFRAC, India's first home-built computer, was made, article: first-computers, india: true}
+- {name: C-DAC Pune, lat: 18.53, lon: 73.81, note: Where India's PARAM supercomputer was built, article: computers-how, india: true}
+- {name: CERN, lat: 46.234, lon: 6.055, note: Birthplace of the World Wide Web, article: web-invented}
+- {name: Royal Radar Establishment Malvern, lat: 52.10, lon: -2.32, note: Where an early touchscreen was invented (1965), article: touchscreens}
+- {name: Writers' Building Kolkata, lat: 22.573, lon: 88.349, note: India's first mobile call was made from here (1995), article: mobile-networks, india: true}
+- {name: Mumbai Central station, lat: 18.969, lon: 72.819, note: Early free station Wi-Fi in India (2016), article: wifi, india: true}
+- {name: Dartmouth College, lat: 43.704, lon: -72.289, note: The 1956 workshop that named artificial intelligence, article: ai-what}
+- {name: Stanford University, lat: 37.427, lon: -122.170, note: Where Google's founders built their search engine, article: search-engines}
+- {name: Bletchley Park, lat: 51.998, lon: -0.741, note: Wartime codebreaking centre, home of Colossus, article: first-computers}

@@ -1,0 +1,24 @@
+- {name: Babylon, lat: 32.54, lon: 44.42, note: Home of the oldest known world map, article: maps-history}
+- {name: Library of Congress, lat: 38.888, lon: -77.005, note: Holds the 1507 map that first named America, article: maps-history}
+- {name: International Rice Research Institute, lat: 14.17, lon: 121.25, note: Where IR8 rice was bred, article: rice}
+- {name: Shubayqa 1, lat: 32.38, lon: 37.36, note: Site of the oldest known bread, article: wheat-bread}
+- {name: Golden Temple langar, lat: 31.62, lon: 74.88, note: Free community kitchen serving rotis to all, article: roti-chapati, india: true}
+- {name: Udupi, lat: 13.34, lon: 74.75, note: Famous for vegetarian restaurants and masala dosa, article: dosa-idli, india: true}
+- {name: Muziris (Pattanam), lat: 10.16, lon: 76.21, note: Ancient pepper port visited by Roman traders, article: spices, india: true}
+- {name: Kozhikode, lat: 11.25, lon: 75.78, note: Where Vasco da Gama landed in 1498, article: spices, india: true}
+- {name: Guntur, lat: 16.31, lon: 80.44, note: One of Asia's biggest chilli markets, article: chillies, india: true}
+- {name: Erode, lat: 11.34, lon: 77.72, note: Major turmeric market with a GI-tagged turmeric, article: turmeric, india: true}
+- {name: Darjeeling, lat: 27.04, lon: 88.26, note: Hill town famous for its tea, article: tea, india: true}
+- {name: Baba Budangiri, lat: 13.43, lon: 75.75, note: Hills where coffee is said to have first been planted in India, article: coffee, india: true}
+- {name: Anand, lat: 22.56, lon: 72.95, note: Home of the Amul dairy cooperative, article: milk, india: true}
+- {name: Namakkal, lat: 11.22, lon: 78.17, note: Often called India's egg city, article: eggs, india: true}
+- {name: Dandi, lat: 20.89, lon: 72.80, note: Where Gandhi picked up salt in 1930, article: salt, india: true}
+- {name: Little Rann of Kutch, lat: 23.40, lon: 71.25, note: Salt pans worked by Agariya families, article: salt, india: true}
+- {name: Lake Titicaca, lat: -15.84, lon: -69.33, note: Region where potatoes were first farmed, article: potatoes}
+- {name: Kotgarh, lat: 31.32, lon: 77.48, note: Where American apple varieties were introduced in 1916, article: apples, india: true}
+- {name: Lasalgaon, lat: 20.15, lon: 74.23, note: Asia's largest onion market, article: onions-tears, india: true}
+- {name: Naples, lat: 40.85, lon: 14.27, note: Birthplace of pizza, article: pizza}
+- {name: Coney Island, lat: 40.575, lon: -73.97, note: Home of Nathan's Famous hot dogs, article: burgers-hotdogs}
+- {name: Lajia, lat: 35.85, lon: 102.83, note: Site of the oldest known noodles, article: noodles-pasta}
+- {name: Hyderabad, lat: 17.39, lon: 78.49, note: Famous for kacchi biryani, article: biryani, india: true}
+- {name: Sarafa Bazaar, lat: 22.72, lon: 75.86, note: Indore's famous night food market, article: street-food, india: true}

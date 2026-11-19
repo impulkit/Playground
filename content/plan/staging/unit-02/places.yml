@@ -1,0 +1,34 @@
+- {name: Gubbio, lat: 43.35, lon: 12.58, note: Where the iridium-rich boundary clay was studied, article: iridium-evidence}
+- {name: Anjar, lat: 23.11, lon: 70.03, note: Iridium-rich layer between Deccan lava flows, article: iridium-evidence, india: true}
+- {name: La Brea Tar Pits, lat: 34.063, lon: -118.356, note: Ice Age animals trapped in natural asphalt, article: la-brea}
+- {name: Corral Bluffs, lat: 38.8, lon: -104.6, note: Fossils of mammals from just after the asteroid, article: mammals-rise}
+- {name: Wrangel Island, lat: 71.2, lon: -179.4, note: Home of the last woolly mammoths, article: mammoths}
+- {name: Lyme Regis, lat: 50.725, lon: -2.937, note: Mary Anning found Britain's first pterosaur skeleton here, article: pterosaurs}
+- {name: Balasinor Dinosaur Fossil Park, lat: 22.99, lon: 73.33, note: Dinosaur eggs and nests near Raiyoli, article: rajasaurus, india: true}
+- {name: Hell Creek, lat: 47.6, lon: -106.9, note: Where the first T. rex skeleton was found, article: trex-montana}
+- {name: Field Museum, lat: 41.866, lon: -87.617, note: Home of Sue the T. rex, article: trex-montana}
+- {name: Lalbagh Rock, lat: 12.946, lon: 77.585, note: Gneiss about 3000 million years old, article: rocks-types, india: true}
+- {name: Makrana, lat: 27.04, lon: 74.72, note: Marble quarries for the Taj Mahal, article: rocks-types, india: true}
+- {name: Mammoth Cave, lat: 37.187, lon: -86.1, note: The longest known cave system on Earth, article: caves-form}
+- {name: Borra Caves, lat: 18.28, lon: 83.04, note: Limestone caves in the Eastern Ghats, article: caves-form, india: true}
+- {name: Belum Caves, lat: 15.1, lon: 78.11, note: Caves winding more than 3 km underground, article: caves-form, india: true}
+- {name: Gaumukh, lat: 30.93, lon: 79.08, note: Snout of the Gangotri Glacier, article: glaciers, india: true}
+- {name: Sermeq Kujalleq, lat: 69.17, lon: -49.8, note: One of the fastest glaciers on Earth, article: glaciers}
+- {name: Silent Valley National Park, lat: 11.08, lon: 76.45, note: Rainforest saved from a dam, article: rainforests, india: true}
+- {name: Mount Washington, lat: 44.27, lon: -71.30, note: 372 km/h gust in 1934, article: wind-blows}
+- {name: Vivian, lat: 43.93, lon: -100.3, note: Largest US hailstone fell here in 2010, article: snow-hail}
+- {name: Jericho, Vermont, lat: 44.5, lon: -72.99, note: Home of snowflake photographer Wilson Bentley, article: snow-hail}
+- {name: Mauna Loa Observatory, lat: 19.536, lon: -155.576, note: Carbon dioxide measured here since 1958, article: climate-change}
+- {name: Mount Everest, lat: 27.988, lon: 86.925, note: Highest summit above sea level, article: mountains-tallest}
+- {name: Mauna Kea, lat: 19.821, lon: -155.468, note: Tallest mountain from base to peak, article: mountains-tallest}
+- {name: Chimborazo, lat: -1.469, lon: -78.817, note: Summit farthest from Earth's centre, article: mountains-tallest}
+- {name: Kangchenjunga, lat: 27.703, lon: 88.147, note: India's highest mountain, article: mountains-tallest, india: true}
+- {name: Lake Tana, lat: 12.0, lon: 37.3, note: Source of the Blue Nile, article: rivers-longest}
+- {name: Dead Sea, lat: 31.5, lon: 35.5, note: Lowest land on Earth, article: lakes-salty}
+- {name: Sambhar Lake, lat: 26.93, lon: 75.08, note: India's largest inland salt lake, article: lakes-salty, india: true}
+- {name: Lonar Lake, lat: 19.976, lon: 76.508, note: Salty lake in a meteorite crater, article: lakes-salty, india: true}
+- {name: Great Salt Lake, lat: 41.1, lon: -112.5, note: Leftover of ancient Lake Bonneville, article: lakes-salty}
+- {name: Sundarbans, lat: 21.95, lon: 89.18, note: Mangrove forest of the Ganges–Brahmaputra delta, article: deltas}
+- {name: Okavango Delta, lat: -19.3, lon: 22.9, note: An inland delta in the Kalahari, article: deltas}
+- {name: Wayanad, lat: 11.6, lon: 76.08, note: Struck by deadly landslides in July 2024, article: landslides, india: true}
+- {name: Mount St. Helens, lat: 46.191, lon: -122.194, note: Largest landslide in recorded history, 1980, article: landslides}

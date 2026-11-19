@@ -1,0 +1,16 @@
+- {id: neuron, word: neuron, meaning: "A nerve cell. Neurons carry messages around the brain and body as tiny electrical signals.", see: brain-works}
+- {id: hormone, word: hormone, meaning: "A chemical messenger that travels in the blood and tells parts of the body what to do.", see: sleep-why}
+- {id: follicle, word: follicle, meaning: "A tiny pocket in the skin that a hair grows out of.", see: hair-grow}
+- {id: keratin, word: keratin, meaning: "A tough protein that makes up hair, nails, claws, hooves and horns.", see: nails}
+- {id: enamel, word: enamel, meaning: "The hard, shiny outer coat of a tooth. It is the hardest substance in the human body.", see: teeth}
+- {id: receptor, word: receptor, meaning: "A part of a cell that catches a particular chemical or signal, like a lock that fits only certain keys.", see: nose-smell}
+- {id: cochlea, word: cochlea, meaning: "The snail-shaped, fluid-filled tube in the inner ear that turns sound into nerve signals.", see: ears-hear}
+- {id: retina, word: retina, meaning: "The thin layer at the back of the eye with cells that sense light.", see: eyes-see}
+- {id: haemoglobin, word: haemoglobin, meaning: "The iron-containing protein in red blood cells that carries oxygen and makes blood red.", see: blood}
+- {id: antigen, word: antigen, meaning: "A marker on the surface of a cell or germ that the body's defences can recognise.", see: blood-groups}
+- {id: melanin, word: melanin, meaning: "The dark pigment that gives colour to skin, hair and eyes.", see: skin}
+- {id: fulcrum, word: fulcrum, meaning: "The fixed point that a lever turns on, like the middle of a seesaw.", see: lever-lift}
+- {id: molecule, word: molecule, meaning: "Two or more atoms joined together. A water molecule is two hydrogen atoms and one oxygen atom.", see: why-ice-floats}
+- {id: electron, word: electron, meaning: "A tiny particle with a negative electric charge, found in every atom. Moving electrons make electric current.", see: electricity-made}
+- {id: frequency, word: frequency, meaning: "How many times something vibrates or repeats every second. For sound, higher frequency means a higher note.", see: sound-travel}
+- {id: density, word: density, meaning: "How much mass is packed into a certain space. Things less dense than water float in it.", see: why-ice-floats}

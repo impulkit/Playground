@@ -1,0 +1,16 @@
+- {name: Golden Gate Bridge, lat: 37.8199, lon: -122.4783, note: Suspension bridge opened in 1937, article: golden-gate}
+- {name: Fallingwater, lat: 39.9063, lon: -79.4678, note: Frank Lloyd Wright's house over a waterfall, article: jobs-architect}
+- {name: Royal Institution, lat: 51.5099, lon: -0.1426, note: Where James Dewar invented the vacuum flask, article: thermos-flask}
+- {name: Bhide Wada, lat: 18.5155, lon: 73.8553, note: Site of the Phules' first girls' school in 1848, article: savitribai-phule, india: true}
+- {name: Naigaon, lat: 18.0544, lon: 73.9853, note: Village where Savitribai Phule was born, article: savitribai-phule, india: true}
+- {name: Dolby Theatre, lat: 34.1022, lon: -118.3404, note: Home of the Oscars ceremony, article: oscars}
+- {name: Pannaipuram, lat: 9.8456, lon: 77.3389, note: Ilaiyaraaja's home village, article: film-music-composers, india: true}
+- {name: Hoover Dam, lat: 36.0160, lon: -114.7377, note: Concrete dam on the Colorado River, article: hoover-dam}
+- {name: Lido di Venezia, lat: 45.4064, lon: 12.3707, note: Island where the Venice Film Festival is held, article: film-festivals}
+- {name: Palais des Festivals, lat: 43.5508, lon: 7.0174, note: Home of the Cannes Film Festival, article: film-festivals}
+- {name: Times Square, lat: 40.7580, lon: -73.9855, note: Crossroads of the World in Manhattan, article: times-square}
+- {name: Supreme Court of India, lat: 28.6224, lon: 77.2394, note: India's highest court in New Delhi, article: jobs-lawyer, india: true}
+- {name: Birsingha, lat: 22.7340, lon: 87.6870, note: Village where Vidyasagar was born, article: ishwar-chandra, india: true}
+- {name: Giverny, lat: 49.0756, lon: 1.5339, note: Monet's house and water lily garden, article: impressionists-monet}
+- {name: Battle Creek, lat: 42.3212, lon: -85.1797, note: Michigan town where corn flakes began, article: breakfast-world}
+- {name: Chillicothe, lat: 39.7953, lon: -93.5525, note: Missouri town where sliced bread was first sold, article: bread-factory}

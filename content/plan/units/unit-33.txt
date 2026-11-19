@@ -1,0 +1,34 @@
+NEW|tech|wikipedia-how|How is Wikipedia written?
+NEW|tech|data-centres|What is inside a data centre?
+NEW|tech|undersea-internet|How does the internet cross oceans?
+NEW|tech|5g|What is 5G?
+NEW|tech|bluetooth|How does Bluetooth work?
+NEW|tech|nfc-tap|How does tap-to-pay work?
+NEW|tech|fingerprint-sensors|How does a fingerprint sensor work?
+NEW|tech|batteries-phones|Why do phone batteries wear out?
+NEW|tech|ev-charging|How long does it take to charge an electric car?
+NEW|tech|hydrogen-fuel|Could hydrogen power cars and trains?
+NEW|tech|space-elevator|Could we build a lift to space?
+NEW|tech|quantum-computers|What is a quantum computer?
+NEW|tech|supercomputers|What can a supercomputer do?
+NEW|tech|isro-launch|How does ISRO launch a rocket?
+NEW|tech|reusable-rockets|How do rockets land themselves?
+NEW|tech|starlink|How does satellite internet work?
+NEW|tech|drones-delivery|Will drones deliver our parcels?
+NEW|tech|robots-surgery|How do robots help surgeons?
+NEW|tech|prosthetics|How do bionic arms and legs work?
+NEW|tech|hearing-aids|How do hearing aids and cochlear implants work?
+NEW|tech|accessibility-tech|How does technology help people with disabilities?
+NEW|tech|e-waste|What happens to old phones and laptops?
+NEW|tech|semiconductors-india|Why is India building chip factories?
+NEW|tech|digital-india|How did India go digital so fast?
+NEW|tech|indian-startups|How do startups grow into big companies?
+NEW|tech|steve-wozniak-garage|Why did so many tech companies start in garages?
+NEW|tech|silicon-valley|Why is Silicon Valley famous?
+NEW|tech|sundar-ganges-tech|Why do so many tech leaders come from India?
+NEW|tech|inventions-accidents|Which great inventions happened by accident?
+NEW|tech|patents|What is a patent?
+NEW|tech|ancient-tech|What machines did ancient people build?
+NEW|tech|antikythera|What is the Antikythera mechanism?
+NEW|tech|cameras-phones|How do phone cameras take such good photos?
+NEW|tech|noise-cancelling|How do noise-cancelling headphones work?

@@ -1,0 +1,53 @@
+# Unit 23 places
+- {name: Kumhrar (Pataliputra), lat: 25.6000, lon: 85.1830, note: Remains of the Mauryan capital's pillared hall, article: mauryan-empire, india: true}
+- {name: Dhauli, lat: 20.1920, lon: 85.8410, note: Ashoka's edicts near the Kalinga battlefield, article: ashoka, india: true}
+- {name: Sanchi Stupa, lat: 23.4794, lon: 77.7398, note: Great stupa begun in Ashoka's reign, article: ashoka, india: true}
+- {name: Taxila, lat: 33.7460, lon: 72.8390, note: Ancient centre of learning linked to Chanakya, article: chanakya, india: false}
+- {name: Iron Pillar of Delhi, lat: 28.5245, lon: 77.1855, note: Gupta-era iron pillar that has barely rusted, article: gupta-golden-age, india: true}
+- {name: Nalanda Mahavihara, lat: 25.1357, lon: 85.4439, note: Ruins of the great Buddhist monastery, article: nalanda, india: true}
+- {name: Lumbini, lat: 27.4833, lon: 83.2767, note: Birthplace of the Buddha, article: buddha, india: false}
+- {name: Mahabodhi Temple, lat: 24.6959, lon: 84.9914, note: Where the Buddha reached enlightenment, article: buddha, india: true}
+- {name: Sarnath, lat: 25.3811, lon: 83.0214, note: Site of the Buddha's first sermon and Ashoka's lion pillar, article: buddha, india: true}
+- {name: Pavapuri, lat: 25.0920, lon: 85.5380, note: Where Mahavira reached final liberation, article: mahavira, india: true}
+- {name: Shravanabelagola, lat: 12.8546, lon: 76.4846, note: Giant Jain statue of Bahubali, article: mahavira, india: true}
+- {name: Mogao Caves, lat: 40.0422, lon: 94.8095, note: Buddhist cave shrines on the Silk Road near Dunhuang, article: silk-road, india: false}
+- {name: Samarkand, lat: 39.6542, lon: 66.9597, note: Silk Road crossroads city, article: silk-road, india: false}
+- {name: Brihadeeswarar Temple, lat: 10.7828, lon: 79.1318, note: Rajaraja Chola's Big Temple at Thanjavur, article: cholas, india: true}
+- {name: Gangaikonda Cholapuram, lat: 11.2061, lon: 79.4486, note: Rajendra Chola's capital and temple, article: cholas, india: true}
+- {name: Uttaramerur, lat: 12.6157, lon: 79.7569, note: Inscriptions describing village elections by lot, article: cholas, india: true}
+- {name: Vittala Temple, lat: 15.3425, lon: 76.4748, note: Stone chariot and musical pillars, article: hampi, india: true}
+- {name: Virupaksha Temple, lat: 15.3350, lon: 76.4600, note: Living temple at the heart of Hampi, article: vijayanagara, india: true}
+- {name: Qutb Minar, lat: 28.5245, lon: 77.1855, note: Tower begun by the first Delhi sultan, article: delhi-sultanate, india: true}
+- {name: Daulatabad Fort, lat: 19.9426, lon: 75.2134, note: Where Muhammad bin Tughlaq moved his capital, article: delhi-sultanate, india: true}
+- {name: Humayun's Tomb, lat: 28.5933, lon: 77.2507, note: Mughal garden tomb that inspired the Taj Mahal, article: mughals, india: true}
+- {name: Red Fort, lat: 28.6562, lon: 77.2410, note: Shah Jahan's palace-fortress in Delhi, article: mughals, india: true}
+- {name: Fatehpur Sikri, lat: 27.0945, lon: 77.6679, note: Akbar's red sandstone capital, article: akbar, india: true}
+- {name: Shivneri Fort, lat: 19.1990, lon: 73.8597, note: Birthplace of Shivaji, article: shivaji, india: true}
+- {name: Raigad Fort, lat: 18.2340, lon: 73.4400, note: Where Shivaji was crowned, article: shivaji, india: true}
+- {name: Sindhudurg Fort, lat: 16.0430, lon: 73.4600, note: Shivaji's island sea fort, article: shivaji, india: true}
+- {name: Jhansi Fort, lat: 25.4580, lon: 78.5755, note: Rani Lakshmibai's fort, article: rani-lakshmibai, india: true}
+- {name: L'Anse aux Meadows, lat: 51.5953, lon: -55.5333, note: Viking site in Newfoundland, article: vikings, india: false}
+- {name: Lindisfarne, lat: 55.6690, lon: -1.8010, note: Monastery raided by Vikings in 793, article: vikings, india: false}
+- {name: Tower of London, lat: 51.5081, lon: -0.0759, note: Norman stone castle begun about 1078, article: knights-castles, india: false}
+- {name: Mehrangarh Fort, lat: 26.2980, lon: 73.0185, note: Great hill fort in Jodhpur, article: knights-castles, india: true}
+- {name: Himeji Castle, lat: 34.8394, lon: 134.6939, note: The White Heron castle, article: samurai, india: false}
+- {name: Chichen Itza, lat: 20.6843, lon: -88.5678, note: Maya city with the El Castillo pyramid, article: aztecs-maya, india: false}
+- {name: Tikal, lat: 17.2220, lon: -89.6237, note: Great Classic Maya city in Guatemala, article: aztecs-maya, india: false}
+- {name: Templo Mayor, lat: 19.4346, lon: -99.1313, note: Heart of Aztec Tenochtitlan in Mexico City, article: aztecs-maya, india: false}
+- {name: Machu Picchu, lat: -13.1631, lon: -72.5450, note: Inca royal estate in the Andes, article: inca-machu-picchu, india: false}
+- {name: Palos de la Frontera, lat: 37.2286, lon: -6.8936, note: Port where Columbus set sail in 1492, article: columbus, india: false}
+- {name: Mactan, lat: 10.3106, lon: 124.0150, note: Island where Magellan was killed in 1521, article: magellan, india: false}
+- {name: Florence Cathedral, lat: 43.7731, lon: 11.2560, note: Brunelleschi's great brick dome, article: renaissance, india: false}
+- {name: Tangier, lat: 35.7595, lon: -5.8340, note: Birthplace of Ibn Battuta, article: ibn-battuta, india: false}
+- {name: Venice, lat: 45.4408, lon: 12.3155, note: Marco Polo's home city, article: marco-polo, india: false}
+- {name: Kozhikode (Calicut), lat: 11.2588, lon: 75.7804, note: Port visited by Zheng He on all seven voyages, article: zheng-he, india: true}
+- {name: Galle, lat: 6.0329, lon: 80.2168, note: Where Zheng He's trilingual stone tablet was found, article: zheng-he, india: false}
+- {name: Fort St George, lat: 13.0797, lon: 80.2875, note: East India Company fort in Chennai, article: east-india-company, india: true}
+- {name: Surat, lat: 21.1702, lon: 72.8311, note: First East India Company trading post in India, article: east-india-company, india: true}
+- {name: Meerut, lat: 28.9845, lon: 77.7064, note: Where the revolt of 1857 began, article: revolt-1857, india: true}
+- {name: The Residency, Lucknow, lat: 26.8606, lon: 80.9259, note: Besieged British compound in 1857, article: revolt-1857, india: true}
+- {name: Jallianwala Bagh, lat: 31.6207, lon: 74.8801, note: Site of the 1919 massacre in Amritsar, article: freedom-struggle, india: true}
+- {name: Porbandar, lat: 21.6417, lon: 69.6050, note: Gandhi's birthplace, article: gandhi, india: true}
+- {name: Sabarmati Ashram, lat: 23.0607, lon: 72.5808, note: Start of the Salt March, article: salt-march, india: true}
+- {name: Dandi, lat: 21.3290, lon: 72.6230, note: Where Gandhi picked up salt in 1930, article: salt-march, india: true}
+- {name: Hussainiwala, lat: 30.9960, lon: 74.5490, note: Memorial to Bhagat Singh, Sukhdev and Rajguru, article: bhagat-singh, india: true}

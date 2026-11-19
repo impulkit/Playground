@@ -1,0 +1,86 @@
+# Subjects (the 'categories' you browse). Order here = order in the app.
+- id: lost
+  name: Lost Worlds
+  tagline: Dinosaurs, fossils and the day the sky fell
+  color: "#E9AE52"
+  start: extinction
+- id: earth
+  name: Restless Earth
+  tagline: Moving continents, rising mountains, wild weather
+  color: "#E0805E"
+  start: india-drift
+- id: space
+  name: Outer Space
+  tagline: Asteroids, moons, stars and missions
+  color: "#9AA2F2"
+  start: asteroid-origin
+- id: sky
+  name: Wings & Sky
+  tagline: Birds, bats, planes and long journeys
+  color: "#70C7C4"
+  start: how-birds-fly
+- id: ocean
+  name: Deep Oceans
+  tagline: Glowing fish, giant whales, the deepest dark
+  color: "#5DA9E9"
+  start: ocean-zones
+- id: wild
+  name: Wild World
+  tagline: Tigers, banyans, fireflies and the creatures next door
+  color: "#8CC47E"
+  start: tiger-stripes
+- id: how
+  name: How Things Work
+  tagline: Machines, materials, sound and everyday science
+  color: "#F2C14E"
+  start: sound-travel
+- id: art
+  name: Art & Music
+  tagline: Cave paintings, colours, ragas and kolams
+  color: "#E58FB0"
+  start: cave-art
+- id: people
+  name: People & Society
+  tagline: Governments, rights, votes and how we live together
+  color: "#C59BE8"
+  start: indus-cities
+- id: numbers
+  name: Numbers & Patterns
+  tagline: Zero, codes, crores and honeycombs
+  color: "#6FD1A8"
+  start: zero-invent
+- id: pop
+  name: Stories, Songs & Sport
+  tagline: Sport, films, music, games and festivals
+  color: "#FF9F6E"
+  start: beatles-india
+- id: body
+  name: Human Body
+  tagline: Brains, bones, germs and why you hiccup
+  color: "#F07C8A"
+  start: brain-works
+- id: tech
+  name: Inventions & Tech
+  tagline: Computers, inventors and the machines that changed everything
+  color: "#7B8CDE"
+  start: computers-how
+- id: history
+  name: History
+  tagline: Empires, explorers and people who changed the world
+  color: "#C9A06A"
+  start: stone-age
+- id: places
+  name: Countries & Cultures
+  tagline: Cities, countries and how people live around the world
+  color: "#4FB3BF"
+  start: india-geography
+- id: words
+  name: Books & Language
+  tagline: Alphabets, epics, poets and stories that last
+  color: "#B58BD6"
+  start: alphabet-history
+- id: food
+  name: Food & Everyday Life
+  tagline: What we eat, wear and use, and where it comes from
+  color: "#E8A33D"
+  start: spices

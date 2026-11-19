@@ -1,0 +1,34 @@
+NEW|how|metal-detectors|How does a metal detector find coins?
+NEW|how|barcodes|How does a barcode work?
+NEW|how|sound-recording|How do headphones make sound?
+NEW|how|colour-of-sky-sunset|Why are sunsets red?
+EXPAND|how|bicycle-balance
+EXPAND|how|body-cells
+EXPAND|how|dna
+EXPAND|how|electricity-made
+EXPAND|how|eyes-colour
+EXPAND|how|gravity-fall
+EXPAND|how|heart-beat
+EXPAND|how|internet-how
+EXPAND|how|lever-lift
+EXPAND|how|light-bulb
+EXPAND|how|magnets-how
+EXPAND|how|soap-germs
+EXPAND|how|sound-travel
+EXPAND|how|why-ice-floats
+NEW|body|brain-works|How does your brain work?
+NEW|body|sleep-why|Why do we need sleep?
+NEW|body|dreams|Why do we dream?
+NEW|body|memory|How do we remember things?
+NEW|body|bones|How many bones are in your body?
+NEW|body|muscles|How do muscles move you?
+NEW|body|skin|What does your skin do?
+NEW|body|hair-grow|Why does hair grow?
+NEW|body|nails|What are fingernails made of?
+NEW|body|teeth|Why do we lose our baby teeth?
+NEW|body|tongue-taste|How does your tongue taste things?
+NEW|body|nose-smell|How does your nose smell?
+NEW|body|ears-hear|How do your ears hear?
+NEW|body|eyes-see|How do your eyes see?
+NEW|body|blood|What is blood made of?
+NEW|body|blood-groups|What are blood groups?

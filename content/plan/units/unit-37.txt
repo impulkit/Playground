@@ -1,0 +1,34 @@
+NEW|people|sustainable-goals|What are the Sustainable Development Goals?
+NEW|people|urban-planning|How are cities planned?
+NEW|people|smart-cities|What is a smart city?
+NEW|people|slums-housing|Why do cities have slums?
+NEW|people|migration-india|Why do people move from villages to cities?
+NEW|people|indian-diaspora|Where in the world do Indians live?
+NEW|words|kannada-telugu|How old are Kannada and Telugu?
+NEW|words|bengali-language|What makes Bengali special?
+NEW|words|marathi-gujarati|How did Marathi and Gujarati grow?
+NEW|words|malayalam|What is unique about Malayalam?
+NEW|words|punjabi-gurmukhi|What is the Gurmukhi script?
+NEW|words|spanish-language|Why is Spanish spoken in so many countries?
+NEW|words|chinese-characters|How does Chinese writing work?
+NEW|words|arabic-script|Why is Arabic written right to left?
+NEW|words|japanese-writing|Why does Japanese use three scripts?
+NEW|words|latin-roots|How did Latin give us so many English words?
+NEW|words|esperanto|Can someone invent a language?
+NEW|words|whistled-languages|Can people talk by whistling?
+NEW|words|harry-potter-effect|Why do some books get children reading?
+NEW|words|jungle-book|What is the story behind The Jungle Book?
+NEW|words|kipling-india|Why did writers from Britain write about India?
+NEW|words|malgudi|What is Malgudi Days?
+NEW|words|sukumar-ray|Who was Sukumar Ray, India's master of nonsense verse?
+NEW|words|satyajit-ray-stories|What are Feluda and Professor Shonku?
+NEW|words|tinkle|How did Tinkle comics start?
+NEW|words|chandamama|What was Chandamama magazine?
+NEW|words|enid-blyton|Why are Enid Blyton's books so famous in India?
+NEW|words|tolkien|Who was J.R.R. Tolkien?
+NEW|words|cs-lewis|What is Narnia?
+NEW|words|little-women|Why is Little Women still read?
+NEW|words|charlottes-web|What is Charlotte's Web about?
+NEW|words|matilda|Why do readers love Matilda?
+NEW|words|percy-jackson|How do modern books retell old myths?
+NEW|words|graphic-novels|What is a graphic novel?

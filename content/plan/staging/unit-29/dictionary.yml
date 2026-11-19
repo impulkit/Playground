@@ -1,0 +1,11 @@
+- {id: latitude, word: latitude, meaning: "How far north or south of the equator a place is, measured in degrees.", see: coordinates}
+- {id: microbe, word: microbe, meaning: "A living thing too small to see without a microscope, such as a bacterium or a yeast.", see: fermentation}
+- {id: starch, word: starch, meaning: "A store of energy made by plants from long chains of sugar. Rice, wheat and potatoes are full of it.", see: rice}
+- {id: gluten, word: gluten, meaning: "A stretchy net of proteins that forms when wheat flour is mixed with water.", see: wheat-bread}
+- {id: domesticate, word: domesticate, meaning: "To tame a wild plant or animal over many generations so that it lives and grows with people.", see: farming-began}
+- {id: capsaicin, word: capsaicin, meaning: "The chemical in chillies that makes your mouth feel as if it is burning.", see: spicy-hot}
+- {id: tuber, word: tuber, meaning: "A swollen underground part of a plant that stores food, like a potato.", see: potatoes}
+- {id: crystal, word: crystal, meaning: "A solid whose tiny building blocks are stacked in a neat, repeating pattern, like salt or sugar grains.", see: gems-crystals}
+- {id: pasteurise, word: pasteurise, meaning: "To heat a food such as milk just enough to kill harmful germs, without boiling it.", see: milk}
+- {id: cooperative, word: cooperative, meaning: "A business owned and run together by its members, who share what it earns.", see: white-revolution}
+- {id: lactose, word: lactose, meaning: "The natural sugar found in milk.", see: milk}

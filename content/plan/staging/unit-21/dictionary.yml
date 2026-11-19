@@ -1,0 +1,3 @@
+# Unit 21 dictionary additions
+- {id: zodiac, word: zodiac, meaning: "A band of twelve star patterns that the Sun, Moon and planets seem to pass through during the year.", see: constellations}
+- {id: solstice, word: solstice, meaning: "One of the two days each year when the Sun reaches its highest or lowest point at noon, giving the longest or shortest day.", see: seasons-why}

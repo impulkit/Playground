@@ -1,0 +1,34 @@
+NEW|tech|robots|How do robots work?
+NEW|tech|self-driving|How do self-driving cars see the road?
+NEW|tech|video-games|How are video games made?
+NEW|tech|pixels|What is a pixel?
+NEW|tech|3d-printing|How does a 3D printer work?
+NEW|tech|upi-payments|How does UPI send money in seconds?
+NEW|tech|aadhaar|What is Aadhaar?
+NEW|tech|qr-codes|How does a QR code work?
+NEW|tech|data-storage|How much can a memory card hold?
+NEW|tech|cloud-computing|What is the cloud?
+NEW|tech|chips-silicon|How are computer chips made?
+NEW|tech|printing-press|How did the printing press change the world?
+NEW|tech|telegraph|How did the telegraph send messages across oceans?
+NEW|tech|radio-invented|Who invented the radio?
+NEW|tech|television-invented|How was television invented?
+NEW|tech|photography-history|How was photography invented?
+NEW|tech|steam-engine|How did the steam engine change the world?
+NEW|tech|indian-railways|How did railways come to India?
+NEW|tech|bicycles-history|How was the bicycle invented?
+NEW|tech|cars-history|Who built the first car?
+NEW|tech|wright-brothers|How did the Wright brothers learn to fly?
+NEW|tech|plane-jet|How does a jet engine work?
+NEW|tech|satellites-india|How did India build its first satellites?
+NEW|tech|nuclear-fusion|What is nuclear fusion?
+NEW|tech|lasers|What is a laser?
+NEW|tech|microscopes|How did microscopes reveal a hidden world?
+NEW|tech|electricity-history|How did homes get electricity?
+NEW|tech|batteries-history|Who invented the battery?
+NEW|tech|tesla-edison|What was the war of the currents?
+NEW|tech|telephone-history|Who invented the telephone?
+NEW|tech|typewriters-keyboards|Why are keyboard letters in a strange order?
+NEW|tech|calculators|How does a calculator do sums?
+NEW|tech|maps-digital|How do digital maps know about traffic?
+NEW|tech|weather-forecasts|How do computers forecast the weather?

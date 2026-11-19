@@ -1,0 +1,34 @@
+NEW|history|haitian-revolution|How did Haiti win its freedom?
+NEW|history|simon-bolivar|Who was Simón Bolívar?
+NEW|history|meiji-japan|How did Japan change so fast in the Meiji era?
+NEW|history|opium-wars|What were the Opium Wars?
+NEW|history|chinese-revolution|How did modern China begin?
+NEW|history|great-depression|What was the Great Depression?
+NEW|history|holocaust|What was the Holocaust?
+NEW|history|gandhi-south-africa|What happened to Gandhi in South Africa?
+NEW|history|decolonisation|How did so many countries become free after 1945?
+NEW|history|apartheid|What was apartheid?
+NEW|history|moon-race-women|Who were the women who did the maths for the space race?
+NEW|history|lewis-clark|Who were Lewis and Clark?
+NEW|history|gold-rush|What was the California Gold Rush?
+NEW|history|transcontinental-railroad|How was America's first coast-to-coast railroad built?
+NEW|history|ellis-island|What happened at Ellis Island?
+NEW|history|native-nations|Who are the Native American nations?
+NEW|history|pilgrims-mayflower|Who sailed on the Mayflower?
+NEW|history|us-civil-war|What was the American Civil War?
+NEW|history|harlem-renaissance|What was the Harlem Renaissance?
+NEW|history|womens-history-india|Who are some women who shaped India's history?
+NEW|history|ancient-africa|What were the great kingdoms of ancient Africa?
+NEW|tech|internet-of-things|What is the Internet of Things?
+NEW|tech|blockchain|What is a blockchain?
+NEW|tech|cybersecurity|How do hackers break in, and how do we stop them?
+NEW|tech|encryption|How does encryption keep secrets?
+NEW|tech|voice-assistants|How does a voice assistant understand you?
+NEW|tech|translation-apps|How do translation apps work?
+NEW|tech|face-recognition|How does a phone recognise your face?
+NEW|tech|chatbots|How do chatbots write answers?
+NEW|tech|deepfakes|What are deepfakes?
+NEW|tech|vr-ar|What are virtual reality and augmented reality?
+NEW|tech|game-engines|What is a game engine?
+NEW|tech|minecraft-coding|How do people build computers inside games?
+NEW|tech|open-source|What is open-source software?

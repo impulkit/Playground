@@ -1,0 +1,33 @@
+- {name: Bhadla Solar Park, lat: 27.54, lon: 71.92, note: One of the world's largest solar farms, article: green-tech, india: true}
+- {name: NASA Ames Research Center, lat: 37.41, lon: -122.06, note: Where memory foam was developed, article: space-tech-earth}
+- {name: Jet Propulsion Laboratory, lat: 34.20, lon: -118.17, note: Birthplace of the phone camera sensor, article: space-tech-earth}
+- {name: Jaipur, lat: 26.91, lon: 75.79, note: Home of the Jaipur foot, article: inventors-india, india: true}
+- {name: Bose Institute, lat: 22.586, lon: 88.373, note: Founded by J. C. Bose in 1917, article: jagadish-bose, india: true}
+- {name: Rameswaram, lat: 9.29, lon: 79.31, note: Abdul Kalam's birthplace, article: apj-kalam, india: true}
+- {name: Satish Dhawan Space Centre, lat: 13.72, lon: 80.23, note: Where SLV-3 launched Rohini in 1980, article: apj-kalam, india: true}
+- {name: Bhabha Atomic Research Centre, lat: 19.01, lon: 72.92, note: Trombay campus founded by Homi Bhabha, article: homi-bhabha, india: true}
+- {name: Thumba, lat: 8.53, lon: 76.87, note: India's first rocket launch site, article: vikram-sarabhai, india: true}
+- {name: Physical Research Laboratory, lat: 23.035, lon: 72.543, note: Founded by Vikram Sarabhai in 1947, article: vikram-sarabhai, india: true}
+- {name: Warsaw, lat: 52.23, lon: 21.01, note: Marie Curie's birthplace, article: marie-curie}
+- {name: Curie Institute, lat: 48.844, lon: 2.344, note: Marie Curie's radium laboratory in Paris, article: marie-curie}
+- {name: Ulm, lat: 48.40, lon: 9.99, note: Einstein's birthplace, article: einstein}
+- {name: Woolsthorpe Manor, lat: 52.81, lon: -0.63, note: Newton's home and apple tree, article: newton-life}
+- {name: Pisa, lat: 43.72, lon: 10.40, note: Galileo's birthplace, article: galileo}
+- {name: Museo Galileo, lat: 43.768, lon: 11.256, note: Two of Galileo's telescopes survive here, article: galileo}
+- {name: Niagara Falls, lat: 43.08, lon: -79.07, note: Early AC power station built on Tesla's ideas, article: nikola-tesla}
+- {name: Harvard University, lat: 42.377, lon: -71.117, note: Where Grace Hopper programmed the Mark I, article: grace-hopper}
+- {name: Bletchley Park, lat: 51.998, lon: -0.741, note: Britain's wartime codebreaking centre, article: alan-turing}
+- {name: UCLA, lat: 34.069, lon: -118.443, note: Sent the first ARPANET message in 1969, article: internet-history}
+- {name: CERN, lat: 46.23, lon: 6.05, note: Where the World Wide Web was invented, article: internet-history}
+- {name: Uruk, lat: 31.32, lon: 45.64, note: Early written numbers in clay, article: counting-history}
+- {name: Colosseum, lat: 41.890, lon: 12.492, note: Numbered arches still visible, article: roman-numerals}
+- {name: Syracuse, lat: 37.07, lon: 15.29, note: Home of Archimedes, who trapped pi, article: pi}
+- {name: Dead Sea, lat: 31.5, lon: 35.5, note: Lowest dry land on Earth, about −430 m, article: negative-numbers}
+- {name: Badwater Basin, lat: 36.23, lon: -116.77, note: Lowest point in North America, article: negative-numbers}
+- {name: Arecibo Observatory, lat: 18.344, lon: -66.753, note: Sent a prime-numbered message to the stars in 1974, article: prime-numbers}
+- {name: Delhi, lat: 28.61, lon: 77.21, note: Tried an odd-even car rule in 2016, article: even-odd, india: true}
+- {name: Puri, lat: 19.81, lon: 85.83, note: Govardhan Matha, where Bharati Krishna Tirtha was Shankaracharya, article: vedic-maths, india: true}
+- {name: Kumbakonam, lat: 10.96, lon: 79.38, note: Where Ramanujan grew up, article: ramanujan, india: true}
+- {name: Patna, lat: 25.59, lon: 85.14, note: Near ancient Kusumapura, where Aryabhata worked, article: aryabhata, india: true}
+- {name: Bhinmal, lat: 25.00, lon: 72.27, note: Ancient Bhillamala, Brahmagupta's city, article: brahmagupta, india: true}
+- {name: Alexandria, lat: 31.20, lon: 29.92, note: Where Euclid taught, article: euclid}

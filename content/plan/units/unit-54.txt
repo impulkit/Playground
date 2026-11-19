@@ -1,0 +1,34 @@
+NEW|people|jobs-farmer|What is a farmer's year like?
+NEW|how|fire-extinguishers|How does a fire extinguisher work?
+NEW|history|aztec-tenochtitlan|What was Tenochtitlan like?
+NEW|tech|navic|What is India's NavIC navigation system?
+NEW|pop|dadasaheb-phalke|Who was Dadasaheb Phalke?
+NEW|body|altitude|Why is it hard to breathe on high mountains?
+NEW|art|ghazals|What is a ghazal?
+NEW|food|fast-food-history|How did fast food begin?
+NEW|words|childrens-magazines|What magazines did Indian children read?
+NEW|numbers|maths-games|What games use maths?
+NEW|earth|ocean-and-climate|How do oceans control the climate?
+NEW|wild|flowers-colours|Why are flowers colourful?
+NEW|space|comets-famous|What are the most famous comets?
+NEW|places|kanyakumari|Where do three seas meet in India?
+NEW|people|jobs-scientist|What does a scientist actually do?
+NEW|how|helmets|How do helmets protect your head?
+NEW|history|spanish-conquest|What happened when Spain invaded the Americas?
+NEW|tech|mars-helicopter|How did a helicopter fly on Mars?
+NEW|pop|raj-kapoor|Who was Raj Kapoor?
+NEW|body|diving-body|What happens to your body deep underwater?
+NEW|art|rabindra-sangeet|What is Rabindra Sangeet?
+NEW|food|restaurants-history|When did the first restaurants open?
+NEW|words|book-fairs|What happens at a book fair?
+NEW|numbers|coding-maths|How is maths used in coding?
+NEW|earth|forest-fires|Why do forest fires happen?
+NEW|wild|trees-oldest|What are the oldest trees on Earth?
+NEW|places|spiti|What is the Spiti Valley like?
+NEW|people|jobs-engineer|What do engineers do?
+NEW|how|life-jackets|How does a life jacket keep you afloat?
+NEW|history|portuguese-india|What did the Portuguese do in India?
+NEW|tech|space-stations-future|What will space stations look like in the future?
+NEW|pop|amitabh-bachchan|Why is Amitabh Bachchan called the Shahenshah?
+NEW|body|heat-body|What happens to your body on a very hot day?
+NEW|art|devotional-music|What are bhajans and kirtans?

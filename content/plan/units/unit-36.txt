@@ -1,0 +1,34 @@
+NEW|people|budget-government|How does a government spend money?
+NEW|people|reservation-india|What is reservation in India?
+NEW|people|caste-history|What is the caste system, and how has India tried to end discrimination?
+NEW|people|womens-rights|How did women win equal rights?
+NEW|people|child-labour|Why is child labour wrong?
+NEW|people|right-to-information|What is the Right to Information?
+NEW|people|consumer-rights|What are your rights when you buy something?
+NEW|people|road-safety|Why do we have traffic rules?
+NEW|people|public-health|What is public health?
+NEW|people|universal-healthcare|How do countries pay for healthcare?
+NEW|people|pensions-old-age|How do societies care for old people?
+NEW|people|cooperatives|What is a cooperative?
+NEW|people|amul|How did farmers build Amul?
+NEW|people|unions|What is a trade union?
+NEW|people|minimum-wage|What is a minimum wage?
+NEW|people|inflation|Why do prices go up?
+NEW|people|stock-market|What is the stock market?
+NEW|people|startups-entrepreneurs|What does an entrepreneur do?
+NEW|people|advertising|How do adverts try to persuade you?
+NEW|people|propaganda|What is propaganda?
+NEW|people|free-speech|What is free speech?
+NEW|people|privacy|Why does privacy matter?
+NEW|people|democracy-india|How does the world's largest election work?
+NEW|people|election-commission|What does the Election Commission do?
+NEW|people|local-government-usa|How do American towns govern themselves?
+NEW|people|jury|What is a jury?
+NEW|people|constitution-amendments|How do countries change their constitutions?
+NEW|people|lok-sabha-rajya-sabha|What are the Lok Sabha and Rajya Sabha?
+NEW|people|governors-states|What does a state government do?
+NEW|people|military|What do armed forces do?
+NEW|people|peacekeepers|What do UN peacekeepers do?
+NEW|people|g20|What is the G20?
+NEW|people|world-bank-imf|What do the World Bank and IMF do?
+NEW|people|olympics-host|Why do cities want to host big events?

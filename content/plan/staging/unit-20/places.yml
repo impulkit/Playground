@@ -1,0 +1,35 @@
+- {name: Window Rock, lat: 35.68, lon: -109.05, note: Capital of the Navajo Nation and home of a code talkers memorial, article: code-talkers}
+- {name: Anne Frank House, lat: 52.3752, lon: 4.8840, note: The Secret Annex where Anne Frank hid, article: anne-frank}
+- {name: Thiruvalluvar Statue, lat: 8.0780, lon: 77.5553, note: 133-foot statue of the poet off Kanyakumari, article: thirukkural, india: true}
+- {name: Ujjain, lat: 23.18, lon: 75.78, note: City linked with Kalidasa and the Kalidas Samaroh festival, article: kalidasa, india: true}
+- {name: Chittorgarh Fort, lat: 24.887, lon: 74.645, note: Fort of Mewar where Mirabai lived after her marriage, article: mirabai-kabir, india: true}
+- {name: Ghalib ki Haveli, lat: 28.6565, lon: 77.2265, note: Mirza Ghalib's house in Old Delhi, now a museum, article: urdu, india: true}
+- {name: Jorasanko Thakur Bari, lat: 22.5853, lon: 88.3594, note: Tagore family home in Kolkata, article: bengali-renaissance, india: true}
+- {name: Estadio Centenario, lat: -34.8945, lon: -56.1528, note: Stadium of the first World Cup final in 1930, article: fifa-world-cup}
+- {name: Springfield, Massachusetts, lat: 42.1015, lon: -72.5898, note: Where basketball was invented in 1891, article: basketball}
+- {name: Canton, Ohio, lat: 40.7989, lon: -81.3784, note: Where the NFL was founded in 1920, article: american-football}
+- {name: Wimbledon, lat: 51.4341, lon: -0.2143, note: Home of the oldest tennis tournament, article: tennis}
+- {name: Badminton House, lat: 51.545, lon: -2.288, note: English estate that gave badminton its name, article: badminton}
+- {name: Pune, lat: 18.52, lon: 73.86, note: Where early badminton rules were drawn up and kho-kho rules were written, article: kho-kho, india: true}
+- {name: Major Dhyan Chand National Stadium, lat: 28.6125, lon: 77.2372, note: Delhi hockey stadium named after India's greatest player, article: hockey-india, india: true}
+- {name: Amravati, lat: 20.93, lon: 77.75, note: Home of the club that showed kabaddi at the 1936 Olympics, article: kabaddi, india: true}
+- {name: Mamallapuram, lat: 12.6208, lon: 80.1945, note: Host of the 2022 Chess Olympiad, article: chess-champions, india: true}
+- {name: Lord's, lat: 51.5294, lon: -0.1727, note: Where India won the 1983 World Cup, article: cricket-world-cups}
+- {name: Wankhede Stadium, lat: 18.9389, lon: 72.8258, note: Where India won the 2011 World Cup, article: cricket-world-cups, india: true}
+- {name: M. Chinnaswamy Stadium, lat: 12.9788, lon: 77.5996, note: Venue of the first IPL match in 2008, article: ipl, india: true}
+- {name: Shivaji Park, lat: 19.0269, lon: 72.8381, note: Where Sachin Tendulkar learned his cricket, article: sachin-tendulkar, india: true}
+- {name: Melbourne Cricket Ground, lat: -37.8200, lon: 144.9834, note: Venue of the first Test match in 1877, article: test-cricket}
+- {name: DY Patil Stadium, lat: 19.0418, lon: 73.0263, note: Where India's women won the 2025 World Cup, article: womens-cricket, india: true}
+- {name: Stoke Mandeville Hospital, lat: 51.7987, lon: -0.8057, note: Birthplace of the Paralympic movement, article: paralympics}
+- {name: Marathon, Greece, lat: 38.15, lon: 23.96, note: Plain of the battle that named the marathon, article: running-marathon}
+- {name: Panathenaic Stadium, lat: 37.9683, lon: 23.7411, note: Finish of the first Olympic marathon in 1896, article: running-marathon}
+- {name: Beijing National Aquatics Center, lat: 39.9929, lon: 116.3846, note: Pool where Michael Phelps won eight golds in 2008, article: swimming}
+- {name: Montreal Forum, lat: 45.4898, lon: -73.5878, note: Arena where Nadia Comăneci scored the first perfect 10 in 1976, article: gymnastics}
+- {name: Venice Beach Skatepark, lat: 33.9860, lon: -118.4727, note: Skatepark near the birthplace of pool skating, article: skateboarding}
+- {name: Iffley Road track, lat: 51.7464, lon: -1.2335, note: Where Roger Bannister ran the first sub-four-minute mile, article: sports-science}
+- {name: Ur, lat: 30.9625, lon: 46.1031, note: Ancient city where the Royal Game of Ur was found, article: board-games}
+- {name: Fatehpur Sikri, lat: 27.0945, lon: 77.6679, note: Mughal city with a giant pachisi court, article: board-games, india: true}
+- {name: Sawantwadi, lat: 15.905, lon: 73.821, note: Town where ganjifa cards are still painted by hand, article: cards-games, india: true}
+- {name: Billund, lat: 55.7306, lon: 9.1153, note: Danish village where LEGO began, article: lego}
+- {name: Channapatna, lat: 12.6518, lon: 77.2089, note: Town of lacquered wooden toys, article: toys-history, india: true}
+- {name: Harappa, lat: 30.6310, lon: 72.8640, note: Indus city where clay toy carts were found, article: toys-history}

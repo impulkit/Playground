@@ -1,0 +1,34 @@
+NEW|places|usa-geography|What does the USA look like from coast to coast?
+NEW|places|delhi|How old is Delhi?
+NEW|places|mumbai|How did seven islands become Mumbai?
+NEW|places|kolkata|What makes Kolkata special?
+NEW|places|chennai|Why is Chennai called the gateway to South India?
+NEW|places|bengaluru|How did Bengaluru become India's tech city?
+NEW|places|hyderabad|What is Hyderabad famous for?
+NEW|places|jaipur|Why is Jaipur called the Pink City?
+NEW|places|varanasi|Why is Varanasi one of the oldest cities?
+NEW|places|kerala|What makes Kerala unique?
+NEW|places|ladakh|What is life like in Ladakh?
+NEW|places|northeast-india|What are India's Seven Sister states?
+NEW|places|goa|What makes Goa different?
+NEW|places|andaman|What is special about the Andaman Islands?
+NEW|places|new-york|Why is New York called the Big Apple?
+NEW|places|washington-dc|Why is Washington, D.C. the US capital?
+NEW|places|chicago|How did Chicago become a city of skyscrapers?
+NEW|places|san-francisco|Why is the Golden Gate Bridge orange?
+NEW|places|los-angeles|What is Los Angeles known for?
+NEW|places|texas|Why is Texas so big?
+NEW|places|alaska|What is life like in Alaska?
+NEW|places|hawaii-culture|What is Hawaiian culture like?
+NEW|places|niagara-falls|How did Niagara Falls form?
+NEW|places|mount-rushmore|Why are presidents carved into Mount Rushmore?
+NEW|places|london|What makes London famous?
+NEW|places|paris|Why is Paris called the City of Light?
+NEW|places|rome-city|Why is Rome called the Eternal City?
+NEW|places|venice|How was Venice built on water?
+NEW|places|tokyo|How does Tokyo work with so many people?
+NEW|places|japan-culture|What is daily life like in Japan?
+NEW|places|china-today|How big is China?
+NEW|places|singapore|How did Singapore become a garden city?
+NEW|places|dubai|How did Dubai rise from the desert?
+NEW|places|egypt-nile|Why is the Nile so important to Egypt?

@@ -1,0 +1,31 @@
+# unit-03 places
+- {name: "Santacruz, Mumbai", lat: 19.08, lon: 72.84, note: About 944 mm of rain in one day in 2005, article: floods-why, india: true}
+- {name: Majuli, lat: 26.95, lon: 94.17, note: River island in the Brahmaputra where homes stand on stilts, article: floods-why, india: true}
+- {name: Kedarnath, lat: 30.73, lon: 79.07, note: Hit by a devastating flash flood in 2013, article: floods-why, india: true}
+- {name: Latur, lat: 18.40, lon: 76.56, note: Town supplied by a water train in the 2016 drought, article: droughts, india: true}
+- {name: Cape Town, lat: -33.92, lon: 18.42, note: "City that nearly reached Day Zero in 2018", article: droughts}
+- {name: Golconda Fort, lat: 17.38, lon: 78.40, note: Centre of the old Indian diamond trade, article: gems-crystals, india: true}
+- {name: Smithsonian National Museum of Natural History, lat: 38.89, lon: -77.03, note: Home of the Hope Diamond, article: gems-crystals}
+- {name: Kolar Gold Fields, lat: 12.95, lon: 78.27, note: "Gold mine with shafts over 3 km deep, closed in 2001", article: gold-where, india: true}
+- {name: "Sutter's Mill, Coloma", lat: 38.80, lon: -120.89, note: Where gold was found in 1848, article: gold-where}
+- {name: Digboi, lat: 27.39, lon: 95.62, note: "Oil found in 1889, with one of the oldest working refineries", article: oil-coal, india: true}
+- {name: Jharia coalfield, lat: 23.75, lon: 86.42, note: Underground coal fires burning since 1916, article: oil-coal, india: true}
+- {name: Titusville, lat: 41.63, lon: -79.67, note: Site of Drake's oil well (1859), article: oil-coal}
+- {name: Belum Caves, lat: 15.10, lon: 78.11, note: Limestone caves entered through holes in the ground, article: sinkholes, india: true}
+- {name: Winter Park, lat: 28.60, lon: -81.35, note: A 1981 sinkhole swallowed a house and cars, article: sinkholes}
+- {name: National Corvette Museum, lat: 37.00, lon: -86.37, note: Eight sports cars fell into a sinkhole in 2014, article: sinkholes}
+- {name: Holmdel Horn Antenna, lat: 40.39, lon: -74.18, note: Where the Big Bang's leftover glow was found, article: big-bang}
+- {name: Hanle Dark Sky Reserve, lat: 32.78, lon: 78.96, note: India's first dark-sky reserve, article: milky-way, india: true}
+- {name: Mount Wilson Observatory, lat: 34.22, lon: -118.06, note: Where Hubble proved other galaxies exist, article: galaxies}
+- {name: Gandikota, lat: 14.81, lon: 78.29, note: "Gorge of the Penna River, called the Grand Canyon of India", article: grand-canyon, india: true}
+- {name: Langza, lat: 32.27, lon: 78.08, note: Himalayan village where ammonite fossils are found, article: ancient-env, india: true}
+- {name: "National Fossil Wood Park, Tiruvakkarai", lat: 12.00, lon: 79.66, note: Fossil tree trunks turned to stone, article: ancient-env, india: true}
+- {name: Bhuj, lat: 23.25, lon: 69.67, note: Struck by a major earthquake in 2001, article: earthquakes, india: true}
+- {name: Devprayag, lat: 30.15, lon: 78.60, note: Where the Bhagirathi and Alaknanda become the Ganga, article: rivers-himalaya, india: true}
+- {name: Gaumukh, lat: 30.93, lon: 79.08, note: Ice cave at the snout of the Gangotri glacier, article: rivers-himalaya, india: true}
+- {name: Barren Island, lat: 12.28, lon: 93.86, note: India's only active volcano, article: volcano, india: true}
+- {name: Mount St. Helens, lat: 46.19, lon: -122.19, note: Erupted with a sideways blast in 1980, article: volcano}
+- {name: Old Faithful, lat: 44.46, lon: -110.83, note: Yellowstone's famous regular geyser, article: old-faithful}
+- {name: Kilauea, lat: 19.41, lon: -155.29, note: One of the world's most active volcanoes, article: hawaii-islands}
+- {name: "INCOIS, Hyderabad", lat: 17.50, lon: 78.40, note: India's tsunami early warning centre, article: tsunami, india: true}
+- {name: Mawsynram, lat: 25.30, lon: 91.58, note: One of the rainiest places on Earth, article: monsoon, india: true}

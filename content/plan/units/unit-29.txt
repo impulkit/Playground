@@ -1,0 +1,34 @@
+NEW|places|maps-history|How did people make the first maps?
+NEW|food|rice|How does rice feed half the world?
+NEW|food|wheat-bread|How did bread begin?
+NEW|food|roti-chapati|Why does a roti puff up?
+NEW|food|dosa-idli|Why are dosas and idlis fermented?
+NEW|food|spices|Why does Indian food use so many spices?
+NEW|food|chillies|How did chillies come to India?
+NEW|food|turmeric|Why is turmeric yellow?
+NEW|food|tea|How did tea become India's favourite drink?
+NEW|food|coffee|Where did coffee come from?
+NEW|food|milk|Where does milk come from?
+NEW|food|butter-ghee|How is ghee made?
+NEW|food|cheese-paneer|How is paneer made?
+NEW|food|curd-yogurt|How does milk turn into curd?
+NEW|food|eggs|What is inside an egg?
+NEW|food|sugar|Where does sugar come from?
+NEW|food|salt|Why do we need salt?
+NEW|food|honey|How do bees make honey?
+NEW|food|fruits-vegetables|What is the difference between a fruit and a vegetable?
+NEW|food|tomatoes|Is a tomato a fruit?
+NEW|food|potatoes|How did the potato travel the world?
+NEW|food|bananas|Why are bananas curved?
+NEW|food|apples|Why do apples turn brown?
+NEW|food|onions-tears|Why do onions make you cry?
+NEW|food|popcorn|Why does popcorn pop?
+NEW|food|pizza|Where did pizza come from?
+NEW|food|burgers-hotdogs|How did burgers and hot dogs become American classics?
+NEW|food|noodles-pasta|Who made the first noodles?
+NEW|food|ice-cream|How is ice cream made?
+NEW|food|chocolate-making|How is chocolate made in a factory?
+NEW|food|biryani|How did biryani come to India?
+NEW|food|street-food|What makes Indian street food special?
+NEW|food|samosa|How did the samosa travel to India?
+NEW|food|sweets-india|Why does India love sweets?

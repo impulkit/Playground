@@ -1,0 +1,23 @@
+- {name: "Herschel's house, Bath", lat: 51.383, lon: -2.366, note: Where William Herschel discovered Uranus in 1781, article: uranus-sideways}
+- {name: Berlin Observatory (old site), lat: 52.502, lon: 13.394, note: Where Neptune was first seen and recognised in 1846, article: neptune-winds}
+- {name: Guntur, lat: 16.31, lon: 80.44, note: Where Janssen watched the 1868 eclipse that revealed helium, article: eclipses, india: true}
+- {name: Yerkes Observatory, lat: 42.570, lon: -88.556, note: Home of the largest working lens telescope, article: telescopes-how}
+- {name: Devasthal Observatory, lat: 29.361, lon: 79.685, note: India's largest optical telescope, article: telescopes-how, india: true}
+- {name: Giant Metrewave Radio Telescope, lat: 19.096, lon: 74.050, note: Thirty radio dishes near Pune, article: telescopes-how, india: true}
+- {name: Thumba, lat: 8.53, lon: 76.87, note: Site of India's first rocket launch in 1963, article: rockets-how, india: true}
+- {name: "Satish Dhawan Space Centre, Sriharikota", lat: 13.72, lon: 80.23, note: India's main launch site, article: gaganyaan, india: true}
+- {name: "Indian Institute of Astrophysics, Bengaluru", lat: 12.934, lon: 77.624, note: Built Aditya-L1's coronagraph, article: aditya-l1, india: true}
+- {name: Karnal, lat: 29.69, lon: 76.99, note: Kalpana Chawla's hometown, article: kalpana-chawla, india: true}
+- {name: Baikonur Cosmodrome, lat: 45.92, lon: 63.34, note: Launch site of Sputnik and Vostok 1, article: sputnik}
+- {name: Gagarin landing site, lat: 51.27, lon: 45.99, note: Where Yuri Gagarin parachuted down in 1961, article: first-in-space}
+- {name: Esperance, lat: -33.86, lon: 121.89, note: Pieces of Skylab landed nearby in 1979, article: space-junk}
+- {name: Hoba meteorite, lat: -19.59, lon: 17.93, note: "The largest known meteorite, still where it landed", article: meteorites}
+- {name: Sylacauga, lat: 33.17, lon: -86.25, note: Where a meteorite hit Ann Hodges in 1954, article: meteorites}
+- {name: Hanle, lat: 32.78, lon: 78.96, note: India's first dark sky reserve, article: night-sky-dark, india: true}
+- {name: Holmdel Horn Antenna, lat: 40.39, lon: -74.18, note: Where the Big Bang's afterglow was discovered, article: night-sky-dark}
+- {name: Kennedy Space Center, lat: 28.61, lon: -80.60, note: Apollo 11 launched from here in 1969, article: apollo-moon}
+- {name: Palermo Observatory, lat: 38.11, lon: 13.35, note: Where Piazzi discovered Ceres in 1801, article: asteroid-origin}
+- {name: Gubbio, lat: 43.35, lon: 12.58, note: Rocks here held the iridium clue to the dinosaur asteroid, article: asteroid-size}
+- {name: Chelyabinsk, lat: 55.15, lon: 61.41, note: A space rock burst over the city in 2013, article: asteroid-today}
+- {name: Tunguska event site, lat: 60.89, lon: 101.89, note: Forest flattened by a blast in 1908, article: asteroid-today}
+- {name: Tromsø, lat: 69.65, lon: 18.96, note: A city under the northern lights, article: aurora}

@@ -1,0 +1,10 @@
+# Unit 09 new dictionary words
+- {id: sensor, word: sensor, meaning: "A device that notices something, such as light, heat or movement, and turns it into a signal a machine can use.", see: cameras-how}
+- {id: electron, word: electron, meaning: "A tiny particle with a negative electric charge. Electrons whizz around the centre of every atom, and moving electrons make electricity.", see: static-electricity}
+- {id: frequency, word: frequency, meaning: "How many times something repeats in one second, such as the ripples of a wave or the swings of a pendulum.", see: radio-waves}
+- {id: molecule, word: molecule, meaning: "A tiny group of atoms joined together. A molecule of water is two hydrogen atoms stuck to one oxygen atom.", see: boiling-water}
+- {id: surface-tension, word: surface tension, meaning: "The pull that makes the surface of a liquid act like a thin stretchy skin. It lets some insects walk on water.", see: bubbles-round}
+- {id: polymer, word: polymer, meaning: "A giant molecule made of many small units joined in a long chain. Plastics, silk, rubber and DNA are all polymers.", see: plastic-made}
+- {id: cellulose, word: cellulose, meaning: "The tough stuff that plant cell walls are made of. Wood, cotton and paper are mostly cellulose.", see: paper-made}
+- {id: combustion, word: combustion, meaning: "The scientific word for burning: a fast reaction between a fuel and oxygen that gives off heat and light.", see: fire-burns}
+- {id: oxidation, word: oxidation, meaning: "A chemical change in which a substance joins with oxygen or loses electrons. Rusting and burning are both kinds of oxidation.", see: rust}

@@ -1,0 +1,34 @@
+NEW|pop|kites-festival|Why does India fly kites at Makar Sankranti?
+NEW|pop|bollywood|How did Bollywood begin?
+NEW|pop|satyajit-ray|Who was Satyajit Ray?
+NEW|pop|hollywood|How did Hollywood become the home of movies?
+NEW|pop|animation-studios|How are animated films made today?
+NEW|pop|cartoons-history|What were the first cartoons?
+NEW|pop|special-effects|How do films make special effects?
+NEW|pop|dubbing-subtitles|How are films dubbed into other languages?
+NEW|pop|cinema-south|Why are South Indian films so big?
+NEW|pop|tv-shows-india|What shows did India watch together on Doordarshan?
+NEW|pop|radio-shows|How did families listen to the radio?
+NEW|pop|music-charts|How does a song become a hit?
+NEW|pop|streaming|How does music streaming work?
+NEW|pop|podcasts|What is a podcast?
+NEW|pop|youtube|How did online videos take over?
+NEW|pop|comics-india|What are India's favourite comics?
+NEW|pop|superheroes-history|Why do superheroes wear capes?
+NEW|pop|manga-anime|What are manga and anime?
+NEW|pop|circus|How did the circus begin?
+NEW|pop|magic-tricks|How do magicians fool us?
+NEW|pop|festivals-music|What happens at a music festival?
+NEW|pop|fashion-history|Why does fashion keep changing?
+NEW|pop|jeans|How did jeans become popular?
+NEW|pop|sneakers|How did sneakers become so popular?
+NEW|pop|holi|Why is Holi played with colours?
+NEW|pop|eid|How is Eid celebrated?
+NEW|pop|christmas|How did Christmas traditions begin?
+NEW|pop|thanksgiving|What is Thanksgiving?
+NEW|pop|halloween|Where did Halloween come from?
+NEW|pop|onam-pongal|What are Onam and Pongal?
+NEW|pop|durga-puja|Why is Durga Puja so grand in Kolkata?
+NEW|pop|ganesh-chaturthi|How is Ganesh Chaturthi celebrated?
+NEW|pop|independence-days|How do India and the USA celebrate independence?
+NEW|pop|new-year|Why do different places celebrate New Year on different days?

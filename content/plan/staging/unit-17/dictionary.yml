@@ -1,0 +1,14 @@
+- {id: pigment, word: pigment, meaning: "A coloured powder that gives paint, ink or dye its colour.", see: ajanta-colours}
+- {id: fresco, word: fresco, meaning: "A painting made on wet plaster, so the colour becomes part of the wall as it dries.", see: michelangelo}
+- {id: kiln, word: kiln, meaning: "A very hot oven used to harden clay, bricks or glass.", see: pottery}
+- {id: loom, word: loom, meaning: "A frame or machine that holds threads tight so they can be woven into cloth.", see: weaving-saree}
+- {id: alloy, word: alloy, meaning: "A metal made by melting two or more metals together, like bronze from copper and tin.", see: bronze-casting}
+- {id: motif, word: motif, meaning: "A shape or pattern that is repeated in a design.", see: block-printing}
+- {id: mural, word: mural, meaning: "A large painting made directly on a wall.", see: street-art}
+- {id: buttress, word: buttress, meaning: "A support built against a wall to stop it being pushed outwards.", see: gothic-cathedrals}
+- {id: patron, word: patron, meaning: "A rich or powerful person who pays artists to make work.", see: mughal-miniatures}
+- {id: mordant, word: mordant, meaning: "A substance that helps a dye stick to cloth so the colour does not wash out.", see: block-printing}
+- {id: abstract, word: abstract, meaning: "Art that uses shapes, colours and lines instead of showing things as they look.", see: modern-art}
+- {id: lithograph, word: lithograph, meaning: "A print made by drawing on a flat stone or metal plate with greasy ink, then pressing paper onto it.", see: raja-ravi-varma}
+- {id: monolith, word: monolith, meaning: "Something carved from one single block of stone.", see: ellora-kailasa}
+- {id: basalt, word: basalt, meaning: "A dark, hard rock that forms when lava cools.", see: ellora-kailasa}

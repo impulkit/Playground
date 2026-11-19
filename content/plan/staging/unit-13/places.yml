@@ -1,0 +1,13 @@
+- {name: Bori Bunder (CSMT), lat: 18.94, lon: 72.835, note: Where India's first passenger train set off in 1853, article: indian-railways, india: true}
+- {name: Chenab Bridge, lat: 33.15, lon: 74.88, note: World's highest railway arch bridge, article: indian-railways, india: true}
+- {name: Thumba, lat: 8.53, lon: 76.87, note: India's first rocket launch site, article: satellites-india, india: true}
+- {name: Sriharikota, lat: 13.72, lon: 80.23, note: Where SLV-3 put Rohini in orbit in 1980, article: satellites-india, india: true}
+- {name: Kitty Hawk (Kill Devil Hills), lat: 36.01, lon: -75.67, note: Site of the Wright brothers' first flight, article: wright-brothers}
+- {name: Mainz, lat: 50.0, lon: 8.27, note: Gutenberg's printing workshop, article: printing-press}
+- {name: Old Goa, lat: 15.50, lon: 73.91, note: India's first printing press, 1556, article: printing-press, india: true}
+- {name: Signal Hill, St John's, lat: 47.57, lon: -52.68, note: Marconi heard the first transatlantic radio signal here, article: radio-invented}
+- {name: Sidrapong, lat: 27.0, lon: 88.24, note: India's first hydroelectric power station, article: electricity-history, india: true}
+- {name: Niagara Falls, lat: 43.08, lon: -79.07, note: Early AC power plant that lit Buffalo in 1896, article: tesla-edison}
+- {name: ITER, lat: 43.71, lon: 5.76, note: Giant fusion experiment in southern France, article: nuclear-fusion}
+- {name: Mannheim, lat: 49.49, lon: 8.47, note: Where Drais rode the first two-wheeler and Benz built his car, article: bicycles-history}
+- {name: Delft, lat: 52.01, lon: 4.36, note: Hometown of microscope maker Antonie van Leeuwenhoek, article: microscopes}

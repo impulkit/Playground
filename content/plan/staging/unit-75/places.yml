@@ -1,0 +1,25 @@
+- {name: Chocolate Hills, lat: 9.83, lon: 124.17, note: Over a thousand grassy hills on Bohol island, article: world-philippines}
+- {name: Banaue rice terraces, lat: 16.93, lon: 121.06, note: Ifugao rice terraces carved into mountains, article: world-philippines}
+- {name: Pompeii, lat: 40.75, lon: 14.49, note: Roman town with dozens of snack bars, article: oddity-ancient-fast-food}
+- {name: Khan el-Khalili, lat: 30.048, lon: 31.262, note: Cairo market dating to the 1380s, article: world-cairo}
+- {name: Grand Egyptian Museum, lat: 29.995, lon: 31.119, note: Home of Tutankhamun's treasures, article: world-cairo}
+- {name: Nairobi National Park, lat: -1.37, lon: 36.86, note: Wildlife park on the edge of a capital city, article: world-nairobi}
+- {name: Table Mountain, lat: -33.96, lon: 18.40, note: Flat-topped mountain above Cape Town, article: world-cape-town}
+- {name: Cape Agulhas, lat: -34.83, lon: 20.00, note: Southern tip of Africa where two oceans meet, article: world-cape-town}
+- {name: Sigiriya, lat: 7.957, lon: 80.760, note: Rock palace with the poem-covered Mirror Wall, article: oddity-ancient-graffiti}
+- {name: Abu Simbel, lat: 22.337, lon: 31.626, note: Statues signed by Greek soldiers in 591 BC, article: oddity-ancient-graffiti}
+- {name: Ilulissat Icefjord, lat: 69.13, lon: -49.93, note: One of the fastest glaciers in the world, article: world-greenland}
+- {name: Nuuk, lat: 64.18, lon: -51.72, note: Capital of Greenland, article: world-greenland}
+- {name: Svalbard Global Seed Vault, lat: 78.236, lon: 15.491, note: Backup store for the world's crop seeds, article: world-svalbard}
+- {name: Garissa, lat: -0.45, lon: 39.65, note: Home of Kenya's camel library, article: oddity-camel-library}
+- {name: Floating Post Office, lat: 34.09, lon: 74.84, note: Houseboat post office on Dal Lake, article: oddity-floating-post-office, india: true}
+- {name: Olympia, lat: 37.638, lon: 21.630, note: Site of the ancient Olympic Games, article: oddity-ancient-olympics-weird}
+- {name: Salon Indien du Grand Café, lat: 48.871, lon: 2.331, note: Site of the first paid film show in 1895, article: hist-first-film}
+- {name: Triveni Sangam, lat: 25.42, lon: 81.89, note: Where the first official airmail took off in 1911, article: hist-first-flight-india, india: true}
+- {name: Chhatrapati Shivaji Maharaj Terminus, lat: 18.940, lon: 72.835, note: Once Bori Bunder where India's first train left, article: hist-first-train-india, india: true}
+- {name: Thane, lat: 19.19, lon: 72.97, note: End of India's first train journey, article: hist-first-train-india, india: true}
+- {name: CERN, lat: 46.234, lon: 6.055, note: Birthplace of the World Wide Web, article: hist-first-website}
+- {name: Nalanda, lat: 25.137, lon: 85.443, note: Ruins of an ancient university, article: hist-first-university, india: true}
+- {name: Al-Qarawiyyin, lat: 34.065, lon: -4.973, note: Oldest working institution of learning, article: hist-first-university}
+- {name: Kolkata, lat: 22.57, lon: 88.36, note: Where India's first newspaper was printed, article: hist-first-newspaper-india, india: true}
+- {name: Detroit River, lat: 42.31, lon: -83.07, note: Home of a floating US post office, article: oddity-floating-post-office}

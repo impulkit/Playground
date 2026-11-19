@@ -1,0 +1,34 @@
+NEW|art|music-instruments-families|How are musical instruments grouped?
+NEW|art|harmonium|How did the harmonium become India's favourite instrument?
+NEW|art|shehnai-bismillah|Who was Bismillah Khan?
+NEW|art|pattachitra|What is Pattachitra?
+NEW|art|gond-art|What is Gond art?
+NEW|art|kalamkari|What is Kalamkari?
+NEW|art|phulkari|What is Phulkari embroidery?
+NEW|art|blue-pottery|What is Jaipur blue pottery?
+NEW|art|bidri|What is Bidri work?
+NEW|art|channapatna-toys|How are Channapatna toys made?
+NEW|art|indian-architecture-modern|Who designed modern India's buildings?
+NEW|art|chandigarh|Why is Chandigarh a planned city?
+NEW|art|frank-lloyd-wright|Who was Frank Lloyd Wright?
+NEW|art|zaha-hadid|Who was Zaha Hadid?
+NEW|art|famous-paintings|Which are the world's most famous paintings?
+NEW|art|art-materials|How are paints and brushes made?
+NEW|numbers|logic|What is logic?
+NEW|numbers|sets-venn|What are sets and Venn diagrams?
+NEW|numbers|algebra|What is algebra?
+NEW|numbers|equations|What is an equation?
+NEW|numbers|geometry-everyday|Where do we use geometry every day?
+NEW|numbers|area-volume|How do you measure area and volume?
+NEW|numbers|pythagoras|What is the Pythagorean theorem?
+NEW|numbers|baudhayana|Did ancient India know Pythagoras's theorem first?
+NEW|numbers|zero-to-computers|How did zero help build computers?
+NEW|numbers|exponents|What are powers and exponents?
+NEW|numbers|square-roots|What is a square root?
+NEW|numbers|ratios-cooking|How do ratios help in cooking?
+NEW|numbers|money-interest-loans|How do loans work?
+NEW|numbers|game-theory|What is game theory?
+NEW|numbers|maths-music|How are maths and music connected?
+NEW|numbers|maths-art|How do artists use maths?
+NEW|numbers|maths-sport|How is maths used in sport?
+NEW|numbers|cricket-stats|How do cricket averages and strike rates work?

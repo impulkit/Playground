@@ -1,0 +1,14 @@
+# Fact-check log: fc-07
+
+- rashtrakutas | WRONG | "The Rashtrakutas fell in 982, overthrown by the Western Chalukyas" → "lost power in 973, when the Western Chalukyas overthrew them. The last of the family to claim the throne died in 982" | https://en.wikipedia.org/wiki/Tailapa_II
+- revolt-1857 | WRONG | "his sons were shot" → "two of his sons and a grandson were shot" (Hodson, Delhi, Sept 1857) | https://www.britannica.com/event/Indian-Mutiny
+- roman-roads | WRONG | "Fosse Way runs for nearly 300 km, never more than about 10 km from a straight line between its ends" → "runs for about 370 km. Along nearly 300 km of it, from Lincoln to Ilchester, it is never more than about 10 km from a straight line" | https://en.wikipedia.org/wiki/Fosse_Way
+- sikh-gurus | WRONG | Guru Har Krishan died "aged about eight" → "aged just seven" (b. 7 July 1656, d. 30 March 1664) | https://en.wikipedia.org/wiki/Guru_Har_Krishan
+- subhas-bose | DOUBTFUL | "Ross Island, where he raised a flag in 1943" → "where he stayed in December 1943 when he raised the Indian flag at Port Blair" | https://utsav.gov.in/view-event/commemoration-of-first-flag-hoisting-by-netaji-1
+- tipu-sultan | WRONG | "fought them in four wars together with his father" → "Mysore fought them in four wars, the first two led by his father and the last two by Tipu" | https://www.britannica.com/biography/Tipu-Sultan
+- womens-vote | WRONG | "starting with Wyoming in 1869, let women vote locally" → "Some western states and territories, starting with Wyoming in 1869, let women vote in their own elections" (Wyoming Territory gave full suffrage) | https://www.loc.gov/collections/women-of-protest/articles-and-essays/tactics-and-techniques-of-the-national-womans-party-suffrage-campaign/
+- bullet-trains | OUTDATED | facts "Top speed in service today: about 320 km/h" → "about 320 km/h in Japan, 350 km/h in China (2026)"; CR450 (400 km/h) still in testing | https://news.cgtn.com/news/2026-10-16/China-has-so-many-high-speed-trains-it-is-adding-an-X-series-1RiebQKdAB2/share_amp.html
+- bicycle-balance | WRONG | "Its front wheels had extra spinning discs" → "Its wheels had extra discs spinning the opposite way" (Kooijman 2011 bike had counter-rotating discs on both wheels) | https://www.science.org/doi/10.1126/science.1201959
+- eyes-colour | CONSISTENCY | explore spot "About 1 in 12 boys" → "About 1 in 12 boys of European ancestry", matching facts box and body | https://pubmed.ncbi.nlm.nih.gov/22472762/
+- body-cells | DOUBTFUL | atoms made inside "stars that exploded" → "stars, which scattered them into space when they died" (much carbon and nitrogen comes from stars that shed their outer layers rather than exploding) | https://www.britannica.com/science/nucleosynthesis
+- shivaji | DOUBTFUL | "Shivaji held or built more than 300 forts" → "Shivaji is said to have held or built more than 300 forts" (counts vary widely between sources) | https://www.britannica.com/biography/Shivaji

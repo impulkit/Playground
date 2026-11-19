@@ -1,0 +1,509 @@
+# Round 2: 500 more articles. subject|id|title
+history|indus-script|Why can't anyone read the Indus script yet?
+history|harappan-trade|Did the Indus cities trade with Mesopotamia?
+history|ancient-olympia|What was daily life like in ancient Greece?
+history|alexander-india|What happened when Alexander reached India?
+history|kushans|Who were the Kushans?
+history|satavahanas|Who were the Satavahanas?
+history|pallavas|How did the Pallavas build Mahabalipuram?
+history|rashtrakutas|Who built the Kailasa temple at Ellora?
+history|chalukyas|Who were the Chalukyas of Badami?
+history|kakatiyas|Who were the Kakatiyas of Warangal?
+history|hoysalas|Why are Hoysala temples so detailed?
+history|rajputs|Who were the Rajputs?
+history|ahom-kingdom|How did the Ahom kingdom rule Assam for 600 years?
+history|sikh-gurus|Who were the ten Sikh Gurus?
+history|ranjit-singh|Who was Maharaja Ranjit Singh?
+history|tipu-sultan|Who was Tipu Sultan?
+history|marathas|How did the Marathas build an empire?
+history|bengal-famine|What caused the Bengal famine of 1943?
+history|jallianwala|What happened at Jallianwala Bagh?
+history|quit-india|What was the Quit India Movement?
+history|constituent-assembly|Who wrote India's Constitution?
+history|princely-states|What were the princely states?
+history|goa-liberation|How did Goa become part of India?
+history|emergency-1975|What was the Emergency in India?
+history|ancient-persia|What was the Persian Empire?
+history|byzantium|What was the Byzantine Empire?
+history|ottomans|Who were the Ottomans?
+history|mongols|How did the Mongols build the biggest land empire?
+history|genghis-khan|Who was Genghis Khan?
+history|black-death|What was the Black Death?
+history|magna-carta|What is the Magna Carta?
+history|printing-revolution|How did cheap books change Europe?
+history|french-revolution|What was the French Revolution?
+history|napoleon|Who was Napoleon?
+history|haitian-revolution|How did Haiti win its freedom?
+history|simon-bolivar|Who was Simón Bolívar?
+history|meiji-japan|How did Japan change so fast in the Meiji era?
+history|opium-wars|What were the Opium Wars?
+history|chinese-revolution|How did modern China begin?
+history|great-depression|What was the Great Depression?
+history|holocaust|What was the Holocaust?
+history|gandhi-south-africa|What happened to Gandhi in South Africa?
+history|decolonisation|How did so many countries become free after 1945?
+history|apartheid|What was apartheid?
+history|moon-race-women|Who were the women who did the maths for the space race?
+history|lewis-clark|Who were Lewis and Clark?
+history|gold-rush|What was the California Gold Rush?
+history|transcontinental-railroad|How was America's first coast-to-coast railroad built?
+history|ellis-island|What happened at Ellis Island?
+history|native-nations|Who are the Native American nations?
+history|pilgrims-mayflower|Who sailed on the Mayflower?
+history|us-civil-war|What was the American Civil War?
+history|harlem-renaissance|What was the Harlem Renaissance?
+history|womens-history-india|Who are some women who shaped India's history?
+history|ancient-africa|What were the great kingdoms of ancient Africa?
+tech|internet-of-things|What is the Internet of Things?
+tech|blockchain|What is a blockchain?
+tech|cybersecurity|How do hackers break in, and how do we stop them?
+tech|encryption|How does encryption keep secrets?
+tech|voice-assistants|How does a voice assistant understand you?
+tech|translation-apps|How do translation apps work?
+tech|face-recognition|How does a phone recognise your face?
+tech|chatbots|How do chatbots write answers?
+tech|deepfakes|What are deepfakes?
+tech|vr-ar|What are virtual reality and augmented reality?
+tech|game-engines|What is a game engine?
+tech|minecraft-coding|How do people build computers inside games?
+tech|open-source|What is open-source software?
+tech|wikipedia-how|How is Wikipedia written?
+tech|data-centres|What is inside a data centre?
+tech|undersea-internet|How does the internet cross oceans?
+tech|5g|What is 5G?
+tech|bluetooth|How does Bluetooth work?
+tech|nfc-tap|How does tap-to-pay work?
+tech|fingerprint-sensors|How does a fingerprint sensor work?
+tech|batteries-phones|Why do phone batteries wear out?
+tech|ev-charging|How long does it take to charge an electric car?
+tech|hydrogen-fuel|Could hydrogen power cars and trains?
+tech|space-elevator|Could we build a lift to space?
+tech|quantum-computers|What is a quantum computer?
+tech|supercomputers|What can a supercomputer do?
+tech|isro-launch|How does ISRO launch a rocket?
+tech|reusable-rockets|How do rockets land themselves?
+tech|starlink|How does satellite internet work?
+tech|drones-delivery|Will drones deliver our parcels?
+tech|robots-surgery|How do robots help surgeons?
+tech|prosthetics|How do bionic arms and legs work?
+tech|hearing-aids|How do hearing aids and cochlear implants work?
+tech|accessibility-tech|How does technology help people with disabilities?
+tech|e-waste|What happens to old phones and laptops?
+tech|semiconductors-india|Why is India building chip factories?
+tech|digital-india|How did India go digital so fast?
+tech|indian-startups|How do startups grow into big companies?
+tech|steve-wozniak-garage|Why did so many tech companies start in garages?
+tech|silicon-valley|Why is Silicon Valley famous?
+tech|sundar-ganges-tech|Why do so many tech leaders come from India?
+tech|inventions-accidents|Which great inventions happened by accident?
+tech|patents|What is a patent?
+tech|ancient-tech|What machines did ancient people build?
+tech|antikythera|What is the Antikythera mechanism?
+tech|cameras-phones|How do phone cameras take such good photos?
+tech|noise-cancelling|How do noise-cancelling headphones work?
+tech|smartwatches|How does a smartwatch count your steps?
+tech|biometrics|What is biometrics?
+tech|robots-home|What robots do people have at home?
+tech|ai-art|Can a computer make art?
+tech|ai-safety|How do we make AI safe and fair?
+tech|future-transport|How might we travel in 2050?
+tech|metro-trains|How do metro trains run on time?
+tech|maglev|How do maglev trains float?
+tech|vande-bharat|What is the Vande Bharat train?
+places|india-states-tour|What is special about each of India's regions?
+places|rajasthan-forts|Why does Rajasthan have so many forts?
+places|gujarat-rann|What is the Rann of Kutch?
+places|punjab|What is Punjab known for?
+places|kashmir|What makes Kashmir special?
+places|himachal|What is life like in the hills of Himachal?
+places|uttarakhand|Why is Uttarakhand called the land of gods?
+places|odisha|What is Odisha famous for?
+places|tamil-nadu-temples|Why does Tamil Nadu have such tall temple towers?
+places|karnataka|What is Karnataka known for?
+places|madhya-pradesh|Why is Madhya Pradesh called the heart of India?
+places|bihar-history|Why is Bihar so important in Indian history?
+places|assam-tea|How did Assam become famous for tea?
+places|meghalaya|What are living root bridges?
+places|sikkim|How did Sikkim become an organic state?
+places|lakshadweep|What are the Lakshadweep islands like?
+places|pune|What is Pune known for?
+places|ahmedabad|Why is Ahmedabad a World Heritage City?
+places|amritsar|Why is the Golden Temple's kitchen famous?
+places|mysuru|What happens at the Mysuru Dasara?
+places|kochi|How did Kochi become a meeting place of cultures?
+places|puducherry|Why does Puducherry feel French?
+places|shillong|Why is Shillong called the Scotland of the East?
+places|boston|What is Boston known for?
+places|seattle|What is Seattle known for?
+places|new-orleans|What makes New Orleans unique?
+places|miami|What is Miami like?
+places|grand-canyon-state|What is Arizona like?
+places|great-lakes|What are the Great Lakes?
+places|mississippi|Why is the Mississippi River so important?
+places|appalachians|What are the Appalachian Mountains?
+places|rocky-mountains|What are the Rocky Mountains?
+places|navajo-nation|What is the Navajo Nation?
+places|puerto-rico|What is Puerto Rico?
+places|istanbul|Why is Istanbul in two continents?
+places|jerusalem|Why is Jerusalem important to so many people?
+places|mecca-hajj|What is the Hajj?
+places|kyoto|What is Kyoto known for?
+places|seoul|What is South Korea like?
+places|beijing|What is Beijing's Forbidden City?
+places|bali|What is Bali like?
+places|thailand|What is Thailand known for?
+places|vietnam|What is Vietnam like?
+places|bhutan|Why does Bhutan measure happiness?
+places|maldives|Why are the Maldives in danger from the sea?
+places|mongolia|How do nomads live in Mongolia?
+places|morocco|What is Morocco like?
+places|ethiopia|What makes Ethiopia unique?
+places|nigeria|What is Nigeria known for?
+places|madagascar|Why are Madagascar's animals found nowhere else?
+places|peru|What is Peru known for?
+places|argentina|What is Argentina like?
+places|amsterdam|Why does the Netherlands have so many canals?
+places|spain|What is Spain known for?
+places|switzerland|Why is Switzerland famous for mountains and clocks?
+places|norway-fjords|What are fjords?
+places|scotland|What is Scotland known for?
+places|new-zealand|What is New Zealand like?
+places|galapagos|Why are the Galápagos Islands special?
+people|budget-government|How does a government spend money?
+people|reservation-india|What is reservation in India?
+people|caste-history|What is the caste system, and how has India tried to end discrimination?
+people|womens-rights|How did women win equal rights?
+people|child-labour|Why is child labour wrong?
+people|right-to-information|What is the Right to Information?
+people|consumer-rights|What are your rights when you buy something?
+people|road-safety|Why do we have traffic rules?
+people|public-health|What is public health?
+people|universal-healthcare|How do countries pay for healthcare?
+people|pensions-old-age|How do societies care for old people?
+people|cooperatives|What is a cooperative?
+people|amul|How did farmers build Amul?
+people|unions|What is a trade union?
+people|minimum-wage|What is a minimum wage?
+people|inflation|Why do prices go up?
+people|stock-market|What is the stock market?
+people|startups-entrepreneurs|What does an entrepreneur do?
+people|advertising|How do adverts try to persuade you?
+people|propaganda|What is propaganda?
+people|free-speech|What is free speech?
+people|privacy|Why does privacy matter?
+people|democracy-india|How does the world's largest election work?
+people|election-commission|What does the Election Commission do?
+people|local-government-usa|How do American towns govern themselves?
+people|jury|What is a jury?
+people|constitution-amendments|How do countries change their constitutions?
+people|lok-sabha-rajya-sabha|What are the Lok Sabha and Rajya Sabha?
+people|governors-states|What does a state government do?
+people|military|What do armed forces do?
+people|peacekeepers|What do UN peacekeepers do?
+people|g20|What is the G20?
+people|world-bank-imf|What do the World Bank and IMF do?
+people|olympics-host|Why do cities want to host big events?
+people|sustainable-goals|What are the Sustainable Development Goals?
+people|urban-planning|How are cities planned?
+people|smart-cities|What is a smart city?
+people|slums-housing|Why do cities have slums?
+people|migration-india|Why do people move from villages to cities?
+people|indian-diaspora|Where in the world do Indians live?
+words|kannada-telugu|How old are Kannada and Telugu?
+words|bengali-language|What makes Bengali special?
+words|marathi-gujarati|How did Marathi and Gujarati grow?
+words|malayalam|What is unique about Malayalam?
+words|punjabi-gurmukhi|What is the Gurmukhi script?
+words|spanish-language|Why is Spanish spoken in so many countries?
+words|chinese-characters|How does Chinese writing work?
+words|arabic-script|Why is Arabic written right to left?
+words|japanese-writing|Why does Japanese use three scripts?
+words|latin-roots|How did Latin give us so many English words?
+words|esperanto|Can someone invent a language?
+words|whistled-languages|Can people talk by whistling?
+words|harry-potter-effect|Why do some books get children reading?
+words|jungle-book|What is the story behind The Jungle Book?
+words|kipling-india|Why did writers from Britain write about India?
+words|malgudi|What is Malgudi Days?
+words|sukumar-ray|Who was Sukumar Ray, India's master of nonsense verse?
+words|satyajit-ray-stories|What are Feluda and Professor Shonku?
+words|tinkle|How did Tinkle comics start?
+words|chandamama|What was Chandamama magazine?
+words|enid-blyton|Why are Enid Blyton's books so famous in India?
+words|tolkien|Who was J.R.R. Tolkien?
+words|cs-lewis|What is Narnia?
+words|little-women|Why is Little Women still read?
+words|charlottes-web|What is Charlotte's Web about?
+words|matilda|Why do readers love Matilda?
+words|percy-jackson|How do modern books retell old myths?
+words|graphic-novels|What is a graphic novel?
+words|picture-books|How are picture books made?
+words|booker-prize|What is the Booker Prize?
+words|indian-english-writers|Who are some famous Indian writers in English?
+words|maya-angelou|Who was Maya Angelou?
+words|langston-hughes|Who was Langston Hughes?
+words|speeches-famous|What makes a speech famous?
+words|journalism|What does a journalist do?
+words|encyclopedias|How were encyclopedias made?
+pop|cricket-records|What are cricket's most famous records?
+pop|virat-kohli|Why is Virat Kohli so famous?
+pop|mithali-raj|Who is Mithali Raj?
+pop|ms-dhoni|Why is MS Dhoni called Captain Cool?
+pop|neeraj-chopra|How did Neeraj Chopra win Olympic gold?
+pop|pv-sindhu|Who is PV Sindhu?
+pop|mary-kom|Who is Mary Kom?
+pop|milkha-singh|Who was the Flying Sikh?
+pop|dhyan-chand|Who was Major Dhyan Chand?
+pop|viswanathan-anand|Who is Viswanathan Anand?
+pop|serena-williams|Who is Serena Williams?
+pop|michael-jordan|Why is Michael Jordan a legend?
+pop|usain-bolt|How fast is Usain Bolt?
+pop|pele-maradona|Who were Pelé and Maradona?
+pop|messi-ronaldo|Why are Messi and Ronaldo so famous?
+pop|simone-biles|What makes Simone Biles special?
+pop|baseball-world-series|What is the World Series?
+pop|super-bowl|Why is the Super Bowl so big?
+pop|nba|What is the NBA?
+pop|formula-one|How does Formula One work?
+pop|wrestling-india|How did Indian wrestlers win Olympic medals?
+pop|archery|How does archery work?
+pop|shooting-sport|Why is shooting an Olympic sport?
+pop|cycling-tour|What is the Tour de France?
+pop|mountaineering|Why do people climb mountains?
+pop|esports|What are esports?
+pop|video-game-history|What were the first video games?
+pop|pokemon|Why did Pokémon become so popular?
+pop|rubiks-cube|How do people solve a Rubik's Cube so fast?
+pop|yo-yo-tops|How do spinning tops and yo-yos work?
+pop|bollywood-dance|How did Bollywood dance become famous worldwide?
+pop|kpop|What is K-pop?
+pop|beatles-music|Why were the Beatles so popular?
+pop|michael-jackson|Why was Michael Jackson called the King of Pop?
+pop|taylor-swift|Why is Taylor Swift so popular?
+pop|indie-music-india|What is India's indie music scene?
+pop|music-reality-shows|How do singing talent shows work?
+pop|cartoon-network-india|What cartoons did Indian kids grow up with?
+pop|chhota-bheem|How did Chhota Bheem become popular?
+pop|pixar|How does Pixar make films?
+pop|studio-ghibli|What is Studio Ghibli?
+pop|star-wars-effect|Why did Star Wars change movies?
+pop|sesame-street|What is Sesame Street?
+pop|stand-up-comedy|How does stand-up comedy work?
+food|indian-breakfasts|What do people eat for breakfast across India?
+food|regional-cuisines|How does food change across India?
+food|bengali-food|Why do Bengalis love fish and sweets?
+food|punjabi-food|What is Punjabi food like?
+food|south-indian-meals|What is a South Indian meal on a banana leaf?
+food|gujarati-food|Why is Gujarati food sweet and savoury?
+food|kashmiri-wazwan|What is a Kashmiri wazwan?
+food|northeast-food|What do people eat in Northeast India?
+food|goan-food|What makes Goan food special?
+food|chaat|What is chaat?
+food|pani-puri|Why does pani puri have so many names?
+food|pickles-achar|How are Indian pickles made?
+food|papad|How is papad made?
+food|jaggery|What is jaggery?
+food|coconut|Why is the coconut called the tree of life?
+food|cashew|How did cashews come to India?
+food|saffron|Why is saffron so expensive?
+food|cardamom-pepper|Why were cardamom and pepper so valuable?
+food|lassi-chaas|What are lassi and chaas?
+food|american-food|What is American food?
+food|tex-mex|What is Tex-Mex food?
+food|bbq|Why is barbecue so popular in America?
+food|pancakes-world|Why is the pancake found all over the world?
+food|sushi|What is sushi?
+food|tacos|What are tacos?
+food|chinese-food-india|How did Indo-Chinese food begin?
+food|maggi-noodles|How did instant noodles take over India?
+food|peanut-butter|Who invented peanut butter?
+food|cereal-history|How did breakfast cereal begin?
+food|candy-history|How is candy made?
+food|chewing-gum|What is chewing gum made of?
+food|soft-drinks|Why are fizzy drinks fizzy?
+food|food-labels|How do you read a food label?
+food|kitchen-safety|How can you be safe in the kitchen?
+art|qawwali|What is qawwali?
+art|bhangra|What is bhangra?
+art|folk-music-india|What are some of India's folk music traditions?
+art|baul|Who are the Bauls of Bengal?
+art|odissi|What is Odissi dance?
+art|kathakali|How do Kathakali dancers tell stories with their faces?
+art|kuchipudi-mohiniyattam|What are Kuchipudi and Mohiniyattam?
+art|manipuri-dance|What is Manipuri dance?
+art|yakshagana|What is Yakshagana?
+art|ballet|How did ballet begin?
+art|broadway|What is a Broadway musical?
+art|opera|What is opera?
+art|blues|Where did the blues come from?
+art|country-music|What is country music?
+art|reggae|What is reggae?
+art|classical-western|What is Western classical music?
+art|music-instruments-families|How are musical instruments grouped?
+art|harmonium|How did the harmonium become India's favourite instrument?
+art|shehnai-bismillah|Who was Bismillah Khan?
+art|pattachitra|What is Pattachitra?
+art|gond-art|What is Gond art?
+art|kalamkari|What is Kalamkari?
+art|phulkari|What is Phulkari embroidery?
+art|blue-pottery|What is Jaipur blue pottery?
+art|bidri|What is Bidri work?
+art|channapatna-toys|How are Channapatna toys made?
+art|indian-architecture-modern|Who designed modern India's buildings?
+art|chandigarh|Why is Chandigarh a planned city?
+art|frank-lloyd-wright|Who was Frank Lloyd Wright?
+art|zaha-hadid|Who was Zaha Hadid?
+art|famous-paintings|Which are the world's most famous paintings?
+art|art-materials|How are paints and brushes made?
+numbers|logic|What is logic?
+numbers|sets-venn|What are sets and Venn diagrams?
+numbers|algebra|What is algebra?
+numbers|equations|What is an equation?
+numbers|geometry-everyday|Where do we use geometry every day?
+numbers|area-volume|How do you measure area and volume?
+numbers|pythagoras|What is the Pythagorean theorem?
+numbers|baudhayana|Did ancient India know Pythagoras's theorem first?
+numbers|zero-to-computers|How did zero help build computers?
+numbers|exponents|What are powers and exponents?
+numbers|square-roots|What is a square root?
+numbers|ratios-cooking|How do ratios help in cooking?
+numbers|money-interest-loans|How do loans work?
+numbers|game-theory|What is game theory?
+numbers|maths-music|How are maths and music connected?
+numbers|maths-art|How do artists use maths?
+numbers|maths-sport|How is maths used in sport?
+numbers|cricket-stats|How do cricket averages and strike rates work?
+numbers|data-science|What is data science?
+numbers|surveys|How do surveys work?
+numbers|cryptography-maths|How does maths keep messages secret?
+numbers|number-patterns|What are number patterns?
+numbers|triangular-numbers|What are triangular and square numbers?
+numbers|paradoxes|What is a paradox?
+numbers|unsolved-problems|What maths problems are still unsolved?
+numbers|maths-olympiad|What is the Maths Olympiad?
+numbers|shakuntala-devi|Who was Shakuntala Devi?
+numbers|madhava|Who was Madhava of Kerala?
+numbers|bhaskara|Who was Bhaskara II?
+body|digestion-gut|What do gut bacteria do?
+body|appendix|What is the appendix for?
+body|heart-health|How do you keep your heart healthy?
+body|brain-development|How does a child's brain grow?
+body|nervous-system|How do messages travel through your nerves?
+body|hormones|What are hormones?
+body|bones-growth|How do bones grow and heal?
+body|joints|How do joints work?
+body|posture|Why does posture matter?
+body|eyesight-glasses|Why do some people need glasses?
+body|colour-blindness|What is colour blindness?
+body|hearing-loss|How can loud noise damage hearing?
+body|taste-smell-link|Why does food taste bland when you have a cold?
+body|body-temperature|How does your body stay at the right temperature?
+body|hunger|How does your body know it's hungry?
+body|thirst|How does your body know it's thirsty?
+body|growing-pains|What are growing pains?
+body|baby-development|How does a baby grow before it is born?
+body|human-evolution|Where did humans come from?
+body|disease-history|Which diseases changed history?
+body|mosquito-diseases|Why are mosquitoes so dangerous?
+body|tb-india|What is tuberculosis?
+body|medicine-how|How do medicines work?
+body|placebo|What is the placebo effect?
+body|mental-health|What is mental health?
+body|mindfulness|What is mindfulness?
+body|habits|How do habits form?
+body|motivation|Why do we feel motivated?
+body|sports-injuries|How do athletes recover from injuries?
+how|soundproofing|How does soundproofing work?
+how|air-conditioning|How does an air conditioner cool a room?
+how|ceiling-fans|Why does a fan make you feel cooler?
+how|induction-stoves|How does an induction stove heat without a flame?
+how|washing-machines|How does a washing machine clean clothes?
+how|vacuum-cleaners|How does a vacuum cleaner suck up dust?
+how|lightning-rods|How does a lightning rod protect a building?
+how|parachutes|How does a parachute slow you down?
+how|boats-sail|How can a sailboat sail into the wind?
+how|airbags|How does an airbag inflate so fast?
+how|seatbelts|How do seatbelts save lives?
+how|brakes|How do brakes stop a car?
+how|gears|What do gears do?
+how|springs|How do springs store energy?
+how|magnifying-glass|How does a magnifying glass make things bigger?
+how|periscopes|How does a periscope see around corners?
+how|telescopes-make|Can you make a telescope at home?
+how|kaleidoscopes|How does a kaleidoscope make patterns?
+how|holograms|What is a hologram?
+how|3d-glasses|How do 3D glasses work?
+how|optical-illusions|Why do optical illusions fool us?
+how|echoes|What makes an echo?
+how|whistles|How does a whistle make sound?
+how|ice-skating|Why is ice slippery?
+how|non-newtonian|Why does cornflour slime act like a solid and a liquid?
+how|salt-ice-roads|Why do people put salt on icy roads?
+how|evaporation-cooling|Why does a clay pot keep water cool?
+how|solar-cookers|How does a solar cooker work?
+how|candles|How does a candle burn?
+how|soap-bubbles-colours|Why do soap bubbles have rainbow colours?
+earth|continental-drift|How did we discover that continents move?
+earth|pangaea|What was Pangaea?
+earth|rocks-oldest|Where are the oldest rocks on Earth?
+earth|western-ghats|Why are the Western Ghats so important?
+earth|thar-formed|How did the Thar Desert form?
+earth|great-rift-valley|What is the Great Rift Valley?
+earth|geysers-hot-springs|What are hot springs?
+earth|minerals-everyday|Which minerals are in everyday things?
+earth|sand-where|Where does sand come from?
+earth|cyclones-india|Why does India's east coast get more cyclones?
+earth|heatwaves|Why are heatwaves getting worse?
+earth|fog-smog|What is the difference between fog and smog?
+earth|weather-records|What are Earth's weather records?
+earth|el-nino|What are El Niño and La Niña?
+earth|renewable-energy|Which energy sources never run out?
+space|moon-water|Is there water on the Moon?
+space|moon-landing-sites|Where have spacecraft landed on the Moon?
+space|mars-colonies|Could people live on Mars?
+space|asteroid-mining|Could we mine asteroids?
+space|solar-wind|What is the solar wind?
+space|sunspots|What are sunspots?
+space|dwarf-planets|What are dwarf planets?
+space|kuiper-belt|What is the Kuiper Belt?
+space|titan|What is Saturn's moon Titan like?
+space|europa|Could Europa have an ocean?
+space|space-telescopes-india|What is India's AstroSat?
+space|astronomy-ancient-india|What did ancient Indian astronomers discover?
+space|jantar-mantar|What is Jantar Mantar?
+space|planetariums|What happens inside a planetarium?
+space|stargazing|How can you start stargazing?
+sky|monsoon-birds|Which birds arrive with the monsoon?
+sky|pigeons-homing|How do homing pigeons find their way home?
+sky|eagles-hunt|How do eagles see so far?
+sky|penguin-flight|Why can't some birds fly?
+sky|owl-eyes|Why do owls turn their heads so far?
+sky|airports|How does an airport work?
+sky|air-traffic|How do air traffic controllers keep planes apart?
+sky|gliders|How do gliders fly without engines?
+sky|jet-lag|What is jet lag?
+sky|weather-balloons|What do weather balloons do?
+ocean|coral-bleaching|Why do corals turn white?
+ocean|deep-sea-vents|What lives near deep-sea volcanoes?
+ocean|bioluminescence|Why do some sea creatures glow?
+ocean|ocean-floor-maps|How do we map the ocean floor?
+ocean|pearls|How do oysters make pearls?
+ocean|salt-pans|How is sea salt made?
+ocean|sea-ports|How do giant ships use ports?
+ocean|pirates|Were pirates real?
+ocean|shipwrecks|What can shipwrecks teach us?
+ocean|ocean-sounds|Is the ocean noisy?
+wild|animal-communication|How do animals talk to each other?
+wild|animal-migration-land|Which land animals migrate?
+wild|nocturnal-animals|How do night animals see in the dark?
+wild|camouflage|How do animals hide in plain sight?
+wild|animal-records|What are the animal kingdom's record-breakers?
+wild|insects-importance|Why do we need insects?
+wild|pollinators|Who pollinates our food?
+wild|invasive-species|What happens when animals move to new places?
+wild|urban-wildlife|What wild animals live in cities?
+wild|pets-care|How do you look after a pet?
+lost|dino-museums|Where can you see dinosaurs in museums?
+lost|megalodon|How big was Megalodon?
+lost|first-life|What were the first living things?
+lost|cambrian|What was the Cambrian explosion?

@@ -1,0 +1,8 @@
+- {id: starch, word: starch, meaning: "A store of energy in plants, made of many sugar units joined together. Rice, wheat and potatoes are full of it.", see: cooking-science}
+- {id: yeast, word: yeast, meaning: "A tiny single-celled fungus that feeds on sugar and gives off carbon dioxide gas. Bakers use it to make bread rise.", see: baking}
+- {id: microbe, word: microbe, meaning: "A living thing too small to see without a microscope, such as a bacterium or a yeast.", see: fermentation}
+- {id: legume, word: legume, meaning: "A plant that grows its seeds in pods, such as peas, beans, lentils and peanuts.", see: pulses-dal}
+- {id: allergen, word: allergen, meaning: "Something, often a protein in food or pollen, that sets off an allergy in some people.", see: food-allergies}
+- {id: cocoon, word: cocoon, meaning: "A silky case that some caterpillars spin around themselves before they change into moths.", see: silk}
+- {id: lanolin, word: lanolin, meaning: "A natural grease in sheep's wool that keeps the fleece waterproof. It is used in skin creams.", see: wool}
+- {id: capsaicin, word: capsaicin, meaning: "The chemical in chillies that makes them feel hot in your mouth.", see: spicy-hot}

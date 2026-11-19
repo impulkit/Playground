@@ -1,0 +1,4 @@
+- {id: biometric, word: biometrics, meaning: "Measurements of a person's body, such as fingerprints, face shape or the pattern in the eye, used to recognise who they are.", see: aadhaar}
+- {id: piston, word: piston, meaning: "A tight-fitting plug that slides back and forth inside a tube when gas or steam pushes on it.", see: steam-engine}
+- {id: plasma, word: plasma, meaning: "A very hot, glowing state of matter in which atoms are broken apart into charged pieces. Stars and lightning are made of it.", see: nuclear-fusion}
+- {id: wavelength, word: wavelength, meaning: "The distance from the top of one wave to the top of the next. For light, a different wavelength means a different colour.", see: lasers}

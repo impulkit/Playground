@@ -1,0 +1,34 @@
+NEW|earth|floods-why|Why do floods happen?
+NEW|earth|droughts|What causes a drought?
+NEW|earth|air-pollution|What makes air dirty, and how do we clean it?
+NEW|earth|gems-crystals|How do gemstones form?
+NEW|earth|gold-where|Where does gold come from?
+NEW|earth|oil-coal|How were coal and oil made?
+NEW|earth|sinkholes|What makes the ground suddenly open up?
+EXPAND|earth|ancient-env
+EXPAND|earth|clouds-rain
+EXPAND|earth|earth-age
+EXPAND|earth|earth-magnet
+EXPAND|earth|earthquakes
+EXPAND|earth|fossil-age
+EXPAND|earth|grand-canyon
+EXPAND|earth|half-life
+EXPAND|earth|hawaii-islands
+EXPAND|earth|himalaya-form
+EXPAND|earth|hurricanes
+EXPAND|earth|india-drift
+EXPAND|earth|inside-earth
+EXPAND|earth|lightning
+EXPAND|earth|monsoon
+EXPAND|earth|old-faithful
+EXPAND|earth|rivers-himalaya
+EXPAND|earth|sky-blue
+EXPAND|earth|tornadoes
+EXPAND|earth|tsunami
+EXPAND|earth|volcano
+NEW|space|big-bang|How did the universe begin?
+NEW|space|milky-way|What is the Milky Way?
+NEW|space|galaxies|How many galaxies are there?
+NEW|space|mercury-planet|What is it like on Mercury?
+NEW|space|venus-hot|Why is Venus the hottest planet?
+NEW|space|jupiter-giant|How big is Jupiter?

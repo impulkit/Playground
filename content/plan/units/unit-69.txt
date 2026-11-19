@@ -1,0 +1,34 @@
+NEW|body|body-pins-needles|Why do your feet fall asleep?
+NEW|wild|power-sloth|Why are sloths so slow?
+NEW|space|space-weird-tallest-mountain|What is the tallest mountain in the solar system?
+NEW|food|food-why-carrots-orange|Were carrots always orange?
+NEW|words|words-made-up|Who makes up new words?
+NEW|pop|pop-teddy-bear|Why is it called a teddy bear?
+NEW|art|art-kathakali-makeup|How is Kathakali make-up done?
+NEW|earth|earth-weird-door-to-hell|What is the Door to Hell?
+NEW|numbers|maths-lottery-odds|Why is it so hard to win a lottery?
+NEW|history|chittorgarh|What is the story of Chittorgarh?
+NEW|places|india-wonder-chenab-bridge|How was the world's highest railway arch bridge built?
+NEW|people|life-chores-world|What chores do kids do around the world?
+NEW|how|how-traffic-cameras|How do speed cameras catch cars?
+NEW|tech|future-underwater-cities|Could people live under the sea?
+NEW|body|body-dimples|Why do some people have dimples?
+NEW|wild|power-giraffe-neck|How does blood reach a giraffe's head?
+NEW|space|space-weird-volcano-moon|Which moon has hundreds of volcanoes?
+NEW|food|food-why-cheese-holes|Why does some cheese have holes?
+NEW|words|words-puns|Why are puns funny?
+NEW|pop|pop-barbie-dolls|How did dolls change over time?
+NEW|art|art-chhau|What is Chhau dance?
+NEW|earth|earth-weird-moving-dunes|Can sand dunes sing?
+NEW|numbers|maths-speed-time|How do you work out how long a journey takes?
+NEW|history|golconda|What made Golconda fort special?
+NEW|places|india-wonder-atal-tunnel|How was the Atal Tunnel dug?
+NEW|people|life-games-playground|What playground games do kids play around the world?
+NEW|how|how-fridges-cold|How does a fridge stay cold?
+NEW|tech|future-jobs-ai|Will AI take people's jobs?
+NEW|body|body-belly-sounds|Why do we blush?
+NEW|wild|power-naked-mole-rat|Why don't naked mole rats get cancer?
+NEW|space|space-weird-oceans-moons|Which moons might have hidden oceans?
+NEW|food|food-why-bubblegum-pink|Why is bubblegum pink?
+NEW|words|words-onomatopoeia|Why do animals say different things in different languages?
+NEW|pop|pop-rubber-duck|Why are rubber ducks yellow?

@@ -1,0 +1,13 @@
+# Fact-check log: fc-11
+
+- sea-turtles | DOUBTFUL | plastic bags look like jellyfish, "their favourite food" (all seven kinds) → "a favourite food of some kinds, such as leatherbacks" (green turtles mostly eat seagrass) | https://www.fisheries.noaa.gov/species/green-turtle
+- seahorses | DOUBTFUL | curly tail grips "which no other fish tail can do" → "which very few other fish tails can do" (pipehorses and some pipefish also have gripping tails) | https://australian.museum/learn/animals/fishes/pipehorses/
+- titanic | WRONG | Carpathia "about 93 km away" → "about 100 km away" (58 nautical miles, about 107 km) | https://www.britannica.com/topic/Titanic
+- waves-how | WRONG | facts: "Tallest wave measured by an instrument: about 25.6 m" → "Famous rogue wave measured: about 25.6 m" (a 29.1 m wave was measured by RRS Discovery near Rockall in 2000) | https://doi.org/10.1029/2005GL025238
+- charity | WRONG | hook and body: India "the first country" to make company giving (CSR) compulsory → "the first large country" / "one of the first countries, and by far the biggest", noting Mauritius did it in 2009 | https://www.dailyexpress.com.my/news/105468/mauritius-first-to-force-csr/
+- diwali-lights | WRONG | "In 2023, New York City public schools began closing for Diwali" → law made in 2023, schools first closed for Diwali in 2024 | https://qns.com/2024/11/nyc-public-schools-close-for-first-ever-diwali-holiday-marking-historic-milestone-for-south-asian-community
+- equality | WRONG | "Iceland passed a law in 2018" requiring equal-pay proof → "In 2018, a law came into force in Iceland" (passed 2017, in force 1 January 2018) | https://www.government.is/topics/human-rights-and-equality/equal-pay-certification/
+- flags | WRONG | "In 2022, the rules changed to allow machine-made and polyester flags" → "At the end of 2021" (Flag Code amended 30 December 2021) | https://www.mha.gov.in/sites/default/files/2022-08/FlagCodeofIndia_07082023.pdf
+- immigration-stories | WRONG | "Most first landed at Aapravasi Ghat" (of over a million indentured Indians) → "Almost half a million of them first landed at Aapravasi Ghat" (only those bound for Mauritius passed through it; others sailed straight to Fiji, the Caribbean, etc.) | https://whc.unesco.org/en/list/1227/
+- mother-teresa | WRONG | quiz reveal and myth: came to India "when she was 19" / "at 19" → 18 (born August 1910, arrived January 1929; body already says she joined the Loreto sisters at 18) | https://www.britannica.com/biography/Mother-Teresa
+- nobel-peace | DOUBTFUL | "Two winners are linked to India" → "Two Indian citizens have won it" (the 1989 winner, the Dalai Lama, has lived in India since 1959, so "linked to India" undercounted) | https://www.nobelprize.org/prizes/peace/1989/lama/facts/

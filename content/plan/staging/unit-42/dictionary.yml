@@ -1,0 +1,7 @@
+- {id: sample, word: sample, meaning: "A smaller group picked from a bigger one, so you can learn about the whole group without checking every member.", see: surveys}
+- {id: series, word: series, meaning: "In maths, a sum of numbers that follow a pattern, like 1 + 1/2 + 1/4 + 1/8. Some series go on forever.", see: madhava}
+- {id: gland, word: gland, meaning: "A body part that makes a substance the body needs, such as a hormone, sweat, saliva or tears.", see: hormones}
+- {id: cartilage, word: cartilage, meaning: "A tough, bendy tissue that cushions joints and gives shape to your ears and the tip of your nose.", see: joints}
+- {id: decibel, word: decibel, meaning: "A unit for measuring how loud a sound is. Every 10 decibels more means ten times as much sound energy.", see: hearing-loss}
+- {id: placenta, word: placenta, meaning: "An organ that grows in the womb during pregnancy and passes oxygen and food from the mother's blood to the baby.", see: baby-development}
+- {id: parasite, word: parasite, meaning: "A living thing that lives on or inside another living thing and takes food from it, usually harming it.", see: mosquito-diseases}

@@ -1,0 +1,43 @@
+# Unit 23 timeline events (negative year = BCE)
+- {year: -1500, title: The Vedic age begins, text: "Roughly now, the oldest hymns of the Rigveda start to take shape.", article: vedic-age}
+- {year: -500, title: The Buddha teaches, text: "Around this time, the Buddha gives his first sermon at Sarnath (dates are debated).", article: buddha}
+- {year: -321, title: The Mauryan Empire begins, text: Chandragupta Maurya overthrows the Nanda kings of Magadha., article: mauryan-empire}
+- {year: -261, title: The Kalinga war, text: "Ashoka conquers Kalinga, then turns away from war in sorrow.", article: ashoka}
+- {year: -185, title: The Mauryan Empire ends, text: The last Mauryan king is killed by his general Pushyamitra Shunga., article: mauryan-empire}
+- {year: -138, title: Zhang Qian heads west, text: A Han Chinese envoy's journeys help open the Silk Road., article: silk-road}
+- {year: 320, title: The Gupta age begins, text: Chandragupta I founds the Gupta dynasty in Magadha., article: gupta-golden-age}
+- {year: 499, title: Aryabhata's book, text: "Aryabhata, aged 23, writes the Aryabhatiya on maths and astronomy.", article: gupta-golden-age}
+- {year: 793, title: Vikings raid Lindisfarne, text: The raid on an English monastery opens the Viking Age., article: vikings}
+- {year: 868, title: The oldest dated printed book, text: "The Diamond Sutra is printed in China, later found at Dunhuang.", article: silk-road}
+- {year: 1010, title: The Big Temple is finished, text: Rajaraja Chola completes the Brihadeeswarar temple at Thanjavur., article: cholas}
+- {year: 1021, title: Vikings in North America, text: Tree rings show Vikings cut wood in Newfoundland this year., article: vikings}
+- {year: 1025, title: The Chola naval raid, text: Rajendra Chola's fleet attacks the Srivijaya kingdom in Southeast Asia., article: cholas}
+- {year: 1078, title: The White Tower rises, text: William the Conqueror begins the stone keep of the Tower of London., article: knights-castles}
+- {year: 1185, title: Samurai take power, text: Minamoto no Yoritomo sets up Japan's first shogunate at Kamakura., article: samurai}
+- {year: 1206, title: The Delhi Sultanate begins, text: Qutb-ud-din Aibak becomes the first sultan of Delhi., article: delhi-sultanate}
+- {year: 1236, title: Razia becomes sultan, text: Razia Sultan becomes the only woman to rule the Delhi Sultanate., article: delhi-sultanate}
+- {year: 1271, title: Marco Polo sets out, text: "Aged about 17, Marco Polo leaves Venice for Kublai Khan's China.", article: marco-polo}
+- {year: 1325, title: Ibn Battuta leaves Tangier, text: "A 21-year-old pilgrim starts a journey of about 1,20,000 km.", article: ibn-battuta}
+- {year: 1325, title: Tenochtitlan is founded, text: The Aztecs build their capital on an island in Lake Texcoco., article: aztecs-maya}
+- {year: 1336, title: Vijayanagara is founded, text: Harihara and Bukka found a kingdom on the Tungabhadra river., article: vijayanagara}
+- {year: 1405, title: Zheng He's first voyage, text: "A Ming fleet of about 317 ships sails for India.", article: zheng-he}
+- {year: 1436, title: Florence's great dome, text: Brunelleschi completes the brick dome of Florence Cathedral., article: renaissance}
+- {year: 1450, title: Machu Picchu is built, text: Inca builders raise a royal estate high in the Andes., article: inca-machu-picchu}
+- {year: 1492, title: Columbus crosses the Atlantic, text: Columbus lands in the Bahamas while trying to reach Asia., article: columbus}
+- {year: 1522, title: First voyage around the world, text: The Victoria returns to Spain with 18 survivors., article: magellan}
+- {year: 1526, title: The Mughal Empire begins, text: Babur defeats Ibrahim Lodi at the First Battle of Panipat., article: mughals}
+- {year: 1556, title: Akbar becomes emperor, text: Akbar takes the Mughal throne at just 13 years old., article: akbar}
+- {year: 1565, title: Battle of Talikota, text: Vijayanagara's army is defeated and its capital is later abandoned., article: hampi}
+- {year: 1600, title: The East India Company is founded, text: Queen Elizabeth I grants a charter to London merchants., article: east-india-company}
+- {year: 1674, title: Shivaji is crowned, text: Shivaji is crowned Chhatrapati at Raigad fort., article: shivaji}
+- {year: 1757, title: Battle of Plassey, text: Company forces under Robert Clive win control of Bengal., article: east-india-company}
+- {year: 1857, title: The revolt of 1857, text: Indian soldiers rise against the East India Company at Meerut., article: revolt-1857}
+- {year: 1858, title: The Rani of Jhansi falls, text: Rani Lakshmibai is killed fighting near Gwalior., article: rani-lakshmibai}
+- {year: 1885, title: Indian National Congress founded, text: Educated Indians meet in Bombay to form the Congress., article: freedom-struggle}
+- {year: 1911, title: Machu Picchu becomes famous, text: A local farmer guides Hiram Bingham to the ruins., article: inca-machu-picchu}
+- {year: 1929, title: Bombs in the Assembly, text: Bhagat Singh and Batukeshwar Dutt court arrest in Delhi., article: bhagat-singh}
+- {year: 1930, title: The Salt March, text: Gandhi walks about 385 km to Dandi to make salt., article: salt-march}
+- {year: 1942, title: Quit India, text: The Congress calls on the British to leave India., article: freedom-struggle}
+- {year: 1947, title: India becomes independent, text: "India wins freedom on 15 August, alongside Partition.", article: freedom-struggle}
+- {year: 1948, title: Gandhi is killed, text: Gandhi is shot on his way to a prayer meeting in Delhi., article: gandhi}
+- {year: 2016, title: Nalanda joins World Heritage list, text: UNESCO lists the ruins of Nalanda Mahavihara., article: nalanda}

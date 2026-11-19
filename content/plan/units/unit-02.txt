@@ -1,0 +1,34 @@
+EXPAND|lost|iridium-evidence
+EXPAND|lost|la-brea
+EXPAND|lost|mammals-rise
+EXPAND|lost|mammoths
+EXPAND|lost|pterosaurs
+EXPAND|lost|rajasaurus
+EXPAND|lost|sauropod-necks
+EXPAND|lost|stegosaurus
+EXPAND|lost|trex-arms
+EXPAND|lost|trex-bite
+EXPAND|lost|trex-compare
+EXPAND|lost|trex-montana
+EXPAND|lost|who-survived
+NEW|earth|rocks-types|What are the three kinds of rock?
+NEW|earth|soil-made|How is soil made?
+NEW|earth|caves-form|How do caves form?
+NEW|earth|glaciers|How do glaciers move?
+NEW|earth|ice-ages|What were the Ice Ages?
+NEW|earth|deserts-sand|Why are some deserts sandy and others rocky?
+NEW|earth|rainforests|Why do rainforests have so many kinds of life?
+NEW|earth|wind-blows|Why does the wind blow?
+NEW|earth|rainbow-how|How does a rainbow form?
+NEW|earth|snow-hail|What is the difference between snow, sleet and hail?
+NEW|earth|thunder-sound|Why does thunder rumble?
+NEW|earth|climate-change|Why is Earth getting warmer?
+NEW|earth|ozone-layer|What is the ozone layer?
+NEW|earth|water-cycle|Where does the water in your tap come from?
+NEW|earth|seasons-why|Why do we have seasons?
+NEW|earth|day-night|Why do we have day and night?
+NEW|earth|mountains-tallest|Which is the tallest mountain on Earth?
+NEW|earth|rivers-longest|Which river is the longest in the world?
+NEW|earth|lakes-salty|Why are some lakes salty?
+NEW|earth|deltas|How do river deltas form?
+NEW|earth|landslides|Why do hillsides slide?

@@ -1,0 +1,28 @@
+- {name: Amarkantak, lat: 22.67, lon: 81.75, note: Source of the Narmada, article: narmada, india: true}
+- {name: Bhedaghat Marble Rocks, lat: 23.13, lon: 79.80, note: The Narmada flows through a marble gorge, article: narmada, india: true}
+- {name: Sardar Sarovar Dam, lat: 21.83, lon: 73.75, note: Biggest dam on the Narmada, article: narmada, india: true}
+- {name: Sanauli, lat: 29.15, lon: 77.32, note: Copper-covered carts about 4000 years old, article: wheel-to-chariot, india: true}
+- {name: Konark Sun Temple, lat: 19.89, lon: 86.09, note: A temple carved as the sun god's chariot, article: wheel-to-chariot, india: true}
+- {name: Pullela Gopichand Badminton Academy, lat: 17.43, lon: 78.34, note: Academy that trained Olympic medallists, article: badminton-india, india: true}
+- {name: Mandla, lat: 22.60, lon: 80.37, note: S.H. Raza's home district and resting place, article: sh-raza, india: true}
+- {name: Qumran Caves, lat: 31.74, lon: 35.46, note: Where the Dead Sea Scrolls were found, article: bible-intro}
+- {name: Tharangambadi, lat: 11.03, lon: 79.85, note: Where a Tamil New Testament was printed in 1714, article: bible-intro, india: true}
+- {name: "Chaturbhuj Temple, Gwalior Fort", lat: 26.23, lon: 78.17, note: Inscription with a zero from 876 CE, article: indian-numerals, india: true}
+- {name: London Bridge (Victoria), lat: -38.62, lon: 142.93, note: Sea arch that partly collapsed in 1990, article: cliffs-erosion}
+- {name: Varkala Cliff, lat: 8.73, lon: 76.71, note: Red cliffs above the Kerala coast, article: cliffs-erosion, india: true}
+- {name: Ban Non Wat, lat: 15.27, lon: 102.28, note: Oldest known bones of tame chickens, article: chickens}
+- {name: La Brea Tar Pits, lat: 34.06, lon: -118.36, note: Tar trapped Ice Age animals here, article: ice-age-animals}
+- {name: Wrangel Island, lat: 71.2, lon: -179.4, note: The last mammoths lived here, article: ice-age-animals}
+- {name: Ranthambore Fort, lat: 26.02, lon: 76.46, note: Hilltop fort inside the tiger reserve, article: ranthambore, india: true}
+- {name: Ur, lat: 30.96, lon: 46.10, note: Sumerian city with a great ziggurat, article: sumer}
+- {name: Uruk, lat: 31.32, lon: 45.64, note: One of the world's first big cities, article: sumer}
+- {name: Valabhi, lat: 21.89, lon: 71.88, note: Where Jain scriptures were written down, article: jain-agamas, india: true}
+- {name: Moodabidri, lat: 13.07, lon: 74.99, note: Old Digambara Jain manuscripts are kept here, article: jain-agamas, india: true}
+- {name: Jog Falls, lat: 14.23, lon: 74.81, note: Waterfall about 253 m high, article: waterfalls, india: true}
+- {name: Angel Falls, lat: 5.97, lon: -62.54, note: World's tallest waterfall, article: waterfalls}
+- {name: Shivanasamudra Falls, lat: 12.29, lon: 77.17, note: Site of an early hydroelectric plant (1902), article: waterfalls, india: true}
+- {name: Valparai, lat: 10.33, lon: 76.95, note: Text alerts warn people when elephants are near, article: elephants-india, india: true}
+- {name: Attirampakkam, lat: 13.23, lon: 79.89, note: Stone tools about 1.5 million years old, article: early-humans-india, india: true}
+- {name: Hathnora, lat: 22.87, lon: 77.88, note: Oldest human fossil found in India, article: early-humans-india, india: true}
+- {name: Bhimbetka rock shelters, lat: 22.94, lon: 77.61, note: Ancient rock paintings, article: early-humans-india, india: true}
+- {name: Jwalapuram, lat: 15.32, lon: 78.13, note: Stone tools above and below Toba ash, article: early-humans-india, india: true}

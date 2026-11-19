@@ -1,0 +1,34 @@
+NEW|body|placebo|What is the placebo effect?
+NEW|body|mental-health|What is mental health?
+NEW|body|mindfulness|What is mindfulness?
+NEW|body|habits|How do habits form?
+NEW|body|motivation|Why do we feel motivated?
+NEW|body|sports-injuries|How do athletes recover from injuries?
+NEW|how|soundproofing|How does soundproofing work?
+NEW|how|air-conditioning|How does an air conditioner cool a room?
+NEW|how|ceiling-fans|Why does a fan make you feel cooler?
+NEW|how|induction-stoves|How does an induction stove heat without a flame?
+NEW|how|washing-machines|How does a washing machine clean clothes?
+NEW|how|vacuum-cleaners|How does a vacuum cleaner suck up dust?
+NEW|how|lightning-rods|How does a lightning rod protect a building?
+NEW|how|parachutes|How does a parachute slow you down?
+NEW|how|boats-sail|How can a sailboat sail into the wind?
+NEW|how|airbags|How does an airbag inflate so fast?
+NEW|how|seatbelts|How do seatbelts save lives?
+NEW|how|brakes|How do brakes stop a car?
+NEW|how|gears|What do gears do?
+NEW|how|springs|How do springs store energy?
+NEW|how|magnifying-glass|How does a magnifying glass make things bigger?
+NEW|how|periscopes|How does a periscope see around corners?
+NEW|how|telescopes-make|Can you make a telescope at home?
+NEW|how|kaleidoscopes|How does a kaleidoscope make patterns?
+NEW|how|holograms|What is a hologram?
+NEW|how|3d-glasses|How do 3D glasses work?
+NEW|how|optical-illusions|Why do optical illusions fool us?
+NEW|how|echoes|What makes an echo?
+NEW|how|whistles|How does a whistle make sound?
+NEW|how|ice-skating|Why is ice slippery?
+NEW|how|non-newtonian|Why does cornflour slime act like a solid and a liquid?
+NEW|how|salt-ice-roads|Why do people put salt on icy roads?
+NEW|how|evaporation-cooling|Why does a clay pot keep water cool?
+NEW|how|solar-cookers|How does a solar cooker work?

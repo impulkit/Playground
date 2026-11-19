@@ -1,0 +1,20 @@
+- {name: Khajuraho, lat: 24.85, lon: 79.92, note: Chandela temples covered in carvings, article: khajuraho, india: true}
+- {name: Sanchi, lat: 23.48, lon: 77.74, note: The Great Stupa begun by Ashoka, article: sanchi, india: true}
+- {name: Babylon, lat: 32.54, lon: 44.42, note: Ruins of the ancient city on the Euphrates, article: babylon}
+- {name: Susa, lat: 32.19, lon: 48.26, note: Where the Code of Hammurabi was found in 1901, article: hammurabi}
+- {name: Sanjay Gandhi National Park, lat: 19.23, lon: 72.91, note: Forest inside Mumbai with about 54 leopards, article: leopards-cities, india: true}
+- {name: Griffith Park, lat: 34.14, lon: -118.29, note: Home of the mountain lion P-22 in Los Angeles, article: leopards-cities}
+- {name: Bhiwani, lat: 28.79, lon: 76.13, note: Haryana town nicknamed Mini Cuba for its boxers, article: boxing-india, india: true}
+- {name: Kuthodaw Pagoda, lat: 22.00, lon: 96.11, note: The Pali Canon carved on 729 marble slabs, article: buddhist-texts}
+- {name: Mogao Caves, lat: 40.04, lon: 94.80, note: Cave where the printed Diamond Sutra was found, article: buddhist-texts}
+- {name: Rajgir, lat: 25.03, lon: 85.42, note: Where tradition says monks first recited the Buddha's teachings, article: buddhist-texts, india: true}
+- {name: Neander Valley, lat: 51.23, lon: 6.95, note: Where Neanderthal bones were found in 1856, article: neanderthals}
+- {name: Shanidar Cave, lat: 36.83, lon: 44.22, note: Cave in Iraq where injured Neanderthals were cared for, article: neanderthals}
+- {name: Velavadar Blackbuck National Park, lat: 22.04, lon: 72.03, note: Grassland park known for wolves and blackbuck, article: wolves-india, india: true}
+- {name: Cochin Shipyard, lat: 9.95, lon: 76.27, note: Where INS Vikrant was built, article: aircraft-carriers, india: true}
+- {name: Raiyoli, lat: 22.95, lon: 73.33, note: Dinosaur bones and eggs found in 1981, article: fossils-india, india: true}
+- {name: Akal Wood Fossil Park, lat: 26.83, lon: 70.80, note: Stone tree trunks about 180 million years old, article: fossils-india, india: true}
+- {name: Ratnagiri, lat: 16.99, lon: 73.30, note: Home of the GI-tagged Alphonso mango, article: mango-varieties, india: true}
+- {name: Malihabad, lat: 26.92, lon: 80.71, note: Mango town famous for the Dasheri, article: mango-varieties, india: true}
+- {name: Carlsbad Desalination Plant, lat: 33.14, lon: -117.34, note: Turns sea water into drinking water near San Diego, article: water-tech}
+- {name: Golden Temple, lat: 31.62, lon: 74.88, note: Its langar serves free meals to tens of thousands daily, article: sharing-science, india: true}

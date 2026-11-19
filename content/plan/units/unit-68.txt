@@ -1,0 +1,34 @@
+NEW|numbers|maths-prime-cicadas|Why do cicadas come out every 13 or 17 years?
+NEW|history|kanhoji-angre|Who was Kanhoji Angre?
+NEW|places|india-wonder-chand-baori|How deep is Chand Baori?
+NEW|people|life-pets-world|What pets do people keep around the world?
+NEW|how|lifts-skyscraper-speed|How do the fastest lifts in skyscrapers work?
+NEW|tech|future-food|What will we eat in the future?
+NEW|body|body-brain-freeze|What is brain freeze?
+NEW|wild|power-platypus|Why is the platypus so strange?
+NEW|space|space-weird-neutron-spoon|How heavy is a spoonful of a neutron star?
+NEW|food|food-why-chillies-red|Why do chillies turn red?
+NEW|words|myths-giants|Why do stories have giants?
+NEW|pop|sport-climbing|How do climbers scale cliffs?
+NEW|art|art-banarasi|What makes Banarasi silk special?
+NEW|earth|earth-weird-pink-lakes|Why are some lakes pink?
+NEW|numbers|maths-money-compound|How does money grow by itself?
+NEW|history|ninjas|Were ninjas real?
+NEW|places|india-wonder-sun-temple-modhera|What happens at the Modhera Sun Temple?
+NEW|people|life-money-world|What do coins and notes look like around the world?
+NEW|how|how-metal-detector-airport|How does an airport body scanner work?
+NEW|tech|future-schools|What will schools be like in the future?
+NEW|body|body-funny-bone|Why does hitting your funny bone hurt so much?
+NEW|wild|power-dung-beetle|How do dung beetles use the stars?
+NEW|space|space-weird-rogue-planets|What are rogue planets?
+NEW|food|food-why-bananas-curve|Why are bananas curved?
+NEW|words|words-longest|What is the longest word in English?
+NEW|pop|pop-lego-history|Who invented the toy brick?
+NEW|art|art-pashmina|Why is pashmina so soft?
+NEW|earth|earth-weird-giants-causeway|How did the Giant's Causeway form?
+NEW|numbers|maths-shortcuts-indian|What are some old Indian maths shortcuts?
+NEW|history|gladiators|What was life like for a gladiator?
+NEW|places|india-wonder-shore-temple|What is the Shore Temple of Mahabalipuram?
+NEW|people|life-tooth-fairy|What happens to lost teeth around the world?
+NEW|how|how-noise-cancel-ears|How do earplugs and ear defenders work?
+NEW|tech|future-medicine|How will doctors treat us in the future?

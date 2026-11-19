@@ -1,0 +1,34 @@
+NEW|wild|mushrooms|Are mushrooms plants?
+NEW|wild|wetlands|Why are wetlands important?
+NEW|wild|extinction-today|Which animals are endangered today, and why?
+NEW|wild|zoos-sanctuaries|What is the difference between a zoo and a sanctuary?
+NEW|wild|yellowstone-wolves|How did wolves change the rivers of Yellowstone?
+EXPAND|wild|ants-farm
+EXPAND|wild|banyan
+EXPAND|wild|bees-dance
+EXPAND|wild|bison-return
+EXPAND|wild|cheetah-return
+EXPAND|wild|chocolate-tree
+EXPAND|wild|croc-ancient
+EXPAND|wild|elephants-talk
+EXPAND|wild|fig-wasps
+EXPAND|wild|fireflies
+EXPAND|wild|frogs-monsoon
+EXPAND|wild|king-cobra
+EXPAND|wild|photosynthesis
+EXPAND|wild|redwoods
+EXPAND|wild|sundarbans-tigers
+EXPAND|wild|tiger-stripes
+NEW|how|wheel-invented|Who invented the wheel?
+NEW|how|pulleys|How do pulleys make lifting easy?
+NEW|how|friction|Why do things slow down?
+NEW|how|floating-ships|How do huge steel ships float?
+NEW|how|refrigerator|How does a fridge keep things cold?
+NEW|how|microwave|How does a microwave oven heat food?
+NEW|how|batteries|How does a battery store energy?
+NEW|how|solar-panels|How do solar panels turn sunlight into electricity?
+NEW|how|wind-turbines|How do wind turbines make power?
+NEW|how|dams-power|How do dams make electricity?
+NEW|how|nuclear-power|How does a nuclear power plant work?
+NEW|how|mirrors|How do mirrors work?
+NEW|how|lenses-glasses|How do glasses help you see?

@@ -1,0 +1,34 @@
+NEW|history|indus-script|Why can't anyone read the Indus script yet?
+NEW|history|harappan-trade|Did the Indus cities trade with Mesopotamia?
+NEW|history|ancient-olympia|What was daily life like in ancient Greece?
+NEW|history|alexander-india|What happened when Alexander reached India?
+NEW|history|kushans|Who were the Kushans?
+NEW|history|satavahanas|Who were the Satavahanas?
+NEW|history|pallavas|How did the Pallavas build Mahabalipuram?
+NEW|history|rashtrakutas|Who built the Kailasa temple at Ellora?
+NEW|history|chalukyas|Who were the Chalukyas of Badami?
+NEW|history|kakatiyas|Who were the Kakatiyas of Warangal?
+NEW|history|hoysalas|Why are Hoysala temples so detailed?
+NEW|history|rajputs|Who were the Rajputs?
+NEW|history|ahom-kingdom|How did the Ahom kingdom rule Assam for 600 years?
+NEW|history|sikh-gurus|Who were the ten Sikh Gurus?
+NEW|history|ranjit-singh|Who was Maharaja Ranjit Singh?
+NEW|history|tipu-sultan|Who was Tipu Sultan?
+NEW|history|marathas|How did the Marathas build an empire?
+NEW|history|bengal-famine|What caused the Bengal famine of 1943?
+NEW|history|jallianwala|What happened at Jallianwala Bagh?
+NEW|history|quit-india|What was the Quit India Movement?
+NEW|history|constituent-assembly|Who wrote India's Constitution?
+NEW|history|princely-states|What were the princely states?
+NEW|history|goa-liberation|How did Goa become part of India?
+NEW|history|emergency-1975|What was the Emergency in India?
+NEW|history|ancient-persia|What was the Persian Empire?
+NEW|history|byzantium|What was the Byzantine Empire?
+NEW|history|ottomans|Who were the Ottomans?
+NEW|history|mongols|How did the Mongols build the biggest land empire?
+NEW|history|genghis-khan|Who was Genghis Khan?
+NEW|history|black-death|What was the Black Death?
+NEW|history|magna-carta|What is the Magna Carta?
+NEW|history|printing-revolution|How did cheap books change Europe?
+NEW|history|french-revolution|What was the French Revolution?
+NEW|history|napoleon|Who was Napoleon?

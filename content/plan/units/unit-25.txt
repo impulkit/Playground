@@ -1,0 +1,34 @@
+NEW|people|democracy-what|What is democracy?
+NEW|people|parliament-india|How does India's Parliament work?
+NEW|people|congress-usa|How does the US Congress work?
+NEW|people|president-pm|What's the difference between a president and a prime minister?
+NEW|people|states-india|Why is India divided into states?
+NEW|people|states-usa|Why does the USA have 50 states?
+NEW|people|panchayat|What is a panchayat?
+NEW|people|courts-judges|What do judges do?
+NEW|people|police|What do the police do?
+NEW|people|taxes|Why do people pay taxes?
+NEW|people|rights-duties|What are rights and duties?
+NEW|people|equality|What does equality mean?
+NEW|people|flags|Why do countries have flags?
+NEW|people|national-symbols|What are India's national symbols?
+NEW|people|anthems|Why do countries have national anthems?
+NEW|people|passports|What is a passport for?
+NEW|people|immigration-stories|Why do people move to new countries?
+NEW|people|cities-grow|Why do cities keep growing?
+NEW|people|villages-india|What is village life like in India?
+NEW|people|jobs-careers|How do people choose their jobs?
+NEW|people|money-banks|What does a bank do with your money?
+NEW|people|shops-markets|How does a market decide prices?
+NEW|people|trade-world|Why do countries trade?
+NEW|people|news-media|How does news reach us?
+NEW|people|charity|How do charities help people?
+NEW|people|volunteering|What is volunteering?
+NEW|people|religions-world|What are the world's major religions?
+NEW|people|kindness-science|Is kindness good for you?
+NEW|people|friendship|Why do we need friends?
+NEW|people|families-world|Do families look the same everywhere?
+NEW|people|school-history|When did children start going to school?
+NEW|people|schools-world|What is school like around the world?
+NEW|people|homes-world|What kinds of homes do people live in?
+NEW|people|population|How many people live on Earth?

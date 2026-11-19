@@ -1,0 +1,34 @@
+NEW|places|bodh-gaya|Why is Bodh Gaya important?
+NEW|people|philosophy-kids|What is philosophy?
+NEW|how|microphones|How does a microphone work?
+NEW|history|phoenicians|Who were the Phoenicians?
+NEW|tech|solar-india|How is India using solar power?
+NEW|pop|chess-online|How did online chess become so popular?
+NEW|body|grey-hair|Why does hair turn grey?
+NEW|art|mehendi|What is mehendi art?
+NEW|food|jackfruit|What is jackfruit?
+NEW|words|vikram-betal|What are the Vikram and Betal stories?
+NEW|numbers|nets-boxes|How do you make a box from flat paper?
+NEW|earth|forests-india|What kinds of forests grow in India?
+NEW|wild|bears-india|What bears live in India?
+NEW|space|space-distances|How far is far in space?
+NEW|ocean|ocean-depths-life|How do animals survive in the deepest sea?
+NEW|sky|weather-satellites|How do weather satellites watch storms?
+NEW|lost|living-fossils|What are living fossils?
+NEW|places|qutub-minar|What is the Qutub Minar?
+NEW|people|socrates|Who was Socrates?
+NEW|how|loudspeakers|How does a speaker make sound?
+NEW|history|ancient-israel|What do we know about ancient Israel?
+NEW|tech|batteries-future|What will batteries of the future be like?
+NEW|pop|asian-games|What are the Asian Games?
+NEW|body|tooth-decay|What causes tooth decay?
+NEW|art|indian-jewellery|What is traditional Indian jewellery?
+NEW|food|guava-papaya|Where did guavas and papayas come from?
+NEW|words|hitopadesha|What is the Hitopadesha?
+NEW|numbers|maps-grids|How do grids help us find places?
+NEW|earth|grasslands|What are grasslands?
+NEW|wild|deer-india|What kinds of deer live in India?
+NEW|space|gravity-planets|How much would you weigh on other planets?
+NEW|ocean|ocean-exploration-india|What is India's Samudrayaan mission?
+NEW|places|red-fort|What is the Red Fort?
+NEW|people|confucius|Who was Confucius?

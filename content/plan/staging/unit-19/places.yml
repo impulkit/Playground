@@ -1,0 +1,31 @@
+- {name: Fatehpur Sikri, lat: 27.09, lon: 77.66, note: "Akbar's red sandstone city", article: akbar-birbal, india: true}
+- {name: Hampi, lat: 15.335, lon: 76.46, note: "Capital of Vijayanagara", article: tenali-raman, india: true}
+- {name: Tenali, lat: 16.24, lon: 80.64, note: "Town that gave Tenali Raman his name", article: tenali-raman, india: true}
+- {name: Mount Olympus, lat: 40.09, lon: 22.36, note: "Home of the Greek gods in myth", article: greek-myths}
+- {name: Olympia, lat: 37.64, lon: 21.63, note: "Sanctuary of Zeus and site of the ancient games", article: greek-myths}
+- {name: Reykholt, lat: 64.66, lon: -21.29, note: "Home of Snorri Sturluson, author of the Prose Edda", article: norse-myths}
+- {name: Samos, lat: 37.75, lon: 26.97, note: "Greek island where Aesop is said to have lived", article: aesop}
+- {name: "Shakespeare's Globe", lat: 51.508, lon: -0.097, note: "Rebuilt Globe theatre in London", article: shakespeare}
+- {name: Stratford-upon-Avon, lat: 52.19, lon: -1.71, note: "Shakespeare's birthplace", article: shakespeare}
+- {name: Jorasanko Thakur Bari, lat: 22.586, lon: 88.359, note: "Tagore's family home in Kolkata", article: tagore, india: true}
+- {name: Santiniketan, lat: 23.68, lon: 87.68, note: "Tagore's school and Visva-Bharati University", article: tagore, india: true}
+- {name: Agumbe, lat: 13.50, lon: 75.09, note: "Where much of Malgudi Days was filmed", article: rk-narayan, india: true}
+- {name: Landour, lat: 30.46, lon: 78.10, note: "Ruskin Bond's home in the hills", article: ruskin-bond, india: true}
+- {name: Kasauli, lat: 30.90, lon: 76.96, note: "Ruskin Bond's birthplace", article: ruskin-bond, india: true}
+- {name: "Christ Church, Oxford", lat: 51.750, lon: -1.256, note: "Where Lewis Carroll taught maths", article: alice-wonderland}
+- {name: Charles Dickens Museum, lat: 51.5235, lon: -0.1159, note: "Dickens's London home on Doughty Street", article: charles-dickens}
+- {name: "Hannibal, Missouri", lat: 39.71, lon: -91.36, note: "Mark Twain's boyhood town on the Mississippi", article: mark-twain}
+- {name: "Springfield, Massachusetts", lat: 42.10, lon: -72.59, note: "Dr. Seuss's hometown", article: dr-seuss}
+- {name: Great Missenden, lat: 51.70, lon: -0.71, note: "Roald Dahl's village and museum", article: roald-dahl}
+- {name: Yamadera, lat: 38.31, lon: 140.44, note: "Mountain temple where Bashō wrote of cicadas", article: haiku}
+- {name: Nineveh, lat: 36.36, lon: 43.15, note: "Site of Ashurbanipal's clay-tablet library", article: libraries}
+- {name: Library of Congress, lat: 38.8887, lon: -77.0047, note: "One of the largest libraries in the world", article: libraries}
+- {name: Nalanda, lat: 25.14, lon: 85.44, note: "Ruins of the ancient university and its library", article: libraries, india: true}
+- {name: Strasbourg, lat: 48.58, lon: 7.75, note: "Where the first newspaper was printed in 1605", article: newspapers}
+- {name: Sanchi, lat: 23.48, lon: 77.74, note: "Stupa gateways carved with Jataka tales", article: storytelling-india, india: true}
+- {name: Pompeii, lat: 40.75, lon: 14.49, note: "Where a Sator square palindrome was found", article: palindromes}
+- {name: Samarkand, lat: 39.65, lon: 66.96, note: "City famous for paper along the Silk Road", article: paper-invention}
+- {name: Sanganer, lat: 26.82, lon: 75.79, note: "Town known for handmade paper", article: paper-invention, india: true}
+- {name: Mysuru, lat: 12.30, lon: 76.65, note: "Where India's election ink is made", article: ink, india: true}
+- {name: Stockholm Concert Hall, lat: 59.3355, lon: 18.0632, note: "Where Nobel prizes are presented", article: nobel-literature}
+- {name: British Museum, lat: 51.5194, lon: -0.1270, note: "Home of the Rosetta Stone", article: translation}

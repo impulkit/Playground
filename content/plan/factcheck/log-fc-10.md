@@ -1,0 +1,11 @@
+# Fact-check log: fc-10
+
+- money-worth | WRONG | myth: Zimbabwe's 100-trillion-dollar note "In 2008" → "In 2009" (note issued January 2009) | https://en.wikipedia.org/wiki/Zimbabwean_dollar
+- negative-numbers | OUTDATED | facts + body: Dead Sea shore "about −430 metres" → "more than 430 metres below sea level" (level keeps falling, roughly 1 m a year) | https://www.livescience.com/planet-earth/geology/whats-earths-lowest-point-on-land
+- shakuntala-devi | WRONG | quiz reveal: product is "about 18 followed by 24 zeros" → "about 19 followed by 24 zeros" (product is 18,947,668,...; checked by computation) | https://en.wikipedia.org/wiki/Shakuntala_Devi
+- statistics-lies | DOUBTFUL/CONSISTENCY | facts: "Most common trick: a chart axis that doesn't start at zero" → "Common chart trick: an axis that doesn't start at zero" (no source ranks it most common; body says only "quickest way") | https://en.wikipedia.org/wiki/Misleading_graph
+- tessellations | DOUBTFUL | "for over a hundred years mathematicians tried to find every kind" → "for about a hundred years" (hunt ran from Reinhardt 1918 to Rao 2017) | https://en.wikipedia.org/wiki/Pentagonal_tiling
+- time-measure | DOUBTFUL | surprising_fact: France used decimal time "For about two years" → "For less than two years" (official use about 17 months, 1793–1795) | https://www.britannica.com/science/decimal-time
+- great-barrier-reef | OUTDATED | mass bleaching list "...2022 and 2024" → "...2022, 2024 and 2025" (GBRMPA/AIMS/CSIRO reported 2024–25 widespread bleaching) | https://news.cgtn.com/news/2025-04-17/Scientists-report-sixth-mass-bleaching-event-on-Great-Barrier-Reef-1CEkkWNFi5W/share_amp.html
+- ocean-explorers | WRONG | hook: "Until 2019, more people had walked on the Moon than had visited the deepest point" → "Until 2020" (moonwalkers still outnumbered Challenger Deep visitors in June 2020) | https://www.pressreader.com/ireland/the-irish-mail-on-sunday/20200628/281509343455696
+- penguins-cold | DOUBTFUL | myth truth: "Wild penguins live only in the southern half of the world" → "Almost all wild penguins live in the southern half of the world, and none live in the Arctic" (Galápagos penguins reach just north of the equator) | https://en.wikipedia.org/wiki/Gal%C3%A1pagos_penguin

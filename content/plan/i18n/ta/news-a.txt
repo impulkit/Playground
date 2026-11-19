@@ -1,0 +1,15 @@
+earth|aqi
+earth|climate-summits
+earth|cyclone-ready
+history|russia-ukraine
+how|energy-storage
+how|ethanol-fuel
+how|green-crackers
+how|oil-refinery
+numbers|gigawatt
+people|defence-buying
+people|free-trade-agreements
+people|gig-workers
+people|gst
+people|india-oil
+people|inflation-target

@@ -1,0 +1,41 @@
+- {year: -300, title: Euclid's Elements, text: Euclid proves that a triangle's angles add up to two right angles., article: shapes-angles}
+- {year: 1356, title: Ganita Kaumudi, text: Narayana Pandita explains how to build magic squares of many sizes., article: magic-squares}
+- {year: 1494, title: Rule of 72 in print, text: Luca Pacioli describes a shortcut for how fast money doubles., article: money-maths}
+- {year: 1514, title: Dürer's magic square, text: Albrecht Dürer hides the year 1514 in a magic square in an engraving., article: magic-squares}
+- {year: 1569, title: Mercator's world map, text: A map made for sailors stretches lands near the poles., article: maps-scale}
+- {year: 1582, title: Gregorian calendar, text: Ten days are skipped and a new leap year rule begins., article: leap-years}
+- {year: 1654, title: Pascal and Fermat, text: Letters about a gambling puzzle begin the maths of probability., article: probability}
+- {year: 1714, title: The longitude prize, text: Britain offers a reward for finding longitude at sea., article: coordinates}
+- {year: 1724, title: Fahrenheit's scale, text: Daniel Fahrenheit publishes his temperature scale., article: temperature-scales}
+- {year: 1742, title: Celsius's scale, text: "Anders Celsius proposes a 100-step scale, at first upside down.", article: temperature-scales}
+- {year: 1752, title: Britain changes calendar, text: Wednesday 2 September is followed by Thursday 14 September., article: leap-years}
+- {year: 1767, title: Survey of India founded, text: One of India's oldest scientific departments begins mapping the land., article: maps-scale}
+- {year: 1786, title: First bar charts, text: William Playfair draws bar charts and line graphs of trade., article: graphs-charts}
+- {year: 1793, title: Decimal time, text: France tries 10-hour days and drops the idea two years later., article: time-measure}
+- {year: 1799, title: Metre of the Archives, text: The new metre is made into a platinum bar in Paris., article: metric-system}
+- {year: 1802, title: Great Trigonometrical Survey, text: William Lambton begins measuring India with chains of triangles., article: maps-scale}
+- {year: 1843, title: Lovelace's notes, text: Ada Lovelace publishes a method for a machine to calculate numbers., article: women-maths}
+- {year: 1844, title: First Morse telegram, text: "Samuel Morse sends a message from Washington to Baltimore.", article: codes-morse}
+- {year: 1851, title: India's first telegraph, text: A line opens between Calcutta and Diamond Harbour., article: codes-morse}
+- {year: 1852, title: Peak XV measured, text: Radhanath Sikdar's calculations show it is the world's highest peak., article: maps-scale}
+- {year: 1854, title: John Snow's map, text: A map of cholera deaths points to a water pump in London., article: graphs-charts}
+- {year: 1858, title: Nightingale's rose diagram, text: Florence Nightingale's chart shows disease killing more soldiers than wounds., article: graphs-charts}
+- {year: 1860, title: India's first budget, text: James Wilson presents the first budget in British India., article: budgets}
+- {year: 1875, title: Metre Convention, text: Seventeen nations agree to share the metric system., article: metric-system}
+- {year: 1883, title: Tower of Hanoi, text: Édouard Lucas sells his disc-moving puzzle., article: puzzles-logic}
+- {year: 1884, title: Prime meridian agreed, text: Delegates choose Greenwich as zero degrees longitude., article: coordinates}
+- {year: 1906, title: Galton's ox, text: A crowd's middle guess nearly matches an ox's real weight., article: estimation}
+- {year: 1913, title: Monte Carlo streak, text: A roulette wheel lands on black 26 times in a row., article: probability}
+- {year: 1918, title: Noether's theorem, text: Emmy Noether links symmetry to the laws of physics., article: women-maths}
+- {year: 1946, title: Abacus beats calculator, text: A soroban user defeats an electric calculator in Tokyo., article: abacus}
+- {year: 1952, title: Turing's patterns, text: Alan Turing shows how chemicals could make spots and stripes., article: patterns-nature}
+- {year: 1957, title: National calendar, text: India adopts a national calendar based on the Saka era., article: indian-calendars}
+- {year: 1962, title: Katherine Johnson checks the numbers, text: John Glenn orbits Earth after she confirms his flight path., article: women-maths}
+- {year: 1975, title: Fractal named, text: Benoit Mandelbrot coins the word fractal., article: fractals}
+- {year: 1979, title: Number Place published, text: Howard Garns's puzzle appears in a US magazine., article: sudoku}
+- {year: 1983, title: Metre defined by light, text: The metre becomes the distance light travels in a tiny fraction of a second., article: metric-system}
+- {year: 1999, title: Mars Climate Orbiter lost, text: A mix-up between units sends a spacecraft too close to Mars., article: measuring-units}
+- {year: 2013, title: India's last telegram, text: India's state telegraph service closes after 162 years., article: codes-morse}
+- {year: 2014, title: Mirzakhani's Fields Medal, text: Maryam Mirzakhani becomes the first woman to win the Fields Medal., article: women-maths}
+- {year: 2019, title: Kilogram redefined, text: The kilogram is fixed by a constant of nature instead of a metal cylinder., article: weights-mass}
+- {year: 2023, title: The hat tile, text: A single shape that tiles without ever repeating is discovered., article: tessellations}

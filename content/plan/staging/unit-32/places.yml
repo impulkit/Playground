@@ -1,0 +1,31 @@
+- {name: Citadelle Laferrière, lat: 19.573, lon: -72.244, note: Mountain fortress built after Haiti's independence, article: haitian-revolution, india: false}
+- {name: Battle of Boyacá site, lat: 5.455, lon: -73.362, note: Where Bolívar won freedom for Colombia in 1819, article: simon-bolivar, india: false}
+- {name: Tomioka Silk Mill, lat: 36.255, lon: 138.888, note: Meiji-era silk factory opened in 1872, article: meiji-japan, india: false}
+- {name: Humen, lat: 22.82, lon: 113.67, note: Where Lin Zexu destroyed British opium in 1839, article: opium-wars, india: false}
+- {name: Ghazipur, lat: 25.58, lon: 83.58, note: Site of a government opium factory since colonial times, article: opium-wars, india: true}
+- {name: Tiananmen, lat: 39.907, lon: 116.391, note: Gate where Mao announced the People's Republic in 1949, article: chinese-revolution, india: false}
+- {name: Auschwitz-Birkenau Memorial, lat: 50.036, lon: 19.178, note: The largest Nazi death camp, now a memorial and museum, article: holocaust, india: false}
+- {name: Anne Frank House, lat: 52.375, lon: 4.884, note: Where Anne Frank hid and wrote her diary, article: holocaust, india: false}
+- {name: Pietermaritzburg station, lat: -29.603, lon: 30.371, note: Where Gandhi was pushed off a train in 1893, article: gandhi-south-africa, india: false}
+- {name: Phoenix Settlement, lat: -29.70, lon: 30.97, note: Gandhi's communal farm near Durban, article: gandhi-south-africa, india: false}
+- {name: Accra, lat: 5.56, lon: -0.20, note: Where Ghana's independence was declared in 1957, article: decolonisation, india: false}
+- {name: Robben Island, lat: -33.806, lon: 18.366, note: Prison island where Mandela spent 18 years, article: apartheid, india: false}
+- {name: Soweto, lat: -26.267, lon: 27.858, note: Site of the 1976 student uprising, article: apartheid, india: false}
+- {name: NASA Langley Research Center, lat: 37.09, lon: -76.38, note: Home of the West Area human computers, article: moon-race-women, india: false}
+- {name: Fort Clatsop, lat: 46.134, lon: -123.878, note: Lewis and Clark's winter camp near the Pacific, article: lewis-clark, india: false}
+- {name: Sutter's Mill, Coloma, lat: 38.80, lon: -120.89, note: Where gold was found in January 1848, article: gold-rush, india: false}
+- {name: Kolar Gold Fields, lat: 12.96, lon: 78.27, note: Deep gold mines worked until 2001, article: gold-rush, india: true}
+- {name: Promontory Summit, lat: 41.618, lon: -112.551, note: Where the coast-to-coast railroad was joined in 1869, article: transcontinental-railroad, india: false}
+- {name: Ellis Island, lat: 40.699, lon: -74.039, note: America's busiest immigration station from 1892 to 1954, article: ellis-island, india: false}
+- {name: Window Rock, lat: 35.68, lon: -109.05, note: Capital of the Navajo Nation, article: native-nations, india: false}
+- {name: Cahokia Mounds, lat: 38.655, lon: -90.062, note: Site of a large Native city around 1100 CE, article: native-nations, india: false}
+- {name: Plymouth, Massachusetts, lat: 41.958, lon: -70.662, note: Where the Mayflower passengers settled in 1620, article: pilgrims-mayflower, india: false}
+- {name: Gettysburg, lat: 39.83, lon: -77.23, note: Site of the largest battle of the Civil War, article: us-civil-war, india: false}
+- {name: Apollo Theater, lat: 40.810, lon: -73.950, note: Harlem theatre famous for Amateur Night, article: harlem-renaissance, india: false}
+- {name: Maheshwar, lat: 22.18, lon: 75.59, note: Ahilyabai Holkar's capital on the Narmada, article: womens-history-india, india: true}
+- {name: Bhide Wada, Pune, lat: 18.516, lon: 73.856, note: Site of the Phules' first girls' school in 1848, article: womens-history-india, india: true}
+- {name: Great Zimbabwe, lat: -20.27, lon: 30.93, note: Stone city built without mortar, article: ancient-africa, india: false}
+- {name: Meroë, lat: 16.94, lon: 33.75, note: Capital of Kush, with royal pyramids nearby, article: ancient-africa, india: false}
+- {name: Aksum, lat: 14.13, lon: 38.72, note: Ancient trading capital with giant stone stelae, article: ancient-africa, india: false}
+- {name: Timbuktu, lat: 16.77, lon: -3.01, note: Mali's city of scholars and manuscripts, article: ancient-africa, india: false}
+- {name: Bletchley Park, lat: 51.998, lon: -0.741, note: Where Enigma messages were broken in the Second World War, article: encryption, india: false}

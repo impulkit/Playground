@@ -1,0 +1,34 @@
+NEW|places|narmada|Why is the Narmada called a lifeline?
+NEW|people|courage|What is courage?
+NEW|how|light-switch|What happens when you flip a switch?
+NEW|history|wheel-to-chariot|How did the chariot change war and travel?
+NEW|tech|exoskeletons|What are exoskeletons?
+NEW|pop|badminton-india|Why is India so good at badminton?
+NEW|body|skin-colour|Why do people have different skin colours?
+NEW|art|sh-raza|Who was S.H. Raza?
+NEW|food|ginger-garlic|Why are ginger and garlic used together so often?
+NEW|words|bible-intro|What is the Bible?
+NEW|numbers|indian-numerals|How did India's numerals spread to the world?
+NEW|earth|cliffs-erosion|How do waves shape coastlines?
+NEW|wild|chickens|How did chickens spread around the world?
+NEW|space|stars-colours|Why are stars different colours?
+NEW|ocean|crabs|How do crabs grow?
+NEW|sky|woodpeckers|Why don't woodpeckers get headaches?
+NEW|lost|ice-age-animals|Which giant animals lived in the Ice Age?
+NEW|places|ranthambore|What is Ranthambore?
+NEW|people|empathy|What is empathy?
+NEW|how|chargers|How does a phone charger work?
+NEW|history|sumer|Who were the Sumerians?
+NEW|tech|smart-homes|What is a smart home?
+NEW|pop|table-tennis|How fast is table tennis?
+NEW|body|freckles-moles|What are freckles and moles?
+NEW|art|bhupen-khakhar|Who was Bhupen Khakhar?
+NEW|food|tamarind|What is tamarind?
+NEW|words|jain-agamas|What are the Jain scriptures?
+NEW|numbers|lakh-crore|What are lakhs and crores?
+NEW|earth|waterfalls|How do waterfalls form?
+NEW|wild|elephants-india|How do elephants and people share land in India?
+NEW|space|star-life-cycle|How long do stars live?
+NEW|ocean|clownfish|How do clownfish live in anemones?
+NEW|sky|swifts-swallows|Which birds can sleep while flying?
+NEW|lost|early-humans-india|When did the first people reach India?

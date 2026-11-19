@@ -1,0 +1,27 @@
+# Fact-check log: fc-14
+
+- sikkim | WRONG | "about seven lakh people at the 2011 census" → "about six lakh" (610,577) | https://censusindia.gov.in/
+- south-africa | OUTDATED | Population "about 6 crore (60 million)" → "about 6.3 crore (63 million, 2024 estimate)" | https://www.statssa.gov.za/
+- south-africa | WRONG | surprising_fact capital "for its top court" → "for its Supreme Court of Appeal" (top court is the Constitutional Court, Johannesburg) | https://www.gov.za/about-sa/south-africa-glance
+- spain | OUTDATED | People "about 4.8 crore (48 million)" → "about 4.9 crore (49 million, 2025)" | https://www.ine.es/
+- spain | WRONG | Flamenco "UNESCO lists it as world heritage" → "part of the world's intangible cultural heritage" | https://ich.unesco.org/en/RL/flamenco-00363
+- sri-lanka | DOUBTFUL | "about 30 km across the Palk Strait at the narrowest" → "about 30 km at the narrowest, between Dhanushkodi and Mannar Island" (Palk Strait itself is 53+ km wide) | https://www.britannica.com/place/Palk-Strait
+- stonehenge | WRONG | Altar Stone "roughly 700 km away" (surprising_fact and body) → "about 750 km away" | https://www.nature.com/articles/s41586-024-07652-1
+- stonehenge | WRONG | Heaviest sarsens "around 25 tonnes" (facts and body, "four elephants") → "more than 30 tonnes" ("five elephants") | https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/
+- switzerland | WRONG | Gotthard trains "up to about 250 km/h" → "up to about 200 km/h" (250 is design speed) | https://www.alptransit.ch/
+- texas | DOUBTFUL | "Armstrong's first words from the surface began 'Houston, Tranquility Base here.'" → "Armstrong radioed 'Houston, Tranquility Base here. The Eagle has landed.'" | https://www.nasa.gov/history/afj/ap11fj/
+- tokyo | DOUBTFUL | Shinjuku "more than 3 million passengers a day" (hook and body) → "about/around 3 million", attributed to Guinness | https://www.guinnessworldrecords.com/world-records/busiest-station
+- tokyo | OUTDATED | Quiz: Tokaido Shinkansen average delay "less than a minute" → "less than two minutes"; reveal now "about 1.6 minutes per train in 2023" | https://www.letribunaldunet.fr/le-saviez-vous/shinkansen-retard-moyen-1-6-minute.html
+- usa-geography | WRONG | NY to LA "Driving it non-stop would take about four days" → "Driving it, with stops to eat and sleep, takes about four days" (non-stop is ~40 hours) | https://www.usgs.gov/
+- venice | DOUBTFUL | hook "many have held the city up for over a thousand years" → "some have" | https://whc.unesco.org/en/list/394/
+- wettest-place | CONSISTENCY | surprising_fact "Cherrapunji, just a few kilometres from Mawsynram" → "about 15 km from Mawsynram" (matches body) | https://www.britannica.com/place/Cherrapunji
+- cartoons-history | CONSISTENCY | Fantasmagorie "a two-minute film" → "lasting under two minutes" (matches hook; ~75 s) | https://www.loc.gov/
+- cricket-bat | SOURCE | "Grant S. & Nixon S. (1996) Parameters of cricket bat willow. Sports Engineering" (unfindable) → "Grant C. (1998) The role of materials in the design of an improved cricket bat. MRS Bulletin 23(3)" | https://www.cambridge.org/core/journals/mrs-bulletin/article/role-of-materials-in-the-design-of-an-improved-cricket-bat/57BCBBFC8A73BF259DCB7ADA8D89AB10
+- cricket-history | OUTDATED | T20 World Cup wins "2007 and 2024" (facts, timeline, body) → "2007, 2024 and 2026" | https://www.skysports.com/cricket/news/12040/13502048/mens-t20-world-cup-2026-fixtures-england-india-pakistan-australia-scotland-ireland-west-indies-and-more
+- cricket-world-cups | OUTDATED | "India's men have won four World Cups", T20 wins "2007, 2024" → "five", "2007, 2024, 2026"; added sentence on 2026 final (beat New Zealand by 96 runs) | https://www.thenationalnews.com/sport/cricket/2026/03/08/india-secure-back-to-back-t20-world-cup-after-thrashing-new-zealand-in-final
+- cycling-tour | OUTDATED | "Four riders have won the Tour five times" / Most wins list → five riders, adding Tadej Pogačar (2026) | https://www.whro.org/2026-07-26/tadej-pogacar-of-slovenia-wins-the-2026-tour-de-france-his-fifth-victory-in-the-race
+- eid | CONSISTENCY | facts "Eid al-Adha marks: the end of the Hajj pilgrimage season" → "Eid al-Adha falls: during the Hajj pilgrimage" (matches body) | https://www.britannica.com/topic/Eid-al-Adha
+- film-songs | CONSISTENCY | Timeline playback singers "1940s–" → "1935–" (matches body and facts) | https://www.britannica.com/art/Bollywood-film-industry-India
+- formula-one | OUTDATED | "10 teams, 20 drivers (2025)" / "Ten teams ... 20 drivers" → "11 teams, 22 drivers (2026)" | https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-in.56uUTFhB0z5j3iZfhC0rGP
+- formula-one | OUTDATED | "Energy from braking and from hot exhaust gases is stored" → exhaust-energy recovery described as 2014–2025, dropped by 2026 rules | https://www.formula1.com/en/latest/article/from-smaller-cars-to-a-bigger-budget-cap-12-rule-changes-you-need-to-know-in.56uUTFhB0z5j3iZfhC0rGP
+- ipl | OUTDATED | RCB "won its first title in 2025" → added "and won again in 2026" | https://currentaffairs.adda247.com/rcb-win-ipl-2026-final-by-5-wickets-defend-title-against-gujarat-titans/

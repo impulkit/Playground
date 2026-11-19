@@ -1,0 +1,21 @@
+- {name: Hamina data centre, lat: 60.54, lon: 27.12, note: Google data centre cooled with Baltic seawater, article: data-centres}
+- {name: Porthcurno, lat: 50.043, lon: -5.654, note: Landing point of the 1870 telegraph cable to Bombay, article: undersea-internet}
+- {name: Port Blair, lat: 11.62, lon: 92.73, note: End of the undersea cable from Chennai opened in 2020, article: undersea-internet, india: true}
+- {name: Jelling, lat: 55.756, lon: 9.419, note: Harald Bluetooth's runestone, article: bluetooth}
+- {name: Sriharikota, lat: 13.72, lon: 80.23, note: Satish Dhawan Space Centre launch site, article: isro-launch, india: true}
+- {name: Thumba, lat: 8.53, lon: 76.87, note: India's first rocket launch in 1963, article: isro-launch, india: true}
+- {name: Cape Canaveral, lat: 28.49, lon: -80.58, note: Site of the first Falcon 9 booster landing, article: reusable-rockets}
+- {name: Challakere, lat: 14.31, lon: 76.65, note: ISRO's Pushpak landing tests, article: reusable-rockets, india: true}
+- {name: Strasbourg, lat: 48.58, lon: 7.75, note: Patient's city in the 2001 transatlantic robot operation, article: robots-surgery}
+- {name: Jaipur, lat: 26.91, lon: 75.79, note: Home of the Jaipur Foot, article: prosthetics, india: true}
+- {name: Seelampur, lat: 28.67, lon: 77.27, note: One of India's biggest informal e-waste markets, article: e-waste, india: true}
+- {name: Dholera, lat: 22.25, lon: 72.19, note: Site of India's first large chip-making plant, article: semiconductors-india, india: true}
+- {name: Sanand, lat: 22.99, lon: 72.38, note: Micron's chip assembly and testing plant, article: semiconductors-india, india: true}
+- {name: Mohali, lat: 30.70, lon: 76.72, note: Semi-Conductor Laboratory, article: semiconductors-india, india: true}
+- {name: HP Garage, lat: 37.443, lon: -122.155, note: Birthplace of Silicon Valley, article: steve-wozniak-garage}
+- {name: Stanford University, lat: 37.428, lon: -122.170, note: University at the heart of Silicon Valley, article: silicon-valley}
+- {name: IIT Kharagpur, lat: 22.32, lon: 87.31, note: India's first IIT, opened 1951, article: sundar-ganges-tech, india: true}
+- {name: St Mary's Hospital, lat: 51.517, lon: -0.174, note: Where Fleming found penicillin, article: inventions-accidents}
+- {name: Iron pillar of Delhi, lat: 28.5245, lon: 77.1855, note: A 1,600-year-old pillar that has barely rusted, article: ancient-tech, india: true}
+- {name: Antikythera, lat: 35.86, lon: 23.31, note: Island where the mechanism's shipwreck was found, article: antikythera}
+- {name: National Archaeological Museum, lat: 37.989, lon: 23.733, note: Where the Antikythera mechanism is displayed, article: antikythera}

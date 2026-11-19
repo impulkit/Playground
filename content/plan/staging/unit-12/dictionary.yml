@@ -1,0 +1,16 @@
+- {id: bacteria, word: bacteria, meaning: "Tiny living things made of a single cell. Most are harmless or helpful, and a few cause illness.", see: microbes-friendly}
+- {id: virus, word: virus, meaning: "A tiny germ, much smaller than bacteria, that can only make copies of itself inside the cells of a living thing.", see: smallpox}
+- {id: vaccine, word: vaccine, meaning: "A medicine that teaches your body to recognise a germ, so it can fight it off quickly if it ever meets the real thing.", see: vaccines}
+- {id: haemoglobin, word: haemoglobin, meaning: "The red substance inside red blood cells that carries oxygen around the body.", see: blood}
+- {id: platelet, word: platelet, meaning: "A tiny piece of a cell in your blood that helps stop bleeding by clumping together at a cut.", see: scabs}
+- {id: capillary, word: capillary, meaning: "The thinnest kind of blood vessel, finer than a hair, where blood passes oxygen to the body.", see: blood}
+- {id: neuron, word: neuron, meaning: "A nerve cell. Neurons carry messages as tiny electrical signals around the brain and body.", see: brain-works}
+- {id: hemisphere, word: hemisphere, meaning: "One half of a round thing. Your brain has a left and a right hemisphere.", see: handedness-brain}
+- {id: transistor, word: transistor, meaning: "A tiny electronic switch with no moving parts. Computer chips contain billions of them.", see: chips-silicon}
+- {id: binary, word: binary, meaning: "A way of writing numbers using only two digits, 0 and 1. Computers store everything this way.", see: binary-code}
+- {id: frequency, word: frequency, meaning: "How many times something repeats in one second, such as the vibrations of a sound or a radio wave.", see: radio-waves}
+- {id: server, word: server, meaning: "A computer that stays switched on to store things and send them to other computers when they ask.", see: internet-how}
+- {id: encryption, word: encryption, meaning: "Scrambling a message with a secret key so that only someone with the right key can read it.", see: cipher-codes}
+- {id: larynx, word: larynx, meaning: "Your voice box, at the top of your windpipe in the throat. It holds the vocal folds.", see: voice}
+- {id: epidemic, word: epidemic, meaning: "When a disease spreads to many people in one area at the same time.", see: smallpox}
+- {id: sensor, word: sensor, meaning: "A part of a machine, or of your body, that detects something like light, heat, movement or touch.", see: smartphones}

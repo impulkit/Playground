@@ -1,0 +1,34 @@
+NEW|people|languages-world|How many languages are spoken on Earth?
+NEW|people|unesco-sites|What is a World Heritage Site?
+NEW|people|olympics-peace|Can sport bring peace?
+NEW|people|nobel-peace|What is the Nobel Peace Prize?
+NEW|people|malala|Who is Malala Yousafzai?
+NEW|people|kailash-satyarthi|Who is Kailash Satyarthi?
+NEW|people|mother-teresa|Who was Mother Teresa?
+NEW|people|environment-heroes|Who are some heroes of the environment?
+NEW|people|chipko|What was the Chipko movement?
+NEW|people|wangari-maathai|How did Wangari Maathai plant millions of trees?
+NEW|people|disabilities-inclusion|How can the world be fair for disabled people?
+NEW|people|human-rights|What are human rights?
+NEW|people|refugees|Who are refugees?
+NEW|people|internet-citizens|How should we behave online?
+NEW|people|elections-usa|How does the USA elect a president?
+NEW|people|supreme-courts|What do supreme courts do?
+EXPAND|people|borders-why
+EXPAND|people|constitution
+EXPAND|people|desert-life
+EXPAND|people|diwali-lights
+EXPAND|people|great-wall
+EXPAND|people|indus-cities
+EXPAND|people|laws-made
+EXPAND|people|maps-flat
+EXPAND|people|national-parks
+EXPAND|people|pyramids
+EXPAND|people|rights-kids
+EXPAND|people|trade-routes
+EXPAND|people|us-constitution
+EXPAND|people|vote-how
+EXPAND|people|writing-began
+NEW|places|countries-how-many|How many countries are there?
+NEW|places|continents|What are the seven continents?
+NEW|places|india-geography|What does India look like from north to south?

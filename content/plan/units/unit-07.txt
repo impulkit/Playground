@@ -1,0 +1,34 @@
+EXPAND|ocean|anglerfish
+EXPAND|ocean|blue-whale
+EXPAND|ocean|coral-reefs
+EXPAND|ocean|dolphins-click
+EXPAND|ocean|jellyfish-old
+EXPAND|ocean|ocean-deepest
+EXPAND|ocean|ocean-reptiles
+EXPAND|ocean|ocean-zones
+EXPAND|ocean|octopus-smart
+EXPAND|ocean|penguins-cold
+EXPAND|ocean|sea-otters
+EXPAND|ocean|sea-turtles
+EXPAND|ocean|sharks-old
+EXPAND|ocean|tides
+EXPAND|ocean|whales-walked
+NEW|wild|lions-gir|Why are Asiatic lions found only in Gir?
+NEW|wild|rhino-kaziranga|How did Kaziranga save the one-horned rhino?
+NEW|wild|snow-leopard|How does the snow leopard survive the Himalayas?
+NEW|wild|red-panda|Is the red panda a panda?
+NEW|wild|monkeys-langur|How do langurs and macaques live alongside us?
+NEW|wild|dogs-domestic|How did wolves become dogs?
+NEW|wild|cats-domestic|How did cats come to live with people?
+NEW|wild|cows-india|Why are cows so important in Indian villages?
+NEW|wild|camels|How do camels survive the desert?
+NEW|wild|spiders-silk|How strong is spider silk?
+NEW|wild|butterflies-life|How does a caterpillar become a butterfly?
+NEW|wild|earthworms|Why are earthworms a farmer's friend?
+NEW|wild|termite-mounds|How do termites build air-conditioned mounds?
+NEW|wild|snakes-venom|How does snake venom work?
+NEW|wild|plants-move|Can plants move?
+NEW|wild|lotus|Why does water roll off a lotus leaf?
+NEW|wild|neem|Why is neem called the village pharmacy?
+NEW|wild|mango-tree|Why is the mango called the king of fruits?
+NEW|wild|bamboo|How does bamboo grow so fast?

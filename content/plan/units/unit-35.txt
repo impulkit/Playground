@@ -1,0 +1,34 @@
+NEW|places|new-orleans|What makes New Orleans unique?
+NEW|places|miami|What is Miami like?
+NEW|places|grand-canyon-state|What is Arizona like?
+NEW|places|great-lakes|What are the Great Lakes?
+NEW|places|mississippi|Why is the Mississippi River so important?
+NEW|places|appalachians|What are the Appalachian Mountains?
+NEW|places|rocky-mountains|What are the Rocky Mountains?
+NEW|places|navajo-nation|What is the Navajo Nation?
+NEW|places|puerto-rico|What is Puerto Rico?
+NEW|places|istanbul|Why is Istanbul in two continents?
+NEW|places|jerusalem|Why is Jerusalem important to so many people?
+NEW|places|mecca-hajj|What is the Hajj?
+NEW|places|kyoto|What is Kyoto known for?
+NEW|places|seoul|What is South Korea like?
+NEW|places|beijing|What is Beijing's Forbidden City?
+NEW|places|bali|What is Bali like?
+NEW|places|thailand|What is Thailand known for?
+NEW|places|vietnam|What is Vietnam like?
+NEW|places|bhutan|Why does Bhutan measure happiness?
+NEW|places|maldives|Why are the Maldives in danger from the sea?
+NEW|places|mongolia|How do nomads live in Mongolia?
+NEW|places|morocco|What is Morocco like?
+NEW|places|ethiopia|What makes Ethiopia unique?
+NEW|places|nigeria|What is Nigeria known for?
+NEW|places|madagascar|Why are Madagascar's animals found nowhere else?
+NEW|places|peru|What is Peru known for?
+NEW|places|argentina|What is Argentina like?
+NEW|places|amsterdam|Why does the Netherlands have so many canals?
+NEW|places|spain|What is Spain known for?
+NEW|places|switzerland|Why is Switzerland famous for mountains and clocks?
+NEW|places|norway-fjords|What are fjords?
+NEW|places|scotland|What is Scotland known for?
+NEW|places|new-zealand|What is New Zealand like?
+NEW|places|galapagos|Why are the Galápagos Islands special?

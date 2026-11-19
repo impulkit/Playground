@@ -1,0 +1,18 @@
+- {name: Jakarta, lat: -6.2, lon: 106.85, note: The world's most populous city by the UN's 2025 count, article: extreme-biggest-cities}
+- {name: Dhaka, lat: 23.81, lon: 90.41, note: The world's second most populous city (UN 2025), article: extreme-biggest-cities}
+- {name: Coimbatore, lat: 11.02, lon: 76.96, note: Home town of the inventor of cheap sanitary pad machines, article: india-padman, india: true}
+- {name: Burj Khalifa, lat: 25.197, lon: 55.274, note: The world's tallest building at 828 m, article: extreme-tallest-structures}
+- {name: Statue of Unity, lat: 21.838, lon: 73.719, note: The world's tallest statue at 182 m, article: extreme-tallest-structures, india: true}
+- {name: Fushimi Inari Shrine, lat: 34.967, lon: 135.773, note: Fox statues and thousands of orange gates, article: myths-japanese}
+- {name: Nazca Lines, lat: -14.739, lon: -75.13, note: Giant drawings in the Peruvian desert, article: mystery-nazca-lines}
+- {name: Shinjuku Station, lat: 35.690, lon: 139.700, note: Listed as the world's busiest railway station, article: extreme-busiest-places}
+- {name: Hartsfield-Jackson Atlanta International Airport, lat: 33.640, lon: -84.428, note: The world's busiest airport by passengers (2025), article: extreme-busiest-places}
+- {name: Molai forest, lat: 26.83, lon: 94.24, note: A forest planted by hand on a Brahmaputra sandbank, article: india-forest-man, india: true}
+- {name: Atal Setu, lat: 18.97, lon: 72.93, note: India's longest sea bridge, article: extreme-longest-bridges, india: true}
+- {name: Lake Pontchartrain Causeway, lat: 30.21, lon: -90.12, note: About 38 km of bridge over open water, article: extreme-longest-bridges}
+- {name: Kola Superdeep Borehole, lat: 69.396, lon: 30.608, note: The deepest hole ever drilled, article: what-if-hole-through-earth}
+- {name: Kaliningrad, lat: 54.71, lon: 20.51, note: Once Königsberg, city of the seven bridges, article: puzzle-konigsberg}
+- {name: Farne Islands, lat: 55.63, lon: -1.63, note: Nesting ground of record-breaking Arctic terns, article: sky-arctic-tern}
+- {name: Cincinnati Zoo, lat: 39.145, lon: -84.508, note: Where Martha the last passenger pigeon died in 1914, article: lost-passenger-pigeon}
+- {name: Hobart, lat: -42.88, lon: 147.33, note: The last known thylacine died at a zoo here in 1936, article: lost-thylacine}
+- {name: Prayagraj, lat: 25.43, lon: 81.85, note: Site of the record-breaking 2025 Maha Kumbh Mela, article: extreme-busiest-places, india: true}

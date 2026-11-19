@@ -1,0 +1,24 @@
+- {name: East Kolkata Wetlands, lat: 22.55, lon: 88.45, note: Marshes that clean a city's sewage and grow fish, article: wetlands, india: true}
+- {name: Chilika Lake, lat: 19.72, lon: 85.32, note: India's first Ramsar site and a winter home for migrating birds, article: wetlands, india: true}
+- {name: Keoladeo National Park, lat: 27.17, lon: 77.52, note: Bird sanctuary in Bharatpur, article: wetlands, india: true}
+- {name: Loktak Lake, lat: 24.55, lon: 93.8, note: Lake with floating islands of plants, article: wetlands, india: true}
+- {name: Everglades National Park, lat: 25.29, lon: -80.9, note: Florida's river of grass, article: wetlands}
+- {name: Lamar Valley, lat: 44.9, lon: -110.23, note: Where visitors watch Yellowstone's wolves, article: yellowstone-wolves}
+- {name: Desert National Park, lat: 26.47, lon: 70.62, note: Last stronghold of the great Indian bustard, article: extinction-today, india: true}
+- {name: Malheur National Forest, lat: 44.47, lon: -118.5, note: Home of a giant honey fungus, article: mushrooms}
+- {name: Ljubljana Marshes, lat: 45.97, lon: 14.45, note: Where the oldest known wooden wheel was found, article: wheel-invented}
+- {name: Vivekanandar Illam (Ice House), lat: 13.05, lon: 80.28, note: Built in 1842 to store ice shipped from America, article: refrigerator, india: true}
+- {name: Bhadla Solar Park, lat: 27.53, lon: 71.92, note: One of the world's largest solar parks, article: solar-panels, india: true}
+- {name: Cochin International Airport, lat: 10.15, lon: 76.4, note: First airport to run entirely on solar power, article: solar-panels, india: true}
+- {name: Muppandal, lat: 8.26, lon: 77.55, note: Hundreds of wind turbines in a windy mountain pass, article: wind-turbines, india: true}
+- {name: Hoover Dam, lat: 36.016, lon: -114.737, note: Giant hydroelectric dam on the Colorado River, article: dams-power}
+- {name: Bhakra Dam, lat: 31.41, lon: 76.43, note: Dam on the Sutlej finished in 1963, article: dams-power, india: true}
+- {name: Shivanasamudra, lat: 12.3, lon: 77.17, note: Hydroelectric station that powered the Kolar Gold Fields from 1902, article: dams-power, india: true}
+- {name: Tarapur Atomic Power Station, lat: 19.83, lon: 72.66, note: India's first nuclear power station, article: nuclear-power, india: true}
+- {name: Chicago Pile-1 site, lat: 41.792, lon: -87.601, note: Where the first nuclear chain reaction was started, article: nuclear-power}
+- {name: Aranmula, lat: 9.33, lon: 76.69, note: Village famous for its metal mirrors, article: mirrors, india: true}
+- {name: Agumbe, lat: 13.5, lon: 75.09, note: Rainforest research station studying king cobras, article: king-cobra, india: true}
+- {name: Redwood National Park, lat: 41.3, lon: -124.0, note: Home of Hyperion, the tallest known tree, article: redwoods}
+- {name: Great Smoky Mountains National Park, lat: 35.65, lon: -83.58, note: Fireflies that flash in time, article: fireflies}
+- {name: Cochin Shipyard, lat: 9.95, lon: 76.27, note: Where INS Vikrant was built, article: floating-ships, india: true}
+- {name: Bronocice, lat: 50.34, lon: 20.33, note: Pot with one of the oldest pictures of a wagon, article: wheel-invented}

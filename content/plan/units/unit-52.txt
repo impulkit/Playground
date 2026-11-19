@@ -1,0 +1,34 @@
+NEW|body|nose-bleeds|Why do noses bleed?
+NEW|art|wood-carving|What is wood carving?
+NEW|food|watermelon|How does a watermelon grow so big?
+NEW|words|sherlock-holmes|Who is Sherlock Holmes?
+NEW|numbers|discounts|How do shop discounts work?
+NEW|earth|wind-patterns|Why do winds blow in the same directions?
+NEW|wild|lizards|How do lizards climb walls?
+NEW|space|women-in-space|Who are some famous women in space?
+NEW|ocean|beach-clean|Why do beach clean-ups matter?
+NEW|places|victoria-memorial|What is the Victoria Memorial?
+NEW|people|basavanna|Who was Basavanna?
+NEW|how|scanners|How does a scanner read a page?
+NEW|history|srivijaya|What was the Srivijaya empire?
+NEW|tech|ships-tech|How do giant container ships work?
+NEW|pop|stadiums|How are giant stadiums built?
+NEW|body|ear-wax|What is ear wax for?
+NEW|art|terracotta|What is terracotta art?
+NEW|food|corn-maize|How did maize become a world crop?
+NEW|words|science-fiction|What is science fiction?
+NEW|numbers|measurement-india|What units did India use before the metre?
+NEW|earth|thunderstorms|How do thunderstorms form?
+NEW|wild|turtles-tortoises|What is the difference between turtles and tortoises?
+NEW|space|space-animals|Which animals have gone to space?
+NEW|ocean|fishing-sustainable|What is sustainable fishing?
+NEW|places|mysore-palace|Why does Mysore Palace light up?
+NEW|people|guru-nanak|Who was Guru Nanak?
+NEW|how|atm-machines|How does an ATM work?
+NEW|history|polynesians|How did Polynesians find islands across the Pacific?
+NEW|tech|submarine-tech|How do submarines stay underwater for months?
+NEW|pop|sports-equipment|How are cricket balls and footballs made?
+NEW|body|burps|Why do we burp?
+NEW|art|dhokra|What is Dhokra metal casting?
+NEW|food|soybeans|Why are soybeans in so many foods?
+NEW|words|jules-verne|Who was Jules Verne?

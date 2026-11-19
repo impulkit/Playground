@@ -1,0 +1,19 @@
+- {name: Broad Street pump, lat: 51.5133, lon: -0.1367, note: Where John Snow traced the 1854 cholera outbreak, article: data-science}
+- {name: Indian Statistical Institute, lat: 22.649, lon: 88.377, note: Founded by P. C. Mahalanobis in 1931, article: data-science, india: true}
+- {name: Bletchley Park, lat: 51.998, lon: -0.741, note: Where the Enigma code was broken, article: cryptography-maths}
+- {name: Brașov, lat: 45.65, lon: 25.61, note: Host of the first Maths Olympiad in 1959, article: maths-olympiad}
+- {name: Imperial College London, lat: 51.499, lon: -0.175, note: Where Shakuntala Devi set her 1980 record, article: shakuntala-devi}
+- {name: Irinjalakuda, lat: 10.343, lon: 76.211, note: Thought to be near Madhava's village of Sangamagrama, article: madhava, india: true}
+- {name: Ujjain, lat: 23.18, lon: 75.78, note: Observatory city where Bhaskara II worked, article: bhaskara, india: true}
+- {name: University of Toronto, lat: 43.663, lon: -79.396, note: Where insulin was discovered in 1921, article: hormones}
+- {name: Pisa, lat: 43.72, lon: 10.40, note: Early spectacles were described here in 1306, article: eyesight-glasses}
+- {name: Manchester, lat: 53.48, lon: -2.24, note: Where John Dalton described his colour blindness, article: colour-blindness}
+- {name: Bangaon, lat: 23.05, lon: 88.82, note: Near the 1971 refugee camp where ORS saved lives, article: thirst, india: true}
+- {name: Laetoli, lat: -3.22, lon: 35.18, note: 3.6-million-year-old footprints, article: human-evolution}
+- {name: Hadar, lat: 11.1, lon: 40.6, note: Where the Lucy skeleton was found in 1974, article: human-evolution}
+- {name: Jebel Irhoud, lat: 31.85, lon: -8.87, note: Oldest known Homo sapiens fossils, article: human-evolution}
+- {name: Dubrovnik, lat: 42.65, lon: 18.09, note: Old Ragusa, which isolated ships against plague in 1377, article: disease-history}
+- {name: Panama Canal, lat: 9.08, lon: -79.68, note: Finished in 1914 after mosquito control, article: disease-history}
+- {name: Haffkine Institute, lat: 19.003, lon: 72.842, note: Where an early plague vaccine was made in 1897, article: disease-history, india: true}
+- {name: Secunderabad, lat: 17.44, lon: 78.50, note: Ronald Ross linked malaria to mosquitoes here in 1897, article: mosquito-diseases, india: true}
+- {name: Chennai, lat: 13.08, lon: 80.27, note: Site of the 1956 study on treating TB at home, article: tb-india, india: true}

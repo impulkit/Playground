@@ -1,0 +1,46 @@
+- {year: 1954, title: First practical solar cell, text: Bell Labs shows a silicon cell that turns sunlight into useful electricity., article: green-tech}
+- {year: 1966, title: Memory foam, text: Foam made for NASA aircraft seats later fills pillows and mattresses., article: space-tech-earth}
+- {year: 1969, title: Jaipur foot, text: A cheap and flexible artificial foot is designed in Jaipur., article: inventors-india}
+- {year: 1895, title: Bose's waves, text: J. C. Bose demonstrates very short radio waves in Calcutta., article: jagadish-bose}
+- {year: 1917, title: Bose Institute opens, text: One of India's first modern research centres opens in Calcutta., article: jagadish-bose}
+- {year: 1980, title: SLV-3 reaches orbit, text: "India's own rocket, led by A. P. J. Abdul Kalam, launches the Rohini satellite.", article: apj-kalam}
+- {year: 2002, title: Kalam becomes President, text: A rocket engineer becomes India's 11th President., article: apj-kalam}
+- {year: 1945, title: TIFR founded, text: Homi Bhabha starts the Tata Institute of Fundamental Research., article: homi-bhabha}
+- {year: 1956, title: Apsara reactor, text: "India switches on Asia's first nuclear research reactor, at Trombay.", article: homi-bhabha}
+- {year: 1963, title: First rocket from Thumba, text: India's space programme begins with a launch from a Kerala fishing village., article: vikram-sarabhai}
+- {year: 1969, title: ISRO formed, text: Vikram Sarabhai's space committee becomes the Indian Space Research Organisation., article: vikram-sarabhai}
+- {year: 1898, title: Polonium and radium, text: Marie and Pierre Curie discover two new elements., article: marie-curie}
+- {year: 1911, title: Curie's second Nobel, text: Marie Curie wins the Nobel Prize in Chemistry., article: marie-curie}
+- {year: 1905, title: Einstein's miracle year, text: "A patent clerk publishes papers on light, atoms and relativity.", article: einstein}
+- {year: 1919, title: Eclipse tests relativity, text: Starlight bending near the Sun matches Einstein's prediction., article: einstein}
+- {year: 1687, title: Newton's Principia, text: Isaac Newton publishes his laws of motion and gravity., article: newton-life}
+- {year: 1610, title: Moons of Jupiter, text: Galileo spots four moons circling Jupiter through his telescope., article: galileo}
+- {year: 1633, title: Galileo's trial, text: The Roman Inquisition puts Galileo under house arrest., article: galileo}
+- {year: 1896, title: Niagara power reaches Buffalo, text: Alternating current from Niagara Falls lights a city 40 km away., article: nikola-tesla}
+- {year: 1947, title: The moth in the computer, text: A real moth is found inside the Harvard Mark II and taped into the logbook., article: grace-hopper}
+- {year: 1959, title: COBOL created, text: A business programming language shaped by Grace Hopper's ideas appears., article: grace-hopper}
+- {year: 1936, title: The Turing machine, text: Alan Turing describes an imaginary machine that can compute anything computable., article: alan-turing}
+- {year: 1950, title: The Turing test, text: Turing asks whether machines can think., article: alan-turing}
+- {year: 1969, title: First ARPANET message, text: "A message from UCLA to Stanford Research Institute crashes after two letters, LO.", article: internet-history}
+- {year: 1995, title: Internet comes to India, text: VSNL opens public internet access on Independence Day., article: internet-history}
+- {year: 2004, title: Facebook launches, text: A social network for Harvard students soon opens to the world., article: social-media}
+- {year: 1938, title: War of the Worlds broadcast, text: A radio play about Martians later becomes a famous exaggerated news story., article: fake-news}
+- {year: -3200, title: Numbers in clay, text: Scribes in Uruk press number signs into clay tablets., article: counting-history}
+- {ago: 20000, title: Ishango bone, text: A notched bone in Central Africa may be an early tally., article: counting-history}
+- {year: 2016, title: Super Bowl 50, text: The Super Bowl drops Roman numerals for one year because L looked odd., article: roman-numerals}
+- {year: -250, title: Archimedes traps pi, text: Archimedes shows pi lies between 3 10/71 and 3 1/7., article: pi}
+- {year: 1706, title: The symbol π, text: William Jones first uses π for the circle number., article: pi}
+- {year: 1655, title: Infinity symbol, text: John Wallis first uses ∞ for infinity., article: infinity}
+- {year: 628, title: Rules for zero and debts, text: Brahmagupta writes rules for calculating with zero and negative numbers., article: brahmagupta}
+- {year: -1550, title: Rhind papyrus, text: An Egyptian scribe copies maths problems full of fractions., article: fractions}
+- {year: 1957, title: Decimal rupee, text: India switches to 100 naye paise in a rupee., article: decimals}
+- {year: 1585, title: The Tenth, text: Simon Stevin urges everyone to use decimal fractions., article: decimals}
+- {year: 2024, title: Largest known prime, text: A prime with over 41 million digits is found., article: prime-numbers}
+- {year: 2016, title: Delhi's odd-even rule, text: Delhi lets cars drive on alternate days by number plate., article: even-odd}
+- {year: -305, title: Bamboo times table, text: A decimal times table is written on bamboo strips in China., article: multiplication-tables}
+- {year: 1965, title: Vedic Mathematics published, text: Bharati Krishna Tirtha's book of calculation tricks appears., article: vedic-maths}
+- {year: 1913, title: Ramanujan's letter, text: A Madras clerk sends his formulas to G. H. Hardy in Cambridge., article: ramanujan}
+- {year: 1918, title: Ramanujan elected FRS, text: Ramanujan becomes a Fellow of the Royal Society., article: ramanujan}
+- {year: 499, title: The Aryabhatiya, text: A 23-year-old Aryabhata writes his book on maths and astronomy., article: aryabhata}
+- {year: 1975, title: Satellite Aryabhata, text: India's first satellite is launched and named after Aryabhata., article: aryabhata}
+- {year: -300, title: Euclid's Elements, text: Euclid sets out geometry as a chain of proofs in Alexandria., article: euclid}

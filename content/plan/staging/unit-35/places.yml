@@ -1,0 +1,41 @@
+- {name: Congo Square, lat: 29.9597, lon: -90.0684, note: Where enslaved Africans gathered to drum and dance, article: new-orleans}
+- {name: Little Havana, lat: 25.7656, lon: -80.2190, note: Miami's Cuban neighbourhood around Calle Ocho, article: miami}
+- {name: Meteor Crater, lat: 35.0272, lon: -111.0225, note: A crater more than a kilometre wide made by an iron meteorite, article: grand-canyon-state}
+- {name: Lowell Observatory, lat: 35.2028, lon: -111.6646, note: Where Clyde Tombaugh found Pluto in 1930, article: grand-canyon-state}
+- {name: Straits of Mackinac, lat: 45.8174, lon: -84.7278, note: Where Lake Michigan and Lake Huron meet, article: great-lakes}
+- {name: Lake Itasca, lat: 47.2397, lon: -95.2075, note: Source of the Mississippi River, article: mississippi}
+- {name: Cahokia Mounds, lat: 38.6553, lon: -90.0620, note: An ancient Native city by the Mississippi, article: mississippi}
+- {name: Mount Mitchell, lat: 35.7650, lon: -82.2652, note: Highest peak of the Appalachians, article: appalachians}
+- {name: Mount Elbert, lat: 39.1178, lon: -106.4454, note: Highest peak of the Rocky Mountains, article: rocky-mountains}
+- {name: Window Rock, lat: 35.6806, lon: -109.0526, note: Capital of the Navajo Nation, article: navajo-nation}
+- {name: Monument Valley, lat: 36.9980, lon: -110.0985, note: Red rock towers in a Navajo tribal park, article: navajo-nation}
+- {name: Mosquito Bay, lat: 18.1036, lon: -65.4440, note: A glowing bioluminescent bay on Vieques, article: puerto-rico}
+- {name: Hagia Sophia, lat: 41.0086, lon: 28.9802, note: Church finished in 537 CE, later a mosque, article: istanbul}
+- {name: Western Wall, lat: 31.7767, lon: 35.2345, note: Part of the ancient Temple platform's retaining wall, article: jerusalem}
+- {name: Kaaba, lat: 21.4225, lon: 39.8262, note: The direction Muslims face when they pray, article: mecca-hajj}
+- {name: Kinkaku-ji, lat: 35.0394, lon: 135.7292, note: Kyoto's Golden Pavilion, article: kyoto}
+- {name: Gyeongbokgung, lat: 37.5796, lon: 126.9770, note: Seoul's grand palace first built in 1395, article: seoul}
+- {name: Forbidden City, lat: 39.9163, lon: 116.3972, note: Imperial palace of the Ming and Qing emperors, article: beijing}
+- {name: Jatiluwih, lat: -8.3700, lon: 115.1310, note: Rice terraces watered by the subak system, article: bali}
+- {name: Ayutthaya, lat: 14.3532, lon: 100.5689, note: Old Thai capital named after Ayodhya, article: thailand}
+- {name: Son Doong Cave, lat: 17.4567, lon: 106.2876, note: The largest known cave passage on Earth, article: vietnam}
+- {name: Ha Long Bay, lat: 20.9101, lon: 107.1839, note: Around 1,600 limestone islands and islets, article: vietnam}
+- {name: Paro Taktsang, lat: 27.4919, lon: 89.3631, note: The Tiger's Nest monastery on a cliff, article: bhutan}
+- {name: Hulhumalé, lat: 4.2117, lon: 73.5400, note: A raised artificial island built next to Malé, article: maldives}
+- {name: Flaming Cliffs, lat: 44.14, lon: 103.73, note: Where the first dinosaur nests were found in 1923, article: mongolia}
+- {name: University of al-Qarawiyyin, lat: 34.0647, lon: -4.9734, note: Founded in Fez in 859, article: morocco}
+- {name: Lalibela, lat: 12.0317, lon: 39.0476, note: Churches carved down into solid rock, article: ethiopia}
+- {name: Benin City, lat: 6.3350, lon: 5.6037, note: Home of the Kingdom of Benin and its bronzes, article: nigeria}
+- {name: Avenue of the Baobabs, lat: -20.2508, lon: 44.4183, note: A road lined with giant baobab trees, article: madagascar}
+- {name: Machu Picchu, lat: -13.1631, lon: -72.5450, note: Inca estate built around 1450, article: peru}
+- {name: Nazca Lines, lat: -14.7390, lon: -75.1300, note: Giant drawings scraped into the desert, article: peru}
+- {name: Perito Moreno Glacier, lat: -50.4967, lon: -73.1377, note: A wall of ice about 70 m high, article: argentina}
+- {name: Royal Palace of Amsterdam, lat: 52.3731, lon: 4.8914, note: Stands on 13,659 wooden piles, article: amsterdam}
+- {name: Alhambra, lat: 37.1761, lon: -3.5881, note: Hilltop palace of the last Muslim kingdom in Spain, article: spain}
+- {name: Buñol, lat: 39.4196, lon: -0.7906, note: Home of the La Tomatina tomato fight, article: spain}
+- {name: CERN, lat: 46.2340, lon: 6.0550, note: Where the World Wide Web was invented in 1989, article: switzerland}
+- {name: Sognefjord, lat: 61.1000, lon: 6.0000, note: Norway's longest fjord, about 205 km, article: norway-fjords}
+- {name: Edinburgh Castle, lat: 55.9486, lon: -3.1999, note: Castle on the plug of an ancient volcano, article: scotland}
+- {name: Loch Ness, lat: 57.3229, lon: -4.4244, note: A loch holding more water than all the lakes of England and Wales, article: scotland}
+- {name: Rotorua, lat: -38.1368, lon: 176.2497, note: Geysers and bubbling mud pools, article: new-zealand}
+- {name: Daphne Major, lat: -0.4220, lon: -90.3710, note: Where the Grants measured finch beaks for decades, article: galapagos}

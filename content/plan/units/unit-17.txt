@@ -1,0 +1,34 @@
+NEW|art|warli|What is Warli art?
+NEW|art|mughal-miniatures|What are Mughal miniature paintings?
+NEW|art|tanjore-painting|Why do Tanjore paintings shine with gold?
+NEW|art|raja-ravi-varma|Who was Raja Ravi Varma?
+NEW|art|amrita-sher-gil|Who was Amrita Sher-Gil?
+NEW|art|mf-husain|Who was M.F. Husain?
+NEW|art|leonardo|Who was Leonardo da Vinci?
+NEW|art|mona-lisa|Why is the Mona Lisa so famous?
+NEW|art|van-gogh|Who was Vincent van Gogh?
+NEW|art|picasso|Who was Pablo Picasso?
+NEW|art|frida-kahlo|Who was Frida Kahlo?
+NEW|art|michelangelo|How did Michelangelo paint the Sistine Chapel?
+NEW|art|impressionism|What is Impressionism?
+NEW|art|modern-art|Why does modern art look so strange?
+NEW|art|sculpture|How are statues made?
+NEW|art|bronze-casting|How did Chola artists cast bronze gods?
+NEW|art|pottery|How is pottery made?
+NEW|art|textiles-india|How did Indian cloth amaze the world?
+NEW|art|block-printing|How does block printing work?
+NEW|art|khadi|What is khadi?
+NEW|art|weaving-saree|How is a saree woven?
+NEW|art|architecture-temples|How were India's great temples built?
+NEW|art|konark|Why is Konark Sun Temple shaped like a chariot?
+NEW|art|ellora-kailasa|How was the Kailasa temple carved from one rock?
+NEW|art|gothic-cathedrals|How were cathedrals built so tall?
+NEW|art|eiffel-tower|Why was the Eiffel Tower built?
+NEW|art|modern-architecture|What makes a building modern?
+NEW|art|photography-art|Is photography art?
+NEW|art|comics-art|How are comics made?
+NEW|art|calligraphy|What is calligraphy?
+NEW|art|puppetry|How do puppets come alive?
+NEW|art|theatre|How did theatre begin?
+NEW|art|street-art|Is graffiti art?
+NEW|art|design-everyday|Who designs everyday things?

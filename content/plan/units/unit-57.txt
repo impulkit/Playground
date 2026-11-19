@@ -1,0 +1,34 @@
+NEW|words|idioms|Where do idioms come from?
+NEW|places|disney-parks|How did theme parks like Disneyland begin?
+NEW|people|jobs-journalist-day|What is a day in a newsroom like?
+NEW|how|wells-borewells|How do wells and borewells get water?
+NEW|history|dadabhai-naoroji|Who was Dadabhai Naoroji?
+NEW|tech|cyberbullying|What is cyberbullying?
+NEW|pop|tv-quiz-shows|How did quiz shows like KBC become so popular?
+NEW|body|learning-how|How do people learn best?
+NEW|art|rembrandt|Who was Rembrandt?
+NEW|food|lunch-world|What do school lunches look like around the world?
+NEW|places|route-66|What is Route 66?
+NEW|people|jobs-game-designer|How do you become a game designer?
+NEW|how|rainwater-harvesting|What is rainwater harvesting?
+NEW|history|tilak|Who was Bal Gangadhar Tilak?
+NEW|tech|screen-design|Why do apps look the way they do?
+NEW|pop|board-game-design|How are board games designed?
+NEW|body|focus|How can you focus better?
+NEW|art|georgia-okeeffe|Who was Georgia O'Keeffe?
+NEW|food|festival-foods|Which foods go with which festivals?
+NEW|places|las-vegas|How did a desert town become Las Vegas?
+NEW|people|money-pocket|How should you manage pocket money?
+NEW|how|stepwells|How did stepwells store water?
+NEW|history|maulana-azad|Who was Maulana Azad?
+NEW|tech|emoji-design|Who designs emojis?
+NEW|pop|video-game-music|How is video game music made?
+NEW|body|boredom|Why do we get bored?
+NEW|art|andy-warhol|Who was Andy Warhol?
+NEW|places|florida-everglades|What are the Everglades?
+NEW|people|insurance|What is insurance?
+NEW|how|compost|How does compost turn waste into soil?
+NEW|history|lal-bahadur-shastri|Who was Lal Bahadur Shastri?
+NEW|tech|fonts|What is a font?
+NEW|pop|parades|Why do countries hold parades?
+NEW|body|fear|What happens when you are scared?

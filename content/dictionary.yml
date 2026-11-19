@@ -1,0 +1,2483 @@
+# Dictionary: words that open a 'What does this mean?' card when tapped in an article.
+# auto: false = never linked automatically (the word has another everyday meaning); link it by hand as [word](?id).
+- id: abstract
+  word: abstract
+  meaning: Art that uses shapes, colours and lines instead of showing things as they look.
+  icon: ''
+  see: modern-art
+  auto: false
+- id: abugida
+  word: abugida
+  meaning: A kind of writing in which each consonant letter has a built-in vowel, changed by adding small marks.
+  icon: ''
+  see: scripts-india
+- id: acceleration
+  word: acceleration
+  meaning: How quickly something speeds up or changes speed.
+  icon: ''
+- id: acid
+  word: acid
+  meaning: A substance that tastes sour, like lemon juice or vinegar. Strong acids can burn.
+  icon: ''
+- id: adaptation
+  word: adaptation
+  meaning: A body part or habit that helps a living thing survive where it lives.
+  icon: ''
+- id: adrenaline
+  word: adrenaline
+  meaning: A hormone that gets the body ready for action. It makes the heart beat faster and breathing quicken when you are scared or excited.
+  icon: ''
+  see: stress
+- id: aerial-root
+  word: aerial root
+  meaning: A root that grows from a plant's stem or branches into the open air, instead of under the ground.
+  icon: ''
+  see: meghalaya
+- id: aerodynamics
+  word: aerodynamics
+  meaning: The science of how air moves around things like planes, cars and balls.
+  icon: ''
+- id: ahimsa
+  word: ahimsa
+  meaning: A Sanskrit word for not harming any living being. It is central to Jainism, Buddhism and Hinduism, and to Gandhi's methods.
+  icon: ''
+  see: mahavira
+- id: algae
+  word: algae
+  meaning: Simple living things that make food from sunlight, from single cells to giant seaweeds.
+  icon: ''
+  see: kelp-forests
+- id: algorithm
+  word: algorithm
+  meaning: A list of exact steps for solving a problem. Computers follow algorithms.
+  icon: ''
+  see: algorithms
+- id: alkali
+  word: alkali
+  meaning: A substance that is the chemical opposite of an acid, like soap or baking soda.
+  icon: ''
+- id: allergen
+  word: allergen
+  meaning: Something, often a protein in food or pollen, that sets off an allergy in some people.
+  icon: ''
+  see: food-allergies
+- id: alloy
+  word: alloy
+  meaning: A metal made by melting two or more metals together, like bronze from copper and tin.
+  icon: ''
+  see: bronze-casting
+- id: alluvium
+  word: alluvium
+  meaning: Soft, fertile soil made of fine mud and sand that rivers leave behind after floods.
+  icon: ''
+  see: soil-types-india
+- id: alveoli
+  word: alveoli
+  meaning: Hundreds of millions of tiny air bubbles at the ends of the tubes in your lungs, where oxygen passes into the blood.
+  icon: ''
+  see: lungs-breathe
+- id: amber
+  word: amber
+  meaning: Tree resin, the sticky stuff that oozes from some trees, that hardened into golden stone over millions of years.
+  icon: amber
+  see: amber-fossils
+- id: amendment
+  word: amendment
+  meaning: A change or addition made to a law or a constitution, following special rules.
+  icon: ''
+  see: constitution
+- id: amphibian
+  word: amphibian
+  meaning: An animal like a frog or newt that usually starts life in water and later lives on land too.
+  icon: ''
+- id: amplitude
+  word: amplitude
+  meaning: How big a wave is. For sound, bigger amplitude means louder.
+  icon: ''
+- id: amygdala
+  word: amygdala
+  meaning: A pair of almond-sized parts deep in the brain that help notice danger and create feelings like fear.
+  icon: ''
+  see: emotions
+- id: anaesthesia
+  word: anaesthesia
+  meaning: Medicine that stops you feeling pain during an operation.
+  icon: ''
+- id: anatomy
+  word: anatomy
+  meaning: The study of how bodies are built, inside and out.
+  icon: ''
+- id: ancestor
+  word: ancestor
+  meaning: A person or animal from long ago that you are descended from.
+  icon: ''
+  auto: false
+- id: antibiotic
+  word: antibiotic
+  meaning: A medicine that kills bacteria or stops them growing. It does not work on viruses.
+  icon: ''
+  see: antibiotics
+- id: antibody
+  word: antibody
+  meaning: A Y-shaped protein made by the immune system that sticks to one particular germ and marks it for destruction.
+  icon: ''
+  see: immune-system
+- id: antigen
+  word: antigen
+  meaning: A marker on the surface of a cell or germ that the body's defences can recognise.
+  icon: ''
+  see: blood-groups
+- id: antler
+  word: antler
+  meaning: A branching bony growth on a deer's head that falls off and grows back every year.
+  icon: ''
+  see: deer-india
+- id: apartheid
+  word: apartheid
+  meaning: A system of laws in South Africa from 1948 to the early 1990s that kept people apart and unequal because of their race.
+  icon: ''
+  see: south-africa
+- id: aqueduct
+  word: aqueduct
+  meaning: A bridge or channel built to carry water over long distances.
+  icon: ''
+- id: aquifer
+  word: aquifer
+  meaning: A layer of rock, sand or gravel underground that holds water and lets it flow through.
+  icon: ''
+  see: groundwater
+- id: arch
+  word: arch
+  meaning: A curved structure that holds up weight above an opening.
+  icon: ''
+  auto: false
+- id: archaeologist
+  word: archaeologist
+  meaning: A scientist who studies the past by digging up and examining things people left behind.
+  icon: ''
+  see: indus-cities
+- id: archaeology
+  word: archaeology
+  meaning: The study of the past by digging up and examining old objects and buildings.
+  icon: ''
+  see: archaeology
+- id: archipelago
+  word: archipelago
+  meaning: A group or chain of islands close together.
+  icon: ''
+  see: greece-islands
+- id: architecture
+  word: architecture
+  meaning: The art and science of designing buildings.
+  icon: ''
+- id: artery
+  word: artery
+  meaning: A tube that carries blood away from the heart to the rest of the body.
+  icon: ''
+- id: asteroid
+  word: asteroid
+  meaning: A rocky object travelling around the Sun. Much smaller than a planet, from pebble-sized to hundreds of kilometres wide.
+  icon: asteroid
+  see: asteroid-origin
+- id: asteroidbelt
+  word: asteroid belt
+  meaning: A wide ring of asteroids between the orbits of Mars and Jupiter.
+  icon: belt
+  see: asteroid-origin
+- id: astronomer
+  word: astronomer
+  meaning: A scientist who studies stars, planets and space.
+  icon: ''
+- id: atmosphere
+  word: atmosphere
+  meaning: The layer of gases that surrounds a planet, held in place by its gravity. Earth's atmosphere is the air we breathe.
+  icon: ''
+  see: mars-sky
+- id: atmospheric-pressure
+  word: atmospheric pressure
+  meaning: The weight of the air pressing down on everything around us.
+  icon: ''
+- id: atoll
+  word: atoll
+  meaning: A ring-shaped coral reef or chain of small coral islands around a shallow lagoon.
+  icon: ''
+  see: lakshadweep
+- id: atom
+  word: atom
+  meaning: The tiny building blocks of everything. Far too small to see, even with an ordinary microscope.
+  icon: atom
+  see: half-life
+- id: autobiography
+  word: autobiography
+  meaning: A book a person writes about their own life.
+  icon: ''
+- id: axis
+  word: axis
+  meaning: An imaginary line through the middle of something that spins. Earth spins around its axis once a day.
+  icon: ''
+  see: day-night
+- id: bacteria
+  word: bacteria
+  meaning: Tiny living things made of a single cell. Some cause illness, but most are harmless and many are helpful.
+  icon: ''
+  see: microbes-friendly
+- id: ballast
+  word: ballast
+  meaning: Weight, often water, carried by a ship or submarine to control how it sits or sinks in the water.
+  icon: ''
+  see: submarines
+- id: barometer
+  word: barometer
+  meaning: An instrument that measures air pressure, used to forecast weather.
+  icon: ''
+- id: basalt
+  word: basalt
+  meaning: A dark, hard rock that forms when lava cools.
+  icon: ''
+  see: ellora-kailasa
+- id: bhakti
+  word: bhakti
+  meaning: Loving devotion to God. The Bhakti movement taught that anyone could reach God through love, whatever their caste.
+  icon: ''
+  see: mirabai-kabir
+- id: bill
+  word: bill
+  meaning: A proposed law that lawmakers debate and vote on before it can become a law.
+  icon: ''
+  see: parliament-india
+  auto: false
+- id: binary
+  word: binary
+  meaning: A way of writing numbers using only two digits, 0 and 1. Computers store everything this way.
+  icon: ''
+  see: binary-code
+- id: biodiversity
+  word: biodiversity
+  meaning: 'The variety of living things in a place: all its different plants, animals, fungi and microbes.'
+  icon: ''
+  see: western-ghats
+- id: biography
+  word: biography
+  meaning: The story of a real person's life, written by someone else.
+  icon: ''
+- id: biologist
+  word: biologist
+  meaning: A scientist who studies living things.
+  icon: ''
+- id: bioluminescence
+  word: bioluminescence
+  meaning: Light made by living things using a chemical reaction inside their bodies.
+  icon: firefly
+  see: anglerfish
+- id: biomagnification
+  word: biomagnification
+  meaning: When a poison becomes more concentrated in animals at each step up a food chain.
+  icon: ''
+  see: bald-eagle
+- id: biometric
+  word: biometrics
+  meaning: Measurements of a person's body, such as fingerprints, face shape or the pattern in the eye, used to recognise who they are.
+  icon: ''
+  see: aadhaar
+- id: blockade
+  word: blockade
+  meaning: When ships or soldiers stop people and goods from going into or out of a place.
+  icon: ''
+  see: strait-of-hormuz
+- id: botanist
+  word: botanist
+  meaning: A scientist who studies plants.
+  icon: ''
+- id: buoyancy
+  word: buoyancy
+  meaning: The upward push that water or air gives to anything sitting in it.
+  icon: ''
+  see: floating-ships
+- id: buttress
+  word: buttress
+  meaning: A support built against a wall to stop it being pushed outwards.
+  icon: ''
+  see: gothic-cathedrals
+- id: caldera
+  word: caldera
+  meaning: A huge bowl-shaped hollow left when the top of a volcano collapses after an eruption.
+  icon: ''
+  see: greece-islands
+- id: calligraphy
+  word: calligraphy
+  meaning: The art of beautiful handwriting.
+  icon: ''
+  see: calligraphy
+- id: calorie
+  word: calorie
+  meaning: A unit for measuring the energy stored in food.
+  icon: ''
+- id: camouflage
+  word: camouflage
+  meaning: Colours or patterns that help an animal blend in with its surroundings.
+  icon: tiger
+  see: octopus-smart
+- id: canopy
+  word: canopy
+  meaning: The top layer of a forest, where the treetops meet.
+  icon: ''
+- id: capacitance
+  word: capacitance
+  meaning: How much electric charge something can store. Your body has quite a lot of it.
+  icon: ''
+  see: touch-lamps
+- id: capillary
+  word: capillary
+  meaning: The thinnest kind of blood vessel, finer than a hair, where blood passes oxygen to the body.
+  icon: ''
+  see: blood
+- id: capsaicin
+  word: capsaicin
+  meaning: The chemical in chillies that makes your mouth feel as if it is burning.
+  icon: ''
+  see: spicy-hot
+- id: caravan
+  word: caravan
+  meaning: A group of traders and their animals, such as camels, travelling together for safety on a long journey.
+  icon: ''
+  see: silk-road
+- id: carbohydrate
+  word: carbohydrate
+  meaning: A food nutrient, found in rice, bread and sugar, that gives you energy.
+  icon: ''
+- id: carbon-dioxide
+  word: carbon dioxide
+  meaning: A gas we breathe out. Plants take it in to make food.
+  icon: ''
+- id: carcass
+  word: carcass
+  meaning: The dead body of an animal.
+  icon: ''
+  see: vultures-india
+- id: carnivore
+  word: carnivore
+  meaning: An animal that eats mostly meat.
+  icon: ''
+- id: cartilage
+  word: cartilage
+  meaning: A tough, bendy tissue that cushions joints and gives shape to your ears and the tip of your nose.
+  icon: ''
+  see: joints
+- id: catalyst
+  word: catalyst
+  meaning: Something that speeds up a chemical reaction without being used up.
+  icon: ''
+- id: ceasefire
+  word: ceasefire
+  meaning: An agreement by the sides in a fight or war to stop attacking each other, for a while or for good.
+  icon: ''
+  see: us-iran-conflict
+- id: cell
+  word: cell
+  meaning: The tiny living building block of every plant and animal. Most are far too small to see.
+  icon: cell
+  see: body-cells
+  auto: false
+- id: cellulose
+  word: cellulose
+  meaning: The tough stuff that plant cell walls are made of. Wood, cotton and paper are mostly cellulose.
+  icon: ''
+  see: paper-made
+- id: census
+  word: census
+  meaning: An official count of all the people in a country.
+  icon: ''
+  see: census
+- id: centre-of-mass
+  word: centre of mass
+  meaning: The balance point of an object, where its weight acts as if it were all in one spot.
+  icon: ''
+  see: sport-science-high-jump
+- id: centrifugal
+  word: centrifugal
+  meaning: Describes the outward push you feel when going round in a circle.
+  icon: ''
+- id: cephalopod
+  word: cephalopod
+  meaning: A sea animal with arms around its head, such as an octopus, squid or cuttlefish.
+  icon: ''
+  see: octopus-ink
+- id: charge
+  word: charge
+  meaning: An amount of electricity carried by something.
+  icon: ''
+  auto: false
+- id: chiaroscuro
+  word: chiaroscuro
+  meaning: Strong contrast between light and dark in a painting or drawing, used to make shapes look solid.
+  icon: ''
+  see: rembrandt
+- id: chlorophyll
+  word: chlorophyll
+  meaning: The green colouring in leaves that soaks up sunlight so the plant can make food.
+  icon: ''
+  see: photosynthesis
+- id: chokepoint
+  word: chokepoint
+  meaning: A narrow place, like a strait or canal, that a lot of traffic must squeeze through. If it is blocked, everything behind it gets stuck.
+  icon: ''
+  see: strait-of-hormuz
+- id: chromosome
+  word: chromosome
+  meaning: A tightly coiled thread of DNA inside a cell. Most human cells have 46 of them, in 23 pairs.
+  icon: ''
+  see: genes-family
+- id: cilia
+  word: cilia
+  meaning: Microscopic hairs on some cells that wave back and forth to move liquid or mucus along.
+  icon: ''
+  see: gross-snot
+- id: cipher
+  word: cipher
+  meaning: A secret way of writing a message so that only people who know the key can read it.
+  icon: ''
+  see: cipher-codes
+- id: circadian
+  word: circadian
+  meaning: Following a cycle of about 24 hours, like the daily rhythm of sleeping and waking.
+  icon: ''
+  see: body-clock
+- id: circuit
+  word: circuit
+  meaning: A complete loop that electricity can flow around.
+  icon: ''
+- id: circumnavigation
+  word: circumnavigation
+  meaning: A journey all the way around something, especially around the whole Earth.
+  icon: ''
+  see: magellan
+- id: citizen
+  word: citizen
+  meaning: A person who belongs to a country and has rights there.
+  icon: ''
+  auto: false
+- id: civilisation
+  word: civilisation
+  meaning: A large, organised society with cities, laws, writing and trade.
+  icon: ''
+- id: classify
+  word: classify
+  meaning: To sort things into groups by what they have in common.
+  icon: ''
+- id: climate
+  word: climate
+  meaning: The usual weather of a place over many years. Today's rain is weather; ‘rainy every July’ is climate.
+  icon: cloud
+  see: monsoon
+- id: cnidocyte
+  word: cnidocyte
+  meaning: A stinging cell found in jellyfish, corals and sea anemones. It fires a tiny thread with venom.
+  icon: ''
+  see: jellyfish-sting
+- id: cochlea
+  word: cochlea
+  meaning: The snail-shaped, fluid-filled tube in the inner ear that turns sound into nerve signals.
+  icon: ''
+  see: ears-hear
+- id: cocoon
+  word: cocoon
+  meaning: A silky case that some caterpillars spin around themselves before they change into moths.
+  icon: ''
+  see: silk
+- id: collagen
+  word: collagen
+  meaning: A tough, stringy protein that holds skin, bones and muscles together. Slow cooking turns it into soft gelatin.
+  icon: ''
+  see: bbq
+- id: colonial
+  word: colonial
+  meaning: To do with a time when one country ruled another country far away.
+  icon: ''
+- id: colony
+  word: colony
+  meaning: A town or settlement set up by people far from their homeland, which keeps links with the place they came from.
+  icon: ''
+  see: phoenicians
+  auto: false
+- id: combustion
+  word: combustion
+  meaning: 'The scientific word for burning: a fast reaction between a fuel and oxygen that gives off heat and light.'
+  icon: ''
+  see: fire-burns
+- id: comet
+  word: comet
+  meaning: A ball of ice and dust from the edge of the solar system that grows a glowing tail near the Sun.
+  icon: ''
+  see: comets
+- id: compost
+  word: compost
+  meaning: Dark, crumbly soil-like material made when food scraps, leaves and dung rot down. It feeds plants.
+  icon: ''
+  see: earthworms
+- id: compound
+  word: compound
+  meaning: A substance made of two or more elements joined together, like water.
+  icon: ''
+  auto: false
+- id: condensation
+  word: condensation
+  meaning: When a gas, such as water vapour, cools and turns into a liquid, like the droplets on a cold glass.
+  icon: ''
+  see: fog-smog
+- id: conductor
+  word: conductor
+  meaning: A material that lets heat or electricity pass through easily, like copper.
+  icon: ''
+  auto: false
+- id: conservator
+  word: conservator
+  meaning: A trained expert who studies, cleans and repairs old objects and artworks to keep them safe.
+  icon: ''
+  see: art-detective
+- id: constellation
+  word: constellation
+  meaning: A group of stars that people imagine as a picture in the sky.
+  icon: ''
+  see: constellations
+- id: constitution
+  word: constitution
+  meaning: The set of basic rules that says how a country is run.
+  icon: ''
+  see: constitution
+- id: contaminate
+  word: contaminate
+  meaning: To make something dirty or harmful by adding something unwanted.
+  icon: ''
+- id: continent
+  word: continent
+  meaning: One of the seven huge areas of land on Earth, like Asia or Africa.
+  icon: ''
+  see: continents
+  auto: false
+- id: cooperative
+  word: cooperative
+  meaning: A business owned and run together by its members, who share what it earns.
+  icon: ''
+  see: white-revolution
+- id: coprolite
+  word: coprolite
+  meaning: Fossilised poo. It has turned to stone, so don't worry, it doesn't smell.
+  icon: coprolite
+  see: dino-poop
+- id: core
+  word: core
+  meaning: 'Earth''s centre: a liquid outer core and a solid inner core, both mostly iron.'
+  icon: earthcut
+  see: earth-magnet
+  auto: false
+- id: cornea
+  word: cornea
+  meaning: The clear front window of your eye.
+  icon: ''
+- id: couplet
+  word: couplet
+  meaning: Two lines of poetry that go together, often with the same rhythm or rhyme.
+  icon: ''
+  see: thirukkural
+- id: crater
+  word: crater
+  meaning: A bowl-shaped hole made when something smashes into the ground, or at the top of a volcano.
+  icon: crater
+  see: asteroid-size
+- id: crust
+  word: crust
+  meaning: The thin, rocky outer layer of the Earth.
+  icon: ''
+  auto: false
+- id: crystal
+  word: crystal
+  meaning: A solid whose tiny building blocks are stacked in a neat, repeating pattern, like salt or sugar grains.
+  icon: ''
+  see: gems-crystals
+  auto: false
+- id: currency
+  word: currency
+  meaning: The kind of money a country uses, like the rupee or the dollar.
+  icon: ''
+- id: current
+  word: current
+  meaning: A flow of water, air or electricity in one direction.
+  icon: ''
+  auto: false
+- id: customs
+  word: customs
+  meaning: The officials at a border who check what goods people bring into a country, and collect any tax on them.
+  icon: ''
+  see: border-crossings
+  auto: false
+- id: cyclone
+  word: cyclone
+  meaning: A huge spinning storm. Near India it is called a cyclone.
+  icon: ''
+- id: decibel
+  word: decibel
+  meaning: A unit for measuring how loud a sound is. Every 10 decibels more means ten times as much sound energy.
+  icon: ''
+  see: hearing-loss
+- id: decimal
+  word: decimal
+  meaning: A way of writing parts of a whole using a dot, like 0.5 for a half.
+  icon: ''
+  see: decimals
+- id: deforestation
+  word: deforestation
+  meaning: Cutting down large areas of forest.
+  icon: ''
+- id: delta
+  word: delta
+  meaning: Flat land at the mouth of a river, built from mud and sand the river drops as it reaches the sea.
+  icon: ''
+  see: bangladesh
+  auto: false
+- id: democracy
+  word: democracy
+  meaning: A way of running a country where people choose leaders by voting.
+  icon: ''
+  see: democracy-what
+- id: density
+  word: density
+  meaning: How much stuff is packed into a space. A brick and a sponge of the same size have very different densities.
+  icon: ''
+  see: floating-ships
+- id: descendant
+  word: descendant
+  meaning: A person or animal that comes after an ancestor, like a grandchild.
+  icon: ''
+- id: dialect
+  word: dialect
+  meaning: A local form of a language, with some of its own words, sounds or grammar.
+  icon: ''
+  see: languages-india
+- id: diameter
+  word: diameter
+  meaning: A straight line across a circle through its middle.
+  icon: ''
+- id: diaphragm
+  word: diaphragm
+  meaning: A dome-shaped sheet of muscle under your lungs. When it tightens and flattens, air is pulled into your lungs.
+  icon: ''
+  see: lungs-breathe
+- id: digestion
+  word: digestion
+  meaning: How your body breaks food down so it can use it.
+  icon: ''
+  see: stomach-digest
+- id: dissolve
+  word: dissolve
+  meaning: When a solid mixes into a liquid and seems to disappear, like sugar in tea.
+  icon: ''
+- id: distillation
+  word: distillation
+  meaning: Boiling a liquid and cooling the steam to make it purer.
+  icon: ''
+- id: distributary
+  word: distributary
+  meaning: A smaller channel that branches off a river and flows away from it, often in a delta.
+  icon: ''
+  see: deltas
+- id: dna
+  word: DNA
+  meaning: The chemical code inside every cell that carries instructions for how a living thing grows.
+  icon: ''
+  see: dna
+- id: dome
+  word: dome
+  meaning: A rounded roof shaped like half a ball.
+  icon: ''
+  auto: false
+- id: domesticate
+  word: domesticate
+  meaning: To tame a wild plant or animal over many generations so that it lives and grows with people.
+  icon: ''
+  see: farming-began
+- id: dopamine
+  word: dopamine
+  meaning: A chemical messenger in the brain linked to pleasure, wanting and reward.
+  icon: ''
+  see: music-goosebumps
+- id: doping
+  word: doping
+  meaning: Using banned drugs or methods to improve performance in sport. It is cheating and can harm health.
+  icon: ''
+  see: sports-science
+- id: downforce
+  word: downforce
+  meaning: A force from air flowing over a car's wings that pushes the car down onto the road, helping it grip.
+  icon: ''
+  see: formula-one
+- id: drag
+  word: drag
+  meaning: The push of air or water against something moving through it, which slows it down.
+  icon: ''
+  see: swimming
+  auto: false
+- id: drought
+  word: drought
+  meaning: A long time with much less rain than usual.
+  icon: ''
+  see: droughts
+- id: dynasty
+  word: dynasty
+  meaning: A family of rulers in which power passes from parents to children, often for many generations.
+  icon: ''
+  see: mughals
+- id: echinoderm
+  word: echinoderm
+  meaning: A spiny-skinned sea animal, such as a starfish, sea urchin or sea cucumber.
+  icon: ''
+  see: starfish
+- id: echolocation
+  word: echolocation
+  meaning: Finding things by making sounds and listening to the echoes that bounce back.
+  icon: bat
+  see: echolocation
+- id: eclipse
+  word: eclipse
+  meaning: When the Moon blocks the Sun, or the Earth's shadow falls on the Moon.
+  icon: ''
+  see: eclipses
+- id: economy
+  word: economy
+  meaning: How a country makes, buys and sells things and earns money.
+  icon: ''
+- id: ecosystem
+  word: ecosystem
+  meaning: All the living things in a place and how they depend on each other.
+  icon: ''
+- id: edict
+  word: edict
+  meaning: An official order or announcement from a ruler. Emperor Ashoka had his edicts carved on rocks and pillars.
+  icon: ''
+  see: ashoka
+- id: electrolyte
+  word: electrolyte
+  meaning: The material inside a battery that lets charged particles move between its two ends.
+  icon: ''
+  see: batteries-future
+- id: electron
+  word: electron
+  meaning: A tiny particle with a negative electric charge, found in every atom. Moving electrons make an electric current.
+  icon: ''
+  see: batteries
+- id: element
+  word: element
+  meaning: A pure substance made of only one kind of atom, like gold or oxygen.
+  icon: ''
+- id: embroidery
+  word: embroidery
+  meaning: Decorating cloth by sewing patterns with thread.
+  icon: ''
+- id: emperor
+  word: emperor
+  meaning: A ruler of an empire, usually more powerful than a king.
+  icon: ''
+  auto: false
+- id: empire
+  word: empire
+  meaning: A group of countries or lands ruled by one ruler or country.
+  icon: ''
+- id: enamel
+  word: enamel
+  meaning: The hard, shiny outer coat of a tooth. It is the hardest substance in the human body.
+  icon: ''
+  see: teeth
+- id: enclave
+  word: enclave
+  meaning: A piece of one country that is completely surrounded by another country.
+  icon: ''
+  see: border-crossings
+- id: encryption
+  word: encryption
+  meaning: Scrambling a message with a secret key so that only someone with the right key can read it.
+  icon: ''
+  see: cipher-codes
+- id: endangered
+  word: endangered
+  meaning: So few left in the wild that the species could die out completely.
+  icon: ''
+  see: extinction-today
+- id: endemic
+  word: endemic
+  meaning: Found naturally in only one region of the world and nowhere else.
+  icon: ''
+  see: western-ghats
+- id: endurance
+  word: endurance
+  meaning: The ability to keep going for a long time.
+  icon: ''
+- id: energy
+  word: energy
+  meaning: The power to make things move, heat up or change.
+  icon: ''
+  auto: false
+- id: engineer
+  word: engineer
+  meaning: A person who designs and builds machines, bridges or other structures.
+  icon: ''
+  see: jobs-engineer
+  auto: false
+- id: enzyme
+  word: enzyme
+  meaning: A protein that speeds up a chemical change in a living thing, such as breaking food into smaller pieces.
+  icon: ''
+  see: stomach-digest
+- id: epic
+  word: epic
+  meaning: A very long poem or story about heroes, gods and great deeds.
+  icon: ''
+  see: mahabharata
+  auto: false
+- id: epidemic
+  word: epidemic
+  meaning: When a disease spreads to many people in one area at the same time.
+  icon: ''
+  see: smallpox
+- id: equator
+  word: equator
+  meaning: An imaginary line around the middle of the Earth, halfway between the poles.
+  icon: ''
+- id: equinox
+  word: equinox
+  meaning: One of two days each year when day and night are about the same length.
+  icon: ''
+- id: erosion
+  word: erosion
+  meaning: Wearing away of rock and soil by water, wind or ice.
+  icon: ''
+- id: estuary
+  word: estuary
+  meaning: Where a river meets the sea and fresh water mixes with salt water.
+  icon: ''
+- id: ethics
+  word: ethics
+  meaning: The study of right and wrong, and of how people should treat each other.
+  icon: ''
+  see: philosophy-kids
+- id: evaporation
+  word: evaporation
+  meaning: When a liquid slowly turns into a gas, like a puddle drying in the sun.
+  icon: ''
+  see: refrigerator
+- id: evolution
+  word: evolution
+  meaning: How living things slowly change over many, many generations, as the ones best suited to their surroundings have more babies.
+  icon: feather
+  see: whales-walked
+- id: evolve
+  word: evolve
+  meaning: To change slowly over many generations.
+  icon: ''
+- id: exoplanet
+  word: exoplanet
+  meaning: A planet that goes round a star other than our Sun.
+  icon: ''
+  see: exoplanets
+- id: expedition
+  word: expedition
+  meaning: A long journey made for a special purpose, like exploring.
+  icon: ''
+- id: export
+  word: export
+  meaning: To sell goods to another country.
+  icon: ''
+- id: extinct
+  word: extinct
+  meaning: When every single one of a kind of living thing has died, that kind is extinct. Gone forever.
+  icon: bone
+  see: cheetah-return
+- id: fable
+  word: fable
+  meaning: A short story, often with animals as characters, that teaches a lesson.
+  icon: ''
+  see: panchatantra-tales
+  auto: false
+- id: famine
+  word: famine
+  meaning: A time when there is not enough food for many people.
+  icon: ''
+- id: federal
+  word: federal
+  meaning: A system in which power is shared between a national government and the governments of states or provinces.
+  icon: ''
+  see: states-india
+- id: fermentation
+  word: fermentation
+  meaning: When tiny living things like yeast change sugars into gas, acid or alcohol.
+  icon: ''
+  see: fermentation
+- id: fertile
+  word: fertile
+  meaning: Good for growing plants or for having young.
+  icon: ''
+- id: fertiliser
+  word: fertiliser
+  meaning: Something added to soil to help plants grow.
+  icon: ''
+- id: feudalism
+  word: feudalism
+  meaning: 'A way of organising society in medieval times: lords gave land to followers, who in return fought for them or worked for them.'
+  icon: ''
+  see: knights-castles
+- id: filter-feeder
+  word: filter feeder
+  meaning: An animal that eats by sieving tiny bits of food out of the water.
+  icon: ''
+  see: manta-rays
+- id: foley
+  word: Foley
+  meaning: Everyday sounds, like footsteps and rustling clothes, recorded in a studio and added to a film.
+  icon: ''
+  see: behind-sound-effects
+- id: folklore
+  word: folklore
+  meaning: Old stories, beliefs and customs passed down by word of mouth.
+  icon: ''
+- id: follicle
+  word: follicle
+  meaning: A tiny pocket in the skin that a hair grows out of.
+  icon: ''
+  see: hair-grow
+- id: foodchain
+  word: food chain
+  meaning: Who eats whom. Sunlight feeds plants, plants feed plant-eaters, and plant-eaters feed meat-eaters. Break one link and everything after it suffers.
+  icon: leaf
+  see: photosynthesis
+- id: force
+  word: force
+  meaning: A push or a pull.
+  icon: ''
+  auto: false
+- id: fortress
+  word: fortress
+  meaning: A big building with strong walls, built to protect people from attack.
+  icon: ''
+- id: fossil
+  word: fossil
+  meaning: 'Any trace of ancient life saved in rock: bones, shells, leaves, footprints, even poo.'
+  icon: bone
+  see: fossils-form
+- id: fraction
+  word: fraction
+  meaning: A part of a whole, like a half or a quarter.
+  icon: ''
+  see: fractions
+  auto: false
+- id: frame-story
+  word: frame story
+  meaning: An outer story that holds many smaller stories inside it, like boxes inside a box.
+  icon: ''
+  see: vikram-betal
+  auto: false
+- id: frequency
+  word: frequency
+  meaning: How many times something repeats in one second, such as the ripples of a wave or the swings of a pendulum.
+  icon: ''
+  see: radio-waves
+  auto: false
+- id: fresco
+  word: fresco
+  meaning: A painting made on wet plaster, so the colour becomes part of the wall as it dries.
+  icon: ''
+  see: michelangelo
+- id: friction
+  word: friction
+  meaning: A force that slows things down when they rub against each other.
+  icon: ''
+  see: friction
+- id: fulcrum
+  word: fulcrum
+  meaning: The fixed point that a lever turns on, like the middle of a seesaw.
+  icon: ''
+  see: lever-lift
+- id: fungus
+  word: fungus
+  meaning: 'A living thing such as a mushroom, mould or yeast. Fungi are not plants: they cannot make food from sunlight and feed on other things instead.'
+  icon: ''
+  see: mushrooms
+- id: fusion
+  word: fusion
+  meaning: When tiny atoms are squeezed together so hard that they join into a bigger atom, giving out a lot of energy. It is what makes stars shine.
+  icon: ''
+  see: sun-what
+  auto: false
+- id: galaxy
+  word: galaxy
+  meaning: A huge group of billions of stars held together by gravity.
+  icon: ''
+  see: galaxies
+- id: gene
+  word: gene
+  meaning: A short stretch of DNA that carries the instructions for making one thing the body needs. Children get their genes from their parents.
+  icon: ''
+  see: genes-family
+- id: generator
+  word: generator
+  meaning: A machine that turns movement into electricity, usually by spinning magnets past coils of wire.
+  icon: ''
+  see: dams-power
+  auto: false
+- id: geologist
+  word: geologist
+  meaning: A scientist who studies rocks and how the Earth is made.
+  icon: ''
+- id: geometry
+  word: geometry
+  meaning: The part of maths about shapes, sizes and angles.
+  icon: ''
+- id: geothermal
+  word: geothermal
+  meaning: Heat that comes from deep inside the Earth, which people can use to warm homes or make electricity.
+  icon: ''
+  see: iceland
+- id: germ
+  word: germ
+  meaning: A tiny living thing, like a bacterium or virus, that can make you ill.
+  icon: ''
+  auto: false
+- id: glacier
+  word: glacier
+  meaning: A huge river of ice that moves slowly downhill.
+  icon: glacier
+  see: rivers-himalaya
+- id: gland
+  word: gland
+  meaning: A body part that makes a substance the body needs, such as a hormone, sweat, saliva or tears.
+  icon: ''
+  see: hormones
+- id: gluten
+  word: gluten
+  meaning: A stretchy net of proteins that forms when wheat flour is mixed with water.
+  icon: ''
+  see: wheat-bread
+- id: gondwana
+  word: Gondwana
+  meaning: A giant southern supercontinent that included India, Africa, South America, Antarctica, Australia and Madagascar.
+  icon: drift
+  see: india-drift
+- id: grafting
+  word: grafting
+  meaning: Joining a cut shoot from one plant onto the stem or roots of another, so they grow together as one plant.
+  icon: ''
+  see: mango-tree
+- id: grandmaster
+  word: grandmaster
+  meaning: The highest title a chess player can earn, given by FIDE, the world chess federation.
+  icon: ''
+  see: chess-champions
+- id: granite
+  word: granite
+  meaning: A hard, speckled rock that forms when hot melted rock cools slowly deep underground.
+  icon: ''
+  see: hampi
+- id: gravity
+  word: gravity
+  meaning: The pull that every object has on every other object. Earth's gravity keeps your feet on the ground and the Moon in orbit.
+  icon: earth
+  see: spacecraft-move
+- id: greenhouse-gas
+  word: greenhouse gas
+  meaning: A gas in the air, like carbon dioxide or methane, that traps heat and keeps Earth warm.
+  icon: ''
+  see: climate-change
+- id: griot
+  word: griot
+  meaning: A West African storyteller, singer and historian who keeps a community's history by memory.
+  icon: ''
+  see: myths-african
+- id: gyre
+  word: gyre
+  meaning: A huge, slowly circling system of ocean currents.
+  icon: ''
+  see: ocean-currents
+- id: habitat
+  word: habitat
+  meaning: The natural home of a plant or animal, with the food, water and shelter it needs.
+  icon: ''
+  see: extinction-today
+- id: haemoglobin
+  word: haemoglobin
+  meaning: The iron-containing protein in red blood cells that carries oxygen and makes blood red.
+  icon: ''
+  see: blood
+- id: halflife
+  word: half-life
+  meaning: The time it takes for half of a group of unstable atoms to change into another kind.
+  icon: atom
+  see: half-life
+- id: hemisphere
+  word: hemisphere
+  meaning: One half of a round thing. Your brain has a left and a right hemisphere.
+  icon: ''
+  see: handedness-brain
+- id: herbivore
+  word: herbivore
+  meaning: An animal that eats only plants.
+  icon: ''
+- id: hibernation
+  word: hibernation
+  meaning: A long, deep winter rest in which an animal's body slows down to save energy when food is scarce.
+  icon: ''
+  see: bears-india
+- id: hieroglyphs
+  word: hieroglyphs
+  meaning: Picture symbols used for writing in ancient Egypt.
+  icon: ''
+  see: hieroglyphs
+- id: histamine
+  word: histamine
+  meaning: A chemical released by some immune cells that makes skin itch, noses run and blood vessels leak. It causes many allergy symptoms.
+  icon: ''
+  see: allergies
+- id: holocaust
+  word: Holocaust
+  meaning: The murder of about six million Jewish people, and millions of others, by Nazi Germany and its allies during the Second World War.
+  icon: ''
+  see: anne-frank
+- id: hormone
+  word: hormone
+  meaning: A chemical messenger that travels in the blood and tells parts of the body what to do.
+  icon: ''
+  see: sleep-why
+- id: humidity
+  word: humidity
+  meaning: How much water vapour is in the air.
+  icon: ''
+- id: humus
+  word: humus
+  meaning: The dark, crumbly part of soil made from rotted leaves, roots and other once-living things.
+  icon: ''
+  see: soil-made
+- id: hurricane
+  word: hurricane
+  meaning: A huge spinning storm over the Atlantic Ocean.
+  icon: ''
+  see: hurricanes
+- id: hydroelectric
+  word: hydroelectric
+  meaning: Making electricity using the power of flowing water.
+  icon: ''
+- id: hydrophone
+  word: hydrophone
+  meaning: A microphone made to pick up sounds underwater.
+  icon: ''
+  see: mystery-bloop
+- id: hypothesis
+  word: hypothesis
+  meaning: A smart guess that scientists test with experiments.
+  icon: ''
+- id: immune-system
+  word: immune system
+  meaning: The body's defence team that fights germs.
+  icon: ''
+  see: immune-system
+- id: import
+  word: import
+  meaning: To buy goods from another country.
+  icon: ''
+- id: indigenous
+  word: indigenous
+  meaning: Belonging to the first peoples known to have lived in a place, before settlers arrived from elsewhere.
+  icon: ''
+  see: canada
+- id: inertia
+  word: inertia
+  meaning: The way an object keeps doing what it is doing until a force changes it.
+  icon: ''
+- id: infection
+  word: infection
+  meaning: When germs get into the body and start to multiply.
+  icon: ''
+- id: infrared
+  word: infrared
+  meaning: A kind of light just beyond red that our eyes can't see. We feel some of it as warmth.
+  icon: ''
+  see: webb-telescope
+- id: infrasound
+  word: infrasound
+  meaning: Sounds too low for human ears to hear. They can travel very far.
+  icon: sound
+  see: elephants-talk
+- id: inherit
+  word: inherit
+  meaning: To get something from a parent, like eye colour or a house.
+  icon: ''
+- id: inscription
+  word: inscription
+  meaning: Words carved or written on stone, metal or another hard surface.
+  icon: ''
+- id: insulator
+  word: insulator
+  meaning: A material that stops heat or electricity passing through easily, like plastic.
+  icon: ''
+- id: interest
+  word: interest
+  meaning: Extra money paid for borrowing money, or earned for saving it, usually worked out as a percentage each year.
+  icon: ''
+  see: money-banks
+  auto: false
+- id: interference
+  word: interference
+  meaning: 'What happens when two waves meet: they can add up to make a bigger wave or cancel each other out.'
+  icon: ''
+  see: soap-bubbles-colours
+- id: intertidal
+  word: intertidal
+  meaning: The part of the shore that is underwater at high tide and uncovered at low tide.
+  icon: ''
+  see: tide-pools
+- id: invertebrate
+  word: invertebrate
+  meaning: An animal without a backbone, like an insect or a worm.
+  icon: ''
+- id: iridium
+  word: iridium
+  meaning: A rare, heavy metal. Most of Earth's iridium sank to the core long ago, so it's scarce at the surface, but common in many asteroids.
+  icon: atom
+  see: iridium-evidence
+- id: iris
+  word: iris
+  meaning: The coloured ring of your eye around the pupil.
+  icon: ''
+  auto: false
+- id: irrigation
+  word: irrigation
+  meaning: Bringing water to fields through pipes, channels or sprinklers.
+  icon: ''
+- id: isotope
+  word: isotope
+  meaning: One of the forms of an element whose atoms have different weights.
+  icon: ''
+- id: karst
+  word: karst
+  meaning: A landscape of caves, sinkholes and rock pillars, carved when rainwater slowly dissolves limestone.
+  icon: ''
+  see: earth-stone-forests
+- id: keratin
+  word: keratin
+  meaning: A tough protein that makes up hair, nails, claws, hooves and horns.
+  icon: ''
+  see: nails
+- id: keystone-species
+  word: keystone species
+  meaning: A species that holds its whole community together, so that removing it changes everything around it.
+  icon: ''
+  see: starfish
+- id: kiln
+  word: kiln
+  meaning: A very hot oven used to harden clay, bricks or glass.
+  icon: ''
+  see: pottery
+- id: kinetic-energy
+  word: kinetic energy
+  meaning: The energy something has because it is moving.
+  icon: ''
+- id: lactose
+  word: lactose
+  meaning: The natural sugar found in milk.
+  icon: ''
+  see: milk
+- id: lagoon
+  word: lagoon
+  meaning: A shallow body of water separated from the sea by a strip of sand or rock, often with a narrow opening to the sea.
+  icon: ''
+  see: chilika
+- id: lanolin
+  word: lanolin
+  meaning: A natural grease in sheep's wool that keeps the fleece waterproof. It is used in skin creams.
+  icon: ''
+  see: wool
+- id: larva
+  word: larva
+  meaning: The young form of an insect, like a caterpillar, before it changes into an adult.
+  icon: ''
+- id: larynx
+  word: larynx
+  meaning: Your voice box, at the top of your windpipe in the throat. It holds the vocal folds.
+  icon: ''
+  see: voice
+- id: latitude
+  word: latitude
+  meaning: How far north or south of the equator a place is, measured in degrees.
+  icon: ''
+  see: coordinates
+- id: lava
+  word: lava
+  meaning: Melted rock that has come out onto Earth's surface. Underground, it's called magma.
+  icon: volcano
+  see: volcano
+- id: legume
+  word: legume
+  meaning: A plant that grows its seeds in pods, such as peas, beans, lentils and peanuts.
+  icon: ''
+  see: pulses-dal
+- id: lens
+  word: lens
+  meaning: A curved piece of glass or plastic that bends light, used in glasses and cameras.
+  icon: ''
+  auto: false
+- id: lever
+  word: lever
+  meaning: A bar that turns on a fixed point to help lift or move things.
+  icon: ''
+  see: lever-lift
+- id: lexicographer
+  word: lexicographer
+  meaning: A person who writes and edits dictionaries.
+  icon: ''
+  see: dictionaries
+- id: lift
+  word: lift
+  meaning: The upward push on a wing as it moves through air.
+  icon: wing
+  see: airplanes-fly
+  auto: false
+- id: ligament
+  word: ligament
+  meaning: A strong band that holds bones together at a joint.
+  icon: ''
+- id: lightyear
+  word: light-year
+  meaning: 'The distance light travels in one year: about 9.5 trillion kilometres. It measures distance, not time!'
+  icon: star
+  see: light-years
+- id: lithograph
+  word: lithograph
+  meaning: A print made by drawing on a flat stone or metal plate with greasy ink, then pressing paper onto it.
+  icon: ''
+  see: raja-ravi-varma
+- id: loom
+  word: loom
+  meaning: A frame or machine that holds threads tight so they can be woven into cloth.
+  icon: ''
+  see: weaving-saree
+  auto: false
+- id: magma
+  word: magma
+  meaning: Melted rock that's still underground. When it comes out, we call it lava.
+  icon: volcano
+  see: inside-earth
+- id: mammal
+  word: mammal
+  meaning: Animals with hair or fur that feed their babies milk. Dogs, whales, bats, and you.
+  icon: mammal
+  see: mammals-rise
+- id: mammoth
+  word: mammoth
+  meaning: A large, hairy relative of the elephant that died out thousands of years ago.
+  icon: ''
+  see: mammoths
+- id: mantle
+  word: mantle
+  meaning: The thick layer of hot rock under the crust. It flows extremely slowly, like very thick toffee.
+  icon: earthcut
+  see: inside-earth
+  auto: false
+- id: manuscript
+  word: manuscript
+  meaning: A book or document written by hand.
+  icon: ''
+- id: marsupial
+  word: marsupial
+  meaning: A mammal whose babies are born very small and finish growing in a pouch on the mother's belly, like a kangaroo.
+  icon: ''
+  see: australia
+- id: mass
+  word: mass
+  meaning: How much stuff something is made of.
+  icon: ''
+  auto: false
+- id: matter
+  word: matter
+  meaning: Anything that takes up space and has weight.
+  icon: ''
+  auto: false
+- id: mausoleum
+  word: mausoleum
+  meaning: A large, grand building made as a tomb.
+  icon: ''
+- id: medieval
+  word: medieval
+  meaning: From the Middle Ages, roughly the years 500 to 1500.
+  icon: ''
+- id: melanin
+  word: melanin
+  meaning: The dark pigment that gives colour to skin, hair and eyes.
+  icon: ''
+  see: skin
+- id: melanosome
+  word: melanosome
+  meaning: A tiny packet inside cells that holds colour. Dozens could fit across the width of one hair.
+  icon: microscope
+  see: dino-colors
+- id: meridian
+  word: meridian
+  meaning: An imaginary line on a map running from the North Pole to the South Pole.
+  icon: ''
+  see: time-zones
+- id: metamorphosis
+  word: metamorphosis
+  meaning: A big change in an animal's body shape as it grows up, like a caterpillar turning into a butterfly or a tadpole into a frog.
+  icon: ''
+  see: butterflies-life
+- id: metaphor
+  word: metaphor
+  meaning: Describing something as if it were something else, like "the classroom was a zoo".
+  icon: ''
+- id: meteor
+  word: meteor
+  meaning: A space rock burning up in Earth's air, seen as a shooting star.
+  icon: ''
+- id: meteorite
+  word: meteorite
+  meaning: A space rock that lands on the ground.
+  icon: ''
+  see: meteorites
+- id: microbe
+  word: microbe
+  meaning: A living thing too small to see without a microscope, such as a bacterium or a yeast.
+  icon: ''
+  see: fermentation
+- id: microgravity
+  word: microgravity
+  meaning: The floating feeling inside a spacecraft that is falling freely around Earth. Gravity is still there, but everything falls together.
+  icon: ''
+  see: space-station
+- id: microorganism
+  word: microorganism
+  meaning: A living thing too small to see without a microscope.
+  icon: ''
+- id: microplastic
+  word: microplastic
+  meaning: A piece of plastic smaller than 5 mm, often from bigger plastic breaking apart.
+  icon: ''
+  see: ocean-plastic
+- id: microscope
+  word: microscope
+  meaning: An instrument that makes tiny things look much bigger.
+  icon: ''
+  see: microscopes
+- id: migration
+  word: migrate
+  meaning: To make a regular long journey between places, usually with the seasons.
+  icon: falcon
+  see: migration
+- id: minaret
+  word: minaret
+  meaning: A tall, slender tower beside a mosque, from which the call to prayer can be given.
+  icon: ''
+  see: qutub-minar
+- id: mineral
+  word: mineral
+  meaning: A natural solid made of crystals, like quartz, salt or the calcite in shells.
+  icon: crystal
+  see: fossils-form
+  auto: false
+- id: molecule
+  word: molecule
+  meaning: A tiny group of atoms joined together. A water molecule is two hydrogen atoms and one oxygen atom.
+  icon: ''
+  see: microwave
+- id: momentum
+  word: momentum
+  meaning: How hard it is to stop something that is moving. Heavier or faster things have more momentum.
+  icon: ''
+  see: gymnastics
+  auto: false
+- id: monarch
+  word: monarch
+  meaning: A king, queen or emperor who usually inherits the position from their family.
+  icon: ''
+  see: president-pm
+  auto: false
+- id: monarchy
+  word: monarchy
+  meaning: A country ruled by a king or queen.
+  icon: ''
+- id: monastery
+  word: monastery
+  meaning: A place where monks live, pray and study.
+  icon: ''
+- id: monolith
+  word: monolith
+  meaning: Something carved from one single block of stone.
+  icon: ''
+  see: ellora-kailasa
+- id: monopoly
+  word: monopoly
+  meaning: The sole right to sell something or trade somewhere, with no one else allowed to compete.
+  icon: ''
+  see: east-india-company
+- id: monsoon
+  word: monsoon
+  meaning: Seasonal winds that bring heavy rain, especially to South Asia in summer.
+  icon: ''
+  see: monsoon
+- id: mordant
+  word: mordant
+  meaning: A substance that helps a dye stick to cloth so the colour does not wash out.
+  icon: ''
+  see: block-printing
+- id: mosaic
+  word: mosaic
+  meaning: A picture made from many small pieces of stone, glass or tile.
+  icon: ''
+- id: motif
+  word: motif
+  meaning: A shape or pattern that is repeated in a design.
+  icon: ''
+  see: block-printing
+- id: mucus
+  word: mucus
+  meaning: A slippery, sticky liquid made by the body to trap dust and germs, like the snot in your nose.
+  icon: ''
+  see: gross-snot
+- id: mummy
+  word: mummy
+  meaning: A body preserved after death, often by drying it and wrapping it.
+  icon: ''
+  see: mummies
+  auto: false
+- id: mural
+  word: mural
+  meaning: A large painting made directly on a wall.
+  icon: ''
+  see: street-art
+- id: mutation
+  word: mutation
+  meaning: A change in the DNA code of a living thing.
+  icon: ''
+- id: mycelium
+  word: mycelium
+  meaning: 'The hidden body of a fungus: a mass of fine threads that spreads through soil, wood or food.'
+  icon: ''
+  see: mushrooms
+- id: mythology
+  word: mythology
+  meaning: A collection of old stories about gods, heroes and how the world began.
+  icon: ''
+- id: navigation
+  word: navigation
+  meaning: Finding your way from one place to another.
+  icon: ''
+- id: nebula
+  word: nebula
+  meaning: A huge cloud of gas and dust in space. New stars are born inside some nebulas.
+  icon: ''
+  see: stars-born
+- id: nectar
+  word: nectar
+  meaning: A sweet, sugary liquid made by flowers. It attracts birds, bees and other animals that carry pollen from flower to flower.
+  icon: ''
+  see: hummingbirds
+- id: nerve
+  word: nerve
+  meaning: A bundle of long, thin cells that carry electrical messages between your brain or spinal cord and the rest of your body.
+  icon: ''
+  see: reflexes
+  auto: false
+- id: neuron
+  word: neuron
+  meaning: A nerve cell. Neurons carry messages around the brain and body as tiny electrical signals.
+  icon: ''
+  see: brain-works
+- id: nixtamalisation
+  word: nixtamalisation
+  meaning: Cooking and soaking dried corn in water mixed with lime (a mineral powder), which softens it and makes it more nourishing.
+  icon: ''
+  see: tacos
+- id: nocturnal
+  word: nocturnal
+  meaning: Active at night and asleep during the day.
+  icon: ''
+- id: nucleus
+  word: nucleus
+  meaning: The centre of an atom, or the control centre of a cell.
+  icon: ''
+- id: nutrient
+  word: nutrient
+  meaning: Something in food that the body needs to grow, get energy or stay healthy, such as protein, vitamins or minerals.
+  icon: ''
+  see: food-nutrients
+- id: nutrition
+  word: nutrition
+  meaning: The food your body needs to grow and stay healthy.
+  icon: ''
+- id: oasis
+  word: oasis
+  meaning: A green place in a desert where there is water.
+  icon: ''
+- id: observatory
+  word: observatory
+  meaning: A building with telescopes for studying the sky.
+  icon: ''
+- id: ochre
+  word: ochre
+  meaning: A natural earth coloured by iron, used since ancient times to make red, yellow and brown paint.
+  icon: ''
+  see: cave-art
+- id: octave
+  word: octave
+  meaning: The gap between one note and the next note with the same name. The higher note vibrates twice as fast.
+  icon: ''
+  see: sitar-strings
+- id: omnivore
+  word: omnivore
+  meaning: An animal that eats both plants and meat.
+  icon: ''
+- id: orbit
+  word: orbit
+  meaning: The curved path of something travelling around something else, like the Moon around Earth.
+  icon: moon
+  see: spacecraft-move
+- id: organ
+  word: organ
+  meaning: A body part with a special job, like the heart or lungs.
+  icon: ''
+  auto: false
+- id: organism
+  word: organism
+  meaning: Any living thing, from a bacterium to a blue whale.
+  icon: ''
+- id: orthodontist
+  word: orthodontist
+  meaning: A dentist who has trained extra years to straighten teeth and fix the way the jaws meet.
+  icon: ''
+  see: braces
+- id: osteoderm
+  word: osteoderm
+  meaning: A plate or knob of bone that grows inside an animal's skin, like the bumps on a crocodile's back.
+  icon: ''
+  see: ankylosaurus-club
+- id: oxidation
+  word: oxidation
+  meaning: A chemical change in which a substance joins with oxygen or loses electrons. Rusting and burning are both kinds of oxidation.
+  icon: ''
+  see: rust
+- id: oxygen
+  word: oxygen
+  meaning: A gas in the air that people and animals need to breathe.
+  icon: ''
+  auto: false
+- id: ozone
+  word: ozone
+  meaning: A form of oxygen with three oxygen atoms instead of two. High in the sky, it blocks harmful ultraviolet light.
+  icon: ''
+  see: ozone-layer
+- id: paleontologist
+  word: paleontologist
+  meaning: A scientist who studies fossils to learn about ancient life.
+  icon: ''
+- id: pandemic
+  word: pandemic
+  meaning: An outbreak of a disease that spreads across many countries.
+  icon: ''
+- id: parallel
+  word: parallel
+  meaning: Running side by side and always the same distance apart, like the two rails of a railway track.
+  icon: ''
+  see: shapes-angles
+  auto: false
+- id: parasite
+  word: parasite
+  meaning: A living thing that lives on or inside another living thing and takes food from it, usually harming it.
+  icon: ''
+  see: mosquito-diseases
+- id: parliament
+  word: parliament
+  meaning: The group of elected people who make a country's laws.
+  icon: ''
+  see: parliament-india
+- id: partition
+  word: partition
+  meaning: Dividing something into parts, like a country split into two.
+  icon: ''
+  see: partition
+- id: pasteurise
+  word: pasteurise
+  meaning: To heat a food such as milk just enough to kill harmful germs, without boiling it.
+  icon: ''
+  see: milk
+- id: patina
+  word: patina
+  meaning: A thin layer that forms on the surface of metal or stone over time, like the green coat on old copper.
+  icon: ''
+  see: statue-liberty
+- id: patron
+  word: patron
+  meaning: A rich or powerful person who pays artists to make work.
+  icon: ''
+  see: mughal-miniatures
+  auto: false
+- id: patronymic
+  word: patronymic
+  meaning: A name made from your father's first name, such as Jónsson, meaning son of Jón.
+  icon: ''
+  see: names-world
+- id: peloton
+  word: peloton
+  meaning: The main group of riders in a cycle race, who ride close together to shelter from the wind.
+  icon: ''
+  see: cycling-tour
+- id: pendulum
+  word: pendulum
+  meaning: A weight that swings back and forth from a fixed point.
+  icon: ''
+- id: peninsula
+  word: peninsula
+  meaning: Land with water on three sides.
+  icon: ''
+- id: percentage
+  word: percentage
+  meaning: A part of a hundred. 50 per cent means half.
+  icon: ''
+  see: percentages
+- id: permafrost
+  word: permafrost
+  meaning: Ground that stays frozen all year round, for at least two years in a row.
+  icon: ''
+  see: cold-places
+- id: persecution
+  word: persecution
+  meaning: Cruel or unfair treatment of people, often because of their religion, race or beliefs.
+  icon: ''
+  see: refugees
+- id: pesticide
+  word: pesticide
+  meaning: A chemical used to kill insects or pests that harm crops.
+  icon: ''
+- id: pheromone
+  word: pheromone
+  meaning: A chemical an animal gives off that sends a message to others of its kind, usually by smell.
+  icon: ''
+  see: ants-world
+- id: philosophy
+  word: philosophy
+  meaning: Thinking carefully about big questions, like what is right and what is true.
+  icon: ''
+  see: philosophy-kids
+- id: photosynthesis
+  word: photosynthesis
+  meaning: How plants use sunlight to turn air and water into food, letting out oxygen.
+  icon: leaf
+  see: photosynthesis
+- id: photovoltaic
+  word: photovoltaic
+  meaning: Turning sunlight straight into electricity, the way a solar panel does.
+  icon: ''
+  see: solar-india
+- id: pigment
+  word: pigment
+  meaning: A coloured powder that gives paint, ink or dye its colour.
+  icon: ''
+  see: ajanta-colours
+- id: pilgrimage
+  word: pilgrimage
+  meaning: A journey to a holy place.
+  icon: ''
+- id: piston
+  word: piston
+  meaning: A tight-fitting plug that slides back and forth inside a tube when gas or steam pushes on it.
+  icon: ''
+  see: steam-engine
+- id: pitch
+  word: pitch
+  meaning: How high or low a sound is.
+  icon: ''
+  auto: false
+- id: pixel
+  word: pixel
+  meaning: One of the tiny dots of colour that make up a picture on a screen.
+  icon: ''
+  see: pixels
+- id: placenta
+  word: placenta
+  meaning: An organ that grows in the womb during pregnancy and passes oxygen and food from the mother's blood to the baby.
+  icon: ''
+  see: baby-development
+- id: plankton
+  word: plankton
+  meaning: Tiny plants and animals that drift in water, carried along by currents.
+  icon: ''
+  see: manta-rays
+- id: plaque
+  word: plaque
+  meaning: A sticky film of bacteria that builds up on teeth. It can lead to tooth decay if it isn't brushed away.
+  icon: ''
+  see: sugar-teeth
+  auto: false
+- id: plasma
+  word: plasma
+  meaning: A very hot, glowing state of matter in which atoms are broken apart into charged pieces. Stars and lightning are made of it.
+  icon: ''
+  see: nuclear-fusion
+  auto: false
+- id: plate
+  word: plate
+  meaning: One of the huge, slow-moving pieces of Earth's rocky outer shell. India sits on one.
+  icon: quake
+  see: earthquakes
+  auto: false
+- id: platelet
+  word: platelet
+  meaning: A tiny piece of a cell in your blood that helps stop bleeding by clumping together at a cut.
+  icon: ''
+  see: scabs
+- id: pneumatophore
+  word: pneumatophore
+  meaning: A breathing root that pokes up out of the mud, found on some mangrove trees.
+  icon: ''
+  see: mangroves
+- id: pollen
+  word: pollen
+  meaning: A fine powder made by flowers. Carried to another flower, it helps make seeds.
+  icon: ''
+  see: fig-wasps
+- id: pollination
+  word: pollination
+  meaning: Moving pollen from one flower to another so seeds can form.
+  icon: ''
+- id: pollution
+  word: pollution
+  meaning: Harmful things like smoke, plastic or chemicals that dirty air, water or land.
+  icon: ''
+  auto: false
+- id: polyhedron
+  word: polyhedron
+  meaning: A solid shape with flat faces and straight edges, like a cube or a pyramid. The plural is polyhedra.
+  icon: ''
+  see: shapes-3d
+- id: polymer
+  word: polymer
+  meaning: A giant molecule made of many small units joined in a long chain. Plastics, silk, rubber and DNA are all polymers.
+  icon: ''
+  see: plastic-made
+- id: polyp
+  word: polyp
+  meaning: A tiny, soft animal shaped like a tube with tentacles around its mouth, such as a coral.
+  icon: ''
+  see: great-barrier-reef
+- id: potential-energy
+  word: potential energy
+  meaning: Energy stored in something because of its position or shape.
+  icon: ''
+- id: precipitation
+  word: precipitation
+  meaning: Water falling from the sky as rain, snow, sleet or hail.
+  icon: ''
+- id: predator
+  word: predator
+  meaning: An animal that hunts and eats other animals.
+  icon: ''
+  see: yellowstone-wolves
+- id: prehistoric
+  word: prehistoric
+  meaning: From the time before people wrote things down.
+  icon: ''
+- id: pressure
+  word: pressure
+  meaning: How hard something presses on an area. Deep in the ocean, the weight of all the water above pushes very hard.
+  icon: sub
+  see: ocean-zones
+  auto: false
+- id: prism
+  word: prism
+  meaning: A clear, angled block that splits white light into a rainbow.
+  icon: ''
+- id: probability
+  word: probability
+  meaning: How likely something is to happen.
+  icon: ''
+  see: probability
+- id: projection
+  word: projection
+  meaning: A way of drawing the round Earth on a flat map. Every projection stretches something.
+  icon: ''
+  see: maps-flat
+  auto: false
+- id: propeller
+  word: propeller
+  meaning: Spinning blades that push a boat or plane forward.
+  icon: ''
+- id: protein
+  word: protein
+  meaning: One of the main building materials of living things. Muscles, skin, hair and spider silk are all made mostly of proteins.
+  icon: ''
+  see: spiders-silk
+- id: proton
+  word: proton
+  meaning: A tiny particle with a positive charge, found in the centre of an atom.
+  icon: ''
+- id: provenance
+  word: provenance
+  meaning: The recorded history of who has owned an object, from when it was made until today.
+  icon: ''
+  see: art-forgery
+- id: proverb
+  word: proverb
+  meaning: A short, well-known saying that gives advice.
+  icon: ''
+- id: pulley
+  word: pulley
+  meaning: A wheel with a rope around it, used to lift heavy things more easily.
+  icon: ''
+  see: pulleys
+- id: pupa
+  word: pupa
+  meaning: The stage between larva and adult, when an insect changes inside a case.
+  icon: ''
+- id: pupil
+  word: pupil
+  meaning: The dark hole in the middle of your eye that lets light in.
+  icon: ''
+  auto: false
+- id: pyramid
+  word: pyramid
+  meaning: A shape or building with a square base and triangle sides meeting at a point.
+  icon: ''
+  see: pyramids
+  auto: false
+- id: quarantine
+  word: quarantine
+  meaning: Keeping people or animals apart for a while so a disease does not spread.
+  icon: ''
+- id: radiation
+  word: radiation
+  meaning: Energy that travels as rays or tiny fast particles. Some kinds, like strong ultraviolet or particles from the Sun, can harm living things.
+  icon: ''
+  see: spacesuits
+- id: radioactive
+  word: radioactive
+  meaning: Giving off energy and tiny particles on its own, because the centres of some atoms are unstable and slowly break apart.
+  icon: ''
+  see: marie-curie
+- id: radius
+  word: radius
+  meaning: The distance from the centre of a circle to its edge. It is half the width of the circle.
+  icon: ''
+  see: circles
+  auto: false
+- id: raga
+  word: raga
+  meaning: A set of notes and rules that Indian classical music is built on.
+  icon: ''
+- id: rainforest
+  word: rainforest
+  meaning: A thick forest in a hot, wet place with rain almost every day.
+  icon: ''
+  see: rainforests
+  auto: false
+- id: receptor
+  word: receptor
+  meaning: A part of a cell that catches a particular chemical or signal, like a lock that fits only certain keys.
+  icon: ''
+  see: nose-smell
+- id: recycle
+  word: recycle
+  meaning: To turn used things into new things instead of throwing them away.
+  icon: ''
+  auto: false
+- id: referendum
+  word: referendum
+  meaning: A vote in which all the voters of a place decide one question directly, usually yes or no.
+  icon: ''
+  see: democracy-what
+- id: refraction
+  word: refraction
+  meaning: The bending of light as it passes from one material into another, such as from air into water or glass.
+  icon: ''
+  see: lenses-glasses
+- id: refrigerant
+  word: refrigerant
+  meaning: A special liquid in a fridge or air conditioner that boils at a low temperature and carries heat away.
+  icon: ''
+  see: how-fridges-cold
+- id: refugee
+  word: refugee
+  meaning: A person forced to leave their home or country to escape war, violence or danger.
+  icon: ''
+  see: refugees
+- id: renewable
+  word: renewable
+  meaning: Energy, like sunlight or wind, that does not run out.
+  icon: ''
+- id: reptile
+  word: reptile
+  meaning: Scaly animals that mostly lay eggs, like lizards, snakes, turtles and crocodiles.
+  icon: croc
+  see: croc-ancient
+- id: republic
+  word: republic
+  meaning: A country with an elected leader instead of a king or queen.
+  icon: ''
+- id: reservoir
+  word: reservoir
+  meaning: A large lake, often made by a dam, used to store water.
+  icon: ''
+- id: retina
+  word: retina
+  meaning: The thin layer at the back of the eye with cells that sense light.
+  icon: ''
+  see: eyes-see
+- id: revolution
+  word: revolution
+  meaning: A big, sudden change, often when people overthrow a government.
+  icon: ''
+  auto: false
+- id: rhizome
+  word: rhizome
+  meaning: An underground stem that grows sideways and sends up new shoots, as in bamboo, ginger and turmeric.
+  icon: ''
+  see: bamboo
+- id: rhythm
+  word: rhythm
+  meaning: A regular pattern of beats in music, poetry or movement.
+  icon: ''
+  see: rhythm-beat
+- id: ritual
+  word: ritual
+  meaning: Actions done in the same way every time, often as part of a religion or ceremony.
+  icon: ''
+- id: rotor
+  word: rotor
+  meaning: The spinning part of a machine. On a helicopter, the rotor is the set of long blades that whirl round to lift it.
+  icon: ''
+  see: helicopters
+- id: rover
+  word: rover
+  meaning: A robot vehicle that drives around on another planet or moon.
+  icon: ''
+- id: saliva
+  word: saliva
+  meaning: The watery liquid in your mouth that helps you swallow and digest food.
+  icon: ''
+  see: gross-saliva
+- id: sample
+  word: sample
+  meaning: A smaller group picked from a bigger one, so you can learn about the whole group without checking every member.
+  icon: ''
+  see: surveys
+  auto: false
+- id: sanction
+  word: sanction
+  meaning: A punishment one country puts on another, such as refusing to trade with it or freezing its money, to make it change what it is doing.
+  icon: ''
+  see: russia-ukraine
+  auto: false
+- id: sanctuary
+  word: sanctuary
+  meaning: A safe place, especially one where wild animals are protected.
+  icon: ''
+- id: satyagraha
+  word: satyagraha
+  meaning: Gandhi's word for resisting injustice without violence. It means holding firmly to truth.
+  icon: ''
+  see: gandhi
+- id: sauropod
+  word: sauropod
+  meaning: Giant plant-eating dinosaurs with long necks and long tails, walking on four legs.
+  icon: sauropod
+  see: sauropod-necks
+- id: savanna
+  word: savanna
+  meaning: A wide, warm grassland with scattered trees, where it is rainy for part of the year and dry for the rest.
+  icon: ''
+  see: kenya-safari
+- id: script
+  word: script
+  meaning: A set of letters or signs used to write a language down.
+  icon: ''
+  see: scripts-india
+  auto: false
+- id: scripture
+  word: scripture
+  meaning: Holy writings of a religion.
+  icon: ''
+- id: sculpture
+  word: sculpture
+  meaning: Art made by carving, shaping or building, like a statue.
+  icon: ''
+  see: sculpture
+- id: sediment
+  word: sediment
+  meaning: Bits of sand, mud and rock that settle in layers, often at the bottom of rivers, lakes and seas.
+  icon: layers
+  see: fossil-age
+- id: sensor
+  word: sensor
+  meaning: A device that notices something, such as light, heat or movement, and turns it into a signal a machine can use.
+  icon: ''
+  see: cameras-how
+- id: sepoy
+  word: sepoy
+  meaning: An Indian soldier serving in an army run by Europeans, especially the East India Company. It comes from the Persian word sipahi, meaning soldier.
+  icon: ''
+  see: revolt-1857
+- id: series
+  word: series
+  meaning: In maths, a sum of numbers that follow a pattern, like 1 + 1/2 + 1/4 + 1/8. Some series go on forever.
+  icon: ''
+  see: madhava
+  auto: false
+- id: server
+  word: server
+  meaning: A computer that stays switched on to store things and send them to other computers when they ask.
+  icon: ''
+  see: internet-how
+  auto: false
+- id: simile
+  word: simile
+  meaning: Comparing two things using "like" or "as", such as "brave as a lion".
+  icon: ''
+- id: skeleton
+  word: skeleton
+  meaning: The frame of bones that holds up a body.
+  icon: ''
+  auto: false
+- id: solar-system
+  word: solar system
+  meaning: 'The Sun and everything that goes around it: planets, moons, asteroids and comets.'
+  icon: ''
+- id: solstice
+  word: solstice
+  meaning: One of the two days each year when the Sun reaches its highest or lowest point at noon, giving the longest or shortest day.
+  icon: ''
+  see: seasons-why
+- id: solution
+  word: solution
+  meaning: A liquid with something dissolved in it, like salt water.
+  icon: ''
+  auto: false
+- id: sonnet
+  word: sonnet
+  meaning: A poem of 14 lines that follows a set pattern of rhyme and rhythm.
+  icon: ''
+  see: shakespeare
+- id: sound
+  word: sound
+  meaning: A wobble that travels through air, water or solids. Your ears turn the wobble into what you hear.
+  icon: sound
+  see: sound-travel
+  auto: false
+- id: species
+  word: species
+  meaning: One particular kind of living thing. Tigers are one species; lions are another.
+  icon: frog
+  see: frogs-monsoon
+- id: spectrum
+  word: spectrum
+  meaning: All the colours of light, from red to violet, in order.
+  icon: ''
+- id: stamina
+  word: stamina
+  meaning: The strength to keep doing something hard for a long time.
+  icon: ''
+- id: star
+  word: star
+  meaning: A giant ball of hot glowing gas that makes its own light. The Sun is a star.
+  icon: star
+  see: stars-born
+  auto: false
+- id: starch
+  word: starch
+  meaning: A store of energy made by plants from long chains of sugar. Rice, wheat and potatoes are full of it.
+  icon: ''
+  see: rice
+- id: statistics
+  word: statistics
+  meaning: Collecting numbers and studying them to find out what they show.
+  icon: ''
+- id: stele
+  word: stele
+  meaning: A tall stone slab with writing or pictures carved on it, set up as a monument.
+  icon: ''
+  see: hammurabi
+- id: stigma
+  word: stigma
+  meaning: The sticky tip in the middle of a flower that catches pollen.
+  icon: ''
+  see: saffron
+  auto: false
+- id: strait
+  word: strait
+  meaning: A narrow strip of sea that joins two bigger seas, with land on both sides.
+  icon: ''
+  see: strait-of-hormuz
+- id: stupa
+  word: stupa
+  meaning: A dome-shaped Buddhist monument, often built over holy relics such as ashes or belongings of the Buddha.
+  icon: ''
+  see: buddha
+- id: subcontinent
+  word: subcontinent
+  meaning: A large part of a continent, like India and its neighbours.
+  icon: ''
+- id: superhydrophobic
+  word: superhydrophobic
+  meaning: So good at repelling water that drops sit up as round beads and roll straight off.
+  icon: ''
+  see: lotus
+- id: supernova
+  word: supernova
+  meaning: The huge explosion of a star at the end of its life.
+  icon: ''
+  see: supernova
+- id: surface-tension
+  word: surface tension
+  meaning: The pull that makes the surface of a liquid act like a thin stretchy skin. It lets some insects walk on water.
+  icon: ''
+  see: bubbles-round
+- id: surgeon
+  word: surgeon
+  meaning: A doctor who does operations.
+  icon: ''
+- id: sustainable
+  word: sustainable
+  meaning: Able to keep going without harming the planet or using things up.
+  icon: ''
+- id: syllable
+  word: syllable
+  meaning: One beat of sound in a word. "Elephant" has three.
+  icon: ''
+- id: symmetry
+  word: symmetry
+  meaning: When one half of something is a mirror image of the other half.
+  icon: ''
+  see: symmetry
+- id: symptom
+  word: symptom
+  meaning: A sign of illness, like a cough or a fever.
+  icon: ''
+- id: syrinx
+  word: syrinx
+  meaning: The voice box of a bird. It sits deep in the chest, where the windpipe splits to go into the two lungs.
+  icon: ''
+  see: parrots-talk
+- id: tanker
+  word: tanker
+  meaning: A ship or truck built to carry liquids or gas, such as crude oil, petrol or cooking gas, in giant tanks.
+  icon: ''
+  see: strait-of-hormuz
+- id: tariff
+  word: tariff
+  meaning: A tax that a country charges on goods brought in from other countries.
+  icon: ''
+  see: trade-world
+- id: technology
+  word: technology
+  meaning: Tools and machines people invent to solve problems.
+  icon: ''
+  auto: false
+- id: tectonic-plates
+  word: tectonic plates
+  meaning: Huge slabs of rock that make up Earth's surface and slowly move.
+  icon: ''
+- id: telegraph
+  word: telegraph
+  meaning: An old way of sending messages along wires using coded electric pulses.
+  icon: ''
+  see: telegraph
+- id: telescope
+  word: telescope
+  meaning: An instrument that makes faraway things look closer.
+  icon: ''
+  see: telescopes-how
+  auto: false
+- id: temperature
+  word: temperature
+  meaning: How hot or cold something is.
+  icon: ''
+  auto: false
+- id: tendon
+  word: tendon
+  meaning: A tough cord that joins a muscle to a bone.
+  icon: ''
+- id: tentacle
+  word: tentacle
+  meaning: A long, bendy arm on animals like the octopus and jellyfish.
+  icon: ''
+- id: territory
+  word: territory
+  meaning: An area that an animal or a country claims as its own.
+  icon: ''
+- id: textile
+  word: textile
+  meaning: Cloth or fabric made by weaving, knitting or knotting threads.
+  icon: ''
+- id: theropod
+  word: theropod
+  meaning: The group of mostly two-legged, mostly meat-eating dinosaurs. T. rex, Rajasaurus, Velociraptor, and every bird.
+  icon: theropod
+  see: birds-dinosaurs
+- id: thrust
+  word: thrust
+  meaning: The push that moves a rocket or jet forward, made by forcing gas out of the back very fast.
+  icon: ''
+  see: rockets-how
+  auto: false
+- id: tissue
+  word: tissue
+  meaning: A group of similar cells working together, like muscle.
+  icon: ''
+  auto: false
+- id: torpor
+  word: torpor
+  meaning: A deep, cold sleep in which an animal's body temperature and heartbeat drop to save energy, usually for a night or a few days.
+  icon: ''
+  see: hummingbirds
+- id: tournament
+  word: tournament
+  meaning: A competition with many matches to find a winner.
+  icon: ''
+- id: transistor
+  word: transistor
+  meaning: A tiny electronic switch with no moving parts. Computer chips contain billions of them.
+  icon: ''
+  see: chips-silicon
+- id: treaty
+  word: treaty
+  meaning: A written agreement between countries that they promise to follow.
+  icon: ''
+  see: unesco-sites
+- id: tributary
+  word: tributary
+  meaning: A smaller river that flows into a bigger one.
+  icon: ''
+- id: trickster
+  word: trickster
+  meaning: A clever character in stories who uses tricks to beat stronger opponents.
+  icon: ''
+  see: myths-african
+- id: tropical
+  word: tropical
+  meaning: From the hot regions near the equator.
+  icon: ''
+- id: tsunami
+  word: tsunami
+  meaning: A series of giant sea waves, often caused by an undersea earthquake.
+  icon: ''
+  see: tsunami
+- id: tuber
+  word: tuber
+  meaning: A swollen underground part of a plant that stores food, like a potato.
+  icon: ''
+  see: potatoes
+- id: tundra
+  word: tundra
+  meaning: A cold, treeless land where the ground below stays frozen.
+  icon: ''
+  see: tundra
+- id: turbine
+  word: turbine
+  meaning: A wheel with blades that is spun round by moving wind, water or steam.
+  icon: ''
+  see: wind-turbines
+- id: ultrasound
+  word: ultrasound
+  meaning: Sound too high for humans to hear, also used to see inside the body.
+  icon: ''
+- id: ultraviolet
+  word: ultraviolet
+  meaning: A kind of light from the Sun that our eyes cannot see. Too much of it causes sunburn.
+  icon: ''
+  see: ozone-layer
+- id: uranium
+  word: uranium
+  meaning: A heavy metal dug from the ground. Its atoms can be split to make electricity in a power plant, or, if it is made very pure, a nuclear bomb.
+  icon: ''
+  see: nuclear-power
+- id: vaccine
+  word: vaccine
+  meaning: A medicine that teaches your body to recognise a germ, so it can fight it off quickly if it ever meets the real thing.
+  icon: ''
+  see: vaccines
+- id: vacuum
+  word: vacuum
+  meaning: A space with almost no air or other matter in it.
+  icon: ''
+  see: thermos-flask
+- id: vein
+  word: vein
+  meaning: A tube that carries blood back to the heart.
+  icon: ''
+- id: velocity
+  word: velocity
+  meaning: Speed in a particular direction.
+  icon: ''
+- id: venom
+  word: venom
+  meaning: A harmful liquid that an animal injects into another animal with fangs, stings or spines.
+  icon: ''
+  see: snakes-venom
+- id: verdict
+  word: verdict
+  meaning: The decision at the end of a trial, such as whether someone is guilty or not guilty.
+  icon: ''
+  see: courts-judges
+- id: vertebrate
+  word: vertebrate
+  meaning: An animal with a backbone, like a fish, bird or human.
+  icon: ''
+- id: veto
+  word: veto
+  meaning: The power to reject a decision or a proposed law. It comes from a Latin word meaning 'I forbid'.
+  icon: ''
+  see: congress-usa
+- id: vibration
+  word: vibration
+  meaning: A quick back-and-forth shaking movement.
+  icon: ''
+- id: virus
+  word: virus
+  meaning: A germ far smaller than a bacterium that can only make copies of itself inside the cells of a living thing.
+  icon: ''
+  see: cold-flu
+  auto: false
+- id: vitamin
+  word: vitamin
+  meaning: A substance in food your body needs in small amounts to stay healthy.
+  icon: ''
+  see: vitamins
+- id: volume
+  word: volume
+  meaning: How much space something takes up, or how loud a sound is.
+  icon: ''
+  auto: false
+- id: vortex
+  word: vortex
+  meaning: A spinning whirl of air or water, like a whirlpool or the swirl of water going down a drain.
+  icon: ''
+  see: seeds-fly
+- id: wavelength
+  word: wavelength
+  meaning: The distance from the top of one wave to the top of the next. For light, a different wavelength means a different colour.
+  icon: ''
+  see: lasers
+- id: weathering
+  word: weathering
+  meaning: The slow breaking down of rock by rain, heat, cold, ice, plants and living things.
+  icon: ''
+  see: soil-made
+- id: weaving
+  word: weaving
+  meaning: Making cloth by crossing threads over and under each other.
+  icon: ''
+- id: wetland
+  word: wetland
+  meaning: Land that is soaked with water for at least part of the year, such as a marsh, swamp, bog or mangrove forest.
+  icon: ''
+  see: wetlands
+- id: yeast
+  word: yeast
+  meaning: A tiny single-celled fungus that feeds on sugar and gives off carbon dioxide gas. Bakers use it to make bread rise.
+  icon: ''
+  see: baking
+- id: zodiac
+  word: zodiac
+  meaning: A band of twelve star patterns that the Sun, Moon and planets seem to pass through during the year.
+  icon: ''
+  see: constellations

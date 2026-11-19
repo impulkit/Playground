@@ -1,0 +1,35 @@
+- {name: Shanghai maglev line, lat: 31.20, lon: 121.65, note: Airport maglev running at up to 431 km/h, article: maglev}
+- {name: Integral Coach Factory, lat: 13.10, lon: 80.21, note: Where the first Vande Bharat train was built, article: vande-bharat, india: true}
+- {name: Kumbhalgarh Fort, lat: 25.15, lon: 73.59, note: Fort with a wall about 36 km long, article: rajasthan-forts, india: true}
+- {name: Jaisalmer Fort, lat: 26.91, lon: 70.91, note: A living fort in the Thar Desert, article: rajasthan-forts, india: true}
+- {name: Dholavira, lat: 23.89, lon: 70.21, note: Indus city in the Great Rann, article: gujarat-rann, india: true}
+- {name: Dhordo, lat: 23.83, lon: 69.66, note: Site of the Rann Utsav on the white salt desert, article: gujarat-rann, india: true}
+- {name: Chandigarh, lat: 30.73, lon: 76.78, note: Planned capital shared by Punjab and Haryana, article: punjab, india: true}
+- {name: Dal Lake, lat: 34.11, lon: 74.87, note: Houseboats and floating gardens in Srinagar, article: kashmir, india: true}
+- {name: Pampore, lat: 34.02, lon: 74.93, note: Saffron fields of Kashmir, article: kashmir, india: true}
+- {name: Shimla, lat: 31.10, lon: 77.17, note: Summer capital of British India, article: himachal, india: true}
+- {name: Tabo Monastery, lat: 32.09, lon: 78.38, note: Buddhist monastery founded in 996, article: himachal, india: true}
+- {name: Devprayag, lat: 30.15, lon: 78.60, note: Where the Bhagirathi and Alaknanda join to form the Ganga, article: uttarakhand, india: true}
+- {name: Kedarnath Temple, lat: 30.74, lon: 79.07, note: Himalayan temple at about 3,580 m, article: uttarakhand, india: true}
+- {name: Konark Sun Temple, lat: 19.89, lon: 86.09, note: Temple shaped like a stone chariot, article: odisha, india: true}
+- {name: Chilika Lake, lat: 19.72, lon: 85.32, note: India's largest coastal lagoon, article: odisha, india: true}
+- {name: Brihadeeswarar Temple, lat: 10.78, lon: 79.13, note: Chola temple completed around 1010, article: tamil-nadu-temples, india: true}
+- {name: Meenakshi Temple, lat: 9.92, lon: 78.12, note: Temple with 14 gopurams, article: tamil-nadu-temples, india: true}
+- {name: Shravanabelagola, lat: 12.85, lon: 76.48, note: Giant Gommateshwara statue, article: karnataka, india: true}
+- {name: Jog Falls, lat: 14.23, lon: 74.81, note: The Sharavati plunges about 253 m, article: karnataka, india: true}
+- {name: Bhimbetka rock shelters, lat: 22.94, lon: 77.61, note: Ancient rock paintings, article: madhya-pradesh, india: true}
+- {name: Sanchi, lat: 23.48, lon: 77.74, note: Great Stupa begun under Ashoka, article: madhya-pradesh, india: true}
+- {name: Bodh Gaya, lat: 24.70, lon: 84.99, note: Where the Buddha attained enlightenment, article: bihar-history, india: true}
+- {name: Nalanda, lat: 25.14, lon: 85.44, note: Ruins of a great monastery-university, article: bihar-history, india: true}
+- {name: Nongriat, lat: 25.25, lon: 91.68, note: Double-decker living root bridge, article: meghalaya, india: true}
+- {name: Gangtok, lat: 27.33, lon: 88.61, note: Capital of organic Sikkim, article: sikkim, india: true}
+- {name: Kavaratti, lat: 10.57, lon: 72.64, note: Capital of Lakshadweep, article: lakshadweep, india: true}
+- {name: Shaniwar Wada, lat: 18.52, lon: 73.86, note: Palace of the Peshwas, article: pune, india: true}
+- {name: Sabarmati Ashram, lat: 23.06, lon: 72.58, note: Where the Salt March began in 1930, article: ahmedabad, india: true}
+- {name: Golden Temple, lat: 31.62, lon: 74.88, note: Home of one of the world's largest free kitchens, article: amritsar, india: true}
+- {name: Mysore Palace, lat: 12.31, lon: 76.65, note: Lit with nearly a lakh bulbs during Dasara, article: mysuru, india: true}
+- {name: Fort Kochi, lat: 9.97, lon: 76.24, note: Chinese fishing nets and colonial buildings, article: kochi, india: true}
+- {name: Auroville, lat: 12.01, lon: 79.81, note: Township founded in 1968, article: puducherry, india: true}
+- {name: Ward's Lake, lat: 25.58, lon: 91.89, note: Lake in the heart of Shillong, article: shillong, india: true}
+- {name: Boston Harbor, lat: 42.35, lon: -71.05, note: Site of the Boston Tea Party, article: boston}
+- {name: Space Needle, lat: 47.62, lon: -122.35, note: Tower built for the 1962 World's Fair, article: seattle}

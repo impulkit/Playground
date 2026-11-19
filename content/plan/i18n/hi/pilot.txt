@@ -1,0 +1,10 @@
+space|pluto
+lost|birds-dinosaurs
+earth|sky-blue
+ocean|octopus-smart
+space|chandrayaan
+art|taj-mahal
+earth|lightning
+earth|volcano
+pop|cricket-rules
+food|bananas

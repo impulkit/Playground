@@ -1,0 +1,7 @@
+# Fact-check log: fc2-05 (77 articles, art, words, numbers, earth)
+
+- street-theatre | WRONG | "San Francisco Mime Troupe has given free shows in the city's parks since 1959" → "founded in 1959, has given free shows in the city's parks since 1962" (first outdoor park show was May 1962) | https://en.wikipedia.org/wiki/San_Francisco_Mime_Troupe
+- vikram-betal | DOUBTFUL | facts: "Oldest surviving source: the Kathasaritsagara of Somadeva" → "Oldest surviving sources: the Kathasaritsagara of Somadeva and the Brihatkathamanjari of Kshemendra" (Kshemendra's c. 1037 version is as old or slightly older) | https://www.britannica.com/topic/Vetalapanchavimshati
+- science-fiction | WRONG | hook: "a woman in Bengal wrote a story" → "a Bengali woman wrote a story" (Rokeya wrote Sultana's Dream in Bhagalpur, Bihar, where her husband was posted) | https://en.wikipedia.org/wiki/Sultana%27s_Dream
+- nets-boxes | WRONG | surprising_fact: "Nobody has proved whether every shape with flat faces can be unfolded into one flat piece" → limited to shapes that bulge outward everywhere (convex), cut along edges; non-convex shapes are already known that cannot be edge-unfolded, matching the body | https://en.wikipedia.org/wiki/D%C3%BCrer%27s_conjecture
+- jamini-roy | DOUBTFUL | facts + body: "one of nine artists named in 1976" → "named in 1976, one of nine artists on the list by 1979" (four artists were declared in 1976, five more in 1979) | https://www.gktoday.in/nine-artists-whose-work-is-art-treasures/

@@ -1,0 +1,47 @@
+- {year: 1791, title: Haitian Revolution begins, text: Enslaved people in Saint-Domingue rise up against French planters., article: haitian-revolution}
+- {year: 1804, title: Haiti declares independence, text: Jean-Jacques Dessalines founds Haiti on 1 January., article: haitian-revolution}
+- {year: 1819, title: Bolívar crosses the Andes, text: Victory at Boyacá frees what is now Colombia., article: simon-bolivar}
+- {year: 1853, title: Black ships reach Japan, text: Commodore Perry's warships force Japan to open its ports., article: meiji-japan}
+- {year: 1868, title: Meiji Restoration, text: Japan's emperor is restored and Edo becomes Tokyo., article: meiji-japan}
+- {year: 1839, title: First Opium War begins, text: Britain goes to war after China destroys smuggled opium., article: opium-wars}
+- {year: 1842, title: Treaty of Nanjing, text: China hands Hong Kong Island to Britain., article: opium-wars}
+- {year: 1912, title: China's last emperor steps down, text: Six-year-old Puyi gives up the throne and China becomes a republic., article: chinese-revolution}
+- {year: 1949, title: People's Republic of China founded, text: Mao Zedong announces the new state from Tiananmen., article: chinese-revolution}
+- {year: 1929, title: Wall Street Crash, text: Share prices in New York collapse in late October., article: great-depression}
+- {year: 1933, title: The New Deal begins, text: "Franklin D. Roosevelt launches programmes to fight the Depression.", article: great-depression}
+- {year: 1938, title: Kristallnacht, text: Synagogues and Jewish shops are attacked across Germany and Austria., article: holocaust}
+- {year: 1945, title: Auschwitz freed, text: Soviet troops free the camp on 27 January., article: holocaust}
+- {year: 1893, title: Gandhi thrown off a train, text: At Pietermaritzburg Gandhi decides to fight colour prejudice., article: gandhi-south-africa}
+- {year: 1906, title: Satyagraha is born, text: Indians in Johannesburg vow to resist an unfair pass law., article: gandhi-south-africa}
+- {year: 1960, title: Year of Africa, text: Seventeen African countries become independent., article: decolonisation}
+- {year: 1955, title: Bandung Conference, text: Leaders of 29 Asian and African countries meet in Indonesia., article: decolonisation}
+- {year: 1948, title: Apartheid becomes law, text: South Africa's new government begins strict racial separation., article: apartheid}
+- {year: 1994, title: South Africa's first free election, text: "People of all races vote, and Mandela becomes president.", article: apartheid}
+- {year: 1962, title: Katherine Johnson checks Glenn's flight, text: John Glenn orbits Earth after Johnson confirms the numbers by hand., article: moon-race-women}
+- {year: 1804, title: Lewis and Clark set off, text: The Corps of Discovery heads up the Missouri River., article: lewis-clark}
+- {year: 1805, title: Lewis and Clark reach the Pacific, text: The expedition sees the ocean in November., article: lewis-clark}
+- {year: 1848, title: Gold found at Sutter's Mill, text: James Marshall's find starts the California Gold Rush., article: gold-rush}
+- {year: 1869, title: Golden spike, text: America's coast-to-coast railroad is joined in Utah., article: transcontinental-railroad}
+- {year: 1892, title: Ellis Island opens, text: Annie Moore from Ireland is the first immigrant registered., article: ellis-island}
+- {year: 1838, title: Trail of Tears, text: The Cherokee are forced to leave their homeland in the Southeast., article: native-nations}
+- {year: 1620, title: Mayflower crosses the Atlantic, text: 102 passengers sail from England to Cape Cod., article: pilgrims-mayflower}
+- {year: 1861, title: American Civil War begins, text: Confederate guns fire on Fort Sumter in April., article: us-civil-war}
+- {year: 1865, title: Civil War ends, text: Lee surrenders at Appomattox and slavery is abolished that year., article: us-civil-war}
+- {year: 1925, title: The New Negro published, text: Alain Locke's collection gives voice to the Harlem Renaissance., article: harlem-renaissance}
+- {year: 1236, title: Razia becomes sultan, text: Razia takes the throne of the Delhi Sultanate., article: womens-history-india}
+- {year: 1848, title: Savitribai Phule's girls' school, text: Savitribai and Jyotirao Phule open a school for girls in Pune., article: womens-history-india}
+- {year: 1324, title: Mansa Musa's pilgrimage, text: Mali's ruler hands out so much gold in Cairo that its value falls., article: ancient-africa}
+- {year: 1982, title: Drinks machine goes online, text: Students connect a Coca-Cola machine to their university network., article: internet-of-things}
+- {year: 2009, title: First Bitcoin block, text: The Bitcoin blockchain starts on 3 January., article: blockchain}
+- {year: 1988, title: Morris worm, text: A student's program slows thousands of computers on the early internet., article: cybersecurity}
+- {year: 1932, title: Enigma first broken, text: Polish mathematicians crack the German cipher machine., article: encryption}
+- {year: 1976, title: Public-key encryption, text: Diffie and Hellman publish a way to share keys safely., article: encryption}
+- {year: 1962, title: IBM Shoebox, text: A machine that understands 16 spoken words appears at the Seattle World's Fair., article: voice-assistants}
+- {year: 1954, title: First machine translation demo, text: A computer turns about 60 Russian sentences into English., article: translation-apps}
+- {year: 2017, title: Face ID launches, text: Phones start reading faces in 3D with infrared dots., article: face-recognition}
+- {year: 1966, title: ELIZA, text: An early chatbot at MIT pretends to be a therapist., article: chatbots}
+- {year: 2014, title: Generative adversarial networks, text: A new AI design that later powers deepfakes is invented., article: deepfakes}
+- {year: 1968, title: Sword of Damocles, text: Ivan Sutherland builds an early head-mounted display., article: vr-ar}
+- {year: 1993, title: Doom engine, text: Other studios begin licensing the engine behind Doom., article: game-engines}
+- {year: 2011, title: Minecraft released, text: The full version of the block-building game comes out., article: minecraft-coding}
+- {year: 1991, title: Linux announced, text: Linus Torvalds posts about his hobby operating system., article: open-source}

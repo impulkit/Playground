@@ -1,0 +1,34 @@
+NEW|words|akbar-birbal|Who were Akbar and Birbal in the stories?
+NEW|words|tenali-raman|Who was Tenali Raman?
+NEW|words|greek-myths|Who were the Greek gods?
+NEW|words|norse-myths|What are the Norse myths?
+NEW|words|aesop|Who was Aesop?
+NEW|words|fairy-tales|Why are fairy tales so old?
+NEW|words|arabian-nights|What is the Arabian Nights?
+NEW|words|shakespeare|Why is Shakespeare still famous?
+NEW|words|tagore|Who was Rabindranath Tagore?
+NEW|words|premchand|Who was Munshi Premchand?
+NEW|words|rk-narayan|Who was R.K. Narayan?
+NEW|words|ruskin-bond|What makes Ruskin Bond's stories special?
+NEW|words|alice-wonderland|Why is Alice in Wonderland still loved?
+NEW|words|charles-dickens|Who was Charles Dickens?
+NEW|words|mark-twain|Who was Mark Twain?
+NEW|words|dr-seuss|How did Dr. Seuss make reading fun?
+NEW|words|roald-dahl|Why are Roald Dahl's stories so popular?
+NEW|words|poetry|What makes something a poem?
+NEW|words|haiku|What is a haiku?
+NEW|words|libraries|How did libraries begin?
+NEW|words|books-made|How is a book made?
+NEW|words|newspapers|How is a newspaper made?
+NEW|words|storytelling-india|How did India tell stories before books?
+NEW|words|amar-chitra-katha|How did Amar Chitra Katha bring history to comics?
+NEW|words|riddles|Why do people love riddles?
+NEW|words|tongue-twisters|Why are tongue twisters hard to say?
+NEW|words|palindromes|What is a palindrome?
+NEW|words|writing-tools|How did people write before pens?
+NEW|words|paper-invention|Who invented paper?
+NEW|words|ink|How is ink made?
+NEW|words|nobel-literature|What is the Nobel Prize in Literature?
+NEW|words|translation|How do translators work?
+NEW|words|dialects|Why do people from the same country speak differently?
+NEW|words|endangered-languages|What happens when a language disappears?

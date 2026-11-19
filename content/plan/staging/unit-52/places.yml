@@ -1,0 +1,22 @@
+- {name: Saharanpur, lat: 29.97, lon: 77.55, note: One of India's busiest woodcarving towns, article: wood-carving, india: true}
+- {name: Baker Street, lat: 51.5238, lon: -0.1586, note: Home of the Sherlock Holmes Museum at 221B, article: sherlock-holmes}
+- {name: Reichenbach Falls, lat: 46.716, lon: 8.183, note: Where Holmes seemed to fall to his death, article: sherlock-holmes}
+- {name: Versova Beach, lat: 19.135, lon: 72.812, note: Site of a huge volunteer beach clean-up from 2015, article: beach-clean, india: true}
+- {name: Victoria Memorial, lat: 22.5448, lon: 88.3426, note: White marble memorial and museum in Kolkata, article: victoria-memorial, india: true}
+- {name: Basavakalyan, lat: 17.87, lon: 76.95, note: Old Kalyana where Basavanna served as minister, article: basavanna, india: true}
+- {name: Kudalasangama, lat: 16.20, lon: 76.06, note: Where Basavanna studied and is said to have died, article: basavanna, india: true}
+- {name: Palembang, lat: -2.99, lon: 104.76, note: Probable centre of the Srivijaya kingdom, article: srivijaya}
+- {name: Vizhinjam port, lat: 8.375, lon: 76.99, note: Deep-water port where MSC Irina docked in 2025, article: ships-tech, india: true}
+- {name: Narendra Modi Stadium, lat: 23.0917, lon: 72.5975, note: The world's largest cricket stadium, article: stadiums, india: true}
+- {name: Michigan Stadium, lat: 42.2658, lon: -83.7487, note: The Big House, largest stadium in the USA, article: stadiums}
+- {name: Bishnupur, lat: 23.07, lon: 87.32, note: Temples covered in terracotta tiles, article: terracotta, india: true}
+- {name: Terracotta Army, lat: 34.385, lon: 109.273, note: Clay soldiers guarding China's first emperor, article: terracotta}
+- {name: Lothal, lat: 22.52, lon: 72.25, note: Harappan town where an ivory measuring scale was found, article: measurement-india, india: true}
+- {name: Gahirmatha, lat: 20.70, lon: 87.03, note: Mass nesting beach of Olive Ridley turtles, article: turtles-tortoises, india: true}
+- {name: Grand Banks, lat: 45.0, lon: -51.0, note: Rich cod fishing grounds that collapsed by 1992, article: fishing-sustainable}
+- {name: Mysore Palace, lat: 12.3052, lon: 76.6552, note: Lit by about 97,000 bulbs on special evenings, article: mysore-palace, india: true}
+- {name: Nankana Sahib, lat: 31.45, lon: 73.71, note: Birthplace of Guru Nanak, article: guru-nanak}
+- {name: Kartarpur, lat: 32.087, lon: 75.016, note: Where Guru Nanak spent his last years, article: guru-nanak}
+- {name: Enfield, lat: 51.652, lon: -0.081, note: Site of the world's first cash machine in 1967, article: atm-machines}
+- {name: Kondagaon, lat: 19.59, lon: 81.66, note: Famous Dhokra metal-casting centre in Bastar, article: dhokra, india: true}
+- {name: Nantes, lat: 47.218, lon: -1.554, note: Port city where Jules Verne was born, article: jules-verne}

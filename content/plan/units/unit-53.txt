@@ -1,0 +1,34 @@
+NEW|numbers|maths-nature-shells|Why are snail shells spirals?
+NEW|earth|hailstorms-india|Why does India get hailstorms?
+NEW|wild|crocodiles-alligators|How do you tell crocodiles from alligators?
+NEW|space|rocket-fuel|What fuel do rockets use?
+NEW|ocean|ocean-currents-travel|How far can a message in a bottle travel?
+NEW|places|charminar|What is the Charminar?
+NEW|people|jobs-doctor|What does a doctor do all day?
+NEW|how|vending-machines|How does a vending machine know your coin?
+NEW|history|mali-empire|Who was Mansa Musa?
+NEW|tech|telescopes-giant|What are the giant telescopes being built now?
+NEW|pop|mascots|Why do events have mascots?
+NEW|body|stomach-growl|Why does your stomach growl?
+NEW|art|street-theatre|What is street theatre?
+NEW|food|seaweed-food|Do people eat seaweed?
+NEW|words|fantasy-books|What makes fantasy books so popular?
+NEW|numbers|tangrams|What are tangrams?
+NEW|earth|imd|What does the India Meteorological Department do?
+NEW|wild|ants-world|How do ants work together?
+NEW|space|launch-sites|Where do rockets launch from?
+NEW|places|golden-temple|What is the Golden Temple?
+NEW|people|jobs-teacher|What makes a great teacher?
+NEW|how|smoke-alarms|How does a smoke alarm work?
+NEW|history|great-zimbabwe|What was Great Zimbabwe?
+NEW|tech|particle-accelerators|What is a particle accelerator?
+NEW|pop|bollywood-classics|What are some classic Hindi films everyone knows?
+NEW|body|motion-sickness|Why do some people feel sick in cars?
+NEW|art|indian-theatre|What is Indian theatre like?
+NEW|food|insects-food|Do people eat insects?
+NEW|words|adventure-books|What are some great adventure books?
+NEW|numbers|knots-maths|Is there maths in knots?
+NEW|earth|carbon-cycle|What is the carbon cycle?
+NEW|wild|mosquitoes-bite|Why do mosquitoes bite some people more?
+NEW|space|space-weather|What is space weather?
+NEW|places|meenakshi-temple|What is the Meenakshi Temple?

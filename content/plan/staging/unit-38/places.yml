@@ -1,0 +1,23 @@
+- {name: Kolkata, lat: 22.57, lon: 88.36, note: "Where Hicky's Bengal Gazette, India's first newspaper, began in 1780", article: journalism, india: true}
+- {name: Lincoln Memorial, lat: 38.889, lon: -77.050, note: "Where Martin Luther King Jr. gave his I Have a Dream speech", article: speeches-famous}
+- {name: Gettysburg, lat: 39.83, lon: -77.23, note: Where Lincoln gave his two-minute address, article: speeches-famous}
+- {name: "Stamps, Arkansas", lat: 33.36, lon: -93.50, note: Where Maya Angelou spent much of her childhood, article: maya-angelou}
+- {name: Harlem, lat: 40.81, lon: -73.95, note: "Langston Hughes's neighbourhood in New York", article: langston-hughes}
+- {name: Edinburgh, lat: 55.95, lon: -3.19, note: Where the Encyclopaedia Britannica was first published, article: encyclopedias}
+- {name: The Oval, lat: 51.484, lon: -0.115, note: "Where Bradman played his last Test innings in 1948", article: cricket-records}
+- {name: Wankhede Stadium, lat: 18.939, lon: 72.826, note: "Dhoni's World Cup six and Kohli's 50th ODI century", article: ms-dhoni, india: true}
+- {name: Kharagpur, lat: 22.34, lon: 87.32, note: Where MS Dhoni worked as a railway ticket examiner, article: ms-dhoni, india: true}
+- {name: Panipat, lat: 29.39, lon: 76.97, note: "Near Neeraj Chopra's home village, Khandra", article: neeraj-chopra, india: true}
+- {name: Imphal, lat: 24.82, lon: 93.94, note: Where Mary Kom trained and now runs a boxing academy, article: mary-kom, india: true}
+- {name: Hyderabad, lat: 17.39, lon: 78.49, note: "PV Sindhu's home city and badminton base", article: pv-sindhu, india: true}
+- {name: Chennai, lat: 13.08, lon: 80.27, note: "Viswanathan Anand's home city, India's chess capital", article: viswanathan-anand, india: true}
+- {name: Goleshwar, lat: 17.30, lon: 74.18, note: "K. D. Jadhav's village, near Karad in Satara district", article: wrestling-india, india: true}
+- {name: Buddh International Circuit, lat: 28.35, lon: 77.53, note: Hosted the Indian Grand Prix from 2011 to 2013, article: formula-one, india: true}
+- {name: Silverstone, lat: 52.07, lon: -1.02, note: Site of the first Formula One championship race in 1950, article: formula-one}
+- {name: Alpe d'Huez, lat: 45.09, lon: 6.07, note: "The Tour de France's famous climb with 21 hairpin bends", article: cycling-tour}
+- {name: Mount Everest, lat: 27.988, lon: 86.925, note: "Earth's highest mountain above sea level, 8,849 metres", article: mountaineering}
+- {name: Darjeeling, lat: 27.04, lon: 88.26, note: Home of the Himalayan Mountaineering Institute, article: mountaineering, india: true}
+- {name: Sibudu Cave, lat: -29.52, lon: 31.08, note: Stone points that may be the oldest known arrowheads, article: archery}
+- {name: "Springfield, Massachusetts", lat: 42.10, lon: -72.59, note: Where basketball was invented in 1891, article: nba}
+- {name: Rome, lat: 41.93, lon: 12.45, note: "Stadio Olimpico, where Milkha Singh came fourth in 1960", article: milkha-singh}
+- {name: Stanford University, lat: 37.43, lon: -122.17, note: Site of an early video game tournament in 1972, article: esports}

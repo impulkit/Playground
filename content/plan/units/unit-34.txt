@@ -1,0 +1,34 @@
+NEW|tech|smartwatches|How does a smartwatch count your steps?
+NEW|tech|biometrics|What is biometrics?
+NEW|tech|robots-home|What robots do people have at home?
+NEW|tech|ai-art|Can a computer make art?
+NEW|tech|ai-safety|How do we make AI safe and fair?
+NEW|tech|future-transport|How might we travel in 2050?
+NEW|tech|metro-trains|How do metro trains run on time?
+NEW|tech|maglev|How do maglev trains float?
+NEW|tech|vande-bharat|What is the Vande Bharat train?
+NEW|places|india-states-tour|What is special about each of India's regions?
+NEW|places|rajasthan-forts|Why does Rajasthan have so many forts?
+NEW|places|gujarat-rann|What is the Rann of Kutch?
+NEW|places|punjab|What is Punjab known for?
+NEW|places|kashmir|What makes Kashmir special?
+NEW|places|himachal|What is life like in the hills of Himachal?
+NEW|places|uttarakhand|Why is Uttarakhand called the land of gods?
+NEW|places|odisha|What is Odisha famous for?
+NEW|places|tamil-nadu-temples|Why does Tamil Nadu have such tall temple towers?
+NEW|places|karnataka|What is Karnataka known for?
+NEW|places|madhya-pradesh|Why is Madhya Pradesh called the heart of India?
+NEW|places|bihar-history|Why is Bihar so important in Indian history?
+NEW|places|assam-tea|How did Assam become famous for tea?
+NEW|places|meghalaya|What are living root bridges?
+NEW|places|sikkim|How did Sikkim become an organic state?
+NEW|places|lakshadweep|What are the Lakshadweep islands like?
+NEW|places|pune|What is Pune known for?
+NEW|places|ahmedabad|Why is Ahmedabad a World Heritage City?
+NEW|places|amritsar|Why is the Golden Temple's kitchen famous?
+NEW|places|mysuru|What happens at the Mysuru Dasara?
+NEW|places|kochi|How did Kochi become a meeting place of cultures?
+NEW|places|puducherry|Why does Puducherry feel French?
+NEW|places|shillong|Why is Shillong called the Scotland of the East?
+NEW|places|boston|What is Boston known for?
+NEW|places|seattle|What is Seattle known for?

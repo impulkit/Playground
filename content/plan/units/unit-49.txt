@@ -1,0 +1,34 @@
+NEW|places|khajuraho|What are the Khajuraho temples?
+NEW|people|bullying|What should you do about bullying?
+NEW|how|remote-control|How does a TV remote work?
+NEW|history|babylon|What was Babylon?
+NEW|tech|smart-farming|How is technology changing farming?
+NEW|pop|boxing-india|How did Indian boxers become champions?
+NEW|body|sunburn-sunscreen|How does sunscreen protect your skin?
+NEW|art|jamini-roy|Who was Jamini Roy?
+NEW|food|curry-leaves|Why do South Indian dishes use curry leaves?
+NEW|words|buddhist-texts|What are the Buddhist scriptures?
+NEW|numbers|large-numbers-names|What comes after a trillion?
+NEW|earth|groundwater|What is groundwater?
+NEW|wild|leopards-cities|How do leopards live near Mumbai?
+NEW|space|nebulae|What are nebulae?
+NEW|ocean|sea-snakes|What are sea snakes?
+NEW|sky|indian-air-force|What does the Indian Air Force do?
+NEW|lost|neanderthals|Who were the Neanderthals?
+NEW|places|sanchi|What is the Great Stupa at Sanchi?
+NEW|people|sharing-science|Why do humans share?
+NEW|how|touch-lamps|How do touch lamps work?
+NEW|history|hammurabi|What was the Code of Hammurabi?
+NEW|tech|water-tech|How can technology clean water?
+NEW|pop|kabaddi-league|How did the Pro Kabaddi League start?
+NEW|body|hair-colour|Why do people have different hair colours?
+NEW|art|rangoli-art|How is rangoli made?
+NEW|food|mango-varieties|Why does India have so many kinds of mango?
+NEW|words|indian-folk-tales|What are some favourite Indian folk tales?
+NEW|numbers|shapes-3d|What are 3D shapes?
+NEW|earth|soil-types-india|What kinds of soil does India have?
+NEW|wild|wolves-india|Are there wolves in India?
+NEW|space|galaxy-collisions|What happens when galaxies collide?
+NEW|ocean|jellyfish-sting|Why do jellyfish sting?
+NEW|sky|aircraft-carriers|How do planes land on ships?
+NEW|lost|fossils-india|Where are India's best fossil sites?

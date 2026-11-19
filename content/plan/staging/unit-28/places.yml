@@ -1,0 +1,53 @@
+- {name: Maasai Mara National Reserve, lat: -1.49, lon: 35.14, note: Where the Great Migration crosses the Mara River, article: kenya-safari}
+- {name: Nairobi National Park, lat: -1.37, lon: 36.86, note: Lions with a city skyline behind them, article: kenya-safari}
+- {name: Table Mountain, lat: -33.96, lon: 18.40, note: Flat-topped mountain above Cape Town, article: south-africa}
+- {name: Cape Agulhas, lat: -34.83, lon: 20.01, note: The true southern tip of Africa, article: south-africa}
+- {name: Meeting of Waters, lat: -3.14, lon: -59.90, note: Black and brown rivers flow side by side near Manaus, article: brazil-amazon}
+- {name: Mexico City, lat: 19.43, lon: -99.13, note: Built on the old Aztec lake city of Tenochtitlan, article: mexico}
+- {name: Chichén Itzá, lat: 20.68, lon: -88.57, note: Maya city near the Chicxulub crater, article: mexico}
+- {name: Churchill, Manitoba, lat: 58.77, lon: -94.17, note: Polar bears pass through every autumn, article: canada}
+- {name: Uluru, lat: -25.34, lon: 131.04, note: Sacred red rock in central Australia, article: australia}
+- {name: Bharati Station, lat: -69.41, lon: 76.19, note: India's newest Antarctic research station, article: antarctica}
+- {name: Maitri Station, lat: -70.77, lon: 11.73, note: India's Antarctic station since 1989, article: antarctica}
+- {name: Vostok Station, lat: -78.46, lon: 106.84, note: Coldest air temperature ever measured, article: antarctica}
+- {name: Ny-Ålesund, lat: 78.92, lon: 11.93, note: Home of India's Himadri Arctic station, article: arctic}
+- {name: Emi Koussi, lat: 19.79, lon: 18.55, note: Highest point of the Sahara, article: sahara}
+- {name: Tawang Monastery, lat: 27.59, lon: 91.86, note: India's largest monastery, article: himalaya-peoples, india: true}
+- {name: Reni, Uttarakhand, lat: 30.56, lon: 79.75, note: Village where Gaura Devi led the Chipko protest, article: himalaya-peoples, india: true}
+- {name: Lumbini, lat: 27.48, lon: 83.28, note: Birthplace of the Buddha, article: nepal}
+- {name: Kathmandu, lat: 27.71, lon: 85.32, note: Nepal's capital in a valley of temples, article: nepal}
+- {name: Sigiriya, lat: 7.96, lon: 80.76, note: Fifth-century palace on a giant rock, article: sri-lanka}
+- {name: Anuradhapura, lat: 8.34, lon: 80.40, note: Home of the sacred Jaya Sri Maha Bodhi tree, article: sri-lanka}
+- {name: Shaheed Minar, Dhaka, lat: 23.73, lon: 90.40, note: Memorial to the 1952 Language Movement, article: bangladesh}
+- {name: Mohenjo-daro, lat: 27.33, lon: 68.14, note: Great Indus city beside the river in Sindh, article: pakistan-history}
+- {name: Dholavira, lat: 23.89, lon: 70.21, note: Indus city in Gujarat's Rann of Kutch, article: pakistan-history, india: true}
+- {name: Lake Baikal, lat: 53.50, lon: 108.17, note: Deepest lake on Earth, article: russia}
+- {name: Mainz, lat: 50.00, lon: 8.27, note: Where Gutenberg built his printing press, article: germany}
+- {name: Edinburgh Castle, lat: 55.95, lon: -3.20, note: Castle on an extinct volcano in Scotland's capital, article: uk-countries}
+- {name: Giant's Causeway, lat: 55.24, lon: -6.51, note: Six-sided lava columns in Northern Ireland, article: uk-countries}
+- {name: Santorini, lat: 36.40, lon: 25.43, note: Island around a flooded volcanic caldera, article: greece-islands}
+- {name: Þingvellir, lat: 64.26, lon: -21.13, note: Rift valley between two plates and site of the Althing, article: iceland}
+- {name: Great Pyramid of Giza, lat: 29.98, lon: 31.13, note: The only ancient wonder still standing, article: seven-wonders}
+- {name: Petra, lat: 30.32, lon: 35.44, note: Nabataean city carved into sandstone cliffs, article: petra}
+- {name: Angkor Wat, lat: 13.41, lon: 103.87, note: Largest religious monument on Earth, article: angkor-wat}
+- {name: Stonehenge, lat: 51.18, lon: -1.83, note: Stone circle lined up with the solstice Sun, article: stonehenge}
+- {name: Preseli Hills, lat: 51.97, lon: -4.70, note: Source of Stonehenge's bluestones, article: stonehenge}
+- {name: Rano Raraku, lat: -27.12, lon: -109.29, note: Volcanic quarry where the moai were carved, article: easter-island}
+- {name: Royal Observatory Greenwich, lat: 51.48, lon: 0.00, note: Starting line for world time and longitude, article: time-zones}
+- {name: Mirzapur, lat: 25.15, lon: 82.57, note: Near the 82.5° E line used for India Standard Time, article: time-zones, india: true}
+- {name: Chandigarh, lat: 30.73, lon: 76.78, note: Capital of both Punjab and Haryana, article: capitals, india: true}
+- {name: Nuuk, lat: 64.18, lon: -51.72, note: Capital of Greenland, the world's largest island, article: islands-world}
+- {name: Majuli, lat: 26.95, lon: 94.17, note: One of the world's largest river islands, article: islands-world, india: true}
+- {name: Atacama Desert, lat: -23.86, lon: -69.13, note: Driest hot desert on Earth, article: deserts-world}
+- {name: Jaisalmer, lat: 26.92, lon: 70.91, note: Desert city in the Thar, article: deserts-world, india: true}
+- {name: Oymyakon, lat: 63.46, lon: 142.79, note: Village known as the Pole of Cold, article: cold-places}
+- {name: Dras, lat: 34.43, lon: 75.76, note: One of India's coldest towns, article: cold-places, india: true}
+- {name: Furnace Creek, lat: 36.46, lon: -116.87, note: Hottest air temperature officially recorded, article: hot-places}
+- {name: Phalodi, lat: 27.13, lon: 72.36, note: India's hottest recorded temperature, 51 °C, article: hot-places, india: true}
+- {name: Mawsynram, lat: 25.30, lon: 91.58, note: Wettest place by average yearly rain, article: wettest-place, india: true}
+- {name: Cherrapunji, lat: 25.27, lon: 91.73, note: Record for the most rain in one year, article: wettest-place, india: true}
+- {name: Nongriat, lat: 25.25, lon: 91.68, note: Double-decker living root bridge, article: wettest-place, india: true}
+- {name: Sakurajima, lat: 31.58, lon: 130.66, note: Volcano that dusts Kagoshima with ash, article: volcano-cities}
+- {name: Barren Island, lat: 12.28, lon: 93.86, note: India's only active volcano, article: volcano-cities, india: true}
+- {name: Haskell Free Library and Opera House, lat: 45.01, lon: -72.10, note: Library split by the US–Canada border, article: border-crossings}
+- {name: Attari–Wagah border, lat: 31.60, lon: 74.57, note: Sunset flag ceremony between India and Pakistan, article: border-crossings}

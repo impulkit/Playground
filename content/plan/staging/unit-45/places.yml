@@ -1,0 +1,29 @@
+- {name: Lambert Field, lat: 38.75, lon: -90.37, note: Where Archie League directed planes with flags, article: air-traffic}
+- {name: Cochin International Airport, lat: 10.15, lon: 76.40, note: An airport that runs on solar power, article: airports, india: true}
+- {name: Hartsfield-Jackson Atlanta International Airport, lat: 33.64, lon: -84.43, note: The world's busiest airport by passengers, article: airports}
+- {name: Kill Devil Hills, lat: 36.01, lon: -75.67, note: Where the Wright brothers flew their gliders, article: gliders}
+- {name: Gimli, lat: 50.63, lon: -97.05, note: Where an airliner out of fuel glided to safety, article: gliders}
+- {name: El Calafate, lat: -50.34, lon: -72.26, note: Base for the record-breaking Perlan 2 glider flight, article: gliders}
+- {name: Roswell, lat: 33.39, lon: -104.52, note: Where balloon wreckage sparked UFO rumours in 1947, article: weather-balloons}
+- {name: Galápagos Rift, lat: 0.80, lon: -86.22, note: Where deep-sea vent animals were first found, article: deep-sea-vents}
+- {name: Mosquito Bay, lat: 18.10, lon: -65.44, note: One of the brightest glowing bays in the world, article: bioluminescence}
+- {name: Thoothukudi, lat: 8.76, lon: 78.13, note: The Pearl City on the Gulf of Mannar, article: pearls, india: true}
+- {name: Little Rann of Kutch, lat: 23.40, lon: 71.20, note: Salt pans worked by Agariya families, article: salt-pans, india: true}
+- {name: San Francisco Bay salt ponds, lat: 37.50, lon: -122.10, note: Salt ponds coloured red and orange by microbes, article: salt-pans}
+- {name: Lothal, lat: 22.52, lon: 72.25, note: A Harappan brick basin thought by many to be an ancient dock, article: sea-ports, india: true}
+- {name: Vizhinjam, lat: 8.38, lon: 76.99, note: A new deep-water container port in Kerala, article: sea-ports, india: true}
+- {name: Beaufort Inlet, lat: 34.69, lon: -76.67, note: Wreck of Blackbeard's Queen Anne's Revenge, article: pirates}
+- {name: Vasa Museum, lat: 59.328, lon: 18.091, note: Home of the raised warship Vasa, article: shipwrecks}
+- {name: Uluburun, lat: 36.13, lon: 29.68, note: A Bronze Age trading ship wreck, article: shipwrecks}
+- {name: Amboseli National Park, lat: -2.65, lon: 37.26, note: Where vervet monkey alarm calls were studied, article: animal-communication}
+- {name: Serengeti National Park, lat: -2.33, lon: 34.83, note: Route of the great wildebeest migration, article: animal-migration-land}
+- {name: Christmas Island, lat: -10.49, lon: 105.62, note: Tens of millions of red crabs march to the sea, article: animal-migration-land}
+- {name: Sanjay Gandhi National Park, lat: 19.23, lon: 72.91, note: Leopards living inside Mumbai, article: urban-wildlife, india: true}
+- {name: Griffith Park, lat: 34.136, lon: -118.294, note: Home of the mountain lion P-22, article: urban-wildlife}
+- {name: Congress Avenue Bridge, lat: 30.261, lon: -97.745, note: Summer roost of about 1.5 million bats, article: urban-wildlife}
+- {name: Field Museum, lat: 41.866, lon: -87.617, note: Home of Sue the T. rex, article: dino-museums}
+- {name: Indian Statistical Institute, lat: 22.648, lon: 88.377, note: A mounted Barapasaurus skeleton, article: dino-museums, india: true}
+- {name: Shark Bay, lat: -26.40, lon: 114.17, note: Living stromatolites built by microbes, article: first-life}
+- {name: Burgess Shale, lat: 51.43, lon: -116.47, note: Soft-bodied Cambrian animals in the Rocky Mountains, article: cambrian}
+- {name: Chengjiang Fossil Site, lat: 24.67, lon: 102.97, note: A UNESCO site full of early Cambrian animals, article: cambrian}
+- {name: Spiti valley, lat: 32.23, lon: 78.07, note: Cambrian rocks with trilobites high in the Himalaya, article: cambrian, india: true}

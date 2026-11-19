@@ -1,0 +1,34 @@
+NEW|words|code-talkers|Who were the Navajo code talkers?
+NEW|words|anne-frank|Why is Anne Frank's diary important?
+NEW|words|thirukkural|What is the Thirukkural?
+NEW|words|kalidasa|Who was Kalidasa?
+NEW|words|mirabai-kabir|Who were Mirabai and Kabir?
+NEW|words|urdu|How did Urdu develop?
+NEW|words|bengali-renaissance|What was the Bengal Renaissance?
+NEW|pop|football-world|Why is football the world's most popular sport?
+NEW|pop|fifa-world-cup|How did the FIFA World Cup start?
+NEW|pop|basketball|Who invented basketball?
+NEW|pop|american-football|How does American football work?
+NEW|pop|tennis|How did tennis get its strange scoring?
+NEW|pop|badminton|Did badminton begin in India?
+NEW|pop|hockey-india|How did India become a hockey superpower?
+NEW|pop|kabaddi|How is kabaddi played?
+NEW|pop|kho-kho|How is kho-kho played?
+NEW|pop|chess-champions|Who are India's chess champions?
+NEW|pop|cricket-world-cups|What happened at India's World Cup wins?
+NEW|pop|ipl|How did the IPL change cricket?
+NEW|pop|sachin-tendulkar|Why is Sachin Tendulkar called the Little Master?
+NEW|pop|test-cricket|Why can a Test match last five days?
+NEW|pop|womens-cricket|How has women's cricket grown?
+NEW|pop|olympics-india|Who are India's Olympic heroes?
+NEW|pop|paralympics|What are the Paralympics?
+NEW|pop|running-marathon|Why is a marathon 42.195 km?
+NEW|pop|swimming|How do swimmers go so fast?
+NEW|pop|gymnastics|How do gymnasts flip and land?
+NEW|pop|skateboarding|How do skateboard tricks work?
+NEW|pop|sports-science|How does science help athletes?
+NEW|pop|board-games|What are the oldest board games?
+NEW|pop|snakes-ladders|Did Snakes and Ladders begin in India?
+NEW|pop|cards-games|Where did playing cards come from?
+NEW|pop|lego|How did LEGO bricks begin?
+NEW|pop|toys-history|What toys did children play with long ago?

@@ -1,0 +1,228 @@
+# word | meaning   (lines starting with ! are not auto-linked: the word has another common meaning)
+acceleration | How quickly something speeds up or changes speed.
+acid | A substance that tastes sour, like lemon juice or vinegar. Strong acids can burn.
+adaptation | A body part or habit that helps a living thing survive where it lives.
+aerodynamics | The science of how air moves around things like planes, cars and balls.
+algorithm | A list of exact steps for solving a problem. Computers follow algorithms.
+alkali | A substance that is the chemical opposite of an acid, like soap or baking soda.
+amphibian | An animal like a frog or newt that usually starts life in water and later lives on land too.
+amplitude | How big a wave is. For sound, bigger amplitude means louder.
+anaesthesia | Medicine that stops you feeling pain during an operation.
+anatomy | The study of how bodies are built, inside and out.
+ancestor | A person or animal from long ago that you are descended from.
+antibiotic | A medicine that kills bacteria or stops them growing. It does not work on viruses.
+aqueduct | A bridge or channel built to carry water over long distances.
+archaeology | The study of the past by digging up and examining old objects and buildings.
+architecture | The art and science of designing buildings.
+artery | A tube that carries blood away from the heart to the rest of the body.
+astronomer | A scientist who studies stars, planets and space.
+atmospheric pressure | The weight of the air pressing down on everything around us.
+autobiography | A book a person writes about their own life.
+bacterium | A single living cell, too small to see, that can be helpful or cause illness.
+barometer | An instrument that measures air pressure, used to forecast weather.
+biography | The story of a real person's life, written by someone else.
+biologist | A scientist who studies living things.
+botanist | A scientist who studies plants.
+calligraphy | The art of beautiful handwriting.
+calorie | A unit for measuring the energy stored in food.
+canopy | The top layer of a forest, where the treetops meet.
+carbohydrate | A food nutrient, found in rice, bread and sugar, that gives you energy.
+carbon dioxide | A gas we breathe out. Plants take it in to make food.
+carnivore | An animal that eats mostly meat.
+catalyst | Something that speeds up a chemical reaction without being used up.
+census | An official count of all the people in a country.
+centrifugal | Describes the outward push you feel when going round in a circle.
+circuit | A complete loop that electricity can flow around.
+citizen | A person who belongs to a country and has rights there.
+civilisation | A large, organised society with cities, laws, writing and trade.
+classify | To sort things into groups by what they have in common.
+colonial | To do with a time when one country ruled another country far away.
+comet | A ball of ice and dust from the edge of the solar system that grows a glowing tail near the Sun.
+compound | A substance made of two or more elements joined together, like water.
+conductor | A material that lets heat or electricity pass through easily, like copper.
+constellation | A group of stars that people imagine as a picture in the sky.
+constitution | The set of basic rules that says how a country is run.
+contaminate | To make something dirty or harmful by adding something unwanted.
+continent | One of the seven huge areas of land on Earth, like Asia or Africa.
+cornea | The clear front window of your eye.
+crust | The thin, rocky outer layer of the Earth.
+currency | The kind of money a country uses, like the rupee or the dollar.
+cyclone | A huge spinning storm. Near India it is called a cyclone.
+decimal | A way of writing parts of a whole using a dot, like 0.5 for a half.
+deforestation | Cutting down large areas of forest.
+democracy | A way of running a country where people choose leaders by voting.
+descendant | A person or animal that comes after an ancestor, like a grandchild.
+diameter | A straight line across a circle through its middle.
+digestion | How your body breaks food down so it can use it.
+dissolve | When a solid mixes into a liquid and seems to disappear, like sugar in tea.
+distillation | Boiling a liquid and cooling the steam to make it purer.
+DNA | The chemical code inside every cell that carries instructions for how a living thing grows.
+drought | A long time with much less rain than usual.
+ecosystem | All the living things in a place and how they depend on each other.
+eclipse | When the Moon blocks the Sun, or the Earth's shadow falls on the Moon.
+economy | How a country makes, buys and sells things and earns money.
+element | A pure substance made of only one kind of atom, like gold or oxygen.
+embroidery | Decorating cloth by sewing patterns with thread.
+emperor | A ruler of an empire, usually more powerful than a king.
+empire | A group of countries or lands ruled by one ruler or country.
+endurance | The ability to keep going for a long time.
+engineer | A person who designs and builds machines, bridges or other structures.
+equator | An imaginary line around the middle of the Earth, halfway between the poles.
+equinox | One of two days each year when day and night are about the same length.
+erosion | Wearing away of rock and soil by water, wind or ice.
+estuary | Where a river meets the sea and fresh water mixes with salt water.
+evolve | To change slowly over many generations.
+exoplanet | A planet that goes round a star other than our Sun.
+expedition | A long journey made for a special purpose, like exploring.
+export | To sell goods to another country.
+famine | A time when there is not enough food for many people.
+fermentation | When tiny living things like yeast change sugars into gas, acid or alcohol.
+fertile | Good for growing plants or for having young.
+fertiliser | Something added to soil to help plants grow.
+folklore | Old stories, beliefs and customs passed down by word of mouth.
+fortress | A big building with strong walls, built to protect people from attack.
+friction | A force that slows things down when they rub against each other.
+galaxy | A huge group of billions of stars held together by gravity.
+geologist | A scientist who studies rocks and how the Earth is made.
+geometry | The part of maths about shapes, sizes and angles.
+germ | A tiny living thing, like a bacterium or virus, that can make you ill.
+habitat | The natural home of an animal or plant.
+hemisphere | Half of the Earth, cut along the equator or from pole to pole.
+herbivore | An animal that eats only plants.
+hieroglyphs | Picture symbols used for writing in ancient Egypt.
+humidity | How much water vapour is in the air.
+hurricane | A huge spinning storm over the Atlantic Ocean.
+hydroelectric | Making electricity using the power of flowing water.
+hypothesis | A smart guess that scientists test with experiments.
+immune system | The body's defence team that fights germs.
+import | To buy goods from another country.
+inertia | The way an object keeps doing what it is doing until a force changes it.
+infection | When germs get into the body and start to multiply.
+inherit | To get something from a parent, like eye colour or a house.
+inscription | Words carved or written on stone, metal or another hard surface.
+insulator | A material that stops heat or electricity passing through easily, like plastic.
+invertebrate | An animal without a backbone, like an insect or a worm.
+irrigation | Bringing water to fields through pipes, channels or sprinklers.
+isotope | One of the forms of an element whose atoms have different weights.
+kinetic energy | The energy something has because it is moving.
+larva | The young form of an insect, like a caterpillar, before it changes into an adult.
+lens | A curved piece of glass or plastic that bends light, used in glasses and cameras.
+lever | A bar that turns on a fixed point to help lift or move things.
+ligament | A strong band that holds bones together at a joint.
+mammoth | A large, hairy relative of the elephant that died out thousands of years ago.
+manuscript | A book or document written by hand.
+mausoleum | A large, grand building made as a tomb.
+medieval | From the Middle Ages, roughly the years 500 to 1500.
+metaphor | Describing something as if it were something else, like "the classroom was a zoo".
+meteor | A space rock burning up in Earth's air, seen as a shooting star.
+meteorite | A space rock that lands on the ground.
+microorganism | A living thing too small to see without a microscope.
+microscope | An instrument that makes tiny things look much bigger.
+migration | When animals travel a long way, often every year, to find food or a place to breed.
+monarchy | A country ruled by a king or queen.
+monastery | A place where monks live, pray and study.
+monsoon | Seasonal winds that bring heavy rain, especially to South Asia in summer.
+mosaic | A picture made from many small pieces of stone, glass or tile.
+mummy | A body preserved after death, often by drying it and wrapping it.
+mutation | A change in the DNA code of a living thing.
+mythology | A collection of old stories about gods, heroes and how the world began.
+navigation | Finding your way from one place to another.
+nocturnal | Active at night and asleep during the day.
+nucleus | The centre of an atom, or the control centre of a cell.
+nutrition | The food your body needs to grow and stay healthy.
+oasis | A green place in a desert where there is water.
+observatory | A building with telescopes for studying the sky.
+omnivore | An animal that eats both plants and meat.
+organism | Any living thing, from a bacterium to a blue whale.
+oxygen | A gas in the air that people and animals need to breathe.
+paleontologist | A scientist who studies fossils to learn about ancient life.
+pandemic | An outbreak of a disease that spreads across many countries.
+parliament | The group of elected people who make a country's laws.
+partition | Dividing something into parts, like a country split into two.
+pendulum | A weight that swings back and forth from a fixed point.
+peninsula | Land with water on three sides.
+percentage | A part of a hundred. 50 per cent means half.
+pesticide | A chemical used to kill insects or pests that harm crops.
+philosophy | Thinking carefully about big questions, like what is right and what is true.
+pilgrimage | A journey to a holy place.
+pitch | How high or low a sound is.
+pixel | One of the tiny dots of colour that make up a picture on a screen.
+pollination | Moving pollen from one flower to another so seeds can form.
+pollution | Harmful things like smoke, plastic or chemicals that dirty air, water or land.
+potential energy | Energy stored in something because of its position or shape.
+precipitation | Water falling from the sky as rain, snow, sleet or hail.
+prehistoric | From the time before people wrote things down.
+prism | A clear, angled block that splits white light into a rainbow.
+probability | How likely something is to happen.
+propeller | Spinning blades that push a boat or plane forward.
+proton | A tiny particle with a positive charge, found in the centre of an atom.
+proverb | A short, well-known saying that gives advice.
+pulley | A wheel with a rope around it, used to lift heavy things more easily.
+pupa | The stage between larva and adult, when an insect changes inside a case.
+pyramid | A shape or building with a square base and triangle sides meeting at a point.
+quarantine | Keeping people or animals apart for a while so a disease does not spread.
+raga | A set of notes and rules that Indian classical music is built on.
+rainforest | A thick forest in a hot, wet place with rain almost every day.
+recycle | To turn used things into new things instead of throwing them away.
+renewable | Energy, like sunlight or wind, that does not run out.
+republic | A country with an elected leader instead of a king or queen.
+reservoir | A large lake, often made by a dam, used to store water.
+revolution | A big, sudden change, often when people overthrow a government.
+rhythm | A regular pattern of beats in music, poetry or movement.
+ritual | Actions done in the same way every time, often as part of a religion or ceremony.
+rover | A robot vehicle that drives around on another planet or moon.
+saliva | The watery liquid in your mouth that helps you swallow and digest food.
+sanctuary | A safe place, especially one where wild animals are protected.
+scripture | Holy writings of a religion.
+sculpture | Art made by carving, shaping or building, like a statue.
+simile | Comparing two things using "like" or "as", such as "brave as a lion".
+skeleton | The frame of bones that holds up a body.
+solar system | The Sun and everything that goes around it: planets, moons, asteroids and comets.
+spectrum | All the colours of light, from red to violet, in order.
+stamina | The strength to keep doing something hard for a long time.
+statistics | Collecting numbers and studying them to find out what they show.
+subcontinent | A large part of a continent, like India and its neighbours.
+supernova | The huge explosion of a star at the end of its life.
+surgeon | A doctor who does operations.
+sustainable | Able to keep going without harming the planet or using things up.
+syllable | One beat of sound in a word. "Elephant" has three.
+symmetry | When one half of something is a mirror image of the other half.
+symptom | A sign of illness, like a cough or a fever.
+technology | Tools and machines people invent to solve problems.
+tectonic plates | Huge slabs of rock that make up Earth's surface and slowly move.
+telegraph | An old way of sending messages along wires using coded electric pulses.
+telescope | An instrument that makes faraway things look closer.
+temperature | How hot or cold something is.
+tendon | A tough cord that joins a muscle to a bone.
+tentacle | A long, bendy arm on animals like the octopus and jellyfish.
+territory | An area that an animal or a country claims as its own.
+textile | Cloth or fabric made by weaving, knitting or knotting threads.
+tissue | A group of similar cells working together, like muscle.
+tournament | A competition with many matches to find a winner.
+tributary | A smaller river that flows into a bigger one.
+tropical | From the hot regions near the equator.
+tsunami | A series of giant sea waves, often caused by an undersea earthquake.
+tundra | A cold, treeless land where the ground below stays frozen.
+ultrasound | Sound too high for humans to hear, also used to see inside the body.
+vein | A tube that carries blood back to the heart.
+velocity | Speed in a particular direction.
+vertebrate | An animal with a backbone, like a fish, bird or human.
+vibration | A quick back-and-forth shaking movement.
+vitamin | A substance in food your body needs in small amounts to stay healthy.
+volume | How much space something takes up, or how loud a sound is.
+weaving | Making cloth by crossing threads over and under each other.
+!organ | A body part with a special job, like the heart or lungs.
+!pupil | The dark hole in the middle of your eye that lets light in.
+!iris | The coloured ring of your eye around the pupil.
+!current | A flow of water, air or electricity in one direction.
+!charge | An amount of electricity carried by something.
+!solution | A liquid with something dissolved in it, like salt water.
+!fraction | A part of a whole, like a half or a quarter.
+!force | A push or a pull.
+!energy | The power to make things move, heat up or change.
+!mass | How much stuff something is made of.
+!matter | Anything that takes up space and has weight.
+!nerve | A thread-like path that carries messages between the brain and body.
+!dome | A rounded roof shaped like half a ball.
+!arch | A curved structure that holds up weight above an opening.
+!dynasty | A family that rules a country for a long time.

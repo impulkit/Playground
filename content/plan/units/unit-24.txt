@@ -1,0 +1,34 @@
+NEW|history|subhas-bose|Who was Subhas Chandra Bose?
+NEW|history|nehru|Who was Jawaharlal Nehru?
+NEW|history|ambedkar|Who was B.R. Ambedkar?
+NEW|history|sardar-patel|How did Sardar Patel unite India?
+NEW|history|sarojini-naidu|Who was Sarojini Naidu?
+NEW|history|partition|What was the Partition of India?
+NEW|history|american-revolution|Why did America fight for independence?
+NEW|history|george-washington|Who was George Washington?
+NEW|history|abraham-lincoln|Who was Abraham Lincoln?
+NEW|history|slavery-freedom|How did slavery end in the USA?
+NEW|history|civil-rights|What was the civil rights movement?
+NEW|history|martin-luther-king|Who was Martin Luther King Jr.?
+NEW|history|rosa-parks|What did Rosa Parks do?
+NEW|history|harriet-tubman|Who was Harriet Tubman?
+NEW|history|statue-of-unity|What is the Statue of Unity?
+NEW|history|industrial-revolution|What was the Industrial Revolution?
+NEW|history|world-war-one|What was the First World War?
+NEW|history|world-war-two|What was the Second World War?
+NEW|history|united-nations|Why was the United Nations created?
+NEW|history|cold-war|What was the Cold War?
+NEW|history|space-race|What was the space race?
+NEW|history|berlin-wall|Why was the Berlin Wall built and torn down?
+NEW|history|nelson-mandela|Who was Nelson Mandela?
+NEW|history|womens-vote|How did women win the right to vote?
+NEW|history|green-revolution|How did India grow enough food?
+NEW|history|white-revolution|How did India become the world's top milk producer?
+NEW|history|archaeology|How do archaeologists know what happened long ago?
+NEW|history|history-sources|How do historians know what's true?
+NEW|history|lost-cities|Which famous cities were lost and found?
+NEW|history|pompeii|What happened at Pompeii?
+NEW|history|great-libraries|What happened to the Library of Alexandria?
+NEW|history|explorers-poles|Who reached the North and South Poles first?
+NEW|history|everest-first|Who first climbed Mount Everest?
+NEW|people|government-how|What does a government do?

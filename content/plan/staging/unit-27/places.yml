@@ -1,0 +1,43 @@
+- {name: Badwater Basin, lat: 36.23, lon: -116.77, note: Lowest point in North America, article: usa-geography}
+- {name: Qutb Minar, lat: 28.524, lon: 77.185, note: Tower begun around 1199, article: delhi, india: true}
+- {name: Red Fort, lat: 28.656, lon: 77.241, note: Shah Jahan's palace-fort, article: delhi, india: true}
+- {name: Chhatrapati Shivaji Terminus, lat: 18.940, lon: 72.835, note: Railway station finished in 1888, article: mumbai, india: true}
+- {name: Howrah Bridge, lat: 22.585, lon: 88.347, note: Riveted cantilever bridge over the Hooghly, article: kolkata, india: true}
+- {name: Fort St George, lat: 13.080, lon: 80.287, note: English fort built in 1640, article: chennai, india: true}
+- {name: Lalbagh, lat: 12.951, lon: 77.585, note: Garden on 3000-million-year-old rock, article: bengaluru, india: true}
+- {name: Charminar, lat: 17.3616, lon: 78.4747, note: Four-minaret monument of 1591, article: hyderabad, india: true}
+- {name: Golconda Fort, lat: 17.383, lon: 78.401, note: Old fort and diamond market, article: hyderabad, india: true}
+- {name: Hawa Mahal, lat: 26.924, lon: 75.827, note: Palace of Winds, article: jaipur, india: true}
+- {name: Jantar Mantar Jaipur, lat: 26.925, lon: 75.824, note: Stone astronomical instruments, article: jaipur, india: true}
+- {name: Dashashwamedh Ghat, lat: 25.307, lon: 83.011, note: Ganga Aarti every evening, article: varanasi, india: true}
+- {name: Sarnath, lat: 25.381, lon: 83.024, note: Where the Buddha first taught, article: varanasi, india: true}
+- {name: Vembanad Lake, lat: 9.6, lon: 76.4, note: Largest lake of Kerala's backwaters, article: kerala, india: true}
+- {name: Leh, lat: 34.164, lon: 77.585, note: Main town of Ladakh about 3500 m up, article: ladakh, india: true}
+- {name: Pangong Tso, lat: 33.75, lon: 78.67, note: High salty lake shared with Tibet, article: ladakh, india: true}
+- {name: Mawsynram, lat: 25.297, lon: 91.583, note: One of the wettest places on Earth, article: northeast-india, india: true}
+- {name: Kaziranga National Park, lat: 26.58, lon: 93.17, note: Home of the one-horned rhino, article: northeast-india, india: true}
+- {name: Basilica of Bom Jesus, lat: 15.501, lon: 73.912, note: Church finished in 1605, article: goa, india: true}
+- {name: Cellular Jail, lat: 11.675, lon: 92.748, note: Prison completed in 1906, article: andaman, india: true}
+- {name: Barren Island, lat: 12.28, lon: 93.86, note: India's only active volcano, article: andaman, india: true}
+- {name: Ellis Island, lat: 40.699, lon: -74.039, note: Immigration station from 1892 to 1954, article: new-york}
+- {name: Washington Monument, lat: 38.8895, lon: -77.0353, note: Two-toned stone obelisk, article: washington-dc}
+- {name: Willis Tower, lat: 41.8789, lon: -87.6359, note: World's tallest building from 1973 to 1998, article: chicago}
+- {name: Golden Gate Bridge, lat: 37.8199, lon: -122.4783, note: Opened in 1937, article: san-francisco}
+- {name: La Brea Tar Pits, lat: 34.063, lon: -118.356, note: Ice Age fossils in the city, article: los-angeles}
+- {name: Spindletop, lat: 30.02, lon: -94.08, note: Oil gusher of 1901, article: texas}
+- {name: Utqiagvik, lat: 71.29, lon: -156.79, note: Northernmost town in the USA, article: alaska}
+- {name: Denali, lat: 63.069, lon: -151.007, note: Highest peak in North America, article: alaska}
+- {name: Horseshoe Falls, lat: 43.077, lon: -79.076, note: Largest of the three Niagara falls, article: niagara-falls}
+- {name: Mount Rushmore, lat: 43.879, lon: -103.459, note: Carved from 1927 to 1941, article: mount-rushmore}
+- {name: Tower of London, lat: 51.508, lon: -0.076, note: Castle begun by William the Conqueror, article: london}
+- {name: Royal Observatory Greenwich, lat: 51.477, lon: -0.0015, note: Longitude 0 degrees, article: london}
+- {name: Eiffel Tower, lat: 48.8584, lon: 2.2945, note: Built for the 1889 world fair, article: paris}
+- {name: Pantheon, lat: 41.8986, lon: 12.4769, note: Ancient concrete dome, article: rome-city}
+- {name: Colosseum, lat: 41.8902, lon: 12.4922, note: Opened in 80 CE, article: rome-city}
+- {name: Rialto Bridge, lat: 45.438, lon: 12.336, note: Stone bridge of 1591, article: venice}
+- {name: Shinjuku Station, lat: 35.690, lon: 139.700, note: Busiest station in the world, article: tokyo}
+- {name: Todai-ji, lat: 34.689, lon: 135.840, note: Temple of the Great Buddha in Nara, article: japan-culture}
+- {name: Gardens by the Bay, lat: 1.2816, lon: 103.8636, note: Supertrees and glass domes, article: singapore}
+- {name: Burj Khalifa, lat: 25.1972, lon: 55.2744, note: Tallest building in the world, article: dubai}
+- {name: Abu Simbel, lat: 22.336, lon: 31.626, note: Temples moved higher in the 1960s, article: egypt-nile}
+- {name: Aswan High Dam, lat: 23.97, lon: 32.88, note: Finished in 1970, article: egypt-nile}

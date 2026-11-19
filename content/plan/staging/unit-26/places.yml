@@ -1,0 +1,33 @@
+- {name: Abu Simbel, lat: 22.337, lon: 31.626, note: Temples moved uphill to escape a dam lake, article: unesco-sites}
+- {name: Olympia, lat: 37.638, lon: 21.630, note: Home of the ancient Olympic Games and the Olympic truce, article: olympics-peace}
+- {name: Oslo City Hall, lat: 59.912, lon: 10.734, note: Where the Nobel Peace Prize is presented, article: nobel-peace}
+- {name: Mingora, lat: 34.776, lon: 72.361, note: Malala's home town in the Swat Valley, article: malala}
+- {name: Vidisha, lat: 23.525, lon: 77.806, note: Birthplace of Kailash Satyarthi, article: kailash-satyarthi, india: true}
+- {name: Nirmal Hriday, lat: 22.521, lon: 88.342, note: Mother Teresa's home for the dying beside Kalighat, article: mother-teresa, india: true}
+- {name: Skopje, lat: 41.998, lon: 21.425, note: Birthplace of Mother Teresa, article: mother-teresa}
+- {name: Yosemite Valley, lat: 37.745, lon: -119.593, note: Valley John Muir campaigned to protect, article: environment-heroes}
+- {name: Majuli, lat: 26.95, lon: 94.17, note: River island region of the Brahmaputra near Jadav Payeng's forest, article: environment-heroes, india: true}
+- {name: Reni (Raini), lat: 30.50, lon: 79.73, note: Village where Gaura Devi and other women stopped loggers in 1974, article: chipko, india: true}
+- {name: Nyeri, lat: -0.42, lon: 36.95, note: Wangari Maathai's home region in Kenya's highlands, article: wangari-maathai}
+- {name: Uhuru Park, lat: -1.290, lon: 36.817, note: Park Maathai saved from a skyscraper, article: wangari-maathai}
+- {name: US Capitol, lat: 38.8899, lon: -77.0091, note: Site of the 1990 Capitol Crawl for disability rights, article: disabilities-inclusion}
+- {name: Palais de Chaillot, lat: 48.862, lon: 2.288, note: Where the UN adopted the Universal Declaration of Human Rights, article: human-rights}
+- {name: McLeod Ganj, lat: 32.243, lon: 76.321, note: Home of a large Tibetan refugee community, article: refugees, india: true}
+- {name: White House, lat: 38.8977, lon: -77.0365, note: Home and office of the US president, article: elections-usa}
+- {name: Supreme Court of India, lat: 28.6223, lon: 77.2397, note: "India's highest court, in New Delhi", article: supreme-courts, india: true}
+- {name: Supreme Court of the United States, lat: 38.8906, lon: -77.0044, note: America's highest court, article: supreme-courts}
+- {name: Vatican City, lat: 41.904, lon: 12.453, note: The world's smallest country, article: countries-how-many}
+- {name: Indira Point, lat: 6.75, lon: 93.84, note: India's southernmost point, article: india-geography, india: true}
+- {name: Kanyakumari, lat: 8.08, lon: 77.54, note: Southern tip of mainland India, article: india-geography, india: true}
+- {name: Kuttanad, lat: 9.43, lon: 76.42, note: Farmland below sea level in Kerala, article: india-geography, india: true}
+- {name: Attari–Wagah border, lat: 31.605, lon: 74.573, note: Border crossing with a daily flag ceremony, article: borders-why, india: true}
+- {name: Chand Baori, lat: 27.007, lon: 76.607, note: "Stepwell with about 3,500 steps", article: desert-life, india: true}
+- {name: Dholavira, lat: 23.887, lon: 70.213, note: Harappan city with giant reservoirs, article: indus-cities, india: true}
+- {name: Mohenjo-daro, lat: 27.329, lon: 68.139, note: Great Indus city with covered drains, article: indus-cities}
+- {name: Badaling, lat: 40.359, lon: 116.020, note: Most visited section of the Great Wall, article: great-wall}
+- {name: Giza pyramids, lat: 29.979, lon: 31.134, note: Great Pyramid of Khufu, article: pyramids}
+- {name: Muziris (Pattanam), lat: 10.155, lon: 76.207, note: Ancient pepper port on the Kerala coast, article: trade-routes, india: true}
+- {name: Independence Hall, lat: 39.949, lon: -75.150, note: Where the US Constitution was written, article: us-constitution}
+- {name: Tashigang, lat: 32.07, lon: 78.60, note: One of the world's highest polling stations, article: vote-how, india: true}
+- {name: Yellowstone, lat: 44.43, lon: -110.59, note: The world's first national park, article: national-parks}
+- {name: Jim Corbett National Park, lat: 29.53, lon: 78.77, note: India's first national park, article: national-parks, india: true}

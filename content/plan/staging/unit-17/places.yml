@@ -1,0 +1,26 @@
+- {name: Dahanu, lat: 19.97, lon: 72.73, note: Heartland of Warli painting, article: warli, india: true}
+- {name: Thanjavur, lat: 10.78, lon: 79.13, note: Home of Tanjore painting and the Big Temple, article: tanjore-painting, india: true}
+- {name: Brihadeeswarar Temple, lat: 10.783, lon: 79.132, note: Chola temple completed about 1010 CE, article: architecture-temples, india: true}
+- {name: Kilimanoor, lat: 8.77, lon: 76.88, note: Birthplace of Raja Ravi Varma, article: raja-ravi-varma, india: true}
+- {name: National Gallery of Modern Art, lat: 28.610, lon: 77.234, note: Holds most of Amrita Sher-Gil's paintings, article: amrita-sher-gil, india: true}
+- {name: Pandharpur, lat: 17.68, lon: 75.33, note: Birthplace of M.F. Husain, article: mf-husain, india: true}
+- {name: Vinci, lat: 43.79, lon: 10.93, note: Leonardo's home town, article: leonardo}
+- {name: Louvre, lat: 48.861, lon: 2.336, note: Home of the Mona Lisa, article: mona-lisa}
+- {name: Van Gogh Museum, lat: 52.358, lon: 4.881, note: Largest collection of van Gogh's work, article: van-gogh}
+- {name: Museo Reina Sofía, lat: 40.408, lon: -3.694, note: Where Guernica hangs, article: picasso}
+- {name: Casa Azul, lat: 19.355, lon: -99.163, note: Frida Kahlo's Blue House, article: frida-kahlo}
+- {name: Sistine Chapel, lat: 41.903, lon: 12.454, note: Michelangelo's painted ceiling, article: michelangelo}
+- {name: Giverny, lat: 49.08, lon: 1.53, note: Monet's water-lily garden, article: impressionism}
+- {name: Shravanabelagola, lat: 12.86, lon: 76.48, note: The 17 m Gommateshwara statue, article: sculpture, india: true}
+- {name: Swamimalai, lat: 10.96, lon: 79.33, note: Bronze casters still use lost wax, article: bronze-casting, india: true}
+- {name: Bagru, lat: 26.81, lon: 75.54, note: Village of dabu block printing, article: block-printing, india: true}
+- {name: Patan, lat: 23.85, lon: 72.13, note: Home of double-ikat Patola weaving, article: weaving-saree, india: true}
+- {name: Konark Sun Temple, lat: 19.888, lon: 86.095, note: Stone chariot of the Sun god, article: konark, india: true}
+- {name: Kailasa Temple, lat: 20.024, lon: 75.179, note: Temple carved from one rock, article: ellora-kailasa, india: true}
+- {name: Cologne Cathedral, lat: 50.941, lon: 6.958, note: Took over 600 years to finish, article: gothic-cathedrals}
+- {name: Eiffel Tower, lat: 48.858, lon: 2.294, note: Built for the 1889 World's Fair, article: eiffel-tower}
+- {name: Chandigarh Capitol Complex, lat: 30.759, lon: 76.807, note: Le Corbusier's government buildings, article: modern-architecture, india: true}
+- {name: Theatre of Epidaurus, lat: 37.596, lon: 23.079, note: Ancient theatre famous for its sound, article: theatre}
+- {name: East Side Gallery, lat: 52.505, lon: 13.440, note: Murals on the Berlin Wall, article: street-art}
+- {name: Lodhi Art District, lat: 28.587, lon: 77.222, note: Giant murals in a Delhi colony, article: street-art, india: true}
+- {name: National Institute of Design, lat: 23.017, lon: 72.567, note: India's first national design school, article: design-everyday, india: true}

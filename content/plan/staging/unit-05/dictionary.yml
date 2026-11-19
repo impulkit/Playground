@@ -1,0 +1,10 @@
+- {id: atmosphere, word: atmosphere, meaning: "The layer of gases that surrounds a planet, held in place by its gravity. Earth's atmosphere is the air we breathe.", see: mars-sky}
+- {id: nebula, word: nebula, meaning: "A huge cloud of gas and dust in space. New stars are born inside some nebulas.", see: stars-born}
+- {id: fusion, word: fusion, meaning: "When tiny atoms are squeezed together so hard that they join into a bigger atom, giving out a lot of energy. It is what makes stars shine.", see: sun-what}
+- {id: infrared, word: infrared, meaning: "A kind of light just beyond red that our eyes can't see. We feel some of it as warmth.", see: webb-telescope}
+- {id: carcass, word: carcass, meaning: "The dead body of an animal.", see: vultures-india}
+- {id: nectar, word: nectar, meaning: "A sweet, sugary liquid made by flowers. It attracts birds, bees and other animals that carry pollen from flower to flower.", see: hummingbirds}
+- {id: torpor, word: torpor, meaning: "A deep, cold sleep in which an animal's body temperature and heartbeat drop to save energy, usually for a night or a few days.", see: hummingbirds}
+- {id: syrinx, word: syrinx, meaning: "The voice box of a bird. It sits deep in the chest, where the windpipe splits to go into the two lungs.", see: parrots-talk}
+- {id: rotor, word: rotor, meaning: "The spinning part of a machine. On a helicopter, the rotor is the set of long blades that whirl round to lift it.", see: helicopters}
+- {id: vortex, word: vortex, meaning: "A spinning whirl of air or water, like a whirlpool or the swirl of water going down a drain.", see: seeds-fly}
