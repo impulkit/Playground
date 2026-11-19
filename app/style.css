@@ -1015,3 +1015,14 @@ body:has(#sheet:not([hidden])) #toast { bottom: auto; top: calc(10px + env(safe-
 body[data-screen="article"] .coach { bottom: calc(150px + env(safe-area-inset-bottom, 0px)); }
 /* You: readable width on iPad and desktop, like Settings */
 @media (min-width: 900px) { body[data-screen="library"] #view .screen { max-width: 720px; margin-inline: auto; } }
+
+/* daily email sign-up */
+.mail-card { margin: 16px 16px 4px; text-align: left; }
+.mail-card b { font-size: 20px; }
+.mail-card p { margin: 0; color: var(--label2); }
+.mail-card.done { grid-template-columns: 28px 1fr; align-items: start; }
+.mail-card.done svg { width: 24px; height: 24px; color: var(--tint); grid-row: span 2; }
+.mail-form { display: flex; gap: 8px; margin-top: 4px; }
+.mail-form input[type=email] { flex: 1; min-width: 0; min-height: 50px; padding: 0 16px; border-radius: 14px; border: 0; background: var(--fill); color: var(--label); font-size: 17px; }
+.mail-form .hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.mail-err { color: var(--bad); }

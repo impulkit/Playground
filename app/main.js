@@ -781,6 +781,20 @@ function navTip() {
   $("button", d).onclick = close; d.onclick = (e) => { if (e.target === d) close(); };
 }
 /* In the News: one big why from the day's news, the cover story of Today (App Store "Today" card) and its own tab */
+/* ---------------- DAILY EMAIL: sign-ups go to a Google Sheet script (docs/email-sheet.gs) that mails each morning's story ---------------- */
+const EMAIL_URL = ""; /* the /exec URL of the deployed email-sheet.gs web app; the sign-up card stays hidden until it is set */
+const Mail = {
+  card() { if (!EMAIL_URL) return "";
+    if (Store.s.mail) return `<section class="card mail-card done">${ICON.news}<b>Signed up</b><p><span>Each morning’s story goes to</span> <span class="no-tr">${esc(Store.s.mail)}</span></p></section>`;
+    return `<section class="card mail-card"><b>Get it by email every morning</b><p>One big story, explained simply, before your day starts. Free. Unsubscribe any time.</p>
+      <form class="mail-form" data-mail-form novalidate><label class="sr" for="mail-in">Email address</label><input id="mail-in" type="email" inputmode="email" autocomplete="email" placeholder="you@example.com" required><input class="hp" name="hp" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn tint" type="submit">Sign up</button></form><small class="mail-err" hidden>Please check the email address.</small></section>`; },
+  bind(el) { const f = el.querySelector("[data-mail-form]"); if (!f) return;
+    f.onsubmit = (ev) => { ev.preventDefault(); const v = f.querySelector("#mail-in").value.trim(), err = el.querySelector(".mail-err");
+      if (!/^[^\s@]+@[^\s@]+\.[a-z]{2,}$/i.test(v)) { err.hidden = false; return; }
+      const body = new URLSearchParams({ email: v, lang: (typeof LANG === "object" && LANG.code === "hi") ? "hi" : "en", hp: f.querySelector(".hp").value });
+      try { fetch(EMAIL_URL, { method: "POST", body, mode: "no-cors" }).catch(() => {}); } catch (e) {}
+      Store.s.mail = v; Store.save(); toast("Signed up. Check your inbox"); render("tab"); }; }
+};
 const Daily = {
   all() { return NODES.filter(n => n.dt && n.dt <= dayKeyISO()).sort((a, b) => b.dt < a.dt ? -1 : b.dt > a.dt ? 1 : 0); },
   day(dt, opt) { return new Date(dt + "T12:00:00").toLocaleDateString(LOC(), opt || { day: "numeric", month: "long" }); },
@@ -798,8 +812,10 @@ SCREENS.daily = (el) => {
   const groups = []; for (const n of rest) { const a = Daily.ago(n.dt), g = a < 7 ? "This week" : a < 14 ? "Last week" : Daily.day(n.dt, { month: "long", year: "numeric" }); const last = groups[groups.length - 1]; if (last && last.g === g) last.xs.push(n); else groups.push({ g, xs: [n] }); }
   el.innerHTML = `${largeTitle("In the News", Daily.day(dayKeyISO(), { weekday: "long", day: "numeric", month: "long" }).toUpperCase(), accs())}
     ${top ? `<section class="cover-wrap">${Daily.cover(top, read(top) ? `${tr("Today in the news")} · ✓` : tr("Today in the news"))}</section>` : `<div class="card empty-card">${ICON.news}<b>Today's story is on its way</b><p>Check back tomorrow morning.</p></div>`}
+    ${Mail.card()}
     ${groups.map(({ g, xs }) => `<h2 class="h2">${g}</h2><div class="list inset d-list">${xs.map(n => `<a href="#" class="row${read(n) ? " is-read" : ""}" data-open="${n.id}">${ph(n.id, 160)}<span class="row-t"><small class="d-date">${read(n) ? "" : `<i class="dot" aria-label="Not read yet"></i>`}${Daily.rel(n.dt)}</small><b>${T(n.q)}</b>${n.nh ? `<small class="d-nh">${T(n.nh)}</small>` : ""}</span>${ICON.chev}</a>`).join("")}</div>`).join("")}
     <p class="d-foot">A new story every morning: the why behind something in the news, checked against at least two sources.</p>`;
+  Mail.bind(el);
 };
 SCREENS.today = (el, cur) => {
   const d = new Date(), seed = seedOf(d) + (US() ? 1 : 0) + (cur.rf || 0) * 104729;
