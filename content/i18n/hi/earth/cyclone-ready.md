@@ -33,12 +33,13 @@ links:
 - to: mangroves
   type: surprise
   why: मैंग्रोव खारे पानी में कैसे जीते हैं?
+- to: cyclone-track
+  type: deeper
+  why: पूर्वानुमान लगाने वाले कई दिन पहले कैसे बता देते हैं कि चक्रवात तट को कहाँ पार करेगा?
 sources:
 - Telangana Today, 'Andhra deep depression intensifies into Cyclone Arnab, likely to turn very severe by Oct 27', 26 October 2026.
 - Siasat, 'Cyclone Arnab to turn very severe by Oct 27, AP issues advisory', 26 October 2026.
 - The Hindu, 'A.P., Odisha on alert as IMD confirms deep depression', 26 October 2026.
-- News On AIR, 'Cyclone Arnab makes landfall along Andhra Pradesh and Yanam coasts near Kakinada', 28 October 2026.
-- Open Magazine, 'Cyclone Arnab hits Andhra Pradesh: 57,000 evacuated', 28 October 2026.
 - India Meteorological Department and National Disaster Management Authority, cyclone warning and preparedness guidelines (reference).
 - Ministry of Home Affairs, revised length of India's coastline (11,098 km), as reported in 2025.
 - The Daily Star, 'Bangladesh's names for tropical cyclones accepted', 2020.
@@ -107,9 +108,7 @@ myth:
 
 नई व्यवस्था का इम्तिहान 2013 में हुआ। चक्रवात फ़ैलिन ओडिशा से टकराया, और उसकी हवाएँ लगभग 1999 के तूफ़ान जितनी ही तेज़ थीं। पर इस बार लगभग 10 लाख लोगों को समय रहते सुरक्षित पहुँचा दिया गया। 1999 के मुक़ाबले बहुत ही कम जानें गईं। संयुक्त राष्ट्र ने इस काम की तारीफ़ की। 2019 में चक्रवात फ़ानी आया, तब भी ऐसी ही कामयाबी मिली। ओडिशा में 10 लाख से ज़्यादा लोगों को निकाला गया।
 
-अक्टूबर 2026 में बंगाल की खाड़ी में चक्रवात अर्णब बना। IMD ने कई दिन तक उस पर नज़र रखी और उसके लैंडफ़ॉल का अनुमान काफ़ी पहले लगा लिया। 28 अक्टूबर की सुबह-सुबह यह काकीनाडा के पास आंध्र प्रदेश के तट से टकराया। तब यह 'बहुत गंभीर चक्रवाती तूफ़ान' था, और हवा 125 से 135 किमी प्रति घंटा की रफ़्तार से चल रही थी। तब तक लगभग 57,000 लोग राहत शिविरों में पहुँच चुके थे, और NDRF के 39 दल तैनात थे।
-
-चक्रवातों के नाम अब एक सूची से आते हैं। यह सूची उत्तरी हिंद महासागर के आसपास के 13 देशों ने मिलकर बनाई है, जैसे भारत, बांग्लादेश, श्रीलंका और ओमान। हर देश बारी-बारी से नाम देता है। अर्णब नाम बांग्लादेश ने सुझाया था।
+चक्रवातों के नाम अब एक सूची से आते हैं। यह सूची उत्तरी हिंद महासागर के आसपास के 13 देशों ने मिलकर बनाई है, जैसे भारत, बांग्लादेश, श्रीलंका और ओमान। हर देश बारी-बारी से नाम देता है। मिसाल के लिए, अर्णब नाम बांग्लादेश ने सुझाया था।
 
 ## वे नंबर जो मायने रखते हैं
 

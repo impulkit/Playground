@@ -33,12 +33,13 @@ links:
 - to: mangroves
   type: surprise
   why: How do mangroves live in salt water?
+- to: cyclone-track
+  type: deeper
+  why: How can forecasters tell days ahead where a cyclone will cross the coast?
 sources:
 - Telangana Today, 'Andhra deep depression intensifies into Cyclone Arnab, likely to turn very severe by Oct 27', 26 October 2026.
 - Siasat, 'Cyclone Arnab to turn very severe by Oct 27, AP issues advisory', 26 October 2026.
 - The Hindu, 'A.P., Odisha on alert as IMD confirms deep depression', 26 October 2026.
-- News On AIR, 'Cyclone Arnab makes landfall along Andhra Pradesh and Yanam coasts near Kakinada', 28 October 2026.
-- Open Magazine, 'Cyclone Arnab hits Andhra Pradesh: 57,000 evacuated', 28 October 2026.
 - India Meteorological Department and National Disaster Management Authority, cyclone warning and preparedness guidelines (reference).
 - Ministry of Home Affairs, revised length of India's coastline (11,098 km), as reported in 2025.
 - The Daily Star, 'Bangladesh's names for tropical cyclones accepted', 2020.
@@ -107,9 +108,7 @@ In 2005, India passed a law on disaster management, and in 2006 it formed the Na
 
 The new system was tested in 2013, when Cyclone Phailin hit Odisha with winds close to the 1999 storm. This time, about 10 lakh people were moved to safety in time, and the number of lives lost was a tiny fraction of 1999. The United Nations praised the effort. In 2019, Cyclone Fani brought a similar success, with more than 10 lakh people evacuated in Odisha.
 
-In October 2026, Cyclone Arnab formed in the Bay of Bengal. The IMD tracked it for days and predicted its landfall well ahead. It crossed the Andhra Pradesh coast near Kakinada early on 28 October as a very severe cyclonic storm, with winds of 125 to 135 km/h. About 57,000 people had been moved to relief camps, and 39 NDRF teams were in place.
-
-Cyclone names now come from a list made by 13 countries around the north Indian Ocean, including India, Bangladesh, Sri Lanka and Oman. Each country sends names in turn. Arnab was suggested by Bangladesh.
+Cyclone names now come from a list made by 13 countries around the north Indian Ocean, including India, Bangladesh, Sri Lanka and Oman. Each country sends names in turn. Bangladesh, for example, suggested the name Arnab.
 
 ## The numbers that matter
 

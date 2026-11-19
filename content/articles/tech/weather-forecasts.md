@@ -84,6 +84,6 @@ To deal with this, forecasters run their models many times, each starting with s
 
 ## Forecasts that save lives
 
-Better forecasts matter most when danger is coming. In October 1999, a [super cyclone](cyclones-india) struck [Odisha](odisha), and around 10,000 people died. In October 2013, Cyclone Phailin, nearly as strong, hit the same coast. This time, the India Meteorological Department tracked it days in advance, and officials moved around a million people into shelters. The death toll was a small fraction of 1999's.
+Better forecasts matter most when danger is coming. In October 1999, a [super cyclone](cyclones-india) struck [Odisha](odisha), and around 10,000 people died. In October 2013, Cyclone Phailin, nearly as strong, hit the same coast. This time, the India Meteorological Department [tracked it days in advance](cyclone-track), and officials moved around a million people into shelters. The death toll was a small fraction of 1999's.
 
 In the United States, forecasts of [hurricanes](hurricanes) give coastal towns days of warning. New tools are arriving too. In recent years, artificial intelligence models trained on decades of past weather have started making forecasts that rival traditional ones, in a fraction of the time.

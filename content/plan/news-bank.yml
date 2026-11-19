@@ -1,14 +1,3 @@
-- date: 2026-11-17
-  headline: Cyclone Akvan is expected to hit the Andhra Pradesh coast as a very severe cyclonic storm around noon on 20 November; Odisha has begun evacuations
-  angle: How do scientists know where a cyclone will hit, days before it arrives? (satellites, forecast tracks and the cone, rapid intensification, how IMD forecasts improved since the 1999 Odisha cyclone). Library already has cyclone-ready and cyclones-india; do not repeat them, link to them.
-  bucket: environment
-  score: 33
-  scores: {matters: 8, talk: 7, lasting: 9, why: 9}
-  note: User chose this for 20 November (landfall day). Update the news block with what actually happened at landfall before publishing.
-  sources:
-  - Outlook India, India news live updates, 17 November 2026 (IMD bulletin details)
-  use_by: 2026-11-20
-  publish_on: 2026-11-20
 - date: 2026-11-19
   headline: Putin, Xi and Trump meet in Shenzhen beside the APEC summit
   angle: "Why does it matter when the leaders of the USA, China and Russia meet? Draft already written and fact-checked in content/plan/drafts/superpower-summits.md (Hindi in content/plan/drafts/hi/). Before publishing, rewrite the news block in past tense with what was actually agreed, move both files into content/articles/people/ and content/i18n/hi/people/, restore links from people/g20 and history/cold-war, and add the photos.yml line \"superpower-summits: Livadia Palace | Great Hall of the People\"."
