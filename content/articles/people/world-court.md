@@ -1,7 +1,7 @@
 ---
 id: world-court
-title: How does the world's top court decide if a country committed genocide?
-short: World court
+title: What is genocide?
+short: Genocide
 subject: people
 hook: The world's top court has no army, no police and no jail. Yet countries send their best lawyers to The Hague to argue in front of it.
 certainty: mixed
