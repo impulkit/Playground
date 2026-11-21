@@ -58,7 +58,7 @@ myth:
 
 ## The short answer
 
-The United Nations, or UN, is an organisation that nearly every country in the world belongs to. It was set up in 1945, at the end of the [Second World War](world-war-two). Its job is to help countries settle arguments without fighting, protect human rights and work together on problems like hunger and disease.
+The United Nations, or UN, is an organisation that nearly every country in the world belongs to. It was set up in 1945, at the end of the [Second World War](world-war-two). Its job is to help countries [settle arguments without fighting](world-court), protect human rights and work together on problems like hunger and disease.
 
 Its founders had just lived through two world wars in thirty years. They wanted a permanent place where countries could meet, talk, and act together. Today 193 countries are members. The UN has not ended wars, but it has helped stop some, fed millions of people and vaccinated millions of children.
 
