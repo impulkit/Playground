@@ -35,15 +35,12 @@ links:
   type: surprise
   why: Can maths explain how rivals make deals?
 sources:
-- Al Jazeera, 'Trump-Xi-Putin trilateral meeting at APEC: What to expect', 14 November 2026.
-- Outlook India, 'Trump, Xi And Putin To Meet At APEC: Nuclear Arms, Iran And Ukraine On Agenda', 14 November 2026.
-- Outlook India, 'Xi-Trump-Putin Summit: Treaty Expiry Raises Stakes For Nuclear Arms Talks', 16 November 2026.
-- ThePrint (PTI), 'Xi, Trump, Putin to hold first-ever trilateral meet on Nov 19', 16 November 2026.
-- South China Morning Post, 'China-US-Russia trilateral set for Thursday', and 'Groundbreaking, no Yalta 2.0: what to expect when Xi, Putin and Trump meet', November 2026.
-- Eyewitness News (AFP), 'Trump's tariffs cast shadow over APEC talks', 16 November 2026.
-- China Global South Project, 'Xi Hosts Trump and Putin as APEC Opens in Shenzhen', 16 November 2026.
+- Radio Free Europe/Radio Liberty, 'Trump-Xi-Putin Summit: Four Key Takeaways', 19 November 2026.
+- CBS News, 'Trump, Xi and Putin meet in China on sidelines of APEC summit', 19 November 2026.
+- Reuters (Business Day), Jarrett Renshaw and Trevor Hunnicutt, 'Xi, Trump and Putin pledge nuclear restraint and UN reform', 19 November 2026.
+- Open Magazine, 'A nuclear war cannot be won: Trump, Xi and Putin adopt Declaration towards Peace', 19 November 2026.
 - ASPI The Strategist, 'Thirty years of APEC summits'.
-- APEC, 'About APEC' (apec.org), member economies and years they joined.
+- APEC, 'Our Members' (apec.org), member economies and years they joined.
 - Asia Society Policy Institute, 'India and APEC: Charting a Path to Membership'.
 - HISTORY.com, 'Yalta Conference'.
 - US Department of State, Office of the Historian, 'Rapprochement with China, 1972'.
@@ -51,16 +48,15 @@ sources:
 - Christian Science Monitor, 'The Indian-Chinese summit. Symbolic of a changing relationship', 15 December 1988.
 - Federation of American Scientists, 'Status of World Nuclear Forces'.
 - Gresham College, David Reynolds, 'Summit Diplomacy: Some Lessons from History for 21st Century Leaders'.
-# REFRESH after the meeting
 news:
-  date: 2026-11-19
-  headline: "Xi Jinping is due to host Donald Trump and Vladimir Putin in Shenzhen for the three leaders' first meeting together"
-  text: China's foreign ministry said President Xi Jinping would host US President Donald Trump and Russian President Vladimir Putin on Thursday 19 November 2026 in Shenzhen, beside the summit of APEC, a group of 21 Pacific economies. Outlook India reported that the White House schedule put the meeting at 2:30 pm local time, and that China's foreign ministry called it the first face-to-face meeting of the three leaders. The White House said Trump would talk about cutting nuclear weapons. New START, the treaty that limited US and Russian nuclear arsenals, ran out in February 2026. Al Jazeera reported a senior US official as saying no agreement was expected. US officials said the war involving Iran may also come up, and a senior US official told PTI that Ukraine is not expected to be discussed. Trade fights hang over the wider APEC summit too, AFP reported, with new US tariffs as high as 12.5% on 60 economies. India is not an APEC member and is not part of the meeting; this entry explains what such meetings can and cannot do.
+  date: 2026-11-22
+  headline: "Trump, Xi and Putin held their first three-way meeting and issued a joint statement on nuclear risks"
+  text: "On Thursday 19 November 2026, US President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin met for about an hour and a half in Shenzhen, China. It was the first meeting of just these three leaders, held beside the summit of APEC, a group of 21 Pacific economies. Their joint statement, released by Russia and China and shared by the White House, said a nuclear war cannot be won and promised talks on cutting nuclear risks. They also agreed to raise oil and fuel supplies, back reform of the United Nations and warn the International Criminal Court not to abuse its powers. Radio Free Europe/Radio Liberty called it a historic meeting with few concrete commitments, noting that the statement did not name the Iran war and that Ukraine was not on the agenda. India is not an APEC member and was not part of the meeting; this entry explains what such meetings can and cannot do."
   sources:
-  - Outlook India, 16 November 2026
-  - Al Jazeera, 14 November 2026
-  - ThePrint (PTI), 16 November 2026
-  - Eyewitness News (AFP), 16 November 2026
+  - Radio Free Europe/Radio Liberty, 19 November 2026
+  - CBS News, 19 November 2026
+  - Reuters (Business Day), 19 November 2026
+  - Open Magazine, 19 November 2026
 quiz:
   t: predict
   prompt: In 1986, the US and Soviet leaders met in Reykjavik, Iceland, and came close to a huge deal on nuclear weapons. The talks broke down on the last day. What happened next?
@@ -80,7 +76,7 @@ myth:
 
 A summit is a meeting where the top leaders of countries talk face to face. When the leaders of the USA, China and Russia meet, it matters because these three countries have more weapons, money and voting power than almost anyone else.
 
-Together they hold most of the world's nuclear weapons. All three can block decisions at the [United Nations](united-nations). Their trade, or their trade fights, changes the prices of things families buy. Even a meeting that agrees nothing can show the world whether tensions are rising or cooling.
+Together they hold most of the world's nuclear weapons. All three can block decisions of the Security Council at the [United Nations](united-nations). Their trade, or their trade fights, changes the prices of things families buy. Even a meeting that agrees nothing can show the world whether tensions are rising or cooling.
 
 ## How it works
 
@@ -113,12 +109,12 @@ India's leaders have often refused to pick one big power. In the 1950s and 1960s
 
 India's ties with each power have swung over the years. In 1971, the USA leaned towards Pakistan, and India signed a friendship treaty with the Soviet Union. In 1986, Gorbachev visited New Delhi. After a war with China in 1962, Rajiv Gandhi's visit to Beijing in 1988 was the first by an Indian prime minister in 34 years. In 2008, India and the USA signed a civil nuclear deal, a decade after India's 1998 [nuclear tests](pokhran) had led the USA to put [sanctions](?sanction) on India.
 
-Today, India sits in groups with each side. It is part of BRICS with Russia and China, and the Quad with the USA, Japan and Australia. It is also a member of the [G20](g20), where all three powers meet. India has asked to join APEC, but APEC has not added any new member since 1998.
+Today, India sits in groups with each side. It is part of BRICS with Russia and China, and the Quad with the USA, Japan and Australia. It is also a member of the [G20](g20), where all three powers meet. India has asked to join APEC, but as of the mid-2020s APEC had not added a new member since 1998.
 
 ## The numbers that matter
 
 - **21**: APEC's members. Together, they make about 6 of every 10 dollars of everything the world produces.
-- **Nearly 9 in 10**: the share of the world's nuclear warheads held by the USA and Russia together, by expert estimates.
+- **More than 8 in 10**: the share of the world's nuclear warheads held by the USA and Russia together, by expert estimates.
 - **3 of 5**: the USA, China and Russia are three of the five permanent members of the UN Security Council. Any one of them can [veto](?veto), or block, a decision.
 - **About 2,700**: missiles destroyed under the 1987 INF Treaty, the clearest example of a summit leading to real change.
 - **About a week**: the length of Nixon's 1972 visit to China. It changed relations between the two countries for decades.

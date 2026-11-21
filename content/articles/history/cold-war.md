@@ -96,6 +96,6 @@ India did not want to join either camp. [Nehru](nehru) helped found the Non-Alig
 
 ## How it ended
 
-In the 1980s, the Soviet economy was struggling. A new leader, Mikhail Gorbachev, allowed more freedom of speech and tried to reform the system. Across eastern Europe, people protested peacefully against their governments. On 9 November 1989, the Berlin Wall opened.
+In the 1980s, the Soviet economy was struggling. A new leader, Mikhail Gorbachev, allowed more freedom of speech and tried to reform the system. He and US President Ronald Reagan held a series of [summits](superpower-summits), and in 1987 they signed a treaty that scrapped a whole class of nuclear missiles. Across eastern Europe, people protested peacefully against their governments. On 9 November 1989, the Berlin Wall opened.
 
 In 1991, the Soviet Union split into 15 separate countries, the largest being [Russia](russia). The Cold War was over. The two sides still had thousands of nuclear weapons, but the fear of a sudden world-ending war began to fade.
