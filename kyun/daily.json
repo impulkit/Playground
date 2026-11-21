@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "superpower-summits",
+   "date": "2026-11-22",
+   "title": "Why does it matter when the leaders of the USA, China and Russia meet?",
+   "headline": "Trump, Xi and Putin held their first three-way meeting and issued a joint statement on nuclear risks",
+   "news": "On Thursday 19 November 2026, US President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin met for about an hour and a half in Shenzhen, China. It was the first meeting of just these three leaders, held beside the summit of APEC, a group of 21 Pacific economies. Their joint statement, released by Russia and China and shared by the White House, said a nuclear war cannot be won and promised talks on cutting nuclear risks. They also agreed to raise oil and fuel supplies, back reform of the United Nations and warn the International Criminal Court not to abuse its powers. Radio Free Europe/Radio Liberty called it a historic meeting with few concrete commitments, noting that the statement did not name the Iran war and that Ukraine was not on the agenda. India is not an APEC member and was not part of the meeting; this entry explains what such meetings can and cannot do.",
+   "hook": "When the leaders of the world's most powerful countries sit at one table, everyone else watches. Sometimes a handshake changes history. Often, nothing much happens at all.",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=superpower-summits"
+  },
+  {
    "id": "world-court",
    "date": "2026-11-21",
    "title": "What is genocide?",
@@ -118,15 +127,6 @@
    "news": "The COP31 climate summit opened on 9 November 2026 in Antalya, Türkiye, and runs until 20 November, with delegates from 197 countries and the European Union. Türkiye is the host, Australia is leading the negotiations, and more than 100 heads of state were expected at a leaders' meeting on 11 and 12 November. India said it would press rich countries for more climate money, and that countries should keep setting their own emission targets instead of having new ones handed down to them. A UN report said poorer countries will need about USD 305 billion a year by 2035 just to adapt to a hotter world. This entry explains how these summits work.",
    "hook": "Once a year, almost every country on Earth sends people to one city to argue about the weather of the future. Nothing can be agreed unless nearly everyone says yes.",
    "url": "https://impulkit.github.io/Playground/kyun/#s=climate-summits"
-  },
-  {
-   "id": "science-together",
-   "date": "2026-11-08",
-   "title": "Why do countries do science together?",
-   "headline": "India set to join Horizon Europe, the EU's €93.5 billion research programme",
-   "news": "On 6 November 2026, India and the European Union finished talks on India joining Horizon Europe, the EU's €93.5 billion programme for research and new ideas. Once both sides sign and approve the deal, expected to take effect in January 2027, Indian universities, labs and companies can win grants directly and lead projects with European partners. The work covers health, artificial intelligence, space, climate and clean energy. India will be one of more than 20 non-EU countries in the programme, alongside the UK, Canada, Japan and South Korea. This entry explains why countries team up on science.",
-   "hook": "Some machines are so big and so costly that no single country can build them alone. So countries that may disagree about almost everything else end up sharing a lab.",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=science-together"
   }
  ]
 }
