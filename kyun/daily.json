@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "world-court",
+   "date": "2026-11-21",
+   "title": "How does the world's top court decide if a country committed genocide?",
+   "headline": "The world's top court ruled that Myanmar committed genocide against the Rohingya",
+   "news": "On Thursday 19 November 2026, the International Court of Justice in The Hague ruled that Myanmar had committed genocide against the Rohingya people during army operations in Rakhine State in 2017. The judges decided nine votes to six, in a case The Gambia brought in 2019 under the Genocide Convention. It was the first time the court had found a country itself responsible for genocide. The court ordered Myanmar to investigate and prosecute those suspected, to make the safe and voluntary return of Rohingya refugees possible, and to report back within two years on repairing the harm. Myanmar had long denied genocide, saying its forces were responding to attacks by an armed group. The ruling was final and could not be appealed. This entry explains how such a case works, from the first application to the final vote.",
+   "hook": "The world's top court has no army, no police and no jail. Yet countries send their best lawyers to The Hague to argue in front of it.",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=world-court"
+  },
+  {
    "id": "cyclone-track",
    "date": "2026-11-20",
    "title": "How do scientists know where a cyclone will hit?",
@@ -118,15 +127,6 @@
    "news": "On 6 November 2026, India and the European Union finished talks on India joining Horizon Europe, the EU's €93.5 billion programme for research and new ideas. Once both sides sign and approve the deal, expected to take effect in January 2027, Indian universities, labs and companies can win grants directly and lead projects with European partners. The work covers health, artificial intelligence, space, climate and clean energy. India will be one of more than 20 non-EU countries in the programme, alongside the UK, Canada, Japan and South Korea. This entry explains why countries team up on science.",
    "hook": "Some machines are so big and so costly that no single country can build them alone. So countries that may disagree about almost everything else end up sharing a lab.",
    "url": "https://impulkit.github.io/Playground/kyun/#s=science-together"
-  },
-  {
-   "id": "toll-roads",
-   "date": "2026-11-07",
-   "title": "Why do we pay to use some roads?",
-   "headline": "New highways will get toll plazas where cars pay without stopping",
-   "news": "On 6 November 2026, the National Highways Authority of India issued a standard design for toll plazas on four-lane and wider national highways. It sets common rules for plaza layout, lanes, lighting and signs, so every new highway can use barrier-free tolling, called Multi-Lane Free Flow. A FASTag reader and number-plate cameras on an overhead frame collect the toll while cars keep moving. The first such plaza opened at Choryasi in Gujarat on 1 May 2026, and the first six handled about 1.1 crore vehicles in three months. This entry explains why highways charge tolls at all.",
-   "hook": "Most streets are free to drive on. Then, on a big highway, a sign appears asking for money. Why do some roads charge and others don't?",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=toll-roads"
   }
  ]
 }
