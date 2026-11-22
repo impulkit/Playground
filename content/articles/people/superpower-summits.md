@@ -1,6 +1,6 @@
 ---
 id: superpower-summits
-title: Why does it matter when the leaders of the USA, China and Russia meet?
+title: Why do superpower meetings matter?
 short: Superpower summits
 subject: people
 hook: When the leaders of the world's most powerful countries sit at one table, everyone else watches. Sometimes a handshake changes history. Often, nothing much happens at all.
