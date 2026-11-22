@@ -4,3 +4,15 @@
   bucket: science, space and health
   score: 26
   use_by: 2026-11-27
+- date: 2026-11-22
+  headline: Nepal's Prime Minister Balendra Shah began his first visit to India
+  angle: "Why are India and Nepal so closely tied? (open-border history, 1950 treaty, trade, rivers; world bucket was full on 23 Nov; open The Hindu/MEA pages before writing, only an aggregator headline list was seen)"
+  bucket: world and geopolitics
+  score: 23
+  use_by: 2026-11-29
+- date: 2026-11-20
+  headline: India's eight core industries grew at a record 10.9%
+  angle: "What are India's 'core industries', and why do economists watch them? (only The Hindu headline seen via aggregator on 23 Nov; open PIB/Commerce Ministry release first)"
+  bucket: economy and money
+  score: 21
+  use_by: 2026-11-27

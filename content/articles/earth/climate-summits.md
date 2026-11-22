@@ -19,9 +19,9 @@ links:
 - to: climate-change
   type: home
   why: Why is Earth getting warmer?
-- to: united-nations
+- to: fossil-fuel-phaseout
   type: deeper
-  why: Why was the United Nations created?
+  why: Why is it so hard for the world to stop using fossil fuels?
 - to: carbon-cycle
   type: evidence
   why: What is the carbon cycle?
@@ -88,7 +88,7 @@ By the 1980s, scientists were warning that [greenhouse gases](?greenhouse-gas) f
 
 In 1997, the Kyoto Protocol set targets for rich countries only. In 2015 came the Paris Agreement, the most important deal so far. Every country agreed to try to keep warming well below 2°C, and to aim for 1.5°C.
 
-Under Paris, each country writes its own climate plan and makes it stronger every five years. At later COPs, countries agreed to set up a fund for "loss and damage" in 2022 and to "transition away" from fossil fuels in 2023.
+Under Paris, each country writes its own climate plan and makes it stronger every five years. At later COPs, countries agreed to set up a fund for "loss and damage" in 2022 and to ["transition away" from fossil fuels](fossil-fuel-phaseout) in 2023.
 
 {{story:climate-change}}
 

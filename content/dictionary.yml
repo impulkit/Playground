@@ -534,6 +534,11 @@
   meaning: A trained expert who studies, cleans and repairs old objects and artworks to keep them safe.
   icon: ''
   see: art-detective
+- id: consensus
+  word: consensus
+  meaning: When everyone in a group accepts a decision, even if it is not their first choice. Nobody objects, so no vote is needed.
+  icon: ''
+  see: climate-summits
 - id: constellation
   word: constellation
   meaning: A group of stars that people imagine as a picture in the sky.
