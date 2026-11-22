@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "fossil-fuel-phaseout",
+   "date": "2026-11-22",
+   "title": "Why is it so hard for the world to stop using fossil fuels?",
+   "headline": "UN climate summit COP31 ends without its main deal after a fight over fossil fuels",
+   "news": "The COP31 climate summit in Antalya, Türkiye, ended on Sunday 22 November 2026 without adopting its main agreement, after two days of overtime. COP31 President Murat Kurum said: \"I understand that there is no agreement on this text. For that reason, these decisions have not been adopted.\" The European Union objected because the final text left out any mention of fossil fuels, and Panama and the Marshall Islands also refused to back it. An early draft from Australia, which led the talks, had called for a faster phase-out of fossil fuels, but a later draft dropped every mention after Saudi Arabia and other oil and gas producers objected. UN Secretary-General António Guterres said: \"There may be no consensus in the negotiating room. There is no ambiguity in the science.\" This entry explains why the world finds it so hard to agree on giving up coal, oil and gas.",
+   "hook": "Coal, oil and gas still give the world about four of every five units of its energy. Giving them up means some countries giving up their biggest earner.",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=fossil-fuel-phaseout"
+  },
+  {
    "id": "superpower-summits",
    "date": "2026-11-22",
    "title": "Why do superpower meetings matter?",
@@ -118,15 +127,6 @@
    "news": "On Diwali night, 8 November 2026, 20 of Delhi's 59 air monitoring stations showed AQI readings above 400, in the severe band. The city's average for the whole day was 376, which is very poor. Smoke from firecrackers mixed with cold, still winter air that trapped it close to the ground. Down To Earth found that Delhi's air had got worse on the day after Diwali in eight of the past nine years. This entry explains what those AQI numbers mean and how they are worked out.",
    "hook": "On a smoggy day, the news says the AQI is 400. That one number squeezes a whole cocktail of invisible pollution into something you can read at a glance.",
    "url": "https://impulkit.github.io/Playground/kyun/#s=aqi"
-  },
-  {
-   "id": "climate-summits",
-   "date": "2026-11-09",
-   "title": "What happens at a world climate summit?",
-   "headline": "COP31, the world's yearly climate summit, opens in Antalya, Türkiye",
-   "news": "The COP31 climate summit opened on 9 November 2026 in Antalya, Türkiye, and runs until 20 November, with delegates from 197 countries and the European Union. Türkiye is the host, Australia is leading the negotiations, and more than 100 heads of state were expected at a leaders' meeting on 11 and 12 November. India said it would press rich countries for more climate money, and that countries should keep setting their own emission targets instead of having new ones handed down to them. A UN report said poorer countries will need about USD 305 billion a year by 2035 just to adapt to a hotter world. This entry explains how these summits work.",
-   "hook": "Once a year, almost every country on Earth sends people to one city to argue about the weather of the future. Nothing can be agreed unless nearly everyone says yes.",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=climate-summits"
   }
  ]
 }
