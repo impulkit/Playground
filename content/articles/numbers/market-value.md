@@ -34,6 +34,9 @@ links:
 - to: probability
   type: surprise
   why: Can maths predict the future?
+- to: company-board
+  type: deeper
+  why: Who has the power to hire and fire a company's boss?
 sources:
 - Nvidia, Form 8-K and press release 'NVIDIA Announces CEO Transition', filed with the US Securities and Exchange Commission, 12 November 2026.
 - The Motley Fool, 'Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors', 15 November 2026.

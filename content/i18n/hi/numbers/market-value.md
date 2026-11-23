@@ -34,6 +34,9 @@ links:
 - to: probability
   type: surprise
   why: क्या गणित भविष्य बता सकता है?
+- to: company-board
+  type: deeper
+  why: कंपनी के मुखिया को रखने और निकालने की ताक़त किसके पास होती है?
 sources:
 - Nvidia, Form 8-K and press release 'NVIDIA Announces CEO Transition', filed with the US Securities and Exchange Commission, 12 November 2026.
 - The Motley Fool, 'Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors', 15 November 2026.

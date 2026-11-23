@@ -685,6 +685,11 @@
   meaning: A smaller channel that branches off a river and flows away from it, often in a delta.
   icon: ''
   see: deltas
+- id: dividend
+  word: dividend
+  meaning: A share of a company's profit that it pays out to the people who own its shares.
+  icon: ''
+  see: stock-market
 - id: dna
   word: DNA
   meaning: The chemical code inside every cell that carries instructions for how a living thing grows.
@@ -2006,6 +2011,11 @@
   meaning: A person forced to leave their home or country to escape war, violence or danger.
   icon: ''
   see: refugees
+- id: regulator
+  word: regulator
+  meaning: An official body that makes and enforces the rules for one area of business, such as banks or the stock market.
+  icon: ''
+  see: stock-market
 - id: renewable
   word: renewable
   meaning: Energy, like sunlight or wind, that does not run out.
@@ -2134,6 +2144,11 @@
   icon: ''
   see: internet-how
   auto: false
+- id: shareholder
+  word: shareholder
+  meaning: A person or group that owns one or more shares, small pieces of a company, and so owns part of it.
+  icon: ''
+  see: company-board
 - id: simile
   word: simile
   meaning: Comparing two things using "like" or "as", such as "brave as a lion".
