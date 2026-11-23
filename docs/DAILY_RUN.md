@@ -2,6 +2,11 @@
 
 This is what the midnight scheduled task does, start to finish. Each run starts in a fresh workspace.
 
+**Two hard rules (read first):**
+
+1. **Date = today in India.** The story date (`news: date:` in the English and Hindi files, and anything else dated for the entry) is today's date in India: get it with `TZ=Asia/Kolkata date +%F`. Never use the UTC date (plain `date +%F` on the server); the run starts at midnight India time, when UTC is still on the previous day.
+2. **Short, plain titles.** The `title:` must be at most 7 words, a plain question a curious person would actually ask. Good: `What is genocide?`, `Why do superpower meetings matter?`, `Why can't we quit fossil fuels?`. The same goes for the Hindi `title:` (short, plain, everyday Hindi; e.g. `हम जीवाश्म ईंधन क्यों नहीं छोड़ पाते?`).
+
 ## 0. Set up
 
 ```

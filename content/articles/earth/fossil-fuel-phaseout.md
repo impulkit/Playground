@@ -1,6 +1,6 @@
 ---
 id: fossil-fuel-phaseout
-title: Why is it so hard for the world to stop using fossil fuels?
+title: "Why can't we quit fossil fuels?"
 short: Quitting fossil fuels
 subject: earth
 hook: Coal, oil and gas still give the world about four of every five units of its energy. Giving them up means some countries giving up their biggest earner.
@@ -51,7 +51,7 @@ sources:
 - Our World in Data, 'India: CO2 Country Profile' (cumulative emissions).
 - ThePrint, 'India's crude import dependence rises to record 88.7% as domestic output continues to decline', 27 July 2026.
 news:
-  date: 2026-11-22
+  date: 2026-11-23
   headline: UN climate summit COP31 ends without its main deal after a fight over fossil fuels
   text: 'The COP31 climate summit in Antalya, Türkiye, ended on Sunday 22 November 2026 without adopting its main agreement, after two days of overtime. COP31 President Murat Kurum said: "I understand that there is no agreement on this text. For that reason, these decisions have not been adopted." The European Union objected because the final text left out any mention of fossil fuels, and Panama and the Marshall Islands also refused to back it. An early draft from Australia, which led the talks, had called for a faster phase-out of fossil fuels, but a later draft dropped every mention after Saudi Arabia and other oil and gas producers objected. UN Secretary-General António Guterres said: "There may be no consensus in the negotiating room. There is no ambiguity in the science." This entry explains why the world finds it so hard to agree on giving up coal, oil and gas.'
   sources:
