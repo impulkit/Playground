@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "company-board",
+   "date": "2026-11-24",
+   "title": "What does a company's board do?",
+   "headline": "Nvidia's board reinstates Jensen Huang as chief executive, and its shares jump",
+   "news": "On Monday 23 November 2026, the board of Nvidia, the American company whose chips power much of the world's artificial intelligence, voted unanimously to reinstate co-founder Jensen Huang as chief executive. Huang had resigned on 12 November after, NPR reported, telling the board about personal behaviour that went against the company's code of conduct. On 17 November the board's chair, Harvey Jones, said it did not intend to bring him back. The board said a committee of independent directors was still investigating reports about Huang, and that Colette Kress, interim chief executive since his exit, would carry on as finance chief. Reuters reported that his return followed pressure from US President Donald Trump, and that Nvidia's shares rose more than 31% before the US market opened, lifting other chip shares. This entry explains what a company's board is and how it can remove, and bring back, even a founder.",
+   "hook": "Even the person who started a company can lose their job there. A small group called the board has the power to hire and fire the boss.",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=company-board"
+  },
+  {
    "id": "fossil-fuel-phaseout",
    "date": "2026-11-23",
    "title": "Why can't we quit fossil fuels?",
@@ -118,15 +127,6 @@
    "news": "On 10 November 2026, delegations from Russia and Ukraine met in Abu Dhabi, in the United Arab Emirates, for talks run by US envoys Jared Kushner and Steve Witkoff. It was their first three-way meeting since February, and the first day lasted about four hours. On the table were land Russia wants Ukraine to give up, Russia's demand that Ukraine drop its bid to join NATO, limits on Ukraine's army, whether a ceasefire should come first, and swaps of prisoners. India called for safe shipping in the Black Sea and a quick end to the war. This entry explains how the war began and what each side wants.",
    "hook": "Russia and Ukraine share a long history, related languages and many family ties. Yet since 2022 they have fought the biggest war in Europe in 80 years, and its effects reach Indian kitchens and petrol pumps.",
    "url": "https://impulkit.github.io/Playground/kyun/#s=russia-ukraine"
-  },
-  {
-   "id": "aqi",
-   "date": "2026-11-10",
-   "title": "What does the AQI number mean?",
-   "headline": "Delhi's air turned 'severe' on Diwali night",
-   "news": "On Diwali night, 8 November 2026, 20 of Delhi's 59 air monitoring stations showed AQI readings above 400, in the severe band. The city's average for the whole day was 376, which is very poor. Smoke from firecrackers mixed with cold, still winter air that trapped it close to the ground. Down To Earth found that Delhi's air had got worse on the day after Diwali in eight of the past nine years. This entry explains what those AQI numbers mean and how they are worked out.",
-   "hook": "On a smoggy day, the news says the AQI is 400. That one number squeezes a whole cocktail of invisible pollution into something you can read at a glance.",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=aqi"
   }
  ]
 }
