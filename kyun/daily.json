@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "anaemia",
+   "date": "2026-11-25",
+   "title": "Why are so many Indians anaemic?",
+   "headline": "A huge national blood survey finds less anaemia in India than earlier counts",
+   "news": "On Monday 23 November 2026, the Indian Council of Medical Research (ICMR) released the anaemia results of SAMPADA, a nutrition survey carried out from 2023 to 2025 that ICMR called one of the largest in the world. It covered more than 2 lakh people in over 81,000 homes, across 183 districts in 35 states and Union Territories. It found anaemia in about 42% of young children aged 1 to 4, 46% of girls aged 10 to 19 and 56% of women of child-bearing age. About half of these cases were mild, and severe anaemia was below 2% in most age groups. The figures were lower than earlier national surveys, which tested a drop of blood from a finger, while SAMPADA took blood from a vein and tested it with lab machines. This entry explains what anaemia is and why so many Indians have it.",
+   "hook": "Every red blood cell carries tiny specks of iron. When there are too few, you feel tired and breathless, and millions of Indians do.",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=anaemia"
+  },
+  {
    "id": "company-board",
    "date": "2026-11-24",
    "title": "What does a company's board do?",
@@ -118,15 +127,6 @@
    "news": "On 12 November 2026, the government said retail inflation in October was 6.09%, up from 5.54% in September and the highest in two years. That is above 6%, the top of the safe band the Reserve Bank of India must aim for. Food prices rose 8.94% in a year, and onions cost more than twice as much as a year earlier. The RBI had already raised its main interest rate, the repo rate, by 0.25 percentage points to 5.50% in October, its first rise in nearly four years, and economists expected another rise at its December meeting. This entry explains why the RBI aims for 4% and how it tries to get there.",
    "hook": "India's central bank has a promise written into law. It must try to keep price rises close to 4% a year, and if it misses for too long, it has to write to the government and explain why.",
    "url": "https://impulkit.github.io/Playground/kyun/#s=inflation-target"
-  },
-  {
-   "id": "russia-ukraine",
-   "date": "2026-11-11",
-   "title": "Why are Russia and Ukraine at war?",
-   "headline": "Russia and Ukraine sit down for US-led peace talks for the first time since February",
-   "news": "On 10 November 2026, delegations from Russia and Ukraine met in Abu Dhabi, in the United Arab Emirates, for talks run by US envoys Jared Kushner and Steve Witkoff. It was their first three-way meeting since February, and the first day lasted about four hours. On the table were land Russia wants Ukraine to give up, Russia's demand that Ukraine drop its bid to join NATO, limits on Ukraine's army, whether a ceasefire should come first, and swaps of prisoners. India called for safe shipping in the Black Sea and a quick end to the war. This entry explains how the war began and what each side wants.",
-   "hook": "Russia and Ukraine share a long history, related languages and many family ties. Yet since 2022 they have fought the biggest war in Europe in 80 years, and its effects reach Indian kitchens and petrol pumps.",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=russia-ukraine"
   }
  ]
 }
