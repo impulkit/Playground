@@ -34,9 +34,9 @@ links:
 - to: body-cells
   type: surprise
   why: What are you actually made of?
-- to: hormones
+- to: anaemia
   type: deeper
-  why: What are hormones?
+  why: What happens when your blood runs short of iron?
 sources:
 - US National Heart, Lung, and Blood Institute, blood and blood disorders.
 - Encyclopaedia Britannica, blood.
@@ -68,7 +68,7 @@ An adult has about 5 litres of blood, roughly the amount in a big can of cooking
 
 Red blood cells are the most common cells in your body. They are tiny discs, thinner in the middle, like a doughnut that forgot to make its hole. This shape gives them lots of surface for picking up oxygen and lets them fold to squeeze through blood vessels narrower than themselves.
 
-Each is packed with [haemoglobin](?haemoglobin), a protein built around iron. Haemoglobin grabs oxygen in the lungs and lets it go in your muscles and brain. It's also what makes blood red. Iron in foods like spinach, dal and meat helps your body make it.
+Each is packed with [haemoglobin](?haemoglobin), a protein built around iron. Haemoglobin grabs oxygen in the lungs and lets it go in your muscles and brain. It's also what makes blood red. Iron in foods like spinach, dal and meat helps your body make it. Without enough iron, the body makes too little haemoglobin. Having too little haemoglobin is called [anaemia](anaemia), and it can leave people tired and breathless.
 
 A red cell lives about 120 days. Then it's broken down and recycled. Your bone marrow, the soft middle of [bones](bones) such as your hips and ribs, makes about 2 million new ones every second.
 
