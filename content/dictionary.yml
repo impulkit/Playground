@@ -326,6 +326,12 @@
   meaning: How much electric charge something can store. Your body has quite a lot of it.
   icon: ''
   see: touch-lamps
+- id: capacity
+  word: capacity
+  meaning: The most a factory, machine or place can make or hold. Excess capacity means being able to make much more than buyers want.
+  icon: ''
+  see: overcapacity
+  auto: false
 - id: capillary
   word: capillary
   meaning: The thinnest kind of blood vessel, finer than a hair, where blood passes oxygen to the body.
@@ -731,6 +737,12 @@
   meaning: A long time with much less rain than usual.
   icon: ''
   see: droughts
+- id: dumping
+  word: dumping
+  meaning: Selling goods in another country for less than their normal value, usually less than the price at home.
+  icon: ''
+  see: overcapacity
+  auto: false
 - id: dynasty
   word: dynasty
   meaning: A family of rulers in which power passes from parents to children, often for many generations.
@@ -2236,6 +2248,11 @@
   word: subcontinent
   meaning: A large part of a continent, like India and its neighbours.
   icon: ''
+- id: subsidy
+  word: subsidy
+  meaning: Money or other help a government gives to make something cheaper to make, buy or sell.
+  icon: ''
+  see: overcapacity
 - id: superhydrophobic
   word: superhydrophobic
   meaning: So good at repelling water that drops sit up as round beads and roll straight off.

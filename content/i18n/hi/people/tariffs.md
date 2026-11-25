@@ -33,6 +33,9 @@ links:
 - to: usa-economy
   type: surprise
   why: अमेरिका की अर्थव्यवस्था कैसे चलती है?
+- to: overcapacity
+  type: surprise
+  why: क्या कोई देश ज़रूरत से ज़्यादा बना सकता है?
 sources:
 - Business Upturn, 'US assures India of tariff edge over rivals as bilateral trade deal moves closer', 13 November 2026.
 - The Hindu, 'U.S. assures India of tariff edge over its competitors', 14 November 2026.

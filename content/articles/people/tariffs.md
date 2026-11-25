@@ -33,6 +33,9 @@ links:
 - to: usa-economy
   type: surprise
   why: How does the US economy work?
+- to: overcapacity
+  type: surprise
+  why: Can a country make too much?
 sources:
 - Business Upturn, 'US assures India of tariff edge over rivals as bilateral trade deal moves closer', 13 November 2026.
 - The Hindu, 'U.S. assures India of tariff edge over its competitors', 14 November 2026.
