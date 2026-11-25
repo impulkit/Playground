@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "overcapacity",
+   "date": "2026-11-26",
+   "title": "Can a country make too much?",
+   "headline": "The US proposed tariffs of up to 25% on Indian goods over \"excess capacity\"",
+   "news": "On 25 November 2026, the office of the US Trade Representative announced the results of investigations it began in March 2026. It said 14 of the 16 economies it had looked at, including India, China, the European Union and Japan, have practices that create \"structural excess capacity\" in manufacturing, naming sectors such as steel, solar and medicines for India. It proposed an extra tariff of up to 25% on most Indian goods, which would be lowered to 17% if India signs a trade deal with the US. This is only a proposal, with written comments due by 5 January 2027 and public hearings from 25 January 2027. India's Department of Commerce said India \"does not have structural excess capacity in any sector\", that the notice was under examination, and that trade concerns should be settled in the trade deal it is negotiating with the US. This entry explains what overcapacity means and why countries argue over it.",
+   "hook": "When a market is flooded with mangoes, prices crash and some farmers lose money. The same thing can happen with steel, solar panels and cars, but across the whole world.",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=overcapacity"
+  },
+  {
    "id": "anaemia",
    "date": "2026-11-25",
    "title": "Why are so many Indians anaemic?",
@@ -118,15 +127,6 @@
    "news": "On 13 November 2026, the commerce ministry said India sold goods worth 49.47 billion dollars abroad in October, the highest for any month in its history. But imports jumped to 89.35 billion dollars, as gold imports more than tripled before Diwali and oil cost much more, so the goods trade deficit reached 39.88 billion dollars, the biggest in a year. India also earned a surplus of about 19.8 billion dollars from services like software, which cut the overall gap to about 20 billion dollars. This entry explains what a trade deficit is and when it matters.",
    "hook": "In October 2026, India sold more goods to the world than in any month in its history. Yet it still bought far more than it sold. How can a country break a record and fall behind at the same time?",
    "url": "https://impulkit.github.io/Playground/kyun/#s=trade-deficit"
-  },
-  {
-   "id": "inflation-target",
-   "date": "2026-11-12",
-   "title": "Why does the RBI try to keep inflation near 4%?",
-   "headline": "Price rises cross the RBI's 6% limit for the first time in two years",
-   "news": "On 12 November 2026, the government said retail inflation in October was 6.09%, up from 5.54% in September and the highest in two years. That is above 6%, the top of the safe band the Reserve Bank of India must aim for. Food prices rose 8.94% in a year, and onions cost more than twice as much as a year earlier. The RBI had already raised its main interest rate, the repo rate, by 0.25 percentage points to 5.50% in October, its first rise in nearly four years, and economists expected another rise at its December meeting. This entry explains why the RBI aims for 4% and how it tries to get there.",
-   "hook": "India's central bank has a promise written into law. It must try to keep price rises close to 4% a year, and if it misses for too long, it has to write to the government and explain why.",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=inflation-target"
   }
  ]
 }
