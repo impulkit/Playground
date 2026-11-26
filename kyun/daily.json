@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "food-warning-labels",
+   "date": "2026-11-27",
+   "title": "Why put warning labels on junk food?",
+   "headline": "Supreme Court orders warnings on packaged foods high in fat, sugar or salt",
+   "news": "On Thursday 26 November 2026, Constitution Day, Supreme Court Justices J.B. Pardiwala and K. Vinod Chandran ordered the food regulator FSSAI to require front-of-pack warnings on packaged foods high in fat, sugar or salt, in a case brought by the health group 3S and Our Health Society. Each warning must be a separate hexagon reading \"High Fat\", \"High Sugar\" or \"High Salt\", covering at least about 4 to 5% of the front of the pack. The limits must count total sugars and saturated fat, rest on evidence and be \"neither too low nor too high\", and FSSAI must draw up a full list of exempt foods with reasons. FSSAI has about four months to draw up the rules, with 60 days for public comments, and companies then get 365 days to change their packets. ThePrint reported the court as saying that a consumer in India is entitled to \"no less protection, and no less information\" than one in the United States or the United Kingdom. This entry explains how warning labels work and why countries argue about them.",
+   "hook": "In Chile, a small black stop sign on snack packets changed what went inside the packets, as well as what people bought.",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=food-warning-labels"
+  },
+  {
    "id": "overcapacity",
    "date": "2026-11-26",
    "title": "Can a country make too much?",
@@ -118,15 +127,6 @@
    "news": "On 13 November 2026, a senior Indian government official, speaking without giving their name, told Business Standard that the United States had assured India its exporters would get better tariff treatment than competing countries. The official said this would come once the US finished a trade investigation and settled its new tariff rules. Commerce Minister Piyush Goyal had said for months that India would put the deal into effect only once it got a tariff edge over rival exporters such as Vietnam, Bangladesh and Indonesia. The exact rates were not made public, and the interim deal had not yet been signed. On the same day, India reported its highest-ever monthly goods exports. This entry explains what a tariff is and why a few percentage points matter so much.",
    "hook": "When a T-shirt made in Tiruppur is sold in New York, the USA may add a tax at its border before it reaches the shop. That tax, called a tariff, can decide whether the shirt sells or sits on a shelf.",
    "url": "https://impulkit.github.io/Playground/kyun/#s=tariffs"
-  },
-  {
-   "id": "trade-deficit",
-   "date": "2026-11-13",
-   "title": "What is a trade deficit?",
-   "headline": "India's exports hit a record, but its goods trade gap is the widest in a year",
-   "news": "On 13 November 2026, the commerce ministry said India sold goods worth 49.47 billion dollars abroad in October, the highest for any month in its history. But imports jumped to 89.35 billion dollars, as gold imports more than tripled before Diwali and oil cost much more, so the goods trade deficit reached 39.88 billion dollars, the biggest in a year. India also earned a surplus of about 19.8 billion dollars from services like software, which cut the overall gap to about 20 billion dollars. This entry explains what a trade deficit is and when it matters.",
-   "hook": "In October 2026, India sold more goods to the world than in any month in its history. Yet it still bought far more than it sold. How can a country break a record and fall behind at the same time?",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=trade-deficit"
   }
  ]
 }
