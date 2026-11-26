@@ -34,6 +34,9 @@ links:
 - to: polls-elections
   type: evidence
   why: 1,000 लोगों का सर्वे चुनाव का नतीजा कैसे बता देता है?
+- to: food-warning-labels
+  type: surprise
+  why: क्या पैकेट पर छपा एक बड़ा निशान संख्याओं से भरी तालिका को मात दे सकता है?
 sources:
 - Darrell Huff (1954) How to Lie with Statistics. W.W. Norton.
 - "Mangel M. and Samaniego F.J. (1984) Abraham Wald's work on aircraft survivability. Journal of the American Statistical Association 79."

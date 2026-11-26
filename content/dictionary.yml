@@ -659,6 +659,11 @@
   word: descendant
   meaning: A person or animal that comes after an ancestor, like a grandchild.
   icon: ''
+- id: diabetes
+  word: diabetes
+  meaning: An illness in which the body cannot control the amount of sugar in the blood properly, so it stays too high.
+  icon: ''
+  see: food-warning-labels
 - id: dialect
   word: dialect
   meaning: A local form of a language, with some of its own words, sounds or grammar.
@@ -2008,6 +2013,12 @@
   meaning: A vote in which all the voters of a place decide one question directly, usually yes or no.
   icon: ''
   see: democracy-what
+- id: reformulate
+  word: reformulate
+  meaning: To change the recipe of a product, for example to use less sugar or salt.
+  icon: ''
+  see: food-warning-labels
+  auto: false
 - id: refraction
   word: refraction
   meaning: The bending of light as it passes from one material into another, such as from air into water or glass.
@@ -2099,6 +2110,11 @@
   word: sanctuary
   meaning: A safe place, especially one where wild animals are protected.
   icon: ''
+- id: saturated-fat
+  word: saturated fat
+  meaning: A kind of fat found in butter, ghee, palm oil and fatty meat. It is usually solid at room temperature.
+  icon: ''
+  see: food-warning-labels
 - id: satyagraha
   word: satyagraha
   meaning: Gandhi's word for resisting injustice without violence. It means holding firmly to truth.
@@ -2170,6 +2186,11 @@
   meaning: The frame of bones that holds up a body.
   icon: ''
   auto: false
+- id: sodium
+  word: sodium
+  meaning: A soft, silvery metal that is part of salt. On food labels, the sodium figure shows how much salt is inside.
+  icon: ''
+  see: food-warning-labels
 - id: solar-system
   word: solar system
   meaning: 'The Sun and everything that goes around it: planets, moons, asteroids and comets.'
@@ -2350,6 +2371,12 @@
   meaning: The group of mostly two-legged, mostly meat-eating dinosaurs. T. rex, Rajasaurus, Velociraptor, and every bird.
   icon: theropod
   see: birds-dinosaurs
+- id: threshold
+  word: threshold
+  meaning: The level at which something starts to count, like the line a food must cross to get a warning.
+  icon: ''
+  see: food-warning-labels
+  auto: false
 - id: thrust
   word: thrust
   meaning: The push that moves a rocket or jet forward, made by forcing gas out of the back very fast.

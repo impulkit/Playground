@@ -34,6 +34,9 @@ links:
 - to: polls-elections
   type: evidence
   why: How can a poll of 1,000 people predict an election?
+- to: food-warning-labels
+  type: surprise
+  why: Can one bold symbol on a packet beat a table full of numbers?
 sources:
 - Darrell Huff (1954) How to Lie with Statistics. W.W. Norton.
 - "Mangel M. and Samaniego F.J. (1984) Abraham Wald's work on aircraft survivability. Journal of the American Statistical Association 79."

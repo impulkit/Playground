@@ -91,7 +91,7 @@ What matters most is the overall pattern. Dal, rice, vegetables, fruit, curd and
 
 ## Warnings on the packet
 
-Some countries now put bold warnings on unhealthy foods. In 2016 Chile began requiring black stop-sign [labels](food-labels) on packets high in sugar, salt, fat or calories, and limited cartoon characters in adverts for them. Mexico and others followed. India and the United States have been debating front-of-pack labels for years.
+Some countries now put bold warnings on unhealthy foods. In 2016 Chile began requiring black stop-sign [labels](food-labels) on packets high in sugar, salt, fat or calories, and limited cartoon characters in adverts for them. Mexico and others followed. India and the United States have been debating [front-of-pack labels](food-warning-labels) for years.
 
 Labels help, but so does reading the small print. Packets often list a "serving" that is much smaller than what people really eat. A bag of chips might say it holds three servings, even though most people finish it in one go. Numbers can be true and still give the wrong idea, a trick explained in [how statistics can mislead](statistics-lies).
 
