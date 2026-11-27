@@ -3,6 +3,15 @@
  "site": "https://impulkit.github.io/Playground/kyun/",
  "items": [
   {
+   "id": "parliament-size",
+   "date": "2026-11-28",
+   "title": "How big should a parliament be?",
+   "headline": "The Union Cabinet approved a plan to raise every state's Lok Sabha seats by half",
+   "news": "On Friday, 27 November 2026, the Union Cabinet approved a plan to raise every state's Lok Sabha seats by the same 50%, news reports said, so Uttar Pradesh would go from 80 to 120 and Bihar from 40 to 60. The House would grow from 543 to about 815 seats, and each state's share, based on the 1971 census, would stay frozen until 2051. The plan is linked to starting the 2023 law that keeps a third of seats for women. Parliament was called for a special sitting from 30 November to 3 December; the bill has not been passed, and as a change to the Constitution it needs two-thirds of members voting in each House. An earlier version failed in April 2026 with 298 votes when 352 were needed, and DMK chief M.K. Stalin had said Tamil Nadu's 7.18% share must not fall. This entry explains why a country might grow its parliament, and what it gains and gives up.",
+   "hook": "A British MP speaks for about 1 lakh people. With 543 seats, an Indian MP in the Lok Sabha speaks for more than 25 lakh. So how many MPs is right?",
+   "url": "https://impulkit.github.io/Playground/kyun/#s=parliament-size"
+  },
+  {
    "id": "food-warning-labels",
    "date": "2026-11-27",
    "title": "Why put warning labels on junk food?",
@@ -118,15 +127,6 @@
    "news": "On 14 November 2026, Iran's state news agency IRNA quoted the navy of Iran's Revolutionary Guards as saying three oil tankers caught fire after hitting sea mines in the Strait of Hormuz. It said the ships were trying to use a route Iran has banned. Reuters said it could not check the claim. A day earlier, the Revolutionary Guard said it had struck a US early warning radar in Bahrain. The US military said this was not true. It said it shot down two Iranian drones flying towards Bahrain, and that nothing was damaged and no one was hurt. Far fewer ships than normal have used the strait since the USA and Israel began strikes on Iran on 28 February 2026 and Iran hit back. A barrel of Brent crude cost about 96 dollars in mid-November, against about 73 dollars just before the war. In early November, a senior Iranian lawmaker said ships from India could pass, and that they would pay a fee. This entry explains why one narrow strip of sea can move petrol and gas prices in Indian homes.",
    "hook": "Between Iran and Oman lies a strip of sea less than 40 km wide. In normal times, about one in every five barrels of oil the world burns sails through it, and so does much of the cooking gas in Indian kitchens.",
    "url": "https://impulkit.github.io/Playground/kyun/#s=strait-of-hormuz"
-  },
-  {
-   "id": "tariffs",
-   "date": "2026-11-14",
-   "title": "What is a tariff?",
-   "headline": "The US promises India lower tariffs than its rivals under a new trade deal",
-   "news": "On 13 November 2026, a senior Indian government official, speaking without giving their name, told Business Standard that the United States had assured India its exporters would get better tariff treatment than competing countries. The official said this would come once the US finished a trade investigation and settled its new tariff rules. Commerce Minister Piyush Goyal had said for months that India would put the deal into effect only once it got a tariff edge over rival exporters such as Vietnam, Bangladesh and Indonesia. The exact rates were not made public, and the interim deal had not yet been signed. On the same day, India reported its highest-ever monthly goods exports. This entry explains what a tariff is and why a few percentage points matter so much.",
-   "hook": "When a T-shirt made in Tiruppur is sold in New York, the USA may add a tax at its border before it reaches the shop. That tax, called a tariff, can decide whether the shirt sells or sits on a shelf.",
-   "url": "https://impulkit.github.io/Playground/kyun/#s=tariffs"
   }
  ]
 }
