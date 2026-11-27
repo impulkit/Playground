@@ -10,7 +10,7 @@ surprising_fact: India's Lok Sabha seats are still shared out between states usi
 facts:
 - "What it means: redrawing the map of constituencies, and deciding how many seats each state gets"
 - "Who does it: the Delimitation Commission, headed by a judge"
-- "Lok Sabha seats over time: 494 (1952), 522 (1963), 542 (1973), then 543 once Sikkim got a seat"
+- "Lok Sabha seats over time: 494 (1952), 522 (1963), 542 at the 1977 election, 543 at every election since 1989"
 - "Seats per state frozen: since 1976, using the 1971 census"
 - "Last redraw of boundaries: came into force in 2008, based on the 2001 census"
 - "Women's reservation law: the 106th amendment (Nari Shakti Vandan Adhiniyam), passed in 2023, promises a third of seats to women after the next census and delimitation"
@@ -34,6 +34,9 @@ links:
 - to: womens-vote
   type: surprise
   why: How did women win the right to vote?
+- to: parliament-size
+  type: deeper
+  why: Should India's Parliament have more MPs, and how many?
 sources:
 - ThePrint (PTI), 'Winter session likely in first week of December; govt may push women's quota bill', 15 November 2026.
 - Outlook India, 'Parliament Winter Session Likely In First Week Of December As Delimitation Bill Faces Numbers Test', 15 November 2026.
@@ -88,7 +91,7 @@ Think of a school choosing class monitors. If Class 6 has 60 children and Class 
 
 ## Where it came from
 
-After independence, India redrew its seats after each census. The first commission, in 1952, used the 1951 census and set the Lok Sabha at 494 seats. The next, in 1963, raised it to 522. The third, in 1973, used the 1971 census and set it at 542. When Sikkim joined India, it got a seat too, making 543.
+After independence, India redrew its seats after each census. The first commission, in 1952, used the 1951 census and set the Lok Sabha at 494 seats. The next, in 1963, raised it to 522. The third, in 1973, used the 1971 census and raised it again. The 1977 election had 542 seats, and every election since 1989 has had 543.
 
 Then came a big change. In 1976, the 42nd [amendment](?amendment) froze the number of seats each state had until the 2001 census. The reason was family planning. Some states were working hard to slow population growth. Leaders did not want those states to lose seats for succeeding.
 
@@ -102,11 +105,11 @@ Over five decades, India's states grew at very different speeds. Southern states
 
 Because seats were frozen, constituency sizes drifted far apart. According to one widely used count, the biggest constituency at one point had more than 30 lakh voters, while the smallest had fewer than 50,000.
 
-In 2023, Parliament passed a law to keep a third of seats in the Lok Sabha and state assemblies for women. But the law said this would start only after the next census and the delimitation that follows. That census had been due in 2021, but it was put off because of COVID-19, so the wait grew longer. In April 2026, the government brought a [bill](?bill) to start the redraw sooner, using the latest published census (from 2011) and raising seats to as many as 850. It failed. In November 2026, news reports said the government plans to try again.
+In 2023, Parliament passed a law to keep a third of seats in the Lok Sabha and state assemblies for women. But the law said this would start only after the next census and the delimitation that follows. That census had been due in 2021, but it was put off because of COVID-19, so the wait grew longer. In April 2026, the government brought a [bill](?bill) to start the redraw sooner, using the latest published census (from 2011) and [raising seats](parliament-size) to as many as 850. It failed in the Lok Sabha because it did not get the two-thirds support a change to the Constitution needs.
 
 ## The numbers that matter
 
-- **543**: Lok Sabha seats since 1973. Uttar Pradesh has 80 and Tamil Nadu 39.
+- **543**: Lok Sabha seats at every election since 1989. Uttar Pradesh has 80 and Tamil Nadu 39.
 - **454 to 2**: the vote in the Lok Sabha on 20 September 2023 that passed the women's reservation law. The idea was first brought to Parliament in 1996.
 - **298 to 230**: the vote on 17 April 2026. A change to the Constitution needs two-thirds of the MPs voting, which that day meant 352 votes, so it failed.
 - **74**: women elected to the Lok Sabha in 2024, about 13.6% of seats. A third of seats would mean about 181.

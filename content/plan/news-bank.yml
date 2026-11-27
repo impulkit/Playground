@@ -1,21 +1,9 @@
-- date: 2026-11-20
-  headline: India released its first home-grown H5N1 bird flu vaccine for poultry
-  angle: "How does a bird flu vaccine for chickens work, and why vaccinate birds at all? (check the library for any bird-flu entry first; open The Hindu/PIB pages before writing, as only search results were seen on 22 Nov)"
-  bucket: science, space and health
-  score: 26
-  use_by: 2026-11-27
 - date: 2026-11-22
   headline: Nepal's Prime Minister Balendra Shah began his first visit to India
   angle: "Why are India and Nepal so closely tied? (open-border history, 1950 treaty, trade, rivers; world bucket was full on 23 Nov; open The Hindu/MEA pages before writing, only an aggregator headline list was seen)"
   bucket: world and geopolitics
   score: 23
   use_by: 2026-11-29
-- date: 2026-11-20
-  headline: India's eight core industries grew at a record 10.9%
-  angle: "What are India's 'core industries', and why do economists watch them? (only The Hindu headline seen via aggregator on 23 Nov; open PIB/Commerce Ministry release first)"
-  bucket: economy and money
-  score: 21
-  use_by: 2026-11-27
 - date: 2026-11-23
   headline: FSSAI sanctioned prosecution against Bisleri and four other food businesses after a water sample was found unsafe; Bisleri disputed the finding
   angle: "How does India check that packaged food and water are safe? (FSSAI, sampling, labs, licences; library already has 'Is bottled water better than tap water?', so take the food-safety-system angle; opened only search results on 24 Nov: open The Week / Business Standard pages before writing)"

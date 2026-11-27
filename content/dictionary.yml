@@ -550,6 +550,11 @@
   meaning: A group of stars that people imagine as a picture in the sky.
   icon: ''
   see: constellations
+- id: constituency
+  word: constituency
+  meaning: The area whose voters together elect one member, such as one MP, to a parliament or assembly.
+  icon: ''
+  see: parliament-size
 - id: constitution
   word: constitution
   meaning: The set of basic rules that says how a country is run.
@@ -606,6 +611,11 @@
   icon: ''
   see: gems-crystals
   auto: false
+- id: cube-root
+  word: cube root
+  meaning: The number that, multiplied by itself three times, gives the number you started with. The cube root of 1,000 is 10, because 10 × 10 × 10 = 1,000.
+  icon: ''
+  see: parliament-size
 - id: currency
   word: currency
   meaning: The kind of money a country uses, like the rupee or the dollar.
@@ -2216,6 +2226,11 @@
   icon: sound
   see: sound-travel
   auto: false
+- id: special-majority
+  word: special majority
+  meaning: A bigger-than-usual winning margin, such as two-thirds of the votes, needed for very important decisions like changing a constitution.
+  icon: ''
+  see: parliament-size
 - id: species
   word: species
   meaning: One particular kind of living thing. Tigers are one species; lions are another.
